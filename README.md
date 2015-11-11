@@ -1,0 +1,1 @@
+This is the blog of Brian Drupieski, hosted by [GitHub Pages](http://pages.github.com). You can find it at [blog.briandrupieski.com](http://blog.briandrupieski.com).
