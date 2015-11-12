@@ -1,9 +1,9 @@
 # Site settings
+my_name: Brian Drupieski
 title: Brian Drupieski's blog
 header_title: Brian Drupieski
 email: brian.drupieski@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Personal blog for Brian Drupieski
+description: Personal blog for Brian Drupieski
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.briandrupieski.com" # the base hostname & protocol for your site
 github_username:  bdrupieski
