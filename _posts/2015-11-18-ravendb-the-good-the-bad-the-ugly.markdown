@@ -3,6 +3,7 @@ layout: post
 title:  "RavenDB - The Good, the Bad, and the Ugly"
 date:   2015-11-18
 permalink: ravendb-the-good-the-bad-the-ugly
+excerpt: My summary of using RavenDB
 ---
 
 At my day job my team practices polyglot persistence by using a combination of RavenDB and SQL Server. We use RavenDB for our transactional database and for reports replicate data from RavenDB to SQL Server. 
