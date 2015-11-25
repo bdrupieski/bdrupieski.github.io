@@ -10,7 +10,7 @@ For developer interviews at my current company we give candidates a programming 
 
 I recently proposed using Conway's Game of Life as an exercise for candidates to complete at home and then come in to talk about their code. Since our stack is .NET and we mostly use C# I wrote [one possible model solution](https://github.com/bdrupieski/GameOfLife) in C# using one of the simplest ways to render cells that I could think of: writing characters to the console.
 
-![game of life blue and green blocks in console](/assets/gameoflifetypescript/gameoflifecsharpconsole.gif){: .center-image }
+![game of life blue and green blocks in console](/assets/gameoflifetypescript/gameoflifecsharpconsole.gif){: .center-this }
 
 It works but is crude. The dimensions of the cells can't easily be changed and showing more than two colors at a time is a pain.
 
@@ -31,7 +31,7 @@ this.ctx = <CanvasRenderingContext2D>this.canvas.getContext('2d');
 
 Here's one frame of the end result:
 
-![game of life black and white space filler](/assets/gameoflifetypescript/gameoflifespacefiller.png){: .center-image }
+![game of life black and white space filler](/assets/gameoflifetypescript/gameoflifespacefiller.png){: .center-this }
 
 [Click here](/assets/gameoflifetypescript/GameOfLife.html) to see it live. I'm using the [space filler pattern](https://en.wikipedia.org/wiki/Spacefiller) to generate a more exciting initial state than setting the board to a random state.
 
@@ -51,6 +51,6 @@ It does not make sense for consumers of this library to create instances of `Abs
 
 Here's one frame of the end result:
 
-![game of life using obelisk showing green cubes](/assets/gameoflifetypescript/gameoflifeobelisk.png){: .center-image }
+![game of life using obelisk showing green cubes](/assets/gameoflifetypescript/gameoflifeobelisk.png){: .center-this }
 
 [Click here](/assets/gameoflifetypescript/GameOfLifeObelisk.html) to see it live. The code can be found [here](https://github.com/bdrupieski/GameOfLifeTypeScript).
