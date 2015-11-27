@@ -191,7 +191,7 @@ After playing around with the queries for a bit, I found that I can seem to incl
 
 # High Memory Usage - H2?
 
-After running this on my desktop computer for a few days I noticed the CPU and memory usage were pretty high. It was using a steady 35% of my i5 3570K over-clocked to 4.2GHz and almost 2GB of memory. This is higher than I expected.
+After running this on my desktop computer for a few days I noticed the CPU and memory usage started to climb. It was using a steady 35% of my i5 3570K over-clocked to 4.2GHz and almost 2GB of memory. This is higher than I expected.
 
 I created a heap dump using jmap and then examined it with jvisualvm. Here's a list of the classes using the most memory sorted by size:
 
@@ -199,7 +199,11 @@ I created a heap dump using jmap and then examined it with jvisualvm. Here's a l
 
 Wow! Over 1GB for `char[]`, `byte[]`, and `String` alone! After browsing the contents of some of the instances for a bit I'm pretty sure most of this is from H2.
 
-When using the Java command line arguments `-Xmx256m -Xms64m` memory usage never crept over 250MB, but CPU usage was slightly higher.
+After digging through the logs for a bit I realized that the query to find tweets with the same sorted alphanumeric text was taking longer and longer as the size of the database increased. I was now trying to execute a query about every 500ms that took 1200 ms. Since Slick's API is asynchronous and non-blocking it's very easy to bombard the database with queries that it can't keep up with.
+
+After adding an index on that column queries went from 1200 ms to <20 ms and the problem disappeared. CPU usage is now <1% and memory usage hangs around 300MB. 
+
+Oops. I should've realized earlier that would become a problem. It feels great to make one small change and have a query perform over 60 times faster though.
 
 # What's Next?
 
@@ -215,11 +219,11 @@ If I create pairs for all interesting matches, I could possibly run into an expl
 
 #### Change Database
 
-I may try switching to PostgreSQL also. I have some other ideas for bots and if they share the same database then I need one that can handle multiple processes. H2 does have a server mode, but with the high memory usage I encountered I think I'll try other alternatives.
+I may try switching to PostgreSQL. I have some other ideas for bots and if they share the same database then I need one that can handle multiple processes. H2 does have a server mode, but Postgres is probably more suited to this purpose and I believe has better performance anyway.
 
 #### Microservices
 
-If I'm going to explore implementing other Twitter bot ideas I may need to explore breaking things up into microservices. I should only have one connection to Twitter receiving tweets, and if I don't break things up then I'll have multiple bots running in one monolithic Scala app going off of that one tweet stream. This might be easy to deploy and would probably perform well, but would become a hassle when trying not to affect the operation of other functions. For example, if I need to redeploy the monolithic app to add some new bot functionality, then I can't process tweets for the anagram bot while I do that. If I instead break things up into distinct services, I can have one app whose sole job is to stream tweets to a message queue; other bots or functions can exist as completely separate services that independently pull items off the queue. I'll have to look into this a little more. 
+If I'm going to explore implementing other Twitter bot ideas I may need to explore breaking things up into microservices. I should only have one connection to Twitter receiving tweets, and if I don't break things up then I'll have multiple bots running in one monolithic Scala app consuming that one tweet stream. This might be easy to deploy and would probably perform well, but would become a hassle when trying not to affect the operation of other functions. For example, if I need to redeploy the monolithic app to add some new bot functionality, then I can't process tweets for the anagram bot while I do that. If I instead break things up into distinct services, I can have one app whose sole job is to stream tweets to a message queue; other bots or functions can exist as completely separate services that independently pull items off the queue. I'll have to look into this a little more. 
 
 # A note about anagramatron's filtering
 
