@@ -234,3 +234,7 @@ This was dumb.
 It didn't even occur to me to look at anagramatron's source since I really just wanted to try this all out myself. However, once I was nearly done coming up with a way to score anagrams on my own it occurred to me to actually look deeper into anagramatron's source. It is *not* completely manually curated; there's quite a bit of intelligent filtering going on in there. I now feel a little silly for believing this wasn't the case.
 
 There's even [an issue on the project](https://github.com/cmyr/anagramatron/issues/2) for introducing Demerau–Levenshtein distance. I didn't see it before I started, but this is where I got the idea to try Hamming Distance.
+
+# Code
+
+The code I wrote when writing this post can be found [in this repository](https://github.com/bdrupieski/FindTwitterAnagrams).
