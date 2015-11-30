@@ -6,6 +6,7 @@ p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
     margin: 0;
     padding: 0;
+	margin-bottom: 1rem;
 }
 
 
@@ -212,13 +213,18 @@ pre {
 }
 
 table {
-    border-collapse: collapse;
+  margin-bottom: 1rem;
+  width: 100%;
+  border: 1px solid #e5e5e5;
+  border-collapse: collapse;
+}
+td,
+th {
+  padding: .25rem .5rem;
+  border: 1px solid #e5e5e5;
+}
+tbody tr:nth-child(odd) td,
+tbody tr:nth-child(odd) th {
+  background-color: #f9f9f9;
 }
 
-table, th, td {
-    border: 1px solid black;
-}
-
-table, ul {
-    margin-bottom: 10px;
-}
