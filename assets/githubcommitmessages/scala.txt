@@ -1,0 +1,1004 @@
+Scala
+Most probable sentence: Merge pull request #1 from apache/master 
+
+Likely sentences:
+Release 3.1.1.1 
+Merge pull request #852 from skyluc/issue/update-to-2.11.5-S Updates to the build. 
+Streaming programming guide to include sources (thanks to @sadache) 
+SPARK-4222 [CORE] use readFully in FixedLengthBinaryRecordReader (cherry picked from commit 092345a24c22a821204fb358d33272ae8f7353be) commit 1e5c942deccaf64f8d57bd8891b912381d7f220a Author: Jason Zaugg scalap version included. 
+improve performance when writing very generic infrastructure, so we can use the suitable access to an appropriate ZooKeeper URL, ZooKeeper recovery mode factory and added missing storage dir 
+Another fix is on remote. This approaching won't support ```scala df.groupBy("key").kurtosis("colA", "colB") ``` However, we defer the implicit STags public, so we would get complicated. 
+XPAth expre 
+refuse to overwrite classfiles. For the life of me I can't find spark-sql document jar.  * make ResourceUtil work with the same public API signatures now match only matches URLs 
+added a new release 
+Merge pull request #486 from guardian/sc-mixpanel-user-session Cleanup mixpanel init using user provided an example for translating Catalyst’s logical query plans in the sequence. Somehow even the sparse binary tensors 
+comments 
+Merge commit '9ecfac8' into merge/2.10.x-2.11.x-20140915 
+avoid unnecessary and more code cleanup af88939 [CodingCat] update the scaladoc. class A { def foo { package object rather than null. References SI-4859, got past that problem. 
+Merge pull request #1163 from clockfly/rest_resume_master_connection_fail fix #1162, Rest backend cannot resume connection with master 
+woop, need to lower case primitive aliases from other (specialty) classes 
+version 2.3,4 
+removed this method lets you treat TreeWalks like an improvement to lubList so that the ``InteractiveReporter`` interface is actually fixed now :) 
+Remove the dirty flag as just a simple two stream example Author: jerryshao <sshao@hortonworks.com> Closes #11885 from jerryshao/SPARK-14062. 
+add Akka Streams Sink 
+Merge pull request #58 from lloydmeta/feature/build-cleanup Feature/build cleanup 
+fixed socket url 
+Merge branch 'dev' of github.com:radlab/spark into dev 
+Merge pull request #2177 from benmccann/with-browser Add a test and data sink strategy, make strategy application a little more enlightening. That's something. :) (It also seems to be written to all metrics that can be found in the forum at every call until the typers phase so that the window out as it is non-Pending. * StatsScoping allows the build of Play. We should be mapped to a list, i.e.: reversed[A, List](enumerator).run.reversed // O(2n) compared with R: * It used to implement groupby 
+SPARKC-104 Add partitionKeyMapper to repartitionByCassandraRe… 
+Fixed tryJoin() TimeoutException 
+Improved README with the Jetty plugin to convert the string parameter. * Failed to update repo and prep scalaz 7.2.0 final 
+=act #18187 Make Props.producer private[akka] 
+use the same warning, if the delete is a bummer. One can write their own Akka transport layer for remote management. Ensure a gap after '@' is removed in a later version of Scala classes as sealed 
+Use LCD font smoothing. This fixes tests in SQLQuerySuite, CatalystQlSuite, ResolveNaturalJoinSuite Author: Yin Huai <yhuai@databricks.com> Closes #4806 from xuwei-k/update-mysql-driver update mysql driver from the ConnectorException hierarchy 
+Merge pull request #124 from twitter/no-fn make Bijection/Injection not extend a form source compatible for most definitions of parsers and align guide link 
+Move NameHashing from incremental to api part1 
+traversals/transformers (wip) 
+Fixed version checker. 
+Bump H2O version upgraded. 
+Adding isolated actor tests deterministic. SI-7427 stop crashing on test directories for bridges/routers to maintain backwards compatibility. Add a form 
+git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@5805 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+Fix javadoc style 
+fix bugs for tests of Spark have a handful of tests 
+Modified the Fitness objects are immutable. Also done some manual tree constructions in macro (fixes issue #14) 
+Added some features with expressions git-svn-id: http://svn.jetbrains.org/idea/Trunk/scala@4407 59f64563-22e8-0310-8d2c-98a15e1539f2 
+removing the broken test 
+compiler option 
+Rename CreateRepositoryController to CreateController. 
+Use sbt-release plugin 
+Merge pull request #359 from twitter/feature/fix-mima-warnings Fix backwards incompatible binary issues 
+Added more complete description of `repartition` with associated plugins 
+ReferenceAnnotator with tests 
+OptionGroup 
+WDL Bindings for Sprint 2 
+WIP on Recommendation system chapter as it is printed, which it has a handleDevice method. Its implementations create the legacy Resolver.resolve interfaces by wrapping JDI runtime exception for a comet context, we must augment our model classes can become invalid becuase a code change and enough time to time, but scaladoc was modularized out (#2226), but `DocParser` didn't get much nicer than having to go wrong when watchStateActors triggers an undesired auto-inserted semicolon git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@5867 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+By default it is as suggested in PR #190. The lines(maxLineLength: Int): Process1[String, String] combinator will take some weight ... Misc uninteresting tidbits to take a BatchCollector instead of more Runnable instances. 
+#414 Improve signature of removeEventListener to that the fields based on the provider's id for expr crashes postfix Increase build.number to 2.10.3 Gets this branch to make sure phrase matchs are required. The strangely named JsCore -> Bson extractor was pulled out from being entered during parsing. 
+What am I missing something? Otherwise I will get fixed configgy. 
+fix wordcount test case which throws an exception: Exception in thread "Thread-27" org.apache.spark.SparkException: Job aborted due to #4404.) No review. git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@20608 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+Fix BeamPacketizerTest, again! 
+remove typesafe from org  
+Route fx 
+GEOMESA-1085 Redefine Config Structure * SFT and converter in newer versions. 
+A couple things regarding Switches 
+Synchronized modifications to repl console view to the pipeline stack and ensure they all pass 
+remove extraneous asset from search for inplace rename of test files to .gitignore 
+Merge "API: Idempotent creation of VTEP bindings" 
+removed bootstrap files, since because """ preserves line endings, Windows files get copied into secondary constructors. C may not play nicely with graceful shutdown example 
+updated pbjoptimizer 
+Clean up resource leak detection for renamed imports. 
+Rebuild function should not assign prefix to simulation package" 
+Merge pull request #131 from dmsuehir/ARX Adding ARX model from a non-root context path to another (see Page.java). git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@1916 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+Update MQTTWordCount.scala 
+notes link 
+Merge branch 'master' into wip-derekjw Conflicts: 	project/build/AkkaProject.scala 
+Merge pull request #35 from msilvey/assembly-fix adding build flags in as does `c.t.f.mux.ClientDiscardedRequestException`. RB_ID=762874 
+Changes according to individual records * `allowUnquotedFieldNames` (default `false`): allows leading zeros get trimmed 
+Chapter27 (v6) Standard annotations: Unchecked 
+replace escape string literal is used, the controller has been changed to be unnecessary) 
+Merge branch 'master' of /home/yosuke/service/../git/MyFleetGirls 
+rename votesGranted 
+Update README.md 
+Merge pull request #22 from ANorwell/listener Add listeners to Future 
+Merge branch 'master' of git://git.apache.org/spark into SPARK-2670 e310c0b [Kousuke Saruta] Fixed LIKE predicate so that outer statements do not go into the Configuration object will return the AuthInfo from the `blockInfo` map by just never including it. 
+Fix formatting :) 
+- fixed asInstanceOf when applied have directly a List vs. Vector 
+Merge branch 'feature/table_query_inheritance' into develop 
+[SPARK-2594][SQL] Support CACHE TABLE AS SELECT`, if the `Import` tree used to flatten tables by dependency order: router, namer, namerd, interpreter, linkerd 
+Setting version to 0.2.1-SNAPSHOT 
+added toString to jtsGeom 
+make parser match window frames in case clauses git-svn-id: http://svn.jetbrains.org/idea/Trunk/scala@4785 59f64563-22e8-0310-8d2c-98a15e1539f2 
+Fix #1612: Don't throw an IllegalStateException. No big deal. Additionally, modified some tests for invitations 
+Merge pull request #590 from guardian/readme-bucket-names Added bucket name hinting to README 
+Added test for JValue's sent via ActorSelection #3271 
+Merge pull request #20012 from akka/wip-19995-fix-MessageSpec-RK fix race condition on entering, close #1860 
+Merge branch 'branches/rudder/2.7' 
+support UnApply in the space between foo[(/**/{type A})] 
+New more to RouterCtl 
+Fix mockserver, remove cruft, and gets a non-null name for a similar scheme to Git LFS support was wasted area/power 
+Improving logging, trace to matrices 
+Skipped non-scala file when we checkout and build only the hashCode calculation, since the name - clean up 
+Rework checksum calculation a bit confusing, but this will lead to AbstractMethodErrors). This patch adds the type, and as Maven dependencies. 
+Add TODO 
+Also update Finatra sbt build RB_ID=804026 
+Fixing spacing and require Java 8 style lambdas, clean up any column selector 
+Ignore '0.0.0.0' in URLs. 
+Fix honor.RankingTop 
+refactored the consumer - This closes #66 
+introuduce AggregateRootActorFactory, PassivationConfig decouple sharding from Reservation 
+Made Console.out and Console.in public git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/sbaz/trunk@5181 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+handle the problem with exist... adjusted the test, tuned number of the scala compiler in sandboxed environments (and also has its own module 
+perform Kriging in core api for counter handling in blocks of exprs and tags will be sure to get its Scala counterpart. The only wrinkle in this fix) In the current design. * Make sure that erasure applies to a respective can be passed through SparkConf - Fixed code that needs to have AnalysisPhase display the paths as application identifier AppDefinition.id: String -> String, NSMutableArray/Dictionary -> Array/Dictionary 
+Fixed #1329. 
+make orElse on partia... First part of run-tests script. a07ba10 [Matei Zaharia] typo a179f8d [Matei Zaharia] migration guide, remove old test API to descendants git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@7003 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+Ignore tags file 
+server: complete implementation of GNU diff (GPL licence) git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@1639 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+Joda DateTime 
+support block-var-decl. 
+Merge branch 'dev-merge' into datahandler-fix Conflicts: 	streaming/src/main/scala/spark/streaming/dstream/DataHandler.scala 
+Check portNumToUuid records added port. 
+Improve database backed config documentation 
+simplify GameRepo object 
+Fixing repositories... 
+Clean up sbt for PR #837, add another scalablitz example. 
+= core,playground: automatic code rewrite. 
+Fixed all the features of the later ticket, so I moved it to know more about how to create the spark context creation code 
+SI-8590 Expand doc comments 
+comments 
+Merge pull request #29 from valotrading/features/migrate-to-silvertip-0.2.6 Update to Mesos 0.17.0 and Protobuf support 
+Added a getAsOrElse method 
+refactor the plugin api that was three days ago. 
+Fixes from @havocp's review 
+fix user game search export - Check for memcache commands. RB_ID=81900 
+Merge pull request #42 from twitter/feature/future_ops Reorganize library 
+Switching to tail both head and tail 
+Added Joda DateTime extractors. 
+Go on refactoring the ORM Scope machinery. 
+updating README.md and bump a bunch of standard filter chain without a savage slowness burn being unleashed upon you and for development branch 
+Fix for "Could not create 500 threads. See Scala IDE version to 1.2.7. Bumping Datastax driver version to 0.3.4 
+Merging from excilys/master commit f87f43d3a6246cab45eab13b5f8ac4e37378dd46 Merge: a9a36f3 4b276e9 Author: Stephen Kuenzli <skuenzli@qualimente.com> Date: Sun Jan 26 12:50:35 2014 -0800 add comment 
+Added build for all output one gets copied into the main repository so it can take structured queries 
+Merge pull request #235 from jboner/wip-1406-more-migration-docs-patriknw Some more akka config to control file for Eclipse project files. Importing the jline sources, since it can works with ClickConsumerDemo. Refactoring tests- WIP. (pair liz, thomas, mary) 
+Changes the personalized pagerank 
+fix typo. s/Universes/Universe 
+Committing setPos -> setOriginal fixes before handing Unicomplex to make hash of top level README Address issue #24 by adding all settings This improves CPI for ILP 
+Merge remote-tracking branch 'refs/remotes/scalanlp/master' 
+VmThread to new filter architecture 
+Added saveConfiguration to manual commit bug 
+Update README.markdown 
+rather than hanging Squashed commit of the `anonfun$foo$n` impl methods from config file code sample from the vicissitudes of scala-reflect. 
+Added classes LinkedModuleSymbol and LinkedClassSymbol - Changed version to 1.1.1.1 
+Merge pull request #392 from stephenh/javaapisuite Move JavaAPISuite into spark.streaming. 
+Support multiple comments on the mistaken belief it was accessed previously -> JenaStore now accepts a schema can't be resolving all that is shuffle-based 
+Fill in all the features interface in Scala IDE). 
+fixed the failing test, no review. 
+Fixed keyboard behavior some. I'm not sure what's baking who's noodle, but I'm not super working 
+Added show typeclass for custom events and creation 
+Merge pull request #1150 from Atry/patch-1 Fix typo in getter methods. A bridge mapper log messages" 
+Adds support for the ASG and ELB are up to more closely match Verilog timing. 
+closes #1422 git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@19737 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+make camera support moves cleanly 
+Fixes #3412 - nicer way of a typo. 
+Let users pass -D options as well. RB_ID=446217 
+IntroduceImplicitParameterIntention refactored to use r.user, r.product, r.rating. We should have return type of argument 71372d9 [cafreeman] Update test_sparkRSQL.R a95823e [hqzizania] 	modified: pkg/inst/tests/test_rdd.R 742a68b [cafreeman] Update `createDataFrame` and `toDF` be5d5c1 [cafreeman] refactor schema functions 40338a4 [Zongheng Yang] Prototype impl of MongoDB document is for parquet-avro compatibility, while the application configuation file to use scala from ${scala.home}/bin if available and preparing email content - put a Spark job description for structure builder. May fix duplicates in module info 
+Minor code restructuring for SubchannelClassification 
+improvements meow! git-svn-id: http://svn.jetbrains.org/idea/Trunk/scala@16383 59f64563-22e8-0310-8d2c-98a15e1539f2 
+Scalariform formatting 
+Introduce UserBrowsingContext - it was one major time investment to track referenced and declared in scala-compiler.jar, and our typical OneForOneBlockFetcher, adding retry logic and exception on filter 
+rm server/src/test/scala/MonadicResponderSpec.scala 
+Merge branch 'scalaz-seven' of github.com:scalaz/scalaz: Simplified types in its transport. Given that it's been driving me mad by this commit. 
+Pull latest master builds https://github.com/ensime/ensime-src/issues/398 and clean it up a bunch of warnings and final modifiers. 
+Fixes #41 updated salat 
+Merge branch 'master' of github.com:ucb-bar/chisel 
+Make the RuntimeLong companion fully elidable 
+add deployOn/deployOnAll DSL to check for "extends ClassfileAnnotationClass" makes this script to properly check termination. 
+Fix of t1859 
+Merge pull request #974 from sellout/ready/releasing-2.2.2 Release version 0.4.1 2. Webjars:jquery to version 0.5.2 
+Merge remote-tracking branch 'upstream/develop' into feature/insertFail 
+routing: introduce Directive.Empty 
+Ignore empty/all-whitespace lines when one forgets to add the include-hostname setting to all peers 
+Add an annotation hover 
+Update de_DE.lang 
+[SPARK-13114][SQL] Add a Stats object that was missing, except where the protocol or namer modules, it is tied to the typed source (see https://github.com/apache/spark/pull/9399 for more detail. git-svn-id: http://cilib.svn.sourceforge.net/svnroot/cilib/trunk@516 6919081d-ccfc-0310-b8b8-fc61df93b961 
+SCL-956: Sources of ZooKeeper v3.4.5 
+Merge pull request #4491 from som-snytt/issue/noassertions SI-9302 -Xdisable-assertions raises elide level 
+add comment f6e710e [wangxiaojing] change style fbe4887 [wangxiaojing] change truncate table support for vals and imports. 
+fixed names of potentially public lambda lifted methods. This will be a subclass check. I saw half of Miles's patch. 
+Get core tests 
+Fixed missing toCharArray calls, which could enforce the restrictions around RDS creation. There is also some refactoring to separate between Shuffled and Broadcasted exchanges. Finally the classes defined in pio-env 
+uses readResolve for symbols so tha... factored out the functionality of findMin and deleteMin should only work with options removed 
+Merge pull request #748 from slick/tmp/sizeAlias Add def size as well as the user doesn't have to deal with them there is an additional `editor.tests` bundle was created. 
+Update README.markdown 
+Remove traces of SimpleResult and no probes 
+Change rule status to 500. 
+form to configure dispatchers 
+disable file monitoring in the header. 
+formatter at first. I was there, update also sbt to build without dep to the DatapathStateManager and removes some unnecessary dependencies 
+Merge pull request #242 from paulp/functions Misc function work. 
+Merge pull request #207 from MansurAshraf/hbase_bug_fix clean up incoming geometries with buffer(0) 
+Noticed that Settings post-set hooks were not being delta-ed in finagle-stats as they are telling me, except they are bridge methods. new Foo { def f(xs: Int*) f(p1, p2, p3, p4, p5, c1 FROM table_with_partition ``` ``` +---+---+---+---+---+-----+ | p1| p2| p3| p4| p5| c1| +---+---+---+---+---+-----+ | p1| p2| p3| p4| p5| c1| +---+---+---+---+---+-----+ | p1| p2| p3| p4| p5| c1| +---+---+---+---+---+-----+ | p1| p2| p3| p4| p5| c1| +---+---+---+---+---+-----+ | a| +---+ |0.5| +---+ scala> sql("select id from t group by edge's props code refactoring at toCqlValue 
+refactor code 
+Missing file headers 
+Updated README 
+Make security groups == cluster_name + "-master" (or "-slaves"). This fix makes sure the situation right now 
+Merge pull request #641 from fommil/remove_tycho remove tycho dependency closes #623 
+hookup vitlb ptw port 
+Moved memory validation from `scripts/jobs/validate/test`. - Disable the error message when uploading is failed 
+Fixed bug in the library. It's a known method, use it in tutorial sections 
+[split] Add BroadcastCounter and BroadcastStat, refactor Broadcast and Shuffle objects. 
+merged 
+Added Java examples included in the nether 
+- nsc wrapper. 
+Fix echo restore in run/start mode Fixes #3420. By using the dataclient and is considered up to 0.6.9 
+Move common view templates with non-trivial selfs and empty initializer - added header. 
+add first draft of AFP compatibility 
+Merge pull request #302 from sellout/ready/236-wartremover Enable parts of Wartremover. 
+updated icon and link to mongodb secondary 
+updated results from notebook 
+Delete curse.mp3 
+Improved benchmarks for focal operations. 
+Compromise on URL's! 
+- corrected typo 
+fix typos in Exception/Testcase/Comments and static analysis 
+Stopped tests from the top level, regardless of the RSC, so avoid packaging it under a package, it is ambiguous. 
+Allow runtime attribute sanity-checking. Closes #975 -- better null checking, add another option so the activator UI. 
+Update de_DE.lang 
+sbt 0.13.5 
+renamed to processAll. 
+Merge pull request #818 from dragos/master Replaced references to JS (via JsCore), and generate ides phase 
+Foldable, Foldable1, & Traverse1 laws. (#457) 
+renamed files 
+precompile against 2.10.0-M2 
+Netsplitter it is. * Did not add nested groups 
+Update README for branch which contains both a Generated and Interpreted version. When generation for abstract bus card 
+Remove ex-employees from OWNERS files. RB_ID=755695 TBR=true NO-QUEUE=true 
+Merge pull request #377 from typesafehub/wip/warry-run-refactoring Run plugin 
+It've told: it's fixed! 
+update README.md 
+binary encode the number of network messages now corresponds with the current node is not 100% there yet, but will be fatal again. New (deterministic) starr included: any further concepts or syntax. The extra space 
+updated note 
+add test that gets the correct method when importing only the line at most, 35 chars at most once. 
+Merge "API: tenant refactor, client dto removal" 
+Merge branch 'functionalProcessor' 
+Bumped version to 0.5.1 
+Laziness bugs 
+ScReferenceExpression.qualifier extractor renamed to exchangeMessenger 
+move iteratee tests into their own 'bootstrap' folder 
+Remove 2.9 specific build options with same name as described:  In order to compare them. This also fixes the above items 
+Parsing out Proj4 strings work and tests aa69517 [Ben] Update JSON Protocol Tests c5bc061 [Ben] Update JSON writer for open hashset. (cherry picked from commit f85127146522e48ef8b8432977ae27bde1103e9a) 
+Tried to change the public reflection API. This change also creates the default zk root key has a gateway SparkListener to process and subsequent pattern error from revealing itself 
+added script loading 
+specify a ganglia group paramter to merge-scripts command of cmd.exe is not in check file, so ant will recompile only the read operations (which are in Maven is installed, and then created this PR comes from the command of cmd.exe is not handling MalformedHeader- and MissingHeaderRejections 
+Fix error log for information. Note: this may result in multiple code generated files into the transporter. RB_ID=806035 
+Update README.md Add formatting for the 'standard' server 2 client binding is if it doesn't use it in all cases. That is what it is. * Did not handle infix notation for a few numbers. 343d896 [Reynold Xin] Fixed style b858196 [Tathagata Das] Style fix. fe37079 [Reynold Xin] Minor cleanup of the number of players in the method. 
+0.10.1 release 
+Scaladoc comment for isCoDefinedWith has long since removed). Added license header 
+fix for SPARK-3524 and some of the report view to write the auto infer partition schema with msg.subaccount field from an object goes to @katefree 
+Small tweaks to the list of vector clocks and gossips in case 
+[SPARK-3787][BUILD] Assembly jar name 
+[DOC] Pass over the head of time I spent like half an hour at the top level 'categories' (lift-base, lift-persistence, lift-modules) - have a prefix. This change increases the hikaricp connection timeout to plugin execution This patch does not like have a Formats object (e.g., in a singleton type. This results in the context. This PR checks the compilation issue after combining checkpoint and existing unit tests for pending. 
+#9 progress. Moved non-actor bits out of the Finatra and Finch maintain their own PipelineStages, we need to specify the storage can reuse this in a INSERT INTO/OVERWRITE statement generates the AnyVal types. Started on Chat Messages design and custom Vagrant files. 
+Add spacing. 
+moving files back to 1s 
+doc 
+Refactored the Converter system into the maven unix plugin 
+Merge pull request https://github.com/spray/spray/pull/400 
+Refactor Evaluator. 
+Added the new ASM5 opcodes. I also noticed just prior to converting all fields. Fixes #310. Also added comment on the chain are skipped for now) 
+[EC2] Reorder print statements from the docs to address the deeper problem. 
+Added toBufferedImage, fixes JpegWriter 
+Merge branch 'mos-shuffle-tracked' into mos-bt Conflicts: 	Makefile 	core/src/main/java/spark/compress/lzf/LZF.java 	core/src/main/java/spark/compress/lzf/LZFInputStream.java 	core/src/main/java/spark/compress/lzf/LZFOutputStream.java 	core/src/main/native/spark_compress_lzf_LZF.c 	run 
+[DA] Refactor git-svn-id: https://wb-d-tfs2.web.local/svn/dri/trunk/csv-validator@4502 6bcde575-cb03-8b4d-b1e0-7a084bef6d9c 
+Fix Issue 66: Wrapper classes should be the final translation. 
+Added tests for FunctorT. Renames once -> orOriginal and adds default implementations for tests using new operators :+ and +: operator on Arrays Control performance of RegexParsers in jdk7u6+ Backport of 1a292c3d0fe10699837a02ffd8adc3ea4d3a6d22 
+Merge pull request #50 from jedesah/topic/update_doc Update Scala to interpret mode if -s option for consistency [Fixes #31249483 #32051889] Brings the changes in the repo more public-friendly. 
+more updates to the end for this code is not sufficient. 
+Added to HashIndex and CrossProductIndex 
+optimize: AdaGradRDA not overwriting the previous 4 commits 
+New attempt at more detailed discussion of the last remaining clients. - Sometimes the fix for InConversion Author: scwf <wangfei1@huawei.com> Author: wangfei <wangfei1@huawei.com> Closes #2532 from scwf/patch-2 and squashes the following commits: f471415 [Reynold Xin] Fixed explode compilation break. 
+Evaluate annotations before completing the async state machine. Change-Id: Ieb5a16da7ed7bd1b99930b67e180d218d3fd7aad 
+Expected values support 
+initialization order issues which were stopped in its own package 
+Adding warning of deprecated travis infrastructure. 
+Allow publishing scalaxb using sbt, and friends Mentioned methods mutate the old code and models in a case class. Fixed wrapping test. 
+merged the old code paths used for NSC instead of with Blabla - override aroundReceive to handle correctly... - Fixed potential NPE in scala.ref.WeakReference and scala.... Fixed NPE in `isMonomorphicType` with stub symbols. 
+Merge pull request #58 from williamho/fix-links-and-typos Fix typos in docs to API 
+Refactor of `rep`, including refactor of resolve for continual updates 
+Move aws-sdk back to using groupBy for index of the output width can now be specified 
+improved anonymous actor and updates to recent change in this type did not work, have to change icons and added tests that now take symbol parameter operations are executed InProcess and SubProcess cases. 
+Allow priming of no layouts or using more performant than using a com.twitter.concurrent.LocalScheduler to schedule rack-local tasks to handle the RemoteManagedHost specification (useful for debugging) 
+Move Metric classes into multiple cats 
+Revert "[SPARK-12719][HOTFIX] Fix compilation error 
+Merge branch 'master' into scala-2.11 
+Bump timeout in call metadata 
+Adding new tutorials to the rules into R/.gitignore e88b649 [Davies Liu] address comments ebaccc6 [Xiangrui Meng] add imports for scala 2.10.0 -- remove unneeded change add in a bad for persistence 
+Simplify the header row. Additionaly, this makes large buffers impossibly slow in fact. However, instead of duplicating that code after body/description 
+[ISSUE-10] New version of the comparators can become unreachable even if you prefer. 
+Merge pull request #43 from Voltir/0.3.0 Another rewrite of MPGraph compilation 
+Fix two bugs related to namespaces 
+Design/style updates from the test 2.4 compatible 
+Merge branch 'master' into fast-map Conflicts: 	core/src/test/scala/org/apache/spark/scheduler/SparkListenerSuite.scala 
+- Added bugs.check 
+printCentered 
+temporary disable scheduler 
+implement slack support and fixes. Bumped version to 1.11.4 
+Fix for #3765. 
+add test for @native attribute git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@4398 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+Merge branch 'master' of github.com:apache/spark into rest-tests b55e40f [Andrew Or] Fix style markdown table on both of which I didn't create a HashTrieSet with two caveats. First, it created 
+- added target 'library-msil' to compile it to simplify the logic of `registerWithMaster` in Worker 
+Mock sign() method 
+created untyped Reduce operator and moved them back in the enclosed test compiles 
+another eris update 
+SBT 0.12.1 
+deprecated RDFNodeProjections (merged into master 
+- added file header. 
+remove icache req_rdy signal 
+move arm code back into ChoiceSetting. No review. 
+Merge pull request #108 from patelh/master Added immutable map (without copying to wrong getting imports for package definitions. 2) Add a down node. 2. API layer works with partest. 
+[split] finagle: misc. lint CachingPool: export cache size Problem: There's no need for type aliases git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@12005 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+Updated readme 
+Merge branch 'master' of http://git.safespeedllc.com:9001/safespeed/play-slick into testing/slick20 
+Closes 298. ByList in Mapper and Record Tables are all a bit more generic and elegant solution for chunk sizes of left pane update on browser type, host for nexus credentials. 
+deleting def observable[T](=>T) requires deleting PropertyVar.apply(DomProperty) (as will show a < 500x difference an... I guess windows can show disabled pills instead of the system. - updated some code 
+Added back 'lazy' modifier to Point2.compareTo. git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@3368 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+Merge remote branch 'mcroydon/master' 
+More consolidation and duplication elimination in Properties. 
+cleaning up the implementation of bufRenderObj to be provided by the driver no longer confuse the code 
+add scala快学电子版 
+Moved MockContext to context config 
+added the missing ParMap and GenMap methods. No review. 
+#NO_ISSUE some refactorings 
+#12 : complier position information for Neutron model. Extend NeutronTranslator base class get cleaned up. Solution Bump to 2.0.0-BETA16. 
+use org.scala-refactoring snapshots for 0.3.0 
+Bugs fixed and ingnored "Mapping Method From Jar" test 
+Update to latest version of insertStreamToTable, compatible with the old file was created in advance still persisted in memory without null opt - 4,000,080 bytes space taken in as to why those particular places were entitled to ignore @deprecated: - @deprecated extends StaticAnnotation, so they don't hang with primitive types. 
+SCL-3763: Collected implicit objects and templates source generators run in constant stack space The included test data. Added @Salat annotation to help clients debug URLDecoder error 
+Multi-routes 
+test case for jsonFormat order agnosticity 
+Remove custom reads/format macros 
+Fix column chart plugin size. 
+Tried to just quasiquotes and pretty specific, but that's just captured and wrapped. Also, went back to just use executorID, since the client is idle or busy. If the .toString implementation displays property values somewhere fixed rather than creating a ValidationNel 
+asInstanceOf1, drop asInstanceOfOption 
+Remove useless constraint from state monad This patch is paradise/macros, which needs to be symmetric with respect to absolute and relative paths, apparently. Also reduced layers which will reduce merge headaches during our build server. But the correct semantics. Tried to just throw a runtime compiler. Review by rytz. 
+Add test for postgis dep 
+Update Appveyor config 
+Merge branch 'unsfasespec' of https://github.com/chandu0101/scalajs-react into unsfasespec commit e94bcf82424dcf4015e55499d4735268f82c2de9 Author: chandu0101 <chandu.csu2010@gmail.com> Date: Mon Apr 23 15:45:16 2012 +0200 Fixed cloning a double-linked list. 
+Merge pull request #35 from smirolo/master fix docs related to shuffle files around 
+Bump other deps versions 
+GenBCode: Tests for for expressions. really simple GUI for inaccurate texture samplers. 
+Update lift version to 2.0.0-M1 
+basic success test wentworth client 
+Update build to use scala binary version for ScalaTest samples) and issue an error to a lot 
+Scala IDE needs mutable files with same name but assume a certain period of time, they become self explanatory. Author: MechCoder <manojkumarsivaraj334@gmail.com> Closes #7241 from MechCoder/pylint and squashes the following commits: c6f3e86 [Wisely Chen] Refactor some stuff to app name when same table twice causes aliased columns to task 'javac' in file scala/concurrent/pilib.scala 
+ScalaClassLoader changes. Lots of parser combin... Tail-recursive implementations of basic steppers and fixed the console stuff to localized views instead of Event Classes. Add test to use java.net.URI.getUserInfo which correctly does not have a case class, and makes additional optimizations for focal result when using resources, close #1548 
+grizzled.readline now uses ByteString for specific cluster implementation which doesn't see import} 
+Refactor: keep DivergentImplicitRecovery logic together. 
+wip - select - which doesn't allocate unnecessary intermediate collections, while midonet nodes run always with deployed schemas, meaning that the prefix matching entries and one by one, which has low potential for race between the field would be incompatible with turning off all the calls to change the type variable was never setting useParentHandlers. 
+quick workaround for large flows 
+number of files that exist after the _whole_ processing of an expression is evaluated by SecureAction handlers (both scala and java API 
+Bump to jawn-streamz-0.5.0. Bump to RxJava 1.0.0-RC9 
+Merge pull request #2513 from scalamacros/topic/210x-breakage fixes a small issue in `SimpleTestRelation` that prevented setting per... Fixed bug in Extract trait refactoring 
+Setting version to 2.0.11-SNAPSHOT [ci skip] 
+fix #7: Add test for test-helper 
+Make post, put methods 
+Added support in generator tasks. 
+fixed isInheritor for SCL-2801 
+Merge pull request #296 from ucb-bar/calcElementfix295 Bundle.calcElements calculates too many lines. Author: Reynold Xin <rxin@databricks.com> Closes #12561 from rxin/SPARK-14795. 
+Setting version to 2.13.2 CASBAH-177 
+Remove ning client directly for file i/o git-svn-id: svn+ssh://jamie.stanford.edu/u/nlp/svnroot/trunk/scalanlp/projects/core@22664 c9c46bb1-2420-0410-b6d5-8c78f6715463 
+Fix notes syntax 
+[split] restore exception raising behavior for what it is fairly redundant, so they are sufficiently different that it can choose from several places in the database password that contains all the annoying debug message. 
+Simplify MetricsGossip and NodeMetrics merge, see #2077 
+Get rid of the field r volatile 
+Play 2.1.1 
+Merge git://github.com/Wuerfel21/OpenComputers 
+maximumOf/By and maximumOf1/By1 methods for many years 
+Changed Sample to use the new interpolated style 
+Test for partial update for collection.mutable.MultiMap Addition of Individual CLA 
+remove deprecated Props creators 
+isScalaFile result now cached and uncached channels by summing the number of partitions Each vertex partition is to encode custom logic for zookeeper names TaskTracker: store variable name form ***Time to ***Duration to keep the API account table broken when empty collection is empty or in the README 
+Removing some comments and names in integrationtest-java/test 
+Added support for Unary and parenthesized expr Fixes #18 corrected pop implementation 
+updaye to 0.7.0-rc 
+Updating to scala pickling 
+Move annotations to Vertex/Edge, this improves the performance regression 
+Updated sbt-oncue to 6.4.+ 
+! Rename `cursorChar(offset)` to `charAtRC(offset)`, add `charAt(offset)` 
+Adding documentation on how to even consider touching it, but it also requires explicitly specifying a random name to Quasar. SD-937 #done Move everything from `ammonite.repl` into `ammonite` - Things `tested/test:compile` passes 
+Register service use http instead of a special iterator subclass which will use a default value now 
+add basic build.sbt file, .gitignore, and package.scala files (mainly for scaladoc) 
+sorry... JavaFX 2.2 can be loaded 
+Move Codec enrichments to using box characters. Signed-off-by: Jacob Mandelson <jlm@midokura.com> 
+Initialize JobManagerActor via message passing layer. 
+Link to todomvc.com 
+Upgrade Knockout to 3.0.0 
+add a bit lost in transition callback handling - remove commented code 
+Refactored the build.all system to no longer done during `finalLaunchCheck` and now are able to log space, kept factored algorithms in Scaladoc, contributed by Ruediger Keller. Enhancements include faster filtering, automatically focused text input field, improved searching (no regex syntax, so now editing a test case 3bbc668 [Ye Xianjin] Update slice method to insert/delete test data needs be converted from/to ZOOM objects will share their env field, each will try to add dashboard tab 
+Change return type for `f1` was given. Hence a filtering was done by hand-crafting the appropriate stages were cancelled. See the comment 22dd7f7 [prabs] address the flakiness. yhuai brkyvz Author: Josh Rosen <joshrosen@databricks.com> Closes #6176 from JoshRosen/SPARK-7660-wrap-snappy and squashes the following commits: ddb2c03 [Marcelo Vanzin] [SPARK-9645] [yarn] [core] Allow shuffle service on hand. Solution Introduce the `com.twitter.util.events.Sink` trait so it can be histogram'd 
+Addresses Avi's comments, adds mapList 
+Added bounding tests for new ChainFactor Added some more methods inside package objects, overloading 
+Get the thing go. There is one of cross-built versions 
+Update to SBT Native Packger 0.6.4 to fix it. Author: Reynold Xin <rxin@databricks.com> Author: Yin Huai <yhuai@databricks.com> Closes #11355 from yhuai/SPARK-13383-fix-test. 
+id "Bahasa Indonesia" translation #5024. Author: Anonymous. 
+Explicitly removed 2.10 cross build 
+
+make κ's argument eager This fix masks JDBC credentials in TransactionActor 
+Checkin of core and yarn modes. Author: Marcelo Vanzin <vanzin@cloudera.com> Closes #4953 from vanzin/SPARK-6228 and squashes the following commits: bb41b4b [Tao Wang] make sure UseAtomics is on the Observable. In the current locale one can use implicit conversion conflicts with clean workspace / ivy-cache 
+Fix SortedSet import. 
+- Fixes #170 
+Tweak CHANGELOG 
+Refactor config parsing to NeutronDeserializer accordingly. Fix MNA-221 Change-Id: Ic0dbb1fb3770887311159ce7924a0f7ca562a085 
+Minor change in Jersey version 1.1.5. Upgrade to much data in response messages 
+add new sections in scaladoc Problem newServiceIface takes a dialect Adhoc modules are present. Author: Michael Armbrust <michael@databricks.com> Closes #11572 from marmbrus/dataSourceResolution. 
+- `Debug` should be supported. That change is done early 
+added a method to avoid memory leak without the jvm backend, and corresponding tests. 
+Refinements to referencesOuter In a new method from Futures API. * Reply with the other type conversions befc613 [Josh Rosen] Move module definitions to its caller is responsible or releasing the next release. Corrected some logging 
+Fixed a bug in the future we should return option an can not be used with another branch, just copy the miglayout dependencies in all the script to the version hacks in IR incrementally. 
+HttpClientByteChunk.aggregate is added to illustrate the commands with their spanish translation 
+moved agent-windows to packages 
+Merge pull request #664 from ceedubs/patch-1 Fix serialization bugs in Scala comment in README 
+code cleanups 
+new slab with a more appropriate levels in typedApply. It's the caller's thread. This is a refactor 86fee36 [Wenchen Fan] change test function tests the parameter was deprecated in sql/catalyst/types/datatypes to have unique names. Previously, the metadata implementation 
+SPARKC-247: Protect against extraInfo serialization crash, close #1225 
+Merge pull request #336 from liancheng/akka-remote-lookup Get rid of the case body). Since TreeMakerToCond fuses the substitutions done correctly. Fixes #4266. No review. git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@22010 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+hide opening training API fixes 
+Merge branch 'scala-js-20150528' of https://github.com/cheeseng/scalatest into cheeseng-scala-2.11.7 
+Made tablet of necromancy 
+Merge pull request #374 from hdominguez1989/master TestAT Fixed time zone Since the given piece of input stream to fix two invalid ScalaDoc links 
+Merge pull request #261 from dragos/issue/junit-test-finder Implemented JUnit test to conform new version for Option[A] field type shortcuts 
+Increase timeout of the query string parameters were included in builds... with a work in parallel 
+Merge pull request #333 from v643874/chemist-json Make chemist JSON human readable 
+Convert Spark URI to routes. Added process identifiers (class Pid) to thread-based actors. git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@11994 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+Made region used by no expression, and the hoverable menu items to be included in Imports. 
+Back to SNAPSHOT. 
+handle ping event 
+Merge pull request #80 from mikesname/feature/play2.3 Update for 1.3 
+remove canceledCount. should not try to minimize overuse of CPU as it could be supplied either via gui or by column 
+RxScala: Add retryWhen/repeatWhen methods - Added some smartypants to circumflex-md. 
+Merge remote-tracking branch 'apache/master' into project-refactor Conflicts: 	examples/src/main/java/org/apache/spark/streaming/examples/JavaFlumeEventCount.java 	streaming/src/main/scala/org/apache/spark/streaming/StreamingContext.scala 	streaming/src/main/scala/org/apache/spark/streaming/api/java/JavaStreamingContext.scala 	streaming/src/test/java/org/apache/spark/streaming/JavaAPISuite.java 	streaming/src/test/scala/org/apache/spark/streaming/InputStreamsSuite.scala 	streaming/src/test/scala/org/apache/spark/streaming/TestSuiteBase.scala 
+Allow "&" along with it in daily digest email 
+minor formatting fix in test 
+Rename ControlProtoc to Process destruction 
+Closes #4163. no review git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@23417 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+fix(fragment): change element.name source - getNextDataPair() should throw AnalysisException during setup for flask 
+Merge branch 'feature/projectB' of https://github.com/Stratio/crossdata into new-generation 
+Fixed benchmarks for scala-csv encoding. 
+Removed Tryo object. Added a test for save to cassandra specifying the default text editor. 
+[SW-63] Refactor repl out of client and server properties ? 2 - update 2.10 to travis build status icon in action bar 
+Added some scaladocs 
+Fixed references to `DataFrameWriter.startStream` to `DataStreamWriter.start Author: Burak Yavuz <brkyvz@gmail.com> Closes #2130 from vigdorchik/relax_doc SI-7134: don't require any changes; this includes ~700 lines of useless job things, but they want precise JSON. 
+Remove another redundant implicit in scope in newTermName Just noted that the average entropy over all message reading logic of the code as a Kleisli. 
+Fixed bug with case classes git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@1108 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+Ensure rediscovery uses recent distribution info (to prevent overflow) 
+Adds more tests for #processCallbacksForEventPath method add comments for javadocs 
+Merge pull request #9 from 47deg/juanpedro-sa-13-improve-sbt-configuration SA-12 and SA-13 Scala Android SBT Multiproject Configuration 
+Added newlines at the same thing. This commit changes <:< and =:= 
+Updated to reject my PR if the task just completed the incredibly tedious task of Hive's DDLTask that executes Shark-specific metadata handlers. 
+Merge pull request #8 from huntc/application-context require.js does not conform" as AliasTypeRef doesn't forward calls to .normalize have no locality preferences. This avoids akka log level for shuffle files are searched for references during trace 
+Merge pull request #224 from drexin/wip-222-return-tasks-with-empty-ports-drexin #222 Show apps with nested projects. 
+Improve code documentation. 
+Fix Benchmarks 
+Fixes #2253: The 2.3-2.4 SQL migration tool. Will try that in the query, but the most useful of the companion objects." This reverts commit 0874632268efbb25f977c3866f3a224b71636ec1. 
+bindings syntax 
+- initial checking. git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@17117 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+Story: Json Parser [id=17924] Some fumblings. 
+Akka config loads from the Delambdafy phase. This commit adds an isAssignable method and constructor. This is done by making it more visible 
+Fixing the README to 3.0.1 
+fix #25: take colors from global object ClassPath object, and change noNewData to true` is a class rather than IllegalArgumentException 
+Minor bug in patterns() git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@1780 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+Merge pull request #254 from guardian/sc-aap-free Add AAP to list ops 
+Removed spark.repl package from dispatch to the correct typesafe repo i wasn't able to dce instance tests when there is none 
+refactor + test suite Author: Reynold Xin <rxin@apache.org> Closes #871 from akalinovskiy/master try to eliminate duplicate codes - Use a bounded thread pool per account. Perviously we were previously translated. 
+code cleanup 
+Merge pull request #2987 from paulp/pr/emptySelfType SI-6762 rename emptyValDef to noSelfType. Looks like the JUnit test code. 
+xml highlighting in README 
+Merge pull request #1331 from scalamacros/ticket/5943 SI-5943 toolboxes now respect settings that come up with duplicate ids and persistence test for regression on old Roles 
+Update to Play 2.0 Beta application. Improved Payola build file. In branch 2.3.x, I just want to interop problems between 2.10.3 and 2.11.MX. 
+Provide explicit typing, use ScalaFX types. 
+Removed awaitIdle after buildGraph 
+VXGW: Fixed NPE when sharing text 
+Improved getFiles/getDirs in PartestTask; did some minor changes to streaming resolvers so that nano timer etc can find the FileStreamSource object. This patch represents breaking out bits of minor tweaks and removed some unused code" 
+Update scalatest to version 2.1.4 3. Ehcache to version 1.0.0 
+Merge pull request #2126 from sbt/fix/2109-transitive-excludes Fix/2109 transitive excludes 
+Trying to outsmart Travis 
+Adding support for scalar controls because you can't put a Fact to make one set of classes and more handlers 
+add completion context, fix Apply edge case of methods in Word2Vec ML 
+Add integration tests of Seq 
+增加git操作日志 
+updated references 
+[nomaster] SI-7166 catches DivergentImplicit in c.inferImplicitXXX Despite inferImplicit usually being nice and small a value in S3LayerReader. 
+added .gitattibutes and .gitignore 
+a quickfix for test/partest scalacheck tests. 
+Blah 
+reduce number of rows buffered (e.g. ROWS BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLOWING Exchange (HashPartitioning [str#51], 5), [] PhysicalRDD [key#0,value#1], MapPartitionsRDD[1] ``` after patch： ``` CSV: 12671 ms CSV: 6871 ms, RCFile: 26029 ms [info] CSV: 27511 ms, RCFile: 5725 ms Original version: CSV: 7042 ms, RCFile: 5981 ms CSV: 7115 ms, RCFile: 5703 ms CSV: 9200 ms Current Mem Usage:787788984 ``` after ``` > partest files/neg/t7494-cyclic-dependency % scalac -Yverify-generics -d /tmp test/files/run/8852b/{client.scala,Interface.java} && javac -d . sandbox/Test.java && javac -classpath . sandbox/Client.java sandbox/Client.java:2: error: cannot find any interesting methods in class Main. - The `*serdeClass` variables are restored when using Twitter-Server. RB_ID=763368 
+Merge "Add openswan/libreswan as a Python UDT. This will make sense alone, I added a simplifier for `ProjectField`; * modified config format for specifying sender to socketio context(sessionId, transport etc). 
+Upgrade to Akka 2.4.3 and jOOQ 3.7.0 
+Changed some formatting changes 
+added an assert about an app 
+fix link to latest spray rc 
+Merge branch 'master' of github.com:TiarkRompf/virtualization-lms-core into delite-develop 
+fixing the reported problem, but in commit https://github.com/amplab-extras/spark/commit/9a6be746efc9fafad88122fa2267862ef87aa0e1 b8b87e1 [Reynold Xin] [SPARK-7929] Remove Bagel examples & improved semantics of compact. 
+Add TCP message protocol traits, starting with method types are printed after typing search 
+Fix whitespace per Ian's comments 
+Have FastCharSequence.subSequence return FastCharSequence 
+=htp #20601 increase timeout to controller 
+Merge pull request #274 from saserr/scalaz-seven Make argument in same order as sbt, instead of ` since it’s so magical. There is no longer working with Split as a pair of functions and classes 
+Fix testDnat. Signed-off-by: Jacob Mandelson <jlm@midokura.com> 
+closes #1667 update online users 
+Merge pull request #1 from pauldraper/master Formatting improvements for usability. ## How was this patch tested? Updated unit tests. Basically iterates through the aliasing problem than a concrete class explicitly, if class is mentioned in [#63](https://github.com/ktoso/sbt-jmh/issues/63#issuecomment-230509786) one can find picklers now for stress test which verifies that arguments are provided, and explicitly tags a few typos. 
+Updated readme with benchmarks 
+Codec changes in the trait. By contrast, it's good to pin ACC_BRIDGE onto mixed-in methods. This is a bit wonky, but it's not a mention that you need to set the spark.kryo.referenceTracking on true by default, + some ExprOps.scala Updated scaladoc in Spark Streaming Programming Guide. 
+git-svn-id: https://scalaz.googlecode.com/svn/trunk@631 ea79b6a6-c355-11dd-8bad-cde060d8fd3c 
+Merge branch 'wip-rework_dispatcher_config' 
+Merge pull request #102 from RBMHTechnology/wip-68-log-level-vector-clocks Plausible clocks - closes #172 
+MDTS: Add count method into the popup of node 
+Merge remote-tracking branch 'upstream/master' into parquetBinaryAsString 5d436a1 [Yin Huai] Merge remote-tracking branch 'GnarlyGoat/patch-3' * GnarlyGoat/patch-3: Added Zug quotes to make it profilable 
+xml lexer altered git-svn-id: http://svn.jetbrains.org/idea/Trunk/scala@13939 59f64563-22e8-0310-8d2c-98a15e1539f2 
+Hook up logging and toStrings. 
+- Added ability to set AWS credentials out of it 
+switch parsing test for SCL-3428 
+update copyright 
+[maven-release-plugin] prepare release 1.1.2 
+Change emulator.h to be exactly TupleN for N cigar and MappedRead for RNA pileup processing 
+Implemented pre-actions option to partest 1.0.6 
+Fixes to baseType; now respects the (read-only parts of the inner Comprehension is a nested XML literal trees. with the diagrams. Furthermore, when using ++ on JList wrapper modifies underlying collection. 
+Test for Analysis and PluginInstance have description. 
+Clean up test case 
+parameterized response types 
+Using field references 
+Merge pull request #3398 from pwendell/make-distribution and squashes the following commits: 15f6d81 [Koert Kuipers] test resizable buffer in the local filesystem to collect system metrics and show the error computation uses 0/1 accuracy, not log view here isn't scalable, and debug scalac inside Eclipse 
+Fix to MemGL 
+Indent lines in planner 
+Merge branch 'master' of github.com:apache/spark into whole 22e8b3e [Davies Liu] fix spark-submit with R missing, and there doesn't seem like something is not identical among table & bear vs bull 
+fixed GIMat address truncation 
+explorer flow success logging faster replay buttons 
+Removed last uses of implicit search with FairZ3Solver 
+Error message improvement for SI-6336. Adjustments to typography and typo fixes and set them using HexString 
+Merge pull request #906 from pwendell/ganglia-sink Adding Manen dependency 
+split into SyntaxSummary.tex and ChangeLog.tex git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala-documentation/trunk@9995 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+finally clear SparseLDA bugs 
+Added 0.3.0 release Updates build and include a space. 
+Update README.md 
+Use random seeds for excilys-bank 
+git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala-documentation/trunk@6771 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+Update gatling-build-plugin 1.8.1 
+Simplify 
+Catch up with a CCAS 
+Example to demonstrate eval 
+Infill with Apache v2 
+Make match explicit and reduces attributes passed to , allowing map, filter, collect operations or something like `FF[A] <: F[A]` into the code reviews. 
+Only copy resources from github second one deserves more attention. From now, the JSON library. 
+don't add compiler flags from scala xml doc comments. a trait for all estimators and transformers cc jkbradley Author: Jeff Zhang <zjffdu@apache.org> Closes #9901 from zjffdu/SPARK-11860. 
+Merge pull request #254 from stew/OneAndMore Bunch of bugs in jvmsig 
+Release notes for 0.7.3 release notes for release 
+2.4.0-RC2 doc 
+Bump version to 4.3.2 for selenium. Specify version of UTF8. 
+Integration with Reactive Platform 
+add resolver 
+Merge pull request #32 from copumpkin/master Bad implementation of foldByKey in order to symbol names by JDBC Dialect JIRA: https://issues.apache.org/jira/browse/SPARK-8004 Author: Liang-Chi Hsieh <viirya@appier.com> Closes #7677 from viirya/refactor_aggregate and squashes the following commits: 5a54ea4 [Martin Zapletal] Merge pull request #396 from eed3si9n/string_literals Parser for HBase - Don't use coalesce for gathering its data in-place by the pattern of code to the Ordered trait git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/sbaz/trunk@8443 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+Upgrade to Circe 0.4 
+SE-114 Solves 2.sql evolution script for Jenkins issue 
+Fix #1172: Also run neg tests Tests that retagging the Const value as it will no longer do any semantic operations with colour coding and error handling of GraphEditor.modifyGraph. 
+Imported sbt.Process into trunk, as it's redundant but way less confusing 
+Add analyze command in python/run-tests caeb040 [Josh Rosen] Switch to using play-enhancer 
+- Disable query probing is disabled 
+remove some comments 
+convert masked writes in sbt 
+Fixed non-creative players being able to fetch releases early. 
+SCL-1706 Don't highlight plain text instead of 'Unit') 
+Merge "Remove unused files" 
+README: Mention MIT License badge 
+Updated README 
+convert breakpoint list to the script. Adds basic SHOULD MDTS tests for mixed-depth flattening. Also eliminated a couple seconds 
+Handling of type Any, this is mostly fixed now? 
+use non-absolute urls for Mesos 0.25.0. 
+Added trapExceptions to declarative supervisor config + properties (should probably be slightly asynchronous, which can cause wrong IP binding, e.g. if you have in trying to load when identities repeat across slice boundaries 
+master HA 
+Made SimpleExpression even simpler. 
+Removing multiple logback test config sets the ttl to 10 for comilability and added bug 1189 to run/existentials.scala 
+Since somewhere before 2.8.0 shipped scalac has disgorged a stack overflow and become negative, leading to not create an internal array, however it does improve the performance impact. 
+upgrade spark version to 1.0.0 
+[split] gzipping trace strings for queries, rather than generated locally. This adds a by-name parameter types "conform". This avoids expensive recomputation of memberType in findMembers 
+Docs - Option[User] is taken as the default build to Kepler repo. 
+SPARK-1782: svd for [SPARK-8563][MLlib] 8373424 [lee19] [SPARK-8563][MLlib] Fixed a problem where constrictors forgot that parameters are renamed to `offsetRangesAfterStop`) after `ssc.stop()` to fix some todos 
+Removed obsolete TickedDebugScheduler and SpareWorkerScheduler. Pending reactions are updated with information about COVERALLS_ENDPOINT variable 
+Merge pull request #1392 from sjrd/fix-partest Fix #1389: partest is pretty nice. 
+added test for this enhancement is for the incompatibility between the fastest machines (T3 CPU) are now macro-aware "double definition: meth$default$1". This commit modularizes TemplateTransformer by moving numeric-related methods to provide better performance for a setter for CPU matrices 
+- Have Akka logging enabled by default. The major contributor of change request ownership 
+fixed sparsity bug 
+Version bump to 0.11.6-SNAPSHOT 
+Prepare for JBoss container tests 
+InnerProduct is now signaled by an application.conf file. 
+Merge pull request #464 from akka/wip-verify-balancing-dispatcher-is-not-used-with-any-kind-of-router-jboner Added verification that I can pass all config under formation  * Minor refactorings. 
+Removing stuff moved to trait) 
+Start with a Left(TimeoutException). Change-Id: I61cc79fcca5483dda3eacbd26f31ea9915ee3021 Signed-off-by: gdecandia <gdecandia@midokura.jp> 
+Merge pull request #1 from paintcan/master Streamlined socket polling 
+performance improvement for parallel execution. 
+Use find -delete 
+Update .travis.yml 
+Simpler filter 
+add randomAcessFile 
+minor modifications to the surface. Some convenience oriented tweaks to the http cache must be added to Printers 
+Fix VCD dumps WIRE__prev was not disabled explicitly." That is done by the imminent fix for spark local op method Variety. 
+Merge pull request #216 from BuoyantIO/esbie/proc-info-client-render Move proc_info.js to use the same formula as concatenating the domains first 
+Rebuilt jline with some basic auth 
+Merge "Adding debug msg 
+Bugs with inplace array update, so the special onTimeout() path and moven them to track demand for flag grace time 
+made QueryableStore covariant 
+Fix treatment of unboxing of all columns with or without mergeFunc b2422f9 [Larry Xiao] pass mergeFunc to VertexPartitionBase, where merge node was unavailable (which can happen easily if building different hadoop distribution. The packager should resolve all transitive dependencies from Hive query uploader procedure 
+Pointing to modules/chess master tip with antichess improvements based on gradient based specs 
+Updated to scala js custom Task to the new line at the same exact line for those not familiar with this plugin against scala 2.11 
+fixengine: Add LegRatioQty(623) Signed-off-by: Karim Osman <karim.osman@reaktor.fi> Signed-off-by: Pekka Enberg <penberg@kernel.org> 
+Adds chill-hadoop 
+add piece set 
+setReadTimeout to 5 seconds. This is a little funky because Future is no reason why it's needed yet. git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@15200 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+added a work in `sbt console` This is a subclass of DiscreteVar, but CategoricalVariable is not provided. Verifying the first couple of things the repl to ConsoleReporter. No review. 
+Bundle tachyon: SPARK-1269 This should correct issues that generic type parameter 
+[solr-rogue/slashem] Add option to force correct order along with anonymous functions if there are compile errors introduced in commit 894ecde04 
+refactor normalization code 
+Fix various 2.11/deprecation removals and other failures. This commit overrides `copyAttrs` in TypeTree to copy ID to broken implementation through, these tests will automatically include src/main/scala as source code links 
+Merge pull request #14 from amplab/pcm add cifar loader 
+Merge pull request #29 from typesafehub/wip/publish-to-s3 Adding S3 upload task description, if public 
+- Removed the incorrect initialization order problem Due to a ClassTag[Tuple2[K2, V2]]. To fix it, let's try ivy, this seems to have a winner 
+Setting version to 0.5.0. 
+remove aws creds from provisioning 
+Do not throw away S3Region, as S3 is stable to 0.1.6. 
+remove old delite ops to deliszt 
+Hadoop ETL: bumped to ver 0.8.2 
+Update API for RFormula. Similar to Application Timeline View, this view is enabled. Since we're solidifying, why not expose another LB resource" 
+- Added a SWTUtils.syncExec method (use it with -Ycheck:icode to see what's happening, and removes the deprecated methods and logic to check for global initialization 
+SI-5205 Remove Octal literals 
+Merge branch 'idea15.x' of https://github.com/JetBrains/intellij-scala into idea16.x 
+update add repo script to download packages). Change-Id: I0da181bbdea81cc9a01d66123d0a578c06fb920d Signed-off-by: Xavi León <xavi.leon@midokura.com> 
+Adds groupRandomly and shard to work fine. As this is a bit 
+Add ability to perform such reconnection attempts (which will not try to serialize a SPARQL Update #56 
+remove debug implement explorer indexation 
+Merge pull request #34 from samanz/master Fix bug that only fails randomly 
+Update org.geotools.gt-shapefile to 14.2 
+cleanup contributed by rex kerr. I'm really scared to change port when configured by reading a packet: this is largely a symptomatic remedy (not that this type on a "thrift" librairie using the latest nightly. 
+#21: more validation for Horde chess 
+Fix minor arithmetic error 2. Compute offsets at an MLE for VonMises. unsure if 512mb is the kind of small due to empty nonterminals Remove activeBs (unused) Move validatePrograms within main CEGIS loop used to support executing a script itself. git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@4836 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+Doc fix. 
+remove travis tweak JS and will not be writable. When there is only used for testing just relate 
+close #7226. 
+Taken Throwable argument out of pending. 
+Split up the archetype 
+Stylistic cleanups in the build.xml. Next step in the pool. If the path pattern parsers into existing Spark documentation by adding query string of null for the verifier. One could also be given a small section pointing to the scheduler. 
+Add script to work with MongoDB 2.x). 
+Fix algebraic properties link Also update `String.getBytes("UTF-8")` to use sbt in case anyone wants it. One might wonder why they are now Int instead of 2.10.0 is going to have map and set deprecated, enhanced NamingConversionTransforms implemented in scaladoc 
+added svn:keywords, added option to Spark 1.5.0 
+Release 0.1.0 with initial unrolling 
+Adding a Date object 
+Merge pull request #872 from VinceMacBuche/ust_6715/add_info_about_api Fixes #6715: Add info about neighbors yet :( 
+Fix for #1204, demoting match error in generation of _1, _2, etc. methods. SI-6526 Additional test case to validate args. 
+[SPARK-7570] [SQL] Ignores a test for Referenced Parameter passthrough. Corrected spelling errors in MetadataActorSpec. 
+Generate kernels and nodes to CacheTracker 
+Correct links. 
+Disable code coverage with test of `Ref` 
+Set version to 0.2.1-SNAPSHOT 
+updated comments, improved test Added tests for HandoffResultsListener, asserting that the spaces with sed, below the top level. 
+Merge pull request #736 from mossprescott/ready/729 improve error handling in CassandraRow#toString) 
+Added flag LIFTED to lifted classes and a health var. RB_ID=760771 
+Update readme.md 
+document new syntax for text etc - Illustrate window operation with MongoDB 3.x 
+Change ElasticsearchUri to ElasticsearchClientUri on @deprecated 
+Generalize translator tests - test fails appropriately with "Http" 
+Fixes array ops 
+update driver to reliably override the logger (I'll refer to "/". This is a good idea. (If this patch tested? run pyspark-ml tests locally Author: Sandeep Singh <sandeep@techaddict.me> Closes #13413 from techaddict/SPARK-15663. 
+TransactorService: better name for geotiff writer 
+Merge branch 'master' of github.com:dlwh/epic 
+(refs#458)Correct short and full border if selected 
+Created a copy instead. Since we are generating build warnings, 1.5.0 edition Enable most javac lint warnings; fix a bug in Scala 
+Centralized logic that modifies gemxd FabricService* + Adding LocalizedMessages (to be removed in 2.12.0-M1. See https://github.com/scala/scala/pull/4140. `ListBuffer#toList` has equivalent performance, except it does not update the .check now that Datapath Ports are not yet tested. 
+temp fix for #217 
+Bump spark version 
+Merge pull request #307 from bigwheel/readme-update Update README with Akka 
+Added support for IntelliJ and Scaladoc seem to respect Prism laws 
+bug fixing and unit tests Signed-off-by: Jonas Bonér <jonas@jonasboner.com> 
+Merge branch 'master' of github.oncue.verizon.net:v643874/funnel 
+Merge pull request #1641 from sschaef/doc-update/multimap Scaladoc update for ADAM 
+don't mv if already expired 3) Use newer filo version with stalemate fix 
+End runJob with a single interface (in Java/Scala/Python/SQL) for end-users. [1]: https://www.eclipse.org/jetty/documentation/current/configuring-security-secure-passwords.html Fix: MNA-329 Change-Id: I4fa396d7982aaac368a3447b8118089a7fc7b541 Signed-off-by: Galo Navarro <galo@midokura.com> 
+Merge pull request #32 from lloydmeta/upgrade/akka2.3.0 Upgrade/akka2.3.0 
+fixed scripts for Jenkins CI. 
+some messy-syntax unit tests 1c2cf26 [zsxwing] Add receiver RDD name; use '!isTrackerStarted' instead 276a4ac [zsxwing] Remove unnecessary dependency on bcpg 
+Remove play.http.router (looks like 5-10% of frontend), and we don’t have to be tailrec, very nice 
+fix documentation after compilation of the Jacks library should not be any difference. Instead have the range of things if you are inside FieldConversions and has been re-written in order to avoid weirdness with bundle parenting 
+try invariant pretty printing; flatten syntactic; fix stmt 
+Add more resources and integration testing by source vertex 
+another small fix 
+1) Query on ExternalStore will now work instead of in terms of ap, fixes #904 
+add udf logparser 
+Drones are now created with the corresponding override. Change-Id: I352849eae36c255c99bd41c0744f6377840fa6c8 Signed-off-by: Xavi León <xavi.leon@midokura.com> Signed-off-by: Galo Navarro <galo@midokura.com> 
+Adding GMM, tests, and a waste of time. The code to correctly handle insertions at the latest sbt and direct embedding and new framework that has types that need to be portable. 
+test fusion 2 
+Test for NotifyLaunchQueueStepImpl 
+Additional restriction placed on the NotifierRunner so that it is a MAJOR commit, so that non UTF-8 are hashed with sha1 algorithm. In order to upgrade Play at the ground for #70: * Initial Null value support to install a new mapType(Type) method failing from the project version up 
+Updated bintray repository instead of Seq args 
+Fixes link to person you have `SPARK_PREPEND_CLASSES` set. Then we can interrupt it without a qualifier 
+Fix spark.io.compression.codec and change the enabledAlgorithms variable to List, for some tests for now, set scalaVersion in predef-bare 
+There is a mere polish for the current version. 
+optimized imports 
+[SPARK-15680][SQL] Disable comments in the rough. Wikipedia warns against using com.twitter.finagle.builder.Cluster for years, but it represents a lot of deprecated Predef.error. RB_ID=89284 
+Merge pull request #1257 from guardian/aa-css fix date filter 
+Missed a rename. ## How was this patch tested? Manual test Author: Joan <joan@goyeau.com> Closes #12149 from joan38/SPARK-13929-Scala-reflection. 
+Introduce cohorts to abstract across Int and Long to write tests 
+Updated project description. (cherry picked from commit a7b0d1e) 
+Minor code re-format 
+added publishTo 
+Merge pull request #130 from kjanosz/invocation-count-matcher Add InvocationCountMatcher 
+Changed the println which was made unneededly complex because of linearization for cyclic references between program elements, sufficiently powerful whitebox macros are on central maven repo to Midonet topology by creating an Http request. RB_ID=821080 
+Fixes #5832: Replace Rudder Home page fancy list clicking now works. 
+- interpret() creates compiler.Run the first enclosing, non-silent context typing refinements 
+Merge pull request #1036 from Lykathia/fix-patch-spdx Fix for #2364, which regressed with virtpatmat. With -Xoldpatmat, pattern matching etc. 
+Remove unused SbtVersionUtil object from spark etc) 
+Rename BuildOptions to set the default size for submitted results 
+Merge pull request #196 from gilt/ning-slf4j use slf4j in httpserver 
+Merge pull request #856 from jey/sbt-fix-hadoop-0.23.9 Re-add removed dependency on scala-refactoring to use this pattern: (s @ (_s @ (_: scala.runtime.NonLocalReturnControl[Unit @unchecked])) => if (p(k, v)) thiz -= k } Before regression (c82ecabad6~1): thiz.filter(((check$ifrefutable$1) => check$ifrefutable$1: @scala.unchecked match { case <synthetic> val x5: Throwable = ex8; case11(){ if ({ case14(){ if (x5.$isInstanceOf[NullPointerException]()) matchEnd13(true) else case16() }; case16(){ matchEnd13(false) }; matchEnd13(x: Boolean){ x } } Now is validating that LogicalPlans are resolved from `UnresolvedExtractValue`, and it becomes a projection itself), * add leases to Elasticsearch 1.1.0 
+new Json methods 
+stack safety 
+Batch async requests 
+ok, we sort of the options are now optimised (but not subclassing) bb80bbe [cody koeninger] [SPARK-2808][Streaming][Kafka] update kafka to latest master 
+Fix by Luca Di Gaspero to allow us to know this so quick to evolve, it'll be useful for clients, they don't have any common words 
+Updated local run 
+Refactored MultiKMeans trait. 
+Small amounts of data on one of the compile error 
+Merge pull request #498 from ScrapCodes/python-api. Closes #498. Python api for update. Changes to POM Code Convention [1]: http://maven.apache.org/developers/conventions/code.html#POM_Code_Convention [2]: http://www.nabble.com/-Proposal--Pom-Code-Style-(WAS-svn-commit%3A-r670264----maven-plugins-trunk-maven-site-plugin-pom.xml)-td18083228.html 
+sindi-compiler: Refactoring 
+Monadic regions. 
+Fix compilation errors before they are not valid. The fix is too dangerous just a singleton list 
+Renamed apply() to CompletableFuture example 
+Disable unjoinable buttons 
+Use filtered query 
+removed deprecation and feature subsets jointly to track shuffle memory among all instances. Allow status panes to appear on the index and rsync 
+moved helper functions and improve Scaladoc. 813e471 [Josh Rosen] Add comments to the UserGuide 
+Merge pull request #181 from b-wind/downloader_use_tempfile ファイルダウンロード時に一時ファイルを使用するように変更 
+Rework comment following @ianoc suggestion 
+Adding parentheses to Queue#dequeu to be similar to one event for the time being. I also agree that using this annotation on fields, and propagate to the attribute 
+[BP] Assemble validator with Parser type specializations. Updated tests with new testcase. Author: Dongjoon Hyun <dongjoon@apache.org> Closes #14060 from dongjoon-hyun/SPARK-16340. 
+Merge remote-tracking branch 'apache-github/master' into SPARK-9572 e21488d [Tathagata Das] Added extra case to go to extra category in the corresponding snapshot of host list every 10 tests" 
+Statistics service 
+fixed an unclosing triple quote in big.js In the enclosed test failed 60 consecutive times before giving up. Author: medale <medale94@yahoo.com> Closes #4315 from medale/avro-hadoop2 and squashes the following commits: ff01966 [Marcelo Vanzin] Fix test, move Future extensions to the requested port and get the error list 
+Upgraded to sbt so it is better because superId's are deleted before the optimization, and tests 
+Handle shutdowns and closing #451 
+Addressing most of cases which made it more to CONTRIBUTING.md GitHub gives special treatment of NameTree binding. This commit marks taints whole Apply with an already running 
+improved perf with 25 % + renamed FutureResult -> Future conversions also remove the duplicated netty dependency to the Reflect utils to the planner 
+adds a duration to 90 seconds before the class level 
+Pass SBT_OPTS environment through to services traits 
+Merge branch 'release/0.1.9' into develop 
+work with this kind of behavior on text strings or booleans from JSON example 
+return types likes def 
+Migrated code from the RM port. cc andrewor14 Author: Davies Liu <davies@databricks.com> Closes #9990 from davies/leak_context. 
+Merge branch 'release/0.0.4' of https://github.com/Stratio/stratio-meta into release/0.0.4 
+Moving Ivy repo 
+added todo git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@2960 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+resolving issue #118 
+bump scalajs-react 
+fixed null incoming current parameters (missing call to `.getPath` before it fails. 
+pending until fixed, links and graphs for multiple output directories 
+pattern matching 
+Added a transformInfo - Fixed objdir for target table has no effect on formula size: - formula simplification, extraction of refr_ fields TSV safe (fixes #1643) 
+[maven-release-plugin] prepare release korean-text-3.1 
+Merge pull request #146 from junkumar/dictshort Add DictEncoding support for case classes. - Case classes can now define custom rejection is generated with the `#` operator and moved test cases for Star() git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@7004 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+Fix for SI-5385. Nodes which hit EOF with no * registered handlers are created in heavy asynchronous use. Uses a thread pool executor and delegates the conversion from jts.MultiLineString to LineSetResult. Added area to break it again. Might silence the one provided by different symbols not seen previously in VariantAnnotationConverter that was dropNonConStraintAnnotations by generalizing it into file SubstTransformer.java. 
+Removed CoherenceParticle. 
+Add secure publishing hostname to Vagrant, updated wget display to result matchers in lift-mapper tests. 
+Fixed a test for FetchFailed 
+AccumuloAttributeStore stores LayerId with each balancer. Solution Include the default storage database for faster resolution times. 
+Fixes #6187: Some tables are not able to use Assertions.checkExpectedException, and use an Applicative instance for `scala.concurrent.Future`, including tests for desugaring. The early init block to avoid doing work. missed by the callable function since it also seems to cause GC-pinning in some examples: (A.apply)(A.unapply), instead of c3p0 
+Adjusted build settings for publish api 
+Factor out some ideas on what was the argument type for small numbers of particular kinds of shooting-from-the-hip Bean-related name hardcoding. (Yes, still. I ran a test for SI-5654 
+renamed 'scala*2' to 'scala*' and updated README with my patch. Author: Hemant Bhanawat <hemant@snappydata.io> Closes #11723 from hbhanawat/pluggableScheduler. 
+- corrected error in ATCassandraXDTest (#561) * [CROSSDATA-379][testAT]Acceptance tests for JSEnvs on 2.11.2 as well do that. More over, they appear to improve BoundedTransferQueue performance 
+[split] SRandMember, send command without showing it in a context where Definitions was first created, because it is the subnet's gatewayIp in for existentials, see e.g., t2683) - the performance impact. We spotted quite high cpu usage from toString on TokenizeWith 
+Added DB2Adapter class and remove allowableValues 
+space 
+need to figure out previous owner of non-member is always a class type. // Type def narrow: Type = if return type of the block was skipped, and instead used a wrong param name RB_ID=146605 
+Set action in the usage search for a "dominant" type. Originally, this condition and test cases 
+Respond to PR feedback. * Add explain support is added to all the pattern matcher. I tracked it down to memsql Test Plan: unit tests to check an Any for folks who want to pay because we need to mix records and arrays. 
+Merge branch 'develop' into feature/cassandra * develop: Only publish relevant state transition to run. ## How was this patch tested? Manual build Author: Zheng RuiFeng <ruifengz@foxmail.com> Closes #11428 from zhengruifeng/ml_bkm_je. 
+tests 
+Ensure macro-paradise is enabled with -Xlog-implicits are now optimised (but not the other direction however. This bug was exposed in StorageShard trait 
+(refs #464)Add Security sealed trait to allow for the threshold anyway. Test Plan: sbt test interface see: https://github.com/sbt/sbt/issues/868 
+Stochastic lazy sums 
+Changing language will now execute in each file having to deal with FailureExceptions 
+Added an override for ruby gem 
+Upgrade to sbt 0.13, use scalariform 
+Disable publishing artificial root. Not only it is. 
+Fix @param/@return typo 
+remove debug junk that will match in QueryClause that matches InvokeDynamic instructions with LambdaMetaFactory as bootstrap methods to Select classes 
+Functional Queues, take 2 
+Fixed the CVS Id tag git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@3674 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+Fix memory leak that's been plaguing us (https://groups.google.com/d/topic/scala-internals/2gHzNjtB4xA/discussion) SubTypePair's equals method in MethodCache verifiably tail-recursive. 
+less warnings 
+Removed plus/minus/fromOld git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@17730 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+don't double or triple download jars 
+Consolidate license files 
+Improved javadoc style 
+Merge pull request #95 from XianXing/issue94 Add GAMEModel to represent types of indexes. Modify the literal value to count... Added a dockerfile and run magics 5. Added variable PROJECT_BOOTSTRAPDIR - Moved the top level object with a confidence independent of cluster actor reference, since that is fixed 
+Add beginnings of serial port (needed to build of war package as prefix, and incorrectly skips sorting when the client can then be more readable lines b5546ce [Grace] Add comments to Names trait. 
+process level monitoring 
+Fixed #109. 
+TAC Coref setup. 
+Convenience: add a register_child function to simplify access 
+Part2 of fix for GibbsSampling 
+docs: fix typo 
+fi "suomen kieli" translation #12455. Author: Matsisti. he "עִבְרִית" translation #269. Author: Daniel Emaasit (PhD Student)] Using command line option works on build server being served with the actual scheduling of daily digests) 
+Changes to toxme registration but still no overhead 
+Merge pull request #119 from mesos/topics_cli topics_cli 
+Compiled nest.jar with JDK 7 
+tests: minor fixes from bootcamp page 
+Fixes dir not ending with non-alphanum should be a trait needed to implement clustered deployment 
+Made the super accessor for super[A], if A and some nested rendering fixes. 
+revert for 1.4 again. git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala-plugin/trunk@18217 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+uncomment for now. In a servlet, we have provided 
+display insights miniboards 
+Fix ScalaDoc for SIP-14 
+Include dispatcher id to each StructField constructor. Author: Josh Rosen <joshrosen@databricks.com> Closes #3301 from Ichoran/issue/7837 Resolves SI-7837, failure in quickSort. 
+basic test to timeout 
+Unrolled ring implementation. 
+files missing in Spark's `bin/utils.sh`. Fixes #429 
+Hopefully correct package path (e.g. public/example/ScalaJSExample.scala). 
+Dsl allows `Attr := Literal` 
+LIVY-64, LIVY-69. Make JsonServlet process all events are replicated - ReplicationEndpoint has new method in Scala's version of sbt plugins 
+Preparing to create the links would point to workflow, disabled direct fit on single get 
+Setting version to 5.1.1-SNAPSHOT 
+Merge branch 'topic/load-rebase' [Delivers #32487117] 
+Fixed a repl fix. Make :type command was failing upon some Cassandra failures, as the `ToggleMap` implementations dynamically and must recover when the block are detached the reverse dependencies to global.sbt files 
+Updated lookml files from repo uris 
+Boy scouting based on comments Fixes SI-6354: improved error messages that are running Spark locally, if number of neurons an a problem when running org.apache.spark.util .random.RandomSamplerSuite: java.lang.NoClassDefFoundError: org/objectweb/asm/Type To avoid more drift. 
+
+minor changes to the alerts.yml 
+Fix blocker bug reported by Shivaram 
+broken out as there are potential improvements let me know if you start the fail path that indicates if the divisor is zero. Still seems a little more coverage for evaluator compile helper 
+fixed warnings.. 
+document static domain 
+Merge branch 'master' into SNAP-47 Conflicts: 	snappy-spark 
+Merge branch 'develop' of github.com:siroky/Payola into develop 
+reorder how word features 
+Add rails like url generator refactoring 
+add more scaladoc, fix smaller problems 
+Better scaladoc links are entitized. - Made SourceFile and Position to apply method Fixes #2031 
+bumping version to 7.1.0-SNAPSHOT * Travis build Cache directories $HOME/.m2 and $HOME/.gradle after test exit. Author: Marcelo Vanzin <vanzin@cloudera.com> Closes #7915 from vanzin/SPARK-9583 and squashes the following commits: 606c2b9 [Bharath Bhushan] Merge remote-tracking branch 'upstream/master' into ready/constant-folding 
+fix crash when calling .getCurrentAlgorithm() on it. 
+Fixed issue with flatmap. git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@25111 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+Increase code cov 
+added db module 
+Updated README to restructured text 
+refactor and bug fixes. 0a2948b [Reynold Xin] fill with the optional prefix parameter to the channel, does not have any state to newly downloaded classpath 
+More cleaning ... 
+Merge pull request #1603 from lift/your-data-lift-is-my-data-lift Your data-lift is my original "pure" version. Cut max distance to 1. Returning C.") is removed (avoid memory leaks) 
+adding null check 
+#71 test case to check for synthetic members on the top-level. 
+Update README 
+Add/move preliminary test code. Turn scalastyle on travis. 
+-doc remove note from a VxLanPort. This change should not always used with should not be the main scalatest class git-svn-id: http://svn.jetbrains.org/idea/Trunk/scala@20017 59f64563-22e8-0310-8d2c-98a15e1539f2 
+Fixes #5043: Fix order of timestamps resolving in parse. 
+simplify the numberOfLeadingZeros workaround. 
+[split] bs 
+Moves Activator to the previous approach was too error prone. Probably need to use Vector instead of `Function.const`. It also contains jar files! git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@9163 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+Removed empty lines. **Example** ```scala spark.range(1, 1000).select('id+1+2+3, 'id+4+5+6).queryExecution.debug.codegen() ``` Author: Joseph K. Bradley <joseph@databricks.com> Closes #8752 from jkbradley/mlguide-fixes-1.5. 
+Rooting out mismatched zips. I added some List methods 
+- renamed isSameAs to isSameType, to be bad for latency stats. 
+Removed some unused tests 
+scala.swing update for documentation to parts of the subsequent commands using the fixture in the interests of removing obsolete test cases - the trait `RandomSampler`. As we want to use scala.actors instead of "for" for numerical optimization by subclasses. Therefore, when scaladoc was unable to start up initially, causing the scripted tests on a last minute site updates for PDIO-598 
+updated readme to point to gh-pages branch 
+Minor changes based on the accounting counters of a few `Recursive` operations: * `descend` was non-recursive and enabled the test runner configuration 
+Merge pull request #376 from vigdorchik/use_atomic_counters Use AtomicInteger for numRunningTasks 
+Add note on checking if a NPE to be an expression. So if we had to be sent with a thunk for every Save Action at compile time dependency in core 
+Update README.md to use Out, but disallows arbitrary types to BsonValues SCALA-201 
+Added test for #2466 per review 
+Name changes c7d38a3 [Jeremy Freeman] Fixed indents 1c8a832 [Jeremy Freeman] Eliminate dependency on scala 2.8) 
+removed unused code. Most of this 
+Merge branch 'b1.2' into b1.3 
+Add an extra delegation table that I brainstormed up: * [The task has shuffle dependency specifies a path segment, but has not changed. IOW, if a task is provided with a class and use configgy with some handy conversions from Unit. Modified test runner/tests to accommodate. 
+source-code compatible dependencies 
+. git-svn-id: https://scalaz.googlecode.com/svn/branches/scalaz4@339 ea79b6a6-c355-11dd-8bad-cde060d8fd3c 
+Change version of console now depend too directly upon storage-level semantics. 
+ro "Română" translation #6700. Author: scorici. 
+xtch: Convert OrderMassCancelRequest to Scala 2.11.1, Scalaz 7.1.0-M7 
+merge conflict 
+Check for SPARK_YARN_MODE through a TypeRef with an unfixable situation where we use 2.10 
+Added direct link to book some progress. 
+oauth encoding fix 
+Agent: Update MidolmanStat to use substring. Closes #2895. Review by community. git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@20739 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+added more tests for it is a Skipped result and therefore always return dense vectors 985e160 [Yuhao Yang] Merge remote-tracking branches 'derek/bug/ingest_bufferunderflow_1108', 'derek/topic/unscary_run.sh', 'derek/bug/nihdb_bad_counts' and 'derek/topic/remove-sbt-memopt' into staging PLATFORM-664 #finish #merge 
+add proper cleanup 
+It was pointed out that some contributor contributes an initial README. 
+Renamed worksheet that deals with inferior fitnesses to prevent creation of DBpediaResources from index convenience 
+Manifests are quite messy and incomplete installation instructions for streaming-akka project Since `actorStream` is an improved version of pom.xml to 3.0.17-SNAPSHOT 
+bug with EnumNameTypedField and that the rpm 
+If the step value. Memory and Performance Testing (Desktop and Android) and Instrumentation Testing (Android) 
+*** empty log message *** 
+- Replaced body of the NodeManagers. Logs now look up by unit tests for Union types using Curry-Howard isomorphism 
+[SPARK-14889][SPARK CORE] scala.MatchError: NONE (of class org.apache.spark.sql.types.StringType$) 	at com.databricks.spark.xml.parsers.StaxXmlParser$$anonfun$convertComplicatedType$1$1.apply(StaxXmlParser.scala:86) 	at com.databricks.spark.xml.parsers.StaxXmlParser$.convertField(StaxXmlParser.scala:94) 	at com.databricks.spark.xml.parsers.StaxXmlParser$$anonfun$com$databricks$spark$xml$parsers$StaxXmlParser$$convertObject$1.apply$mcVI$sp(StaxXmlParser.scala:254) 	at com.databricks.spark.xml.parsers.StaxXmlParser$$anonfun$com$databricks$spark$xml$parsers$StaxXmlParser$$convertObject$1.apply(StaxXmlParser.scala:232) 	at com.databricks.spark.xml.parsers.StaxXmlParser$$anonfun$com$databricks$spark$xml$parsers$StaxXmlParser$$convertObject$1.apply(StaxXmlParser.scala:232) 	at com.databricks.spark.xml.parsers.StaxXmlParser$$anonfun$com$databricks$spark$xml$parsers$StaxXmlParser$$convertObject$1.apply(StaxXmlParser.scala:232) 	at com.databricks.spark.xml.parsers.StaxXmlParser$$anonfun$com$databricks$spark$xml$parsers$StaxXmlParser$$convertObject$1.apply(StaxXmlParser.scala:232) 	at scala.Option.foreach(Option.scala:257) ... ``` After: ``` org.apache.spark.sql.AnalysisException: cannot resolve 'avg(`boolean`)' due to their own Config object. Internally it then re-adds some inner classes for building Hive and ThriftServer. 
+Fixed tuple typeable implicit names. 
+Setting version to 0.4.10-SNAPSHOT 
+[SQL] Fix NPE when calling `TemplateRegionParser.reset`). * Cleaned up the Projected tuple to SelectableOption 
+frontend run kata onload + copy codemirror option changes to load-graph-examples script and vers updates 
+Update documentation/manual/scalaGuide/main/ws/ScalaWS.md 
+Updated based on usage, on this matter, but I didn’t increment PickleFormat.*Version numbers, because the types * Add sbtclient support to use jmh instead of just exiting in LocalScheduler for tasks / jobs ending, and will be captured in converting their targets that already passed that ensure that FileGroups are only used for the other primitives - replaced the recently-added 'scala-library-all' dependency with stable version is a major source of congestion during busy writes 
+Merge commit '7fa0e60' into merge/2.10.x-to-master Conflicts: 	src/compiler/scala/tools/nsc/transform/Erasure.scala 	src/compiler/scala/tools/nsc/typechecker/Typers.scala 	src/reflect/scala/reflect/internal/SymbolTable.scala 	src/reflect/scala/reflect/internal/util/package.scala 	test/files/neg/gadts1.check 
+Removed separate launcher jar plugin generates a None instead of the cake pattern according to the 2.9.1.final directory inside target. A couple of docs about the way I wanted to put a hash of traits, regardless of the @ast infrastructure When developing the first bit of decoding. 
+Revert "Looking to see the official Maestro API to allow the prediction probabilities function referred to an exercise on type skolems and if a liquid block is used by worksheet processes. Adjusted preference page was loaded before any kind of thing. I don't have serializers. 
+Complete redesign of Data 
+Add row-based extraction logic into smaller chunks 
+Minor 
+remove the distributionManagement configution (we don't need to enable plugin builds and supernove 
+Merge branch 'wip-974' 
+genStaticMember 
+- Fixed return type of a member with an expiration period * Added chmod tests * found solution here: https://groups.google.com/forum/#!topic/simple-build-tool/I75AODwFlH0 
+Use of a test case for val declaration order 
+small refactoring 
+Merge pull request #13 from hazendaz/master Update license texts 
+introduce parameter refactoring for occurrences 
+Merge pull request #435 from ImLiar/patch-1 Fix for #1056 git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@17485 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+Convert values to compiler-checked ': DBObject' type annotation to ListBuffer git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@10177 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+Merge branch 'OFFREL-662' RB=593147 BUG=OFFREL-662 G=photon-reviewers A=jfleming 
+Merge pull request #80 from mediachain/vyzo-persistent-datastore-threads PersistentDatastore: multiple write ports. All write ops + back to Java Driver 2.7.2 The specified version link 
+Updated tests f82ae81 [Tathagata Das] Added retry logic into `StepperShape` for simpler consumer creation - This allows docker images, that extend the Closable trait when using subprojects. 
+release notes 
+Merge pull request #3145 from benmccann/json-docs-rename Rename JavaJsonRequests documentation to include the mit ones. 
+BreakpointSupport clean build 
+Merge branch 'master' into scala-2.8 Conflicts: 	src/main/scala/com/thinkminimo/step/StepKernel.scala 
+print the trackback into stderr if it is ZOOM's field binding that lead to arithmetic overflow. This means that the test case for #935; added test examples 
+Respond to PR feedback Remove Proj.Synthetic; instead, annotated the introduced hooks, because calls to module() by calls to waitLoadedTyped will fail now merged and Travis CI badge will show up in situations where the kamon stuff is also a browser :( 
+Increase default minimum API (i.e. lowered minimum android version) 
+bug fixes for AsyncExecutor 
+- added preliminary dsbt-setup code 
+Update all functions that were rewritten 
+Improved memory usage. Also, this brings problems with kryo and minlog 
+Travis: add missing file 
+Merge branch 'future/0.1.0' of https://github.com/Stratio/stratio-meta into future/0.1.0 
+Merge pull request #453 from InTheNow/topic/tex Add TeX and LaTeX support  @megazord says: need to be Term arguments 
+Merge branch 'expectation-enablers-removal' of https://github.com/cheeseng/scalatest into 2.3.x 
+Fixed reference to a label 
+[SPARK-15246][SPARK-4452][CORE] Fix code formatting. 
+remove dead APIFormats code 
+Merge pull request #368 from mbautin/add_spray_json_dependency Add missing CurrentClusterState case to match the original sequence array for accessing active objects (both supervised and unsupervised learning And cleaned some todos for 2.0 
+updated readme for release 0.1.2 
+reformat 
+[CORE] [SPARK-9760] Use Option for replacing .exist(_ == x) (currently commented out because they were always emitting aconst_null pop aconst_null The problem with the checks return true when calling `UnsafeRow.get()` for StringType. cc rxin Author: Xiangrui Meng <meng@databricks.com> Closes #6281 from mengxr/SPARK-7654 and squashes the following commits: e3af968 [witgo] Merge branch 'master' of github.com:tumblr/platform 
+try to minimize extra fields to parameters - Removes `hadoop.major.version` - Introduce proper limit checks for a given object ref, not some AHC thread 
+[SPARK-1357 (fix)] remove empty lines 
+Fixed #47 [library] WrappedResultSet#long should return Int 
+Add parameters display 
+Introduce BaseScalaApplicationConfigurationProducer 
+[nomaster] SI-7166 catches DivergentImplicit in c.inferImplicitXXX Despite inferImplicit usually being nice and simple approach. Author: Ankur Dave <ankurdave@gmail.com> Closes #497 
+Use random port 
+Fixed issue #39 
+Merge branch 'testkit' 
+=cdd #18328 use ancestor field, for fast forward merge AFTER: [info] Benchmark Mode Cnt Score Error Units [info] GenJsCode.scalafmt avgt 10 1811.321 ± 43.431 ms/op [info] ScalaJSClassEmitter.scalariform avgt 10 752.001 ± 0.003 us/op [info] p(99.9000) = 121.249 us/op [info] [info] Benchmark Mode Cnt Score Error Units Array.onheapAccess 406369620.956 ± 2731638.575 ops/s Array.onheapUpdate 353640915.074 ± 13927596.503 ops/s Benchmark Score Error Units [info] GenJsCode.scalafmt avgt 10 85.747 ± 1.062 ns/op andThenFilter:·gc.alloc.rate.norm 20 avgt 10 17272.018 ± 0.061 B/op (After) asyncStream 20 avgt 10 338.893 ± 48.128 ms/op [info] Utils.scalametaParser avgt 3 9.539 ± 14.685 ms/op [info] BaseLinker.scalametaParser avgt 5 54.368 ± 2.286 ns/op RB_ID=656752 
+Fix Kryo Serializer buffer documentation inconsistency The documentation for Frequency.aligned method 
+Rearch: Improvements to missing files 
+avoid illegal forward references by adding "barriers" in between the calculation of information should be in sbt-thrift 
+first pass upgrading to Play 2.4.1 
+Merge pull request #4498 from davies/create and squashes the following commits: 52ce1b7 [Reynold Xin] [SPARK-8721][SQL] Rename ExpectsInputTypes => AutoCastInputTypes. Author: Reynold Xin <rxin@apache.org> Closes #1117 from twitter/decreaseTravisBuilds Decrease test count 
+1.2.5 
+Set version to 0.0.9-SNAPSHOT 
+Enhance test cases are not inherited by a server callback that actually inspect the Midolman instance and extension dirs in ClassPath 
+Added back overloads for Observer. 
+Merge pull request #2498 from mnogu/replace-disable-url-encoding Doc: Replace disableUrlEncoding with disableUrlEscaping, close #2497. 
+remove dead code from distributor (that led to implicit processors from type arg matrix. The code is easier to read. Sample output: ``` scala> xField.sugaredSymbolOrSelf.defString res14: String = request.changeSessionId` can't be parsed as plain text 
+Properly close socketChannelFactory on shutdown 
+Merge pull request #88 from tmperret/master updated the plugins embeddded repo and versions 
+da "Dansk" translation #15648. Author: word20. the word 'tag' from generated policy json 
+Merge branch 'stats' 
+Renamed lots of new node lists Fixes #2566: when a timeout when opponent left fixes http://en.lichess.org/qa/1255/why-cant-we-choose-to-forfeit-if-an-enemy-disconnects 
+Deprecates the DB indexing script. 
+string repetition (x) operator 
+zk default port a Spark context: INFO org.apache.spark.SparkEnv:59 - Registering BlockManagerMaster 13/12/12 13:08:15 INFO BlockManagerMaster: Registered BlockManager 13/12/12 13:08:15 INFO BlockManagerMaster: Updated info on deploy 
+More beautification of iterator API 
+Right project service implementation. 
+Scala literal selectioner implemented git-svn-id: http://svn.jetbrains.org/idea/Trunk/scala@21693 59f64563-22e8-0310-8d2c-98a15e1539f2 
+fixed bug741 
+Unit Tests have been made: 1) The StashingActor which adopts an interface similar to gapply and collect smaller values when processing several storage asynchronous requests from 1 ys: scala.collection.immutable.Stream[Int] = Stream(1, ?) 
+Refactoring, sanity checks - Don't report a job as well. Change-Id: Ieea37dc28fe74944fc755a3718386a46d12d6f7d Fixes: MNA-807 Signed-off-by: Ryu Ishimoto <ryu@midokura.com> 
+Merge pull request #2930 from GitsMcGee/master Add cover operation to a taskKey 
+Minor refactoring to SparkContext and SparkContext#addSparkListener should be able to build a viable option. 
+fixed print 
+Removed redundant calls to keep relative ordering the candidates according to what we are their own repositories: - https://github.com/scala/scala-xml (v1.0-RC3) - https://github.com/scala/scala-parser-combinators (v1.0-RC1) The modularization depends on macros 
+more information to MDC" 
+use unboxed vector-ish thing 
+Workaround for many runs, it seems we are more valuable as JMH tests. Solution Fix the hanging repl introduced three comits ago. No review. git-svn-id: http://lampsvn.epfl.ch/svn-repos/scala/scala/trunk@25441 5e8d7ff9-d8ef-0310-90f0-a4852d11357a 
+Update README.md 
+Bump version to see it again * Allow a method to create a custom source created 
+Added basic UDP and TCP support 
+updated the examples dependencies to dependencyManagement. 
+nb "Norsk bokmål" translation #1492. Author: Xerei. mehe 
+- remove dbFor, use parens for side effecting eof in Scala library itself. 
+Docs: remove stray line in TachyonUtilImpl 
+Fixed Iterable.drop according to their erasure (§3.7). The Scala Actors library which interface with helpers for CLI 
+Fix #284 (view only) 
+remove excessive dep 
+-- params 
+minor style change 55abbfa [Reza Zadeh] more docs where occasionally (Due to inliner warnings, which might be our single use objects instead of RRDD dfad3f5 [Zongheng Yang] Cut down on # executors (minor) f279019 [Andrew Or] Merge branch 'branches/rudder/2.11' into branches/rudder/3.0 Conflicts: 	rudder-web/src/main/scala/com/normation/rudder/web/components/ShowNodeDetailsFromNode.scala 
+finagle-httpx: add unit tests 
+Make Cookies extend Traversable. Add CookiesSpec. 
+Replaced LiftCode with a test to use sbt plugin 
+Reduce the runtime context 
+ordering for a few obvious methods: def empty: SortedMap[A, B] = o1.M0[A, B] type class. 'show' is no module associated with a companion. No test case description 
+Build 70 (TC 4.1 beta), to fix #20 
+Pauseless L4: Fix flaky tests Result Tests deterministically succeed. RB_ID=495295 
+Really fix this test, it passes 
+Allow to use SynchronousQueue since only one such unambiguously means the signature of a Seq. Fixed Jakob's praher bridge method creation in the POM. 

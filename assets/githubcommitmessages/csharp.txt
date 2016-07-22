@@ -1,0 +1,1004 @@
+CSharp
+Most probable sentence: Merge pull request #1 from PFCKrutonium/master things 
+
+Likely sentences:
+Ini file reader stuff 
+Implemented VisualBrush.DestinationRect. 
+update loading sequence 
+Merge branch 'dev' of https://github.com/Azure/azure-powershell into dev 
+Use appveyor to preserve the tree 
+cleaned implementation and export/id handlers for deprecated APIs from that library (jquery.alphanumeric) in '/umbraco_client/ui' 
+Merge pull request #576 from Gama11/HaxeRefactorMoveNoPackage Refactor->Move: fix for Trace as it duplica… 
+Remove old SD.Dom resolver unit tests. 
+Fixed PageModifiers so that CouchbaseClientSections can be uninstalled or upgraded 
+2005-07-27 Martin Baulig <martin@ximian.com> 	Fix #79148. 	* anonymous.cs (ScopeInfo.AddChild): when adding new exception 
+Fix NRE with FixedMaskedTextProvider when value is a MemoryStream due to issue bot orders 
+Adding support for GroupBy 
+Added comment list page 
+LUCENE-4197 SpatialArgs.toString() shouldn't be there at the command dictionary (instead of stack size for classic ASP support and all calls to TryConnect svn path=/trunk/bitsharp/; revision=117010 
+2009-09-01 Atsushi Enomoto <atsushi@ximian.com> 	* XslFunctions.cs : Added directory. svn path=/trunk/mcs/; revision=65797 
+Merge pull request #46 from roverlabs/fix-for-missing-libs links to SharpDevelop wiki. 
+make GiveMcvCrateAction less stupid, if the values mean. 
+Added Singapore frequencies 
+Update Print and Print fonts. Missing documentation. Slow. 
+Update according to MergedAt now. It didn't really work. Show the 	 prebuilt System.dll could be considered a file even if we are changing the constructor's parameters. - Added extra NuGet package restore 
+Fix player velocity bug when adding new file 	for Windows support. 	 - Create another layer called Desktop that override ToString() 
+[Assets] Restrict Default Package to Object since c# version bugid: 300 
+Added vgy.me account support 
+Moving around some windows 
+Merge pull request #863 from teamneusta/pr/DispatcherWrapperExtensions DispatcherWrapper extensions 
+Merge branch 'master' into confuser 
+INCR to v3.9.10 - support for x64 and AnyCPU with .Net FormViewTest.cs: fixes for remote deployment scripts 
+Updated dinamico build script to match the recent changes svn path=/trunk/mcs/; revision=4498 
+#82 - Added editorconfig and Rebracer.xml 
+Port of Queries (Initial Port) git-svn-id: https://svn.apache.org/repos/asf/lucene/lucene.net/trunk@918703 13f79535-47bb-0310-9956-ffa450edef68 
+update 
+
+Revert the debugger addin. It has been done using: unifdef -t -DNET_2_0 -o <filename> <filename>. 
+r7013@prometheus: rbellamy | 2006-07-17 18:49:36 -0700 r9351@prometheus: rbellamy | 2006-07-17 18:49:35 -0700 r9349@prometheus: rbellamy | 2006-07-05 22:47:53 -0700 r6970@prometheus: rbellamy | 2006-07-05 22:47:58 -0700 r7000@prometheus: rbellamy | 2006-07-17 18:40:56 -0700 r9333@prometheus: rbellamy | 2006-07-05 22:07:27 -0700 These should be inserted if StringFormat is set depending on new source file that is recognized properly  git-tfs-id: [http://tfs:8082/]$/Behemoth/Trunk/Source/OpenSource;C935411 
+Bump version to publish too. Uses default if missing; like a project is created. In Initialize method, and some more problems 
+Fix missing XML Documentation Files (Issue #51) 
+Added .gitattributes from https://github.com/NuGet/NuGetDocs/pull/95/files 
+Builder: ImageResizer.Plugins.RemoteReader now is NotImplemented 
+Revert "Add a Gitter chat badge to README.md 
+merge -r 60447:60448 svn path=/trunk/mcs/; revision=23446 
+nant - moved all item stubs 
+Patch incorporated from SUSE, Neale reviewed it twice. 	 	* test/ptrarray.c: fix the issue even without FORCEINLINE. 
+Fixed RTMP crash, minor edits 
+More huge changes to strong type APIs instead of an already deleted esent index 
+Move code out of 3.294 seconds down to fit the new gacutil. Right now the folder not in IDE mode. Set a default of 14days. Added tests for importing it. 
+replaced by command executing context 
+Merge pull request #178 from rainersigwald/convert-framework-to-xunit Convert Framework tests to ensure the concurrent collection bug. 
+correct hoverboxes releasing fix 
+Removing APM and synchronous methods callable from the winforms branch, so it can check X# source code 
+Merge pull request #367 from willduff/issue298 Issue #298 - Show current branch or commit sequence it could run the minification, linting and compiler diagnostics. Compiler diagnostics don't supply any description or added apache license, cleaned up SetLocal to be gray | | \| | _| | _ \ / /\ ______( (_ / \______/ ,' ,-----' | `--{__________) This closes #3029 "PAL fpos_t clash with system database if it contains the updates were performed for freed blocks, resulting in page to link up the task will not broken. After some time will fall back to InitializeResponse for SSE instructions 
+Merge pull request #6011 from ramramps/Fix-regression-tests Fix the build system for Mono 
+New. permview.1 man page documentation; add MPH_INTERNAL macro for those accounts wasn't included in Sample releases anyway. 
+	* FileDialog.cs: Corrected TabIndex order and input encoding for hub methods with constructors - CCActionEase 
+cleanup 
+Rename Connection methods to apply the changes in groups. 
+Removed System.Windows.Forms dependancy again. Updated the version number in all .htm pages. * Fixed OpenFile opening a new item to tray again (#492) 
+Fix the previous commit which doubles Lava performance 
+svn path=/plugins/c#/Http/Webinterface/trunk/; revision=3476 
+Добавил атрибуты SqlQuery и Format. git-svn-id: https://bl-toolkit.googlecode.com/svn/trunk/2@191 827d3e3c-cb35-0410-a708-6b02db8f8db3 
+A few improvements to the url 
+Add debug asserts into client code. 
+Different thread count defaults 
+Return runtimecore from LoadAndExecute 1. Return runtimecore from LoadAndExecute 1. Return runtimecore from LoadAndExecute 2. Remove the backbuffer size and set the IResponse.ErrorCode without having a null or is there but does check field 	signature or the type. svn path=/trunk/mono/; revision=67979 
+post-integration fixes 
+Used PathGradientBrush and tuned each portion to run server line from package.config for fakebuilder's deps 
+1) Added BigNumber bindings for null obstacle list on the String class. svn path=/trunk/mcs/; revision=1980 
+2002-08-19 Gaurav Vaish <gvaish@iitk.ac.in> * Utils.cs -- Added ability to use AssetClonerFlags instead. Remove a fossil that caused a dialog when retargeting. Previously when checking for the OS. I have now been deprecated) 2008-01-24 Andreia Gaita <avidigal@novell.com> svn path=/trunk/mcs/; revision=6216 
+fixed playback of MP3s smooth in all but Windows platform 
+Add support for Fixie test runner for the 2.0.0 rtw packages for Unity versions earlier than 4.5. 
+Let exception to the variable graph. 
+Fixed a state where it can lock up and down on repetitive code 
+Merge remote-tracking branch 'upstream/master' into IOperationFixes Conflicts: 	src/Compilers/Core/Portable/PublicAPI.Unshipped.txt 	src/Dependencies/VisualStudio/project.json 	src/Features/CSharp/Portable/CSharpFeatures.csproj 	src/Features/Core/Portable/Features.csproj 	src/Workspaces/Core/Portable/PublicAPI.Unshipped.txt 
+Fixed issues with the symbol tables with multiple properties with multiple arguments are object files 
+prepared integrated MCE remote is being dragged. Overall, it makes sense). - Added support for JS users). 
+refactor: EventRaisingSpecs 
+ButtonsPlacementVariant -> ButtonsAlignment 
+Introducing Catel.MVVM.Xamarin.Forms project 
+Fixed the wrapping of DbProviderFactories that are to be enable or disable it for definitions. But it’s only really exists 
+Added shadow that has a Description, put that in gdk-sharp.dll.config. 
+Merge pull request #774 from Ijwu/general-devel Fixes ItemDrop exploits. 
+no message 
+Merge pull request #417 from DeanMilojevic/master Support for Win7+ Reworked Dispose/Init sequence on a mac. 
+basic user control 
+[Native] Ensure that at least one digit afterwards 
+Update the Single method (because more than one type forwarded. svn path=/trunk/mcs/; revision=84141 
+Expose IMongoDatabase interface. 
+Getting ready for 0.3 and use it for now. 	* mini-alpha.c, mini-amd64.c, mini-arm.c, mini-hppa.c, 	mini-ia64.c, mini-mips.c, mini-ppc.c, mini-s390.c, 	mini-s390x.c, mini-sparc.c, mini-x86.c: 	move to a plain IList As IList<T> is not required right now. Another disadvantage was that there are now cached #322 
+azure stack management of timeouts that would resolve to a pair of braces 
+modify AddPreset to take the code review comments 
+Changes the greymed color to transparent when initializing entities 
+mysql/NHibernate.Test.last-results.xml: Update from tv engine 
+Separated BCMS sitemap module added. 
+Compute SVG document via listener (it will do that, we put the 	explicit layout as 	MS, not the base implementation. While we encourage developers to create v1.0.1 packages 
+use c# script 
+[AutoTest] Handle stock ids when using tarnsformers Removing a bunch of unit tests for performance (no allocation) but prevents us from having to writing invalid values to enum type as an additional argument to mono_create_jump_trampoline (). 
+changing channel - it is unused 
+Added new file 
+Fixes #42 Changed how the GO splitting regex and remove the 32bits parts of the hour component is in portrait * Always return true, otherwise a missing file 
+Mac: Set background color 
+permission stuff svn path=/trunk/mcs/; revision=26087 
+Fixing HomoIcon for Aliases that has fields defined in settings.ini 
+Version updated to a CFURL and extract method screenshot 
+2005-04-28 Sebastien Pouliot <sebastien@ximian.com> 	* CodeGeneratorOptions.cs: Fixed how EnumMap serializes flag values. 
+update obsolete attributes for results-index view 
+Updated enabled to support git-tfs-id: [http://tfs2010.sones:8080/tfs/sones]$/Experimental/IGraphFSReDesign;C2611 
+Now that is already instantiated instance of code base. 
+Ellipse drawing convenience functions 
+2003-07-24 Sebastien Pouliot <sebastien@ximian.com> 	* NetCodeGroup.cs: Resolve() will now fall back to zero where no Output and Error event in RaisePostBackEvent (). 	Register for validation groups. Some minor cleanup to video pin is now used for internal callback helpers, 	pass NS to parms ctor svn path=/trunk/mcs/; revision=91604 
+Stopped the "Create a Database" command to log 
+Merge pull request #29 from corradolab/menu_fix Fixed menu to run as sudo. 
+Code cleanup - moved content of error pages. Update example project 
+* MonoDevelop.SourceEditor/SourceEditorView.cs: Use the queue at the very first test 
+Removed section on viewing the serialization constructor patch - Refactored and documented exception to this error means that even if the principal of the shader resources weren't in order to make a bit later in the target site supports ssl. 
+[StreamingAudio] StreamingPlayback.cs code formatting to slider style 
+Merge pull request #463 from am11/master FileHelpers: Avoid BOM. (ai/postcss#46) 
+Fixed issue in CastleDynamicProxyGenerator 
+Reverted commit that adds Elmah configuration to avoid computing costly cluster informations after the signal elems. 	* atk/atk-api-2.12.raw: 	* gdk/gdk-api-2.12.raw: reparsed. 	* gdk/gdk-api-2.12.raw: reparsed. 	* parser/gapi2xml.pl: fix tightloop in single-line statement'. 
+Moved test of mixed line-endings This is analogous to the gatewat, now commands can occur. 
+Merge branch 'hotmd' Conflicts: 	src/DotNet/Writer/BlobHeap.cs 	src/DotNet/Writer/GuidHeap.cs 	src/DotNet/Writer/StringsHeap.cs 	src/DotNet/Writer/USHeap.cs 
+Actually adding backup item 
+new sidebar icon. 
+Ensure custom InputDevices update their stats at regular intervals svn path=/trunk/bitsharp/; revision=156065 
+Remove delegating method 
+Add OpenAL support to get person popup html test sample code to remove hard deletes during scavenge Add functionality to read from input and config files 
+Added unit tests 687 REPL intellisense doesn't work with Fakes installed with SWTBot, but you do a 	conversion between MonoString and 	MonoArrayObject to MonoArray. Change some "as" casts to use yard-pound or not any changes 
+fixed @DYNPROXY-171 We would previously return the full info. Introduce a mini-PAL into Microsoft.Win32.Registry 
+Removes stray semicolons from trailing parens and braces in tokens --HG-- branch : mvc3p1 
+fix build system) Fixes steam directory if it needs to be executable on path 
+Added verification code Expected values are rounded to whole window, title bar shows red even if the NuGet package, but doesn't 	work under MS. svn path=/trunk/mono/; revision=142657 
+Added custom sorting caching hel… 
+Fixed combat ratings used 
+Fix tiny typos in fra_OCRFixReplaceList.xml 
+Adding a sample for ExtendedSwitch 
+fixed timer handling in ActionResultFilterEndPoint 
+Rules.NewUnitInfo rename -> ActorInfo 
+修改方法名 
+[mcs] Suport recursive references of Ncqrs.EventBus.csproj and Commands.csproj. 
+Moved exception classes and project file 
+1.5.1 - updated Quartz to 4.5.1 
+Update code-gen projs 
+Passed All Tests context menu 
+Merge pull request #457 from jianghaolu/siav [#106697448] Support default (which, here, means nameless) class-instance constructors 
+no message 
+ServerManager: moved server manager to UI freezing problem. 
+Add MetaData table 
+2008-09-10 Jonathan Pobst <monkey@jpobst.com> 	* ToolStripProfessionalRenderer.cs: Don't paint over a certain attribute is found for the rest of TextView svn path=/trunk/mcs/; revision=29633 
+fix comment position. svn path=/trunk/mcs/; revision=48183 
+Merge pull request #173 from dpaquette/CommandQueryRefactor Command query refactor 
+2003-07-23 Miguel de Icaza <miguel@novell.com> 	* Encoding.cs, UTF8Encoding.cs, UTF7Encoding.cs, ASCIIEncoding.cs, 	UnicodeEncoding.cs: Corrected API. 	* DbCommandBuilder.cs (CreateInsertCommand): Workaround for mantis #2151: TvPlugin uses new SetOwner instead of loading the carddb occours (#1426) 
+Don't show declaration keywords while typing preprocessor directive in header 
+Merge branch 'FixDuplicateUsingBug' into develop 
+Print remaining REPL output if the method it is working d2301fc Incremental backup - if a source only packages `GameData/`. 
+Failing test: RavenDB_1205 - ExplainScores was lost during merge" This reverts commit 5093efd55883e8a8a093fdb43d938d7b9dde7a4e. Revert this as it is not set. 
+* reflection.c (my_mono_class_from_mono_type): Added MONO_TYPE_GENERICINST. 	(stackval_to_data): Added MONO_TYPE_GENERICINST. 	(stackval_to_data): Added MONO_TYPE_GENERICINST. 	(stackval_to_data): Added MONO_TYPE_GENERICINST. 	(stackval_to_data): Added MONO_TYPE_GENERICINST. 	(stackval_to_data): Added MONO_TYPE_GENERICINST. 	(stackval_to_data): Added MONO_TYPE_GENERICINST. 	(calc_offsets): Use mono_class_get_full() and mono_get_method_full(). 	(ves_exec_method_with_context): Likewise. svn path=/trunk/mcs/; revision=24091 
+Use Exchange publish in upcoming episodes / repeatings 
+cancel message for a GetField under compiler context. * Also update message #372 [skipci] 
+upgrade showplan.xsd to version 5.0.4 
+2010-02-24 Zoltan Varga <vargaz@freemail.hu> 	* TypeBuilderTest.cs: Added test cases that Dev12 compilers did not actually work the way it looks like they are triggered). 
+Adds FileSystemDataFeedTests 
+REFACTOR: Make the previous fix, and add a try/catch block. 
+First pass at implementing support for PerMonitor DPI awareness in compiler. Task has completed. 
+Added code for enums, for docs, as per nyerguds' rules.ini 
+No Prefab 
+
+Moved schema generation 
+Once the lock free nursery allocation. 	* reflection.c (method_encode_clauses): Take a very long time ago in https://github.com/SparkDevNetwork/Rock/commit/c9efc5b107f4121d674db8fb474506a620053fc0) 
+CCNET-1681: Ensure the Loading indicator back. 
+Fixed #16 Hooked up keyboard and remove unneeded whitespaces removed 
+Add Tier support to configuration and Internet Explorer compatibility fix 
+Rename HuskActor to Actor 
+ImpactControl: Added Authors property 
+Merge pull request #1946 from mikem8361/unwindi Fix sos on windows. 
+Add verbose generic type of Type. 
+Merge branch 'master' of https://github.com/Cocos2DXNA/cocos2d-xna 
+Fixed potential deadlock in EndToEnd tests One of these platforms support imt now. 
+Maintain tree tools when a button once to force mod on file sementer 
+#34 Re-design of the test project. 
+- Updated the MyConnections block 
+CR feedback on tuple target typing 
+Resolved #131. 
+Created Context class 
+MusicDB Reorg didn't use anymore. Included the update check to AddRange overloads and updating code and test release (note: only compatible with .NET svn path=/trunk/mcs/; revision=127642 
+Update to Java commit 4a22e3a, 4a22e3a (2012.04.30, 2012.05.02): reduce can be resized. 
+Merge remote-tracking branch 'upstream/dev' into dev Conflicts: 	Modules/BetterCms.Module.Blog/Api/BlogsApiContext.cs 	Modules/BetterCms.Module.MediaManager/BetterCms.Module.MediaManager.csproj 
+Merge branch 'master' of https://github.com/DynamoDS/Dynamo into Recharge_Ellensi 
+[SMCalloutView] Added SMCalloutView v1 
+Merge pull request #377 from TicketSolutionsPtyLtd/master Found a text editor mode or API key setting for Web Search plugin 
+Merge pull request #8160 from mmitche/refix-stat Fix --exclude tar argument on a stable sort 
+Update 1.2.0.md 
+2004-07-02 Gonzalo Paniagua Javier <gonzalo@ximian.com> 	* Win32Exception.cs: added 10024 (WSAEMFILE). svn path=/trunk/mcs/; revision=102184 
+removed Default SerializeJson/DeserializeJson as static content convention extensions to upper case - renamed IKernelInternal.LazyLoadComponentByKey and IKernelInternal.LazyLoadComponentByType to IKernelInternal.LoadHandlerByKey and IKernelInternal.LoadHandlerByType respectively. This will make app startup a lot of improvements and scroll events 
+release: Small changes to controller registration (plugin-compatible model) 
+XmlNodeListChildren implements XmlNodeList for XmlNode.ChildNodes svn path=/trunk/mcs/; revision=112482 
+Enum fix; started migrating to 1.0.0-beta5-11722 or newer so then storing xmm0 at $ebp-24: 	movaps	%xmm0, -24(%ebp) would write to the insufficient funds warning 
+[Ide] Switch OptionsPanel to Control. 
+Don't hide explicitly triggered completion list window padding 
+Further flushage svn path=/trunk/mono/; revision=65751 
+Remove unnecessary code Negative: * doubles the speed up x2 a regular queue with a build 
+HeaderCollection: add PopulateRequiredHeaders Adds headers with multiple application domains. svn path=/trunk/monodevelop/; revision=50669 
+Merge pull request #1323 from arekais/staleness-optimization-fix Applying staleness detection for Mono 
+Fix for #621. 
+xml doc updates 
+First simple MPNG version. There are currently creating gui objects is now multithreaded display names to match nuget package from Release Restrictions when pressing ';')". svn path=/trunk/monodevelop/; revision=122647 
+Disable Ping and tests 
+cosmetic 
+[Engine] Finalized UIRenderFeature to work well enough for most cases we change project to WP project from UAP to UWP output folder for testing. git-svn-id: http://encog-cs.googlecode.com/svn/trunk/encog-core@17 0d3f3ea6-ac51-0410-a1de-edb5cd2a854a 
+[System.Windows.Forms] Recreate FosterWindow when required 
+When creating a module will not be taken up a dialog every time. 
+cleanup 
+no message 
+Added build tool bootstrap. Also updated all projects to build. svn path=/trunk/mcs/; revision=22809 
+Initial Gtk3 platform 
+Merge pull request #494 from AlwinHummels/master Update CONTRIBUTORS.md 
+move card opacity transition options to the underlying bytes of SocketAddress 	string svn path=/trunk/mcs/; revision=13634 
+Loading: additional disposed check for duplicate named arguments 
+Fixing Exceptions test 
+Merge pull request #1200 from vweijsters/SA1504-codefix 
+Merge if 
+* Copy.cs (CopyFile): Don't copy referenced assemblies. 	(mono_debug_update_symbol_file): Initialize classes if the file as 'null' instead string.Empty. Fixed. git-svn-id: http://svn.castleproject.org:8080/svn/castle/trunk@2814 73e77b4c-caa6-f847-a29a-24ab75ae54b6 
+Fixed: Humanized size show as a leaf-node. However if Write was never part of configuration (xml, object or in our test projects, fixing demo project dotnet 
+#38: Make Socket(SocketType) ctor Obsolete. Application-wide context objects when we sell it 
+Merge pull request #1163 from mconnew/UseWaitHandlePerfFix Prevent spin-waiting by using the portable class libraries 
+Superflous array declaration :-( git-svn-id: http://svn.castleproject.org:8080/svn/castle/trunk@1094 73e77b4c-caa6-f847-a29a-24ab75ae54b6 
+Flush svn path=/trunk/mono/; revision=120256 
+2004-02-10 Marek Safar <marek.safar@gmail.com> 	* import.cs: Intern arrays used in a validator instead of its requests to this change. 
+Merge pull request #11761 from CyrusNajmabadi/replacePropertyTrivia Properly handle case of low level code out for user notifications were broken for a source observable (otherwise why are we in. Finally, IL body deduplication can always be initialized. There are some new Hungarian tunningdetails. 
+Removed games trying to make it look good in terms of the undo manager. This bug only manifested itself by matching the exisitng behavior of all test cases for Pixel & Table layouts) 
+add support for uspres, nonuspres, or infinite rules) 
+stub out sat channel scan is missing for security in 2.0 RTM. 	 ReadTypedValue() not to be repeated in multiple warehouses. P.S. It's disabled in R Tools | Options | Text Editor | R | Advanced 
+Adds a button name to match the currently active view content. Every view element created was modified to include any logic in ConsistencyCheck. 
+videojs skin finished (I think). 
+tweaking the ActionCall.Equals() 
+Move dummy_use to a property with any toplevel X call instead of the VSSDK 
+Merge pull request #33 from NzbDrone/not-in-queue Not in XNA provides positions and labels to document bug seems to be a null check, that field to LogOnDetails. Added SteamGuard and sentry files. This is useful for packaging can work through big lists if needed (Closes #56) 
+2009-03-24 Rodrigo Kumpera <rkumpera@novell.com> 	* MonoType.cs (ContainsGenericParameters): Implement this class creating extra lists by index, and by 	using a StringBuilder. SVN: trunk@854 
+Added support for precompiled headers, better grouping of backends 
+Added property-ref support to Autorest. 
+Merge with 1.x --HG-- branch : 1.x 
+Bumped MimeKit 
+Fixed reference versions. svn path=/trunk/monodevelop/; revision=85689 
+[Core] Add a screenshot 
+Update CodeCleanupAvailabilityLogic and CodeCleanupManager. 
+AbortTransaction made private 
+
+Removed unused field. (.ctor): Remove .ctor with @language parameter. (WriteFileInternal): Always update the value parts of Cake's internals. Closes #646 
+DNN-6189: add missing xml comments on wix3 pull request #63 from Haacked/fix-build-script Remove unknown one 
+added Xml comments for feature that expands "<inheritdoc/>" 18c96e0 Add support for HttpPostLocalhost and HttpSoap12 svn path=/trunk/mcs/; revision=74267 
+RavenDB-2478: continued applying improvements to LMF. 
+Update outerloop badges to new policy system. svn path=/trunk/mcs/; revision=35522 
+Make build with GCC 4.9 
+
+2008-06-06 George Giolfan <georgegiolfan@yahoo.com> 	* ThemeVisualStyles.cs: Added support for minutes at most. Considering the following Issues: #49 - File Saved to Upload Root on Version Save 
+Merge branch 'master' of https://github.com/ayende/ravendb 
+Remove unused usings 
+* Mono.Debugging.Server.Mdb/DebuggerServer.cs: * Mono.Debugging.Server.Mdb/BacktraceWrapper.cs: Fixed NRE. svn path=/trunk/mcs/; revision=3665 
+Cleanup platform detection from a @Page 	directive. svn path=/trunk/mcs/; revision=53946 
+Added MDS sample 
+Installer fix for null StringClob insert SVN: trunk@1621 
+Added DeleteRelationship signature. 
+Fix generating ValidateSet for key pair protection for bootfiles. 
+Small cleanup and reverting back to delegate to its protection level - Registration for ThemeResource markup extension conversion fix. 
+Don't call flush anyway, even on select point/uv on face tests 
+Implemented CornerRadius for ComboBox, Enabled property (2.0+) 	RaisePostBackEvent must be processed (after an asset upgrade) 
+Fighting with Notepad --HG-- branch : dev 
+Fixed adding a new torrent). Disabled by default. svn path=/trunk/mcs/; revision=401 
+Merge branch 'stable' * stable: (GH-414) Ensure choco pkg is known to be 3 
+Merge pull request #5284 from pboyer/enablecustomizer Enable Customizer publish capabilities in two panels: build and the 'f' and 't' (assembly timestamp). svn path=/trunk/mcs/; revision=141785 
+Merge branch 'master' into ui2014 
+2009-11-04 Zoltan Varga (vargaz@freemail.hu) svn path=/trunk/mono/; revision=127103 
+update link url now includes Spring in the selected commits separated by comma 	We're currently including the ability to make some changes to coreclr 
+Merge 
+- fix field mappings fluently 
+no message 
+Add C++ support for StreamResponse 
+Merge branch 'Hitcents' of https://github.com/xamarin/prebuilt-apps into Hitcents 
+Use proper color when switching from selection. 
+Skip a few tests where a bullet ( removed <li> ) 
+Merge from HEAD. svn path=/branches/martin/anonymous-methods/mcs/; revision=66154 
+Revert the behavior from EF6 update" This reverts commit 84e621f4f618ca58b81741ed809c7842748fbf5f. 
+Renamed skinengine project to each file to markdown help. Maintaining the external button 
+Update python generator. This is not correct. 
+Removed signs from JSON. 
+Fixed implicit constructor in try/catch error in ac81d38acc76438028dc3f06704f21c147adc565 
+Merged convenience changes. 
+More build work with edge, add mathjax scripts 
+2008-08-28 Zoltan Varga <vargaz@gmail.com> 	* Environment.cs: Bump corlib version. svn path=/trunk/mcs/; revision=59862 
+2002-03-17 Nick Drochak <ndrochak@gol.com> 	* ArrayList.cs (Wrapper): Preliminary implementation of AssignOutAndRefParametersLazily 
+2004-04-24 Atsushi Enomoto <atsushi@ximian.com> 	* CustomPeerResolverService.cs : implement CreateDataReader methods 	* makefile: Ignore CS0162 and CS0169. svn path=/trunk/mcs/; revision=31355 
+Merge pull request #1248 from elasticsearch/feature/precision-and-orientation-geo-shape fix #1247 add support for setting __echo=1 to see if the clipboard and last finger is released, it counts almost no objects, and not errors. Report every missing guid in ProcessHeader 
+R# format 
+removed date handling 
+fixed up NPC.IsNPCSummoned 
+Fixes #291 - some platforms during 	startup. 
+fixed resolving relative paths. "Dir\\..\\file.txt" 
+fixed small problem introduced by rebasing MVC4 branch. 
+RDoc-76. Registering convention for step counter built in, the user with implicit property accessors, MD barfs unless these have been anyway) and reorder methods to handle gracefully. 
+Prepared to add functionality/code to Skype. Need to re-do it. 
+Added subtitle format 
+Use default equality comparer of the rangefinder 
+Added Aito DVB-T DUO Cardbus Card 
+Fix projects reference issues with enums'. svn path=/trunk/monodevelop/; revision=92068 
+Added a StatusText property to split index creation logic for trimming unnecessary newlines. 
+Adjusted channel stack to Core test project 
+FetchWithMerge method refactored 
+Merge pull request #18 from BudgetFirst/travis Fix Travis build... again 
+Revert "Updated reference to the primary. 2008 .sln is no adverse affects, so checking the 	array check after the last implementation. 
+Fix #79238 * icall.c (ves_icall_System_CurrentTimeZone_GetTimeZoneData): 	get daylight change dates better on Android." This reverts commit b383614e6689e109852979d1a8788d324241d540. 
+Add an ellipsis is needed for extended path support, with and without the CmdletBinding attribute 
+Extract the live servers. * Updated Readme.md with url and append behavior. 
+fixes #309 - Clean up tree-index compare for szarray. svn path=/trunk/mono/; revision=81 
+Fixing #2480 to produce the monotouch profiles. monotouch is now its fixed svn path=/trunk/mcs/; revision=43737 
+
+Improvements of on-the-fly as that can observe backup and restore the message in Request thread 
+3.1.33 
+1.8.22 - fix for SA1019 
+implemented: RavenDB-1880 hide system database 
+Test fix to handle retrieving images with the popScene(with transition). 
+Name refactoring, typo 
+Core: Replace ImageState.imageAttributes with float[][] ImageState.colorMatrix - permits InternalDrawImage to be used. Externally, not much point in DAM after it was obsolete. * Remove rc2 builds from continuous builds. 
+Add ellipses to menu 
+Mission changes Mission changes Mission changes Mission changes 
+2008-05-19 Zoltan Varga <vargaz@freemail.hu> 	* inssel-long32.brg (CEE_CONV_I8): Convert this to a Scan namespace 
+There is no default screen, e.g. running `mdoc assemble' on an test to verify that pingInterval behaves correctly with the access token responses. 
+Merge branch 'RavenDB-3095' of https://github.com/myarichuk/ravendb 
+Dropped support for HttpPostedFileBase using reflection. 	Flush - Re-arraning how variables are unique within an enumeration to make more sense to map parser constants to constants instead. 
+Made some additional sections in InteractiveWindow.vsct to match our newly created class/struct/interface; 	set their Text attribute using CustomAttributeData -Fixed immutable collections 
+Applied patch by Andreas Nahr). svn path=/trunk/mcs/; revision=12915 
+project.json: /src/xunit.core 
+2007-10-25 Lluis Sanchez Gual <lluis@novell.com> 	* MonoDevelop.Ide.Gui.Content/IEncodedTextContent.cs: New interface. 	* DwarfFileWriter.cs: Largely reorganized the bugs 
+Non-working shoutcast conversion due to merge. 
+Test DataContractSerializer with duplicate constructors in C# client - Changing the file on disk. 
+Show how many songs with multiple cursors sharing the same Name! 
+Fix problem in App.Runtime.vb. 
+Minor cleanup of sample 
+Merge branch 'test' of github.com:kellyelton/OCTGN into test 
+FormSubmodules selected item was being limited to the music player 
+Merge pull request #36 from IvanKupriyanov/develop Fix for NullReferenceException when creating a beta 
+Moved the code is trying to use On-Demand Resource in all views. 
+Fixed TileLocation 
+More Scaleout renames. 
+Add EQ DN and EQ AN to Apoapsis maneuver 
+Python menu options Those options are displayed even if it is now After() - changed the warning message 
+Body content would cause either duplicate entries resulting in the tooltip" 
+improved the bootstrap library cleanup 
+Squashed 'NRefactory/' changes from mono. 
+IBindingList now inherits ICakeContext. 
+tidy uid->map lookup in DragHusk 
+git-svn-id: http://svn.castleproject.org:8080/svn/castle/trunk@351 73e77b4c-caa6-f847-a29a-24ab75ae54b6 
+Merge r3541 (fix NH-1332) SVN: trunk@3542 
+fixed bug in Mono  git-tfs-id: [http://tfs2010.sones:8080/tfs/sones]$/Experimental/IGraphFSReDesign;C2090 
+Auto-trigger outerloop CI runs tests. Used by AspGenerator when extracting it. 
+	* MenuAPI.cs: On instance of an "IOException: Lock violation on path after XS stops * Make a clone of the test list name on the blog posts exporter, created tests for episode metadata, .metathumb files (jpegs) for episode file quality (regression) Closes #1022 
+Implemented basic touch controls  git-tfs-id: [https://devsense.visualstudio.com/DefaultCollection]$/Phalanger/Main;C6914 
+Fixes #137 
+dded explicit accessors 
+Merge pull request #337 from akoeplinger/xml-doc-fixes Dataflow: Fix the implementation for Text namesapce. 
+Refactoring and documenting 
+Revert "Started using Zoom & IE UI issue that was occurring in the graph endpoint when resolving 
+Simplify endpoint url tests to synchronize Source/Media of a good known solution. 
+Merge pull request #201 from dandezille/master Fix typo in IsRequiredCastForReferenceEqualityComparison: no casts parented by an event handler we attach. **Fixes** This change flips the method VerifySchema on ActiveRecordStarter git-svn-id: http://svn.castleproject.org:8080/svn/castle/trunk@3947 73e77b4c-caa6-f847-a29a-24ab75ae54b6 
+Merge pull request #1035 from StephenBonikowsky/MergeSharedScriptsWithCorefx Updating shared scripts. * Since the test I broke the region code a bit. 
+1.7.15 - column formatter: multiline works 
+Updated Int64 tests 
+added missing BitCount method to instantiate objects with no knowleddge of which generate these. No logic change. 
+SO parent child example 
+Added operators for VB  * Correct spells which can be subclassed --HG-- branch : 1.x 
+Update SS dlls 
+- Applied patch from Marcus Griep git-svn-id: https://svn.codehaus.org/boo/boo/trunk@2714 2c1201b4-01cd-e047-a400-b836ae1fbc61 
+DNN-3620 - upload Next Steps.txt svn path=/plugins/c#/Http/Webinterface/trunk/; revision=3590 
+Revert for commit messages. 
+Win 10 
+2006-10-20 Jonathan Chambers <jonathan.chambers@ansys.com> 	* ComboBox.cs: fix some tests for some reason. That requires a patch by Michael Aird 
+Fix #2004 by updating to use @metadata instead of xslt param to Hub.OnDisconnected to distinguish vectors from Mono/Windows (cannot yet compare 	with CryptoAPI/Windows as OAEP isn't available in user stack resides the user agent to create a Attribute migration for changing the size of the System.Drawing assembly to v2.6 to fix SD2-599 - cut, copy and paste error 
+Fixes to GL.DepthRange and GLClearDepth for OpenGL and OpenGLES 
+Revert (partial) "[Shaders] Enable shader compiler warnings svn path=/trunk/mcs/; revision=19730 
+ripple-izing for the same range of bug fixes git-svn-id: http://nettopologysuite.googlecode.com/svn/trunk@829 53ca42c3-9f19-0410-8ccb-b990a9bb5db6 
+Implement the recursive definition on .Net 3.5 projects 
+Added EnsureDatabaseExists call to PerformanceCounter.Exists can hang 
+DiSEqC LNB selection & history color adjustments. 
+Added some more sonar issues 
+[Ide] Translate to Korean language added in advance 
+Merge pull request #2192 from arekais/RavenDB-3434 RavenDB-3434 Valid fix for issue 922 
+Fixes for SPARQL delete pattern bug See http://github.com/structuremap/structuremap/issues#issue/3 
+Approved API changes 
+Avoid error when using New-ACMECertificate -KeyPemFile X -CsrPemFile X 
+cpp: move source reader as a branch and Roslyn on Mono. 
+Cleaned up code a bit better... still not really able to reserve for jump stubs sometimes). The delegate is the case of targetting regular integration tests - renamed Data of Sina Weibo By MongoDB 
+Added JsonIgnore for description... which doesn't work in 7.2.2 
+Region is a cleanup of WingAerodynamicModel stuff, fix falling sand/gravel Fixes #69 
+* ComboBox programming finished. 
+Added CvsFileSet.cs to project 
+2006-01-18 Lluis Sanchez Gual <lluis@novell.com> 	* TreeNodeBindingCollection.cs, TreeNodeBinding.cs, TreeNode.cs, 	TreeNodeCollection.cs, TreeNodeStyleCollection.cs, TreeNodeStyle.cs, 	TreeView.cs: Initial implementation. 	* gdk/EventKey.custom : Created it so it immediately fails the bool operators; replace with open-source custom font &icons 
+Sort out order type 
+[immediate] preliminaries; comp_unit 
+Fixes teamcity issue with bad winforms and world configuration to an XSD for Vault. 
+Merge pull request #110 from SteveCote/WaitAndRetryActionWithCount Wait and Unregister cmdlets 
+Moved logic to be subscribed one to one script now, refactored handling of XmlGetAttribute 
+Update TODO.txt 
+Merge pull request #18 from inohiroki/master Fixed BitmapConverter2.cs 
+All core files and removed ClosestLocationService. -Upated test relying on old kernels. 
+Thu Feb 1 15:32:36 CET 2002 Paolo Molaro <lupus@ximian.com> 	* mini.h, mini.c, mini-x86.c, mini-ppc.c, mini-sparc.c: move 	mono_spillvar_offset() to arch-specific code. svn path=/trunk/mono/; revision=30942 
+Resolve Key and provided XChainOperator to apply the current RegionInfo using CultureInfo 
+Build nuget only adds Android as of PHP serializer exception throw  Originally checked in by DEVSENSE\Jakub on 2013-06-26 15:13:35.417 as Changeset 2323  git-tfs-id: [http://falcon:8080/tfs/Projects]$/Phalanger/Main;C2180 
+Switched to binary dependencies. Updated them to the search result animation now uses regular expressions scans since they really worth the effort. Sandcastle Help File Builder: - Fixed bug [#728]. 
+Merge --HG-- branch : dev 
+2006-09-20 Marek Sieradzki <marek.sieradzki@gmail.com> * BuildItem.cs (ctor): Added ImportedProject argument and permission grant classes. 
+Use an array with a couple UI issues when setting configuration to exit with Mac 
+more tests for X509SecurityToken. svn path=/trunk/mcs/; revision=1272 
+tidy in WidgetUtils 
+[Version Control] New UX with Review/Commit. Removed Commit command which generated the designer kept loosing them, stupid winforms designer. 
+v3 comp for remote 
+Updated UI New: Ability to dynamically show the build by removing typeahead and using inheritance 
+Merge pull request #250 from realm/ad-quick-makefile-fix Minor makefile fixes svn path=/trunk/monodevelop/; revision=148129 
+Various build warning - see loads of less than 2.0 
+DbEnumerator.cs, DbDataRecord.cs: refactoring; DbDataRecord.cs: GetValue() should return bool, indicating whether "Edit cart" URL should not fail in the past) SVN: trunk@4421 
+Fixed nuget dependencies. 
+Maybe fix issue with pixel spacing. --HG-- branch : 1.x extra : convert_revision : svn%3A712752d5-f020-ad4b-8268-b7cbb332fca5/trunk%401131 
+CurrentClass() doesn't need to get rid of titlebar custom impl 
+Fixing a unit test 
+Fixed ConstructedType.DeclaringType for inner exception is the first compile. Statstics of Roslyn being installed into the main motivations is to address all code from TVNotifyYesNoDialog & added unit test. 
+allow assembly to Microsoft.PowerShell.Commands.Management 
+Adjust MRJ tooltip description for ProviderOperationsMetadata 
+(+) Added ContextHelper to Android 
+Added prototype of composite keys and the .gitattributes 
+Fix bug DNN-3860: redirect page 
+Allow Fk to use VSTestHost instead of files and options onto HasPermission and HasCreatePermission calls 
+Added tool strip and removed linked files in correct order Fix for #886 
+[ExecServer] Fix issue #55 
+
+2003-08-05 Sebastien Pouliot <spouliot@videotron.ca> 	* AllTests.cs: Run the concurrent list to include more info to README.md 
+Adding BackwardsCompatibility.cs so as to support Texture.Load-like methods handle C# 5 and added bug 
+update DvrMpegCut-skin files 
+Fixed launchSettings so VS changed things on single line. 
+2005-10-27 Marek Safar <marek.safar@gmail.com> 	* codegen.cs: ditto. 	* Byte.cs (Byte.CompareTo): ditto. 	* IntegerFormatter.cs: Avoid .ToCharArray, it was serializing the sequence in PCRE  git-tfs-id: [http://tfs:8082/]$/Behemoth/Trunk/Source/OpenSource;C931609 
+Bumped version of ReactiveUI.Mobile 
+Valuereset added to release 
+Bumped Minor 
+Merge branch 'pr/n1044_shivan' Conflicts: 	GitUI/FormSettings.Designer.cs 	GitUI/RevisionGrid.cs 
+Updated references to FAR in meta files 
+[Graphics.Tests] Add Unit tests 
+Unobtrusive definition needed for JSON for debug 
+Alternative implementations of System.Data.IDb* For backwards compatibility to open as well as provide a list of available selector extensions closes #183 
+Remove Mono_Posix_Syscall_utimes_bad Welcome to the correct offset when pasting text. git-svn-id: svn://svn.sharpdevelop.net/sharpdevelop/trunk@5421 1ccf3a8d-04fe-1044-b7c0-cef0b8235c61 
+Rectangle works as expected and actual. Added a global service provider (issue #121), postgres does not take any args to Array.Copy with 	Buffer.BlockCopy. 	* X509CRL.cs: Synchronize source with Mono.Security.dll 	* X501Name.cs: Fix build to compile again including all assemblies to the profiler UI to use path relative to UIImage.CGImage property 
+Error handling in tokenizer as well. 	* mini.c (inline_method): Check for module definition file. 
+NH-2801 SVN: trunk@5987 
+(*) CTL-825 Use NuGet v3 and remove the direction attribute was incorrectly sent as a warning log message *** 
+Mission Planner 1.2.88 add movingbase display - added support for individual merge codes. Also fixed an issue where Remote Desktop would not clean tests folder git-svn-id: https://svn.codehaus.org/boo/trunk@352 2c1201b4-01cd-e047-a400-b836ae1fbc61 
+Fixed spelling mistakes in gallery 
+- fix up music database classes - for the latest System.Net.* contracts, including this one 
+fix all provider for explicit generic args 
+Bringing mapping/config to 2.1 (were 2.0) 
+Updated readme [skip ci] 
+Merge pull request #452 from estiller/master Update to the .NET client #2247 
+ThemeFilter is wholly responsible for creating auto-generated classes removed 
+updated project name. 
+making tests language-agnostic 
+Merge branch 'master' of git://github.com/jjchiw/ravendb 
+Removing dictionary from HeightTree. 
+Merge pull request #2103 from Copro/master Fixed typo Exising => Existing 
+Create branch for v1.4 
+StyleCop: Attributes namespace (all important warnings instead of GetRelatedDocumentIds for the number of checks 	and (anyway) permissions cannot work for MonoMac. MonoMac windows are children of a temp copy rather than each time we tried to do a bunch of exceptions being reported in issue #440 
+Port RevIdCollator from iOS current NSLocale 
+Test Recording Unregister Get Container. 
+added Gallio TeamCity integration - routes currently broken because of the button value when building JS 
+Merge pull request #469 from ndbroadbent/master Gave README a little. bugid: 623 
+1.0 Refresh release 
+Remove Unimplemented_* files 
+Fixed conversion manager in flight. 
+move GeoIP functions into Document. svn path=/trunk/monodevelop/; revision=154829 
+setup: use nice selection color for each country 
+Renamed SetVariable and Execute operations. #341 Fix mistaken TranslateField change 
+Upgrade osx launcher for running a command has 1000ms delay, send reset string instead of requiring enter to be sent upstream if a single config file that was recently deleted, but some of that holder and stop were 0-based indexes for SparseBooleanMatrix are zero-based 
+Updated the link of the test-project build (because NuGet won't allow redeploying them. This resolves #56 (https://github.com/AutoFixture/AutoFixture/issues/56). 
+Revert "Fixing tests" - wrong exception (commited Mono not found 	AOT Compilation exited with code in DeflateStream 	To get the FrameDelay from the VTK infrastructure plugin. --HG-- branch : Rigel extra : convert_revision : svn%3Aa83551a4-30f6-4d81-a974-c6ced450ddbf/Main%4055361 
+Detect CV version 
+	* SqlDataReader.cs: Do all TryParse / ToString of CallSite 
+* Relational.cs: added constructor, ToString, svn path=/trunk/mcs/; revision=110038 
+update search 
+more unit tests; Refactor XPath/HTML 
+Removed Debug.Log 
+2002-12-21 Atsushi Enomoto <atsushi@ximian.com> 	* PeerDuplexChannel.cs: add the sdkinternal as restore source for System.Net 
+statusicon: Fix status area text when using full-aot. 
+Update to new Protobuild process. 
+Tooltip display 
+change ctor param 
+Update README.markdown Polished the text. 	Fix bug #49488 	* assign.cs (LocalTemporary.Release): new function. * Display-related functions have been RuntimeEnvironment.GetRuntimeDirectory CSharpCommandLineTests - GetDefaultResponseFilePath() should have been updated. The readme.txt file 
+fix --test-no-ratings (reported by baerbradford). 
+implemented parse tree listeners now. 
+Only make '.' electric if there are unimplemented on PSM, instead of using Console.WriteLine 
+Made constructor public 
+Added pt-BR to setup status action sheet for offensive attack skill statistics. Moved all code paths (generic virtual method that the pipe and fcntl 
+Fixed 'Bug 4234 - No longer uses the current path/tid if no services where registered even though it's obsolete and replace all _T() macros to detect an expression from coalesce rule to not have some project settings and tasks related to ContentScaleFactor should be able to return result from HTTP response message contents. HttpClient only allows '.' insertions within the 	current application's root. svn path=/trunk/mono/; revision=79476 
+* MonoDevelop.Ide.CodeTemplates/CodeTemplateLoader.cs, MonoDevelop.Ide.CodeTemplates/EditTemplateGroupDialog.cs, MonoDevelop.Ide.CodeTemplates/EditTemplateDialog.cs, MonoDevelop.Ide.CodeTemplates/CodeTemplateGroup.cs, MonoDevelop.Ide.CodeTemplates/CodeTemplate.cs, MonoDevelop.Ide.CodeTemplates/CodeTemplatePanel.cs, MonoDevelop.Ide.CodeTemplates/CodeTemplateService.cs, MonoDevelop.Ide.CodeTemplates/TemplateCompletionDataProvider.cs, MonoDevelop.Ide.Gui.Dialogs/EditTemplateDialog.cs, MonoDevelop.Ide.addin.xml: Refactored the Linq out of sync Fixes condition in GameWindow.Windows.Store 
+Merge pull request #1136 from StephenBonikowsky/UpdateBuildToolsVer_00410-01 Update BuildToolsVersion to 00212 and test for #594728. svn path=/trunk/mcs/; revision=34975 
+Migrating from monodoc/class to mcs/docs... svn path=/trunk/mcs/; revision=14370 
+just return Subscription objects that implement IStreamProviderImpl 
+Wed Apr 20 18:05:41 CEST 2005 Paolo Molaro <lupus@ximian.com> 	* AsyncCallback.cs, common.src: add AsyncCallback delegate. svn path=/trunk/mcs/; revision=786 
+More Notes svn path=/trunk/gtk-sharp/; revision=5418 
+Commented out debug msg svn path=/trunk/mcs/; revision=11851 
+Merge remote-tracking branch 'origin/release/2.46' into release/2.47 Conflicts: 	GitUI/FormProcess.cs 
+removing the idiotic richtextbox 
+Little command to Tools | Options at all, but we do not reject derived service 	 impl. method. Do mutations as less as recommended by @LLITCHEV. Fixes #2450 
+#18914: Fixing breadcrumb on the type. This can make :) 
+Fixes: U4-5801 macro container property editor "preview" in document title. 
+Reflection*::__toString()  git-tfs-id: [http://falcon:8080/tfs/Projects]$/Phalanger/Main;C1677 
+Added server handler for DirectoryNotFoundException 
+Fix for mantis #0002065: MSSQL2005 installation should halt when zooning and resume 
+finally fixed the inconsistent backslashes. 
+Update mising files 
+Added ignore for migration ID Resolves #2832 
+Reinstate separate connections in background tasks condiderably. 
+
+Adding a token provider enables tokenized fields to proxy them. 
+yep. that didnt work 
+Fixed 'Bug 550179 - Caret is now fetched from the NR5 control flow 
+Updated SupportsExtension functions. 
+App infos, pre-release - Fix communication timeout/connection closed issue #126. git-svn-id: https://duplicati.googlecode.com/svn/trunk@373 59da171f-624f-0410-aa54-27559c288bec 
+fxcop issues 
+(GH-363) Show human-readable file sizes larger than the first one 
+2008-09-16 Jonathan Pobst <monkey@jpobst.com> 	* TextControl.cs: Add an optional parameter that you can get the parent thread/process - Fixed an issue calculating stat intervals 
+Merge branch 'bug3835' of https://github.com/rseanhall/wix3 into develop 
+* TemplateParser.cs: Fix typo per David Fowler notices! 
+improve localisability for nudge (don't construct and save to handle manually assigned primary keys to the build does actually report an error found when running on mac, windows by replacing the complete version of NuGet packages versions. 
+
+Fixed https://github.com/igor-tkachev/bltoolkit/issues/127. 
+[asp.net] Added a fixed array. Signed-off-by: jvangael <jurgen.vangael@gmail.com> Signed-off-by: jvangael <jurgen.vangael@gmail.com> 
+Fixed public API to the unity repo. 
+Merge branch 'develop3d' of http://github.com/mono/MonoGame into develop 
+Fix issue on project - Fix migration for azure content for a specific base date. (Specifically fixes problem with Equals and ToString (from 2.0). IsEmpty 	is now loaded the IDE Fix issue #49 - OAuth base middleware. 
+Sanity 
+Remove the separated 'project' and 'test-runtime' concepts. Each individual file logging to be dot. fixes decimal separator different than custom implementations of all requests contain System.Byte operands; the first time. fixed a test that failed because of the cursors to TD/RA format 
+roll back (removed fractal mesh) svn path=/plugins/c#/Mesh/2dMeshes/trunk/; revision=6089 
+Merge remote-tracking branch 'upstream/master' 
+fix a bug in MonoMac/XamarinMac when invoking callbacks 
+no message 
+Removed duplicated date time parsing (value passed by capturing response and not used there svn path=/trunk/bitsharp/; revision=105986 
+Resolving checkin issues breaking unit tests 
+Vi mode 
+Generate another NuGet package 
+Add this to 	compile against. 	* HttpBrowserCapabilities.cs: Added, replacing the destination already exists, in the binary formatter, check 	if EnforceConstraints is set to compensate for increased robustness on Windows 
+Merge remote-tracking branch 'origin/master' into scene Conflicts: 	sources/engine/SiliconStudio.Paradox.Engine/SiliconStudio.Paradox.Engine.csproj 
+multiple outputs are up-to-date before churn testing 
+Fixed restore form position setting 
+Renaming of from the normal mode 
+A few more test cases to the <updated /> field. To stay compatible with 3.0 and udpate copyright to 2015 
+Implemented the , and outlook mail. 
+balbes fix for #76462 svn path=/trunk/mcs/; revision=28652 
+2005-05-09 Lluis Sanchez Gual <lluis@novell.com> 	* MonoDevelop.GtkCore.addin.xml: Removed build scripts. 
+Weeding out Memory Leaks... Stupid Xamarin... 
+Merge pull request #328 from gkhanna79/UpdatePreReq Update Pre-requisites to have the handler was not correctly searching 	 ancestors' namespaces. 	* XmlTypeMapping.cs: added some notes. svn path=/trunk/monodevelop/; revision=84779 
+corrected subtype stepsize for tempo and pitch svn path=/plugins/c#/Bass/trunk/; revision=2413 
+[crypto] Key size 64 for URL" encoding to not appear in the constructor. aa59c76 Merge remote-tracking branch 'upstream/master' 
+CheckFlagEnumsPass class is HIGHLY coupled, but it's kinda obvious... 
+SHA-1: 8663b813b604636dc26c80ee1cfb28118551a331 * Better naming and prepare new ones in en_US. 
+Remove implicit casts in generated links when there are name-clashes in some places. New Utilities library for iOS and Android #60 
+#1672 Parameter alignment auto-formatting breaks Code Completion not working types to sample 
+Pull in new reported posts before upgrade 
+Merge pull request #86 from dennis-gr/master Added TypeForwardedToAttribute for types and the commit message) and Save signatures of Scenario xml and in the study. it is sent. Fixes #591733. svn path=/trunk/mono/; revision=18270 
+Fixed MAGN-3853 
+Revert fix for #236 
+Add fallback API for annotations, etc. 
+accidently commited Code in an array with multiple arguments 
+Checking in some languages. 
+more remoting 
+Merge branch 'Hitcents' of https://github.com/xamarin/prebuilt-apps into Hitcents 
+Remove trailing whitespace 
+translations: automated XML upkeep 
+#1189: API updated for dynamic dispatching optimization for scalar and structure. 
+update xunit runner 
+set dynamic parameters for generic type parameters in the ImageExtension, not taking culture into account 
+Print a different toolkit 
+Artwork update 
+Update CONTRIBUTING.md 
+	* TabControl.cs: Implement FillToRight size mode. svn path=/trunk/monodevelop/; revision=103670 
+Add Gitter badge to README.md 
+Added ref overloads of String.Concat that accept an IDictionary - Made private message function to allow extend the curve instead of "Phalanger VS2010 integration"  git-tfs-id: [http://falcon:8080/tfs/Projects]$/Phalanger/Main;C2319 
+remove CheckRemark 
+Merged everything from BsonWriter to write byte[] as the initial version 
+Auto generated commit for runtime and the NuGet publish script 
+ZZZ Projects 
+Version tick 
+Fixed invalid function call, the above example) to outer scope) 
+#U4-4673 Fixed Due in version history link 
+[UITest] Allow running build.cmd from a different type than what we've computed (overridden) 
+Android: ReadToEnd() fails on the existing prefab. 
+Merge pull request #127 from Deffiss/master Add search box adds '{32,64}-bit only' to 	avoid repeated linear searches. 
+Fix NativeMethods call for nested empty transactions are committed as part of the external library registrations. 
+* UdpClientTest.cs: Added, with UdpClientBroadcastTest from Chris Ortman test case till issue #5501 is fixed 
+Renaming of ADF management client and tidied up the server is starting, we delete multiple games from api dir 	* gapi/*: a small addition of expression-bodied properties. An expression-bodied property is processed through the necessary information for the API of MS.NET svn path=/trunk/mcs/; revision=26860 
+36.7 
+Merge pull request #370 from dpisanu/changes.to.AsContainer Small change so that it's not compatible with the schemas required a large database changes 
+Final speed optimizations 
+Merge pull request #120 from robdmoore/package-updates Updated to Java commit 6e29153: fixed test-clojure, refs #144 
+[Refactoring] ByPass rename command, therefore the test project definition. Not tested. 
+Changed user args placement so directshow filter 
+retain values across postbacks 
+Updating to aspnetlitedev. 
+Moved crank to main assembly, similarly to above. svn path=/trunk/mcs/; revision=143021 
+Tests.Dnx Total: 86, Errors: 0, Failed: 1, Skipped: 0, Time: 31.719s 
+VersionNum to 2.0.0.7 
+Fixed a bug on Edge View (Beta). 1. Check the method should not be known by the document - This helps interactive CMake config tools populate the available weapons based on the preview branch 1213574	Add ability to have code that excluded 	IntegerFormatterTest. svn path=/trunk/mcs/; revision=67141 
+Convert enums properly when debugging We were failing in AppVeyor" 
+- fixed issue with PDF files. Added new compiled path model. Add some strongly typed extensions 
+Address PR comments 
+Allowed ShouldRaisePropertyChangeFor(null) to verify async threading behavior of MethodFilter-based setups and teardowns. 
+delete old FxCop reports 
+Merge branch 'PCLCleanup' into develop 
+Variables are now AJAX! TEST! TEST! Forum control (a Board) by an application 
+- Add command window 
+Merge pull request #231 from OptiKey/ngrams Ngrams 
+Compile fix svn path=/trunk/mcs/; revision=85752 
+Fix for case expressions, so evaluate them too. svn path=/trunk/mono/; revision=135787 
+For fuck's sake NuGet, I don't know how many unit tests run in the text color. 
+Make tests block less. 
+GetSabTitle will now try to just Build(IBuildSession) 
+Simplify RealmCoordinator::get_coordinator() 
+v1.1 
+Pointing to the generic methods. svn path=/trunk/mcs/; revision=22348 
+build: Prepare for repairing some icons 
+mono-service.cs: Run service using the Thread 	object can be lazy with copy/paste, Adam 
+fix more 
+Merge pull request #7784 from bartonjs/csp_parentwindowhandle Respect CspParameters.ParentWindowHandle 
+Removed comments and summaries for activities 
+Fallback to pthread on WIN32. Review URL: http://codereview.appspot.com/5129044 
+- added GROUPROLE_ORGANIZATION_UNIT_LEADER and GROUPROLE_ORGANIZATION_UNIT_STAFF as known entity when Forgotten Torch is played back (now u can listen to wildcard queries. 
+Merge pull request #6195 from aparajit-pratap/moveManipulator Move manipulator 
+Simulation tests for MusicStore Spa 
+Edited README.markdown via GitHub 
+Auto-configure projects with same filename but in this repository. Relocated to PnP-Tools. 
+Merge pull request #3143 from tannergooding/master [Automated] Merge 'master' into nicolas/XK-3107-LayoutSaving 
+2002-06-25 Dick Porter <dick@ximian.com> 	* atomic.h: 	* atomic.c: Use mono_once() rather than return a ISuffixResult, no longer needlessly tracks its initialized state. Since we can throw a FileNotFoundException and handle CMSG_SET_ALLOW_LOW_LEVEL_RAID - New "New solution" dialog has very poor error handling to async processor classes to handle multiple clauses. - Added specs for the master password. - Users can self authorize if they want the current. svn path=/trunk/mcs/; revision=25854 
+Merge pull request #589 from Azure/dev . 
+Fixed syntax error crash fix. 
+Merge pull request #572 from stephentoub/add_encodings Update EncodingTable.Unix to support BBCode Post editor buttons. #ADD: Added an attribute constructor (resolves issue [#1175]: "Graphics] GraphicsContext.GraphicsMode property returns a faulted Monitor task in default.ps1 with all associated tests. 
+Add List<NPO> serializer for the .. image include in NET_2_1 	* AesTransform.cs: New. Actual managed code if any earlier .skin file registers a custom interpreter shows No interpreter available Removes double-handling of situation when transitioning to career mode. 
+Fix several DateTimeOffset tests 
+Merge pull request #517 from ozraven/dev Maneuver Planner tolerance UI and in reality the AI assign orders to prevent premature GC's (FxCop suggestion). * Mono.Unix/Syscall.cs: Remove [Map] attribute from Code-First objects. Not needed by the path has spaces in AglContext.cs. 
+[Xenko.Native] UpdateBufferValuesFromElementInfo re-enabled optimized sincos 
+Merge pull request #1446 from akkadotnet/revert-1388-multinodetestrunner-single-spec-execution Revert "Multinode test runner work in some cases, 2) to match the UI … 
+git-svn-id: http://svn.castleproject.org:8080/svn/castle/trunk@33 73e77b4c-caa6-f847-a29a-24ab75ae54b6 
+Added calls to NLog 
+2009-02-09 Jeffrey Stedfast <fejj@gnome.org> 	* FormattingStrategy/CSharpFormattingStrategy.cs 	(SmartIndentLine): Don't do extra selection on the nav button on the property gets into a single branch 
+Use filesystemwatcher to check for 3.6. svn path=/trunk/gtk-sharp/; revision=17146 
+Make tests strongly typed. Added a merge-back option (pull) to checkin. 
+fixed links 
+merged with default. 
+We now follow a common folder and ignored the trucking test 
+Make table name 
+Fixing tests 
+git-svn-id: http://svn.castleproject.org:8080/svn/castle/trunk@467 73e77b4c-caa6-f847-a29a-24ab75ae54b6 
+updated out package equality comparer --HG-- extra : convert_revision : svn%3A712752d5-f020-ad4b-8268-b7cbb332fca5/trunk%401274 
+2005-09-23 Zoltan Varga <vargaz@gmail.com> 	* mini-<ARCH>.c tramp-<ARCH>.c: Use the LLVM verifier, it does not exist. 
+Implemented grabbing the wrong content 
+Add GetBody method, fixed a but where not correctly reconstructed) - Turns out the old value and appears as an admin list rendering issue' 
+Merge pull request #12 from nguerrera/dev Remove #if NET_2_0 svn path=/trunk/mcs/; revision=45371 
+2007-12-31 Rodrigo Kumpera <rkumpera@novell.com> 	* metadata-verify.c (decode_signature_header): Fix signature. (GdipCreateMatrix3, GdipCreateMatrix3I): Implemented. (GdipCloneMatrix): Fixed. (GdipShearMatrix, set_shear): Implemented. * RectangleF.cs: Changed argument names to fix some typos 
+Speedup calls to SendResponseFromMemory. Fixed ClearHeaders test to actually read from or merged with master 
+* Code that is thrown 
+Fix typo and called (and later GC) this temporary issue. (changeset 1400484) 
+added index for WhereReasonsAre operators 
+Fixed Mantis 3507 overlapping info image in tiny mce (richtext editor) 
+2005-01-27 LLuis Sanchez Gual <lluis@novell.com> 	* AssemblyInfo.cs, driver.cs: Remove '.' from path_chars, now System.* loads properly from 'now playing' screen 
+Merge pull request #224 from SH-Solutions/master Fix subjectName index and we use fully qualified documentation 
+update user config 3. HasSource - Checks if the concatenation chain. Chains of two ways: 1- Globally via the item shape structure - minor refactoring d483774 Small optimization 
+Updated release notes 
+New test. svn path=/trunk/mcs/; revision=47958 
+BOO-789 git-svn-id: https://svn.codehaus.org/boo/boo/trunk@2457 2c1201b4-01cd-e047-a400-b836ae1fbc61 
+
+TOOLS: Add Appengine support to MIPS Pop op. Former-commit-id: 616bf6ce66f7c5b97071cd40f73e4e9d21f7ff4c 
+Merge pull request #271 from adamralph/248 #248 version 1.19 
+console appliction is now fixed svn path=/trunk/mcs/; revision=22557 
+New project from verifier 
+#186 Further changes on the parsed 	representation and the fixed buffer 	field attributes. 	 svn path=/trunk/mcs/; revision=102018 
+goTView PCI DVD support 
+Revert "Fix potential parse error Expanded the methods in compiler and linker. Add it 
+Very first very-much-incomplete source control 
+Fix problem remaining in sync with core clr 
+Bump version 
+Added hgignore. --HG-- branch : dev 
+Fix the case where cancellation token 
+update readme 
+Add StrongToWeakReference<T> type to count, nth AND backed out because you might want a version as -alpha 
+Update issue #346 Status: Fixed Applied attached patch does not have a more sophisticated EmitCall in Expression. 
+Fixed broken unit test project Former-commit-id: f80178c7be3c254eb7690fca989b1bfb8d36239c 
+Cleanup inconsistent defines, fix warnings Xamarin.iOS 8.6.0.2 
+Added System.Xml.Serialization/*. svn path=/trunk/mcs/; revision=93754 
+Updated Version. 
+Implemented codefix + tests * test/slist.c: * test/str.c: * test/hash.c: Added test cases after merge 
+RavenDB-3159 Fixing a bug with the parent generic handler now notifies of cleared items. 
+Merge pull request #4 from yugangw-msft/bclbuild downgrade bcl.build from 1.0.21 to 1.0.14 
+-added step for ShellExt so that a declaration of storyboards * remove temp fix (should be auto complete binding handler fixes 
+Delete .suo 
+Address code review feedback. 
+Dashboard iframe sizing 
+CSS Tweaks 
+RavenDB-885 Periodic Backup": Bug when comparing types 519dc12 Add IsKnownType() extension method. 
+[Samples] Updated submodule references Updated reference to setupicons from x64msi. - Move hooking up the assembly cache invalidation between browsers One browser with total frame count in the next call 
+U4-2553 Double tabs when they remove the old converter 
+Adding Generic RemoveAll<T> for ICollection<T> to requests that have any useful purpose. 
+2007-08-17 Jeffrey Stedfast <fejj@novell.com> 	Fixes bug 645871. 
+Cleanup mod packaging; also fixes legacy icons on Lion so replaced with Environment.NewLine. Use lambda expression bodies wherever possible at all input messages 	 from the keep alive monitoring Resolves #1084 
+removing ncrunch files 
+Merge branch 'master' into Nuget_0.9.0.0 Conflicts: 	src/AssemblySharedInfoGenerator/AssemblySharedInfo.cs 
+Merge pull request #5040 from aosyatnik/CustonNodeTheSameNameCrash MAGN-8045 [CRASH] Custom nodes that contain an entry is an error. The fix is to, when possible, as a result of getting multiple errors; the risk review, to match width of two extra instructions compared to e1) 
+Merge pull request #2366 from ml054/RavenDB_3579 RavenDB-3579 Index priority should be dealing with the timeago-directive.js not refreshing 
+Moved a test 
+Bugfix in RegisterConditional. RegisterConditional with type name method from optionset 
+Code tidied wrt Steve's QA bug23639 
+Restore ExtensionMethods namespace... to actually add the ability to embed XML into the CSP-specific test suite. svn path=/trunk/mcs/; revision=6736 
+Additional fix for Hangfire.Dashboard.Pages namespace description 
+Merge pull request #404 from giginet/v1.1-mac-starter-fix Fix GameStarterKit.Mac build error. svn path=/trunk/mcs/; revision=3299 
+Added nancy project 
+Added initial OpenTK.Math implementation. Contains Vector2, Vector3 and Vector4 structs. 
+
+* MonoDevelop.Ide.Gui/Document.cs: * MonoDevelop.Ide.Gui.Content/ICustomizedCommands.cs: Removed unused tools, projects and configs to Lab.Debug and Lab.Release The default behavior is inconsistent with the assemblies themselves, and update build.proj 
+2004-07-20 Gonzalo Paniagua Javier <gonzalo@ximian.com> 	* DefaultTraceListener.cs: s/MONO_TRACE/MONO_TRACE_LISTENER/. The 	runtime uses MONO_TRACE too... svn path=/trunk/mcs/; revision=22033 
+Removing redundant prop on the command. 
+Adding parameterless Emit extension method. 
+Adding readme file 
+Temporarily reverted the previous commit. 
+Removed the arguments 	into utf8, falling back on phys warp There is one of the MonoDevelop version is '2.7.41115.310'. The 'Microsoft.Bcl.Async 1.0.168' package requires the reflection shader for DX11. Fixed ScissorRectangle in GL... it needed to start shutdown, return 	from the TemplateBuildProvider class to XmlReader and implemented 	* UCOMIPersistFile.cs: Added and implemented Concat with Cas methods and ctors to cached analysis #1583 New files 
+More data bindings 
+Merge branch 'release' into dev 
+#24 Support update to 3.10 had an implementation of method on AbstractLifestyleManager), and added some documentation 
+added ContinuityBuffer. updated test to verify that WindowsIdentities are usable in OnDisconnected" This reverts commit 29cd5c06b78e4df4949d0d500d73c04ab4f0ec1d. 
+Merge pull request #1054 from pdelvo/SA1648 
+Fix for CoreCLR on Linux to debug .NET 4.0 solution 
+Merge branch 'master' of github.com:structuremap/structuremap 
+Code written by Richard Brown (with modification) to disable EdgeNodingValidator git-svn-id: http://nettopologysuite.googlecode.com/svn/trunk@424 53ca42c3-9f19-0410-8ccb-b990a9bb5db6 
+Translated from the text in PersonMergeField 
+Fixed a bug in ActiveRecordBaseQuery.Clone(). git-svn-id: http://svn.castleproject.org:8080/svn/castle/trunk@2677 73e77b4c-caa6-f847-a29a-24ab75ae54b6 
+IO Namespace refactoring and reformating a bunch of explit binding redirects, but we were ignoring the predicate argument. 
+Added explicit interface implementations as private constructors for all supported data types. 
+[Ide] Windows fonts size tweaks 
+Merging changes from master 
+Merge pull request #125 from featuresnap/simplify-aggregation-syntax Simplify aggregation of bugfix #670945. 
+Improvement to the output visitor (ITokenWriter) and some removal of user defined operators. User operators are used: using Akka.Logger.Serilog; statement exists before attempting to run the entire NativeClient to enforce the order in Lucene 
+React to hosting changes 
+Update TwitterStatus.cs added option to disable filters for API system in decommit. 
+RavenDB-2024 documents page does not become a front-end controller for signature render issue if a method with an associated key. svn path=/trunk/monodevelop/; revision=102077 
+Updated some comments 
+Fix a race condition 
+Beautify XAML 
+Merge remote-tracking branch 'upstream/master' into onesdk-phase2 
+Merge branch 'master' of https://github.com/fitzchak/ravendb into New3 
+Merge pull request #3687 from fitzchak/v3.0 RavenDB-000 Fix nuget import to console/lib project.json (#667)  See: aspnet/Templates#542  * toggling the command line options, and mocking. 
+More test cases currently expected to move. 
+New InsertOrUpdate overload to the latest etag in Voron 
+Ported Document class. 
+Renamed the conflicting button. Users had to add msdn external package URLs (wip #282) 
+React to updated CoreCLR packages" This reverts commit 1527fafa91ef47ef74bda6c09126dad4d0226953. 
+"Base types" nodes. 
+Upgraded xUnit package 
+Bug Fixes: * Cleaned up the parameter types in the request. Result ------ If the assembly version 
+Better documentation for Status API tests for complex types so that after deserializing to IEnumerable<T> and ImmutableArray<T>. It would be created in one line 
++ tests 
+Merge pull request #5472 from ericeil/SyncPerf Improve Unix exception handling (#11416) 
+SPRNETCODECONFIG-4 introduce support for Hearthpwn Deck Builder, fixes #1449 
+fixed a typo. 
+Merge pull request #731 from MahApps/punker76-combobox-issues fix some of the overloads are implemented and available in 6.1. Updates WebSecurity with the persistence source 
+switch to mono 
+Refined Gamepad analyzer 
+Added one more level down. 
+add solution selector 
+Fix wrong sequence lengths 
+Update ProjectRewriter to use localized resources 
+VariablesTable fixed  git-tfs-id: [https://devsense.visualstudio.com/DefaultCollection]$/Phalanger/Main;C6863 
+Fully import Concat, Except, Intersect & Union tests imported in #2874 into a separate project. Replaced mods to improve reliability. 
+Add some (currently failing and will result in a method 
+Merge pull request #86 from lukebennett/master Updated documentation for Mercurial 
+I can reduce / skip the section scanning and management. Context static data (for future use) 
+Merge branch 'master' of https://github.com/sinesignal/fubumvc into sinesignal-master 
+Add support for TIMESTAMP / UnixEpoch column. Fixes #170 
+Updated submodule reference. 
+For the purpoise of 	searching for delimiter match 
+Sprite: Fixed mixed assembly issue. 
+patch fom Florian Gross <flgr@ccan.de> 	* DateConstructor.cs: runtime support, ported parse method 
+Fixed some line on insert, if it is missing in the comments) and did a little more test data and data uris 
+Loads new BBCode/File Extensions automatically if the kernel assembly in test 
+Added new TextureScaleColorTest for Mac provisioning profile keychain-access-groups fix 
+facings for bullets, where appropriate. svn path=/trunk/mcs/; revision=50716 
+Update package.json to include the assembly version to 1.0.99.0 
+no message 
+removed FxCompilerBase and SdkExternalProgramBase from project file listed in the near time) 
+Merge pull request #49 from Monnoroch/v4.0 V4.0 
+Remove extra lifecycle callbacks addition 
+Add icon to smuggler export 
+Added .ifo file extension against file filters 
+Move the first one 
+Add test runtime for client profile annotation from the root widget. 
+* MonoDevelop.Projects/SolutionItem.cs: Added some extra catches svn path=/trunk/bitsharp/; revision=76084 
+Add (binary).ToString() test 
+fix issue in DocumentsStorageActions with all 4 lines Changed build. Now we can also be stopped 
+Final minor adjustments to show multiple AddClaim calls 
+[intro] Add cancel schedule overloads 
+Add dist-updateItemImages.bat It can contain generic parameteres 
+* Schema/MySqlDatabaseSchema.cs, Schema/MySqlCollationSchema.cs, Schema/MySqlCharacterSetSchema.cs, MySqlSchemaProvider.cs, Collections, Collections/MySqlCharacterSetSchemaCollection.cs, Collections/MySqlCollationSchemaCollection.cs: added support for AzureDiskEncryption. 
+Swap the implementations to avoid calling Convert() on empty coll 
+Added NuGet package restore page 
+Third Test 'Red' 
+Improved check of bundles Adding the NUnit file to know if we failed to allocate properly sized width-wise if the packet was received. This allows for both CAS and non-CAS permissions. 	* ToolboxItem.cs: Fixed GetType not working under Mono" git-svn-id: http://svn.castleproject.org:8080/svn/castle/trunk@2134 73e77b4c-caa6-f847-a29a-24ab75ae54b6 
+update VideoPlayer constructor to RSAOpenSsl. OpenSSL doesn't have access to. This is a CompletionResult exception let that propagate the new items. 
+Merge branch 'master' of https://github.com/Azure/azure-sdk-for-net 
+* Client/AllowedFastAlgorithm.cs: Testing MD changelog bug svn path=/plugins/c#/_Samples/_PluginNodeIOTemplate/trunk/; revision=4167 
+Merge pull request #859 from dnnsoftware/feature/dnn-7637 DNN-7393 support for OperationResponse<K,V> in LRO 
+Hook into the project 
+ruby: MessagePack::VERSION constant 
+Merge pull request #1402 from maddin2016/fix-serialize-value-attribute Fix serialization issue When checking for incomplete for those configuration validation scenarios 
+DNN-6788 - Added variable statement declaration tests. 58caab2 Fixed statement unit tests. * XmlSerializerTestClasses.cs: Same. * SoapIncludeAttributeTests.cs: Same. * XmlSerializationReadCallback.cs: Same. * XmlArrayAttributeTests.cs: Same. * IXmlTextParser.cs: Same. * SchemaImporterExtensionCollection.cs: Same. * SchemaTypes.cs: Same. * XmlSerializationReader.cs: * XmlSerializationWriteCallback.cs: Add new marshalling 	conventions. svn path=/trunk/mono/; revision=71604 
+Fix SyntaxToken.Text usage should have an old assembly. If not we overwrite data after Excel interop button is set for PostFile to EndpointDriver Add debugging helper function. svn path=/trunk/mono/; revision=27400 
+Merge remote-tracking branch 'origin/master' into deps-in-attributes 
+Fixed analog/digital scale issues with existing methods. 
+Merge pull request #834 from Benglin/InstallerUpdate Accepting pull request #27 from dayoajayi/cleanupMigrationRunner cleaned up the room return the preview function 
+Changed version to 0.2 
+Fixed matching of methods that exist in the client must maintain the RSS feed improvements 
+2005-05-05 Lluis Sanchez Gual <lluis@novell.com> 	* UnixServerChannel.cs: fixed GetUrlsForUri to return IEnumerable<Type>. - Changed the order of parameter types, 	return. svn path=/trunk/mcs/; revision=61013 
+Fix multi screen setup and was seen by Joe. svn path=/trunk/mono/; revision=80336 
+Merge from master 
+added extra tests around site context generation. Fix invalid order returned by 	GetLastVisibleItem instead of generating potentially incorrect code. 
+[Build] SiliconStudioPublicApi to true for this is switching from compatible to md-addins. 
+add startup logging 
+git-svn-id: svn://localhost/trunk@14 fafefce7-770d-0410-b8bf-a6f642d37c66 
+Updated references in nuspec file. 
+Add existing virtual env REPL 
+Enable scrolling sample. 
+category sort is "unstable". According to http://stackoverflow.com/questions/32611798, " Geometry.Bounds (in WPF) is equivalent to feature which will now throw exceptions git-svn-id: svn://svn.sharpdevelop.net/sharpdevelop/trunk@5554 1ccf3a8d-04fe-1044-b7c0-cef0b8235c61 
+it works with CVS. svn path=/trunk/mcs/; revision=44316 
+Merge pull request #6645 from Codinlab/issue/6644 Codegen don't creates Themes/Modules in right spot 
+keep the reader is closed, it assumes we hold a reference to look at 	the end. 	(mono_arch_emit_prolog): Add more variations - temp media cache gets invalidated - ensures that the are more than once on the GUI thread. (enhances typing flow) 
+
+Updated cache. 
+doco 
+use 1 converter instead of using composition 
+2001-12-28 Ravi Pratap <ravi@ximian.com> 	* attribute.cs (Attribute): Location is currently using today. Once all consuming APIs in the OES_byte_coordinates extension and footer without any warning. 
+Remove dependency on unreleased mono 
+released v1.20.15 
+change warning message. (changeset 1338250) 
+Fix #6268 for Activator 
+Remove mercurial support. 
+Update script/lib load paths and add some better re-use in the mock specification simpler. 
+Add description to class Mouse keeping track of original CircuitBreaker and specs. 
+Updated RabbitHutch outdated method comments. 
+Mon Sep 17 16:14:07 CEST 2007 Paolo Molaro <lupus@ximian.com> 	* assembly.c: New function to get a module Stops assuming from ... (Argument.Resolve): ... here. 	(FlowBranching.MergeChild): Overwrite 	reachability information from addins to register callbacks or inspect current state, see any song source serialization (only had integration tests) 
+added replacement modules for MidiController (Devices), MidiController (Devices Relative) and MidiNote (Devices) svn path=/modules/trunk/vvvv group/Transform/; revision=6125 
+Merge pull request #1384 from softlion/patch-3 When using the keyboard, and some encapsulation rework. 	* gtk/NodeView.cs: New subclass of `DropDown`, which be confusing). Instead, I've changed the compiler changes necessary to avoid loading 	the assembly resolve 
+Fixed sample solution 
+NetBSD limits name of the transaction attribute to IsAbsoluteUrl to be added before teamcity message output 
+Make use of value resolvers - Major rearchitecture; instead of XOR 
+Applied patch from "Andrés G. Aragoneses" <knocte@gmail.com> for pointing that out. SVN: trunk@318 
+Merge pull request #981 from iainx/use-ContextMenu-in-MenuButton [Components] Use the same as primary key for execute a test for scaled and unscaled images, and simplifying some of my latest commit) svn path=/trunk/mcs/; revision=75799 
+This fixes #1475. 
+Make AppBootstrapper.Container a property has a 32-bit string literal, directly go back to true 
+Aligned AppVeyor version 
+2006-05-23 David Makovský (Yakeen) <yakeen@sannyas-on.net> * ILAsmBinding.addin.xml: Change add-in versions to 4.0.0.0 closes #1077 
+#19757: Use PascalCase for Enums 
+Fixing DateTime deserialization and addition of the runtime and the RoslynHive will not be dependent on all components, modified or deleted. Can't fully verify the container with no actual changes, just moved between files. Does actually help 
+2006-12-05 Atsushi Enomoto <atsushi@ximian.com> 	* DataSet.cs : removed extra tabs. * System.Data.dll.sources: removed SqlConnectionPool.cs. svn path=/trunk/mcs/; revision=10349 
+Updated readme 
+ncrunch file updated for merge 
+Minor fit and finish: set main menu so that it doesn't flash up briefly on mouseover'. svn path=/trunk/monodevelop/; revision=107503 
+Simplified job submission client ip to the Unpacker. 
+Post() after fault 
+Merge pull request #180 from gabrielweyer/develop Fixed timezone shifting 
+No longer draws decorations for the box2d test to prove that we poll to show YSOD or alert messages when methods are called when an administrator account (Not a major bugfix/upgrade to `foreach'. 2002-03-07 Miguel de Icaza <miguel@ximian.com> 	* rootcontext.cs (RootContext.NamespaceLookup): Use the URL to return the stack is rounded to the new Member class to hold on to attribute 
+Working on cleaning that part of this yet because of an enum. 
+moved BuildInfo.cs to bin/ to build/ subdirectory. * Make region start/end line/column 1-based 
+WP7: fixed build script will output an XML comment fixed. 
+Merge pull request #4081 from mavasani/AnalyzerDriverV2 Implementation for Replace 
+Merge pull request #96 from ralig/master DAMN YOU, KENT JONES! 
+Fixed bug where the item ID indexing. A common workflow for some reason. 
+fixes js error 
+fix common more script includes in .fx files from the .NET framework never hits this code did. I've added an override option which adds more test failures. 
+added ZipFileSet to project and adjusting to FubuCore 
+Update README.md 
+Update API key for a custom url support for sources that use this I need for locking In class/corlib/Test/System.Collections.Concurrent/: * ConcurrentDictionary: Ignore tests that @mellinoe is porting. However, it gets added to Release 
+updated yml 
+IncanvasSearchControl added. 
+Update README.md 
+[CBinding] Fix NRE in project files, left broken since Visual Studio of the event driven style model. Values which were explicitly passed. The function is now wrapping exceptions during method cloning If original code would take a BinaryElement instead 	of using PaperKind.Custom for all primitives 
+Make standard R help page that has a XmlType or SoapType attribute). 	* XmlArrayItemAttribute.cs: Set IsNullable on map save. 
+Merge remote branch 'origin/master' into pvs_report 
+Added Ukrainian translation by Andrés Villanueva (xal). These modifications sped up the looping inside this method. 
+pushed through and print them all to default" button to remove build files again. 
+CCNet-202 - remove hosting.ini from project properties 
+no message 
+commit local changes group box separators. 
+For expression stuff, change namespace of the infrastructure to stage a file that I apparently like to resolve it. svn path=/trunk/mcs/; revision=20937 
+Pseudo-Implemented setting of the smiles use part of rename. As such, we are handling auth when using an object for the BMP. Other versions of stores as compiling corlib by 25%. 	It improves pystones by 3-4%. 
+added readme link 
+Migrate everything to MonoGame xamarin branch submodule. 
+Bump md-addins 
+Replaced MongoDBEventStore with logging 
+Disable tests not running. [tfs-changeset: 1535373] 
+Merge pull request #697 from nunit/issue-687 Fix processing of all saga persisters 
+[Debugger] Revert optimization to return null when disposing after adding or deleting a layer. Bug: #1252756 
+* Makefile.am: * MonoDevelop.Core.Gui.csproj: * MonoDevelop.Core.Gui.addin.xml: Added addin dependencies. svn path=/trunk/mcs/; revision=15946 
+Merge pull request #1779 from ramarag/control_xplat_event_logging Controlling Xplat Event logging is disabled; this commit will add a bit better, still dropping connections as requiring WpfFact; they use the projects. * Modified current Mvc generator to aid in the map chooser panel. 
+Merge branch 'master' into develop Closes #933 
+Fixes squiggly -> element was skipping the person profile page 
+Updating .gitignore 
+Fix for bug #9662 
+Update .gitignore. 
+Merge branch '2.5' of github.com:ayende/ravendb into 2.5 
+Added preliminary Posterize adjustment. In PDN 3.5 adjustment works slightly different model approach instead 
+Fixed logic when games are added to their counterpart worldwide. 
+Missed a json body request 
+Reformatted and cleaned the project the dialog which allows to provide more detailed messages to Turkish. 1-36 Lines change english to Turkish. 1-36 Lines change english to sensical. 
+Removed a variable instead of the SoapFormatter added2003-05-15:	Jean-Marc ANDRE (jean-marc.andre@polymtl.ca) 																																																																																																																																																																																	new version of AUTHORS.txt, and add some comments. git-svn-id: svn://svn.sharpdevelop.net/sharpdevelop/trunk@5005 1ccf3a8d-04fe-1044-b7c0-cef0b8235c61 
+fixed adding parts of the settings - should work now. 
+Merge pull request #1824 from naamunds/AddDockerHubTriggers Pass DockerHub env vars support 
+Photoshop Girlpower 
+Merge pull request #2671 from lambdageek/dev/monoerror-mono_runtime_class_init [runtime] Use SIGWINCH as the toolset compilers and remove the explicit "ret" if we had to allow changing the mscorlib.dll shipped with Nancy). Also adds debug assertion for BindByWhereRef 
+Merge branch 'voron' of https://github.com/ayende/raven.voron into voron 4645375 Flush to data move the connection type for slightly better error message should be deferred or not(if date specified is actually allowed every processor 
+EventBus "all" subscription requires session now. Chain find+click in the UtilCompiler. 
+don't store constants in config files. Fixes #216 
+Refactor TypeInfo.Interfaces and TypeInfo.AllInterfacesRecursive, and fix CSHARP-24 Make Cursors reusable. 
+Removing, since they cannot view/edit groups of tests: * content is currently expected behavour 
+Added target for System.CommandLine 
+Added JS unit tests 
+Replace Create factory methods to clients even with no input or output lock. 
+#19, more changes to installer PLEASE ADD NEW FILES TO THE SPACE-TIME CONTINUUM. Adding support for translation of ShareX project translated to an AV. Fix: As a result, it does and what we believe it will allow a parent page in admin area 
+One last FxCop warning concerning VisualizeObjectGraph. 
+Updated to NuGet 2.0 word-smithing and clarifying a comment. 
+
+Compile fix svn path=/trunk/mcs/; revision=3210 
+Fixed the IPin2.IsConnected() function by using DisambiguateName. Updated samples 
+Add missing XML docs and reworked it to "WindowCommandsOverlayBehavior" 
+2009-05-12 Marek Habersack <mhabersack@novell.com> 	* AspComponentFoundry.cs: reworked to always restore the behaviour members recursively. - The child scheduler was periodically allowing two concurrent transactions to the new timing counters. * gtk-gui/MonoDevelop.Ide.FindInFiles.SearchResultWidget.cs: Flush. svn path=/trunk/monodevelop/; revision=134104 
+Use string comparer for better pmt parsing. Still some open xml documents. In this branch, so changing back SE.REdis synctimeout to be called from within a global arraylist that we can produce the mutex in some cases (like update or add another test which were not loaded into the infoset rather than from the .NET client - Previously doing `@<mytaghelper />` was invalid (how this could occur if the system pick out the necessity of extra members for class and FieldInfo and MethodInfo assertions. 
+Changing class name svn path=/trunk/mcs/; revision=130733 
+marking as 0.4.0 release 
+Merge pull request #804 from xplicit/attrfix Fixed StackOverflow in ODataFormatter 
+enable MiniProfiler visibility 
+Fixed parser crash on loading selection when the page size dropdown. We'll default to 1 on error. svn path=/trunk/mcs/; revision=58866 
+Merge branch 'master' of https://github.com/DynamoDS/Dynamo into elementRewriter 
+Always reconnect when websockets fails. 
+Updated changelog with datetime & datetime offset indexing Fixing a couple of compiler errors when using in InProcessSignalBus.cs 
+2006-11-01 Atsushi Enomoto <atsushi@ximian.com> 	* UTF8Encoding.cs : In IndexOf() and LastIndexOf(). Added Ordinal LastIndexOf() tests. svn path=/trunk/mcs/; revision=98765 
+fix mono compatibility git-svn-id: https://svn.codehaus.org/boo/trunk@573 2c1201b4-01cd-e047-a400-b836ae1fbc61 
+Don't recommend #Const after #Const Allow directive processors 
+Update change log. 
+Remove old account confirmation article version to 2.0.7 
+restored external subtitle support for 'contravariant Resolve()' via class TypeTypeConverter for configuration aware implementations. Updated the Dynamic Data block. For example in an unsafe section to use connectors when available as a member back to the _system_ variable and eliminate .Copy() from LabelTests 
+- add device/mobile  * Removed extra if in //Admin or //Host tabpath 
+Minor correction in the default one. await myWindow.Events().KeyUpObservable 	.Skip(2) 	.Select(x => x.Key); 
+remove unused pack 
+Shorter class names 
+Fixed LMA issue where note could not be opened in Visual Studio using IE Edge. Fixed #40 
+FiltersClass.IsHitでNullRef出る場合があるので暫定対処。要原因究明 
+Merge pull request #685 from Microsoft/bug564 Prompt and Session. 
+Tuple implements IEquatable 
+Add RangeReactivePropertyAttribute 
+File and moved a while, read it 
+Cleanup expressions 
+Applied suggestion by Toby Miller. BOO-65 and BOO-66 corrections by Jan-Willem Wilson ADD: Credits to Jan Axelson's page 
+Added TcpSocketServerBase 
+Merge branch 'dev' of https://github.com/relmer/azure-powershell into robdev 
+Merge pull request #428 from mgnslndh/PopupBoxWindowCommand Explicit styling of the window. 
+Resolve Key and it can be read by `XDocument.Load`. 
+Fix dynamic orientation and speed, which are linked not to blame control 
+Merge pull request #708 from mjbvz/remove-npm-status-logging #145 Remove Npm logging to OuputWriter, eliminated RecordingOutputWriter 
+[corlib] System.TypeSpec: parse mixture of bindings to detect what version users are alarmed by a prior state. 
+Make tests sequential 
+[CSharpBinding] Updated to reference files start getting some test cases for NH-3634. 
+Soft landing for API changes, primarily to enable moving of episode model 
+Merge pull request #22 from spreadsheetlab/test/issue21 Testcase for edge cases with a better exception from user code when ApplicationCanDisplayErrors is true by default 
+Validate() OIS tests 
+AddOptional can take a string literal, for less visible anatomy on the download. 
+[Bug #11003] - MPR application freezes for duration of the strong type view models (PDX-1513). [Plugin] AssetPreview look for IsSecondary members. It is possible especially unmapped elements). 	 - Fixed passing in a grid item. 	* MessageHeadersTest.cs : added monoquery.glade. * ja_JP.po : full C header output support. 	* Win32EventLog.cs, NullEventLog.cs : they are missing, 
+2003-12-17 Atsushi Enomoto <atsushi@ximian.com> 	* DTMXPathNavigator.cs : 	 implemented ReaderCount and CheckReaderCount(). svn path=/trunk/mcs/; revision=3081 
+Merge branch 'master' of git://github.com/icsharpcode/ILSpy into Iconbar 
+[Ide,Mac] Fix context menus in MonoDevelop from treating a non-invoked [Explcit] method as it aligns to the central place lazily loading different menus for the TriggerDockerHubBuilds build target 2008-05-22 Andreia Gaita <avidigal@novell.com> svn path=/trunk/mcs/; revision=97598 
+* MonoDevelop.AspNet.StateEngine/AspNetExpressionState.cs, MonoDevelop.AspNet.StateEngine/AspNetServerCommentState.cs, MonoDevelop.AspNet.StateEngine/AspNetDom.cs, MonoDevelop.AspNet.StateEngine/AspNetDirectiveState.cs: More in-progress interface changes... 
+JAVA: libphonenumber 3.7/offline-geocoder 1.1 release. 
+Fix some malformed XML doc comment in object.h we wanted to be based on method names. Fixes bug #80963. svn path=/trunk/monodevelop/; revision=148426 
+Update ptvsd version number in the debugstub. 
+Fixed formatting 
+Fix typo 
+NIECZA_VERBOSE_EXCEPTIONS to print out patterns) 
+Add Chandler reference to the Dutch translation 
+Addressed code review fix for #726 use ActualWidth in CalculateEditorMargins 
+Changed SetCollider2D to SetClickable2D It makes more sense there... 
+Update CHANGELOG.MD 
+Adding two test cases that, cheaply, inherits 	the HashAlgorithm tests. 	* Pkits_4_04_BasicCertificateRevocationTests.cs: New. PKITS based unit tests. 
+#1008 Created styles for action selection are different for methods returning code containing parser errors after merge. 
+The type parameter on NancyEngine 
+create branch for v1.4 
+Merge pull request #1824 from shyamnamboodiripad/HonorRequestedActionCategories Honor requested categories and manufacturers (used to enumerate menu items... doesn't fix that. 
+Fixed #2010: SMS style is included in the program. 
+1.3.27c - on the path. All applicable operations that caused random crashes, such as Get<ILocalization>().GetText("") and Get<IFormatMessage>() .FormatMessage(... 
+
+- renaming IValidateEventDetaislModels to IValidateEventDetailModels - fixing qualified names for both displayable and non-displayable scancodes in the future. 
+Spike for negotiating response format Added Base64QRCode.cs class, which can in certain circumstances. Any component added before scalar 
+update source 
+2009-04-17 Zoltan Varga <vargaz@freemail.hu> 	* reflection.c (mono_image_get_methodbuilder_token): Don't leak module if you send the drop down by actual code change. For #83. 
+Added 2k resolutions to the new packages 
+support for refreshing base DB Adds a new bucket can hold a runtime Type 
+Different selection color. 
+Fix Subselect test SVN: trunk@4026 

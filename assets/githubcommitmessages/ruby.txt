@@ -1,0 +1,1004 @@
+Ruby
+Most probable sentence: Merge pull request #1 from citation-style-language/master Update 
+
+Likely sentences:
+[client-signatures] signature may return nil` but hopefully also to run fastlane if installed Closes Homebrew/homebrew#12619. Signed-off-by: Jack Nagel <jacknagel@gmail.com> 
+replace the latter may be able to use SHA-1. Based on @sgrif's recommendation (near 17:19) on [The Bike Shed][bikeshed-41]. Thinking about an adapter. 
+* include/ruby/missing.h (struct timeval): check HAVE_STRUCT_TIMEVAL properly. and don't have to return an Array or a warning and then clear it is important (ugh ...)! 'type_id' has to be global extensions, and only retrieves the object in helper specs Signed-off-by: Dmitriy Zaporozhets <dmitriy.zaporozhets@gmail.com> Conflicts: 	CHANGELOG Signed-off-by: Dmitriy Zaporozhets <dmitriy.zaporozhets@gmail.com> 
+Don't show attributes on engines that support it. 
+removed payload stuff git-svn-id: https://reductivelabs.com/svn/puppet/trunk@768 980ebf18-57e1-0310-9a29-db15c13687c0 
+check_PATH: return early 
+Revert "Merge pull request #234 from lmirosevic/xcodebuild_output Added support for building new gem. 
+add trades_count to orders Fixes #3665 
+Merge pull request #1588 from loomio/scroll-to-comment-hotfix Scroll to awards after adding the functionality and to decouple from Rails/Rack. 
+Only consider toplevel podspecs 
+Fixed memory profiler in subprocesses. 
+Bug fix with more examples that cannot be done another way on GCC 4.2 but above LLVM-GCC and trying to send emails. Client-side validations: do not create any questions yet * three users, all from aws 
+libfixbuf 1.6.1 
+Merge pull request #458 from chef/ssd/version-from-manifest `generate changelog` can now pass git-svn-id: http://svn.macosforge.org/repository/ruby/MacRuby/trunk@2507 23306eb0-4c56-4727-a40e-e92c0eb68959 
+Merge pull request #759 from diogob/byebye_schema_associations Byebye schema associations 
+updated mdrp (6.0.2) 
+- beta! 
+Document conventions for fields / script fields / _source Related: #663, #687 #712 
+objective-caml: add Snow Leopard Specifying -v/--verbose shows the following article is bold * use the latest master 
+Update Formula: wyrd to 1.4.5 
+fix format 
+Merge pull request #241 from GregSutcliffe/pacman_aur_support Extend Pacman provider 
+Merge branch 'stable' into develop 
+Merge pull request #535 from jonas054/space_inside_block_braces_configurable [Fix #529] Add EnforcedStyle config param for GEO commands 
+Update history to reflect support for side-by-side comparisons (split view) This commit ensures that single character. Rubular link on my part 
+add screenreader text to 80 lines 
+Added smart text chapter. 
+change edit for wiki (this can happen during tests which fails on my mac again git-svn-id: file:///home/svn/framework3/trunk@5734 4d416f70-5f16-0410-b530-b9f4589650da 
+Update GHC to 7.8.2-r7 
+Merge pull request #611 from chef/ksubrama/md5 Allow assets with a scheduled_events call, fixing a typo in apache start.sh for php 5.3.6 (which seems to only correct for US 2110 cart env vars are present and changes the conditional for jruby/ruby so that they all consistently use Pathname object in the parent object was still hardcoded 
+save product default option. 
+Little Snitch to v3.5.2 
+oniguruma: fix url/homepage Fixes #31231. 
+Fixed space 
+get the location of testing whether a user and group providers to use https urls Closes #49609. Signed-off-by: Dominyk Tiller <dominyktiller@gmail.com> 
+* tool/ifchange: Fix: arguments which respond to JSON 1.1.2. (RubyForge#15447) * math.c: Math::DomainError < StandardException [ruby-core:29855] git-svn-id: svn+ssh://ci.ruby-lang.org/ruby/trunk@27566 b2dd03c8-39d4-4d8f-98ff-823fe69b080e 
+Flattr's not really necessary here 
+Merge pull request #2100 from danycoolqc/patch-1 Update pour-reussir-note.csl 
+* file.c (file_load_ok, rb_file_load_ok): replace static crypt methods. 
+fix RuboCop offense 
+Refactoring. 
+[Pod::Command::Spec] skip Missing license[:file] with --no-install 
+unrtf: use secure url in comment 
+sfcgal: add deps on libebml and libmatroska libs. Closes #1855. Signed-off-by: Dominyk Tiller <dominyktiller@gmail.com> 
+Fix tests for clear actions - make sure the grades or provisional grade test plan: redis delayed job settings on account created page" This reverts commit 6cff7101e9126d19eb35d35c760d66ac3edc4542. 
+Return nil when there weren't that many objects, each of the integration test. git-svn-id: svn+ssh://rubyforge.org/var/svn/redmine/trunk@5712 e93f8b46-1217-0410-a6f0-8f06a7374b81 
+gemsync command - `tap_args`.) Closes #18186. Signed-off-by: Mike McQuaid <mike@mikemcquaid.com> 
+Added next release section to the UI Somewhat a work package bulk copy issues (#1847). This can happen with backgrounding: If the promotion adjustments. I will definitely use our authorization code is found 
+Fixing ordered and therefore all methods to work correctly). 
+Removed 'setmaxstorage' option for vorbis encoding Closes #21121. Signed-off-by: Adam Vandenberg <flangy@gmail.com> 
+Grammar/content fixes for TCPSocket, and also adds a "release.sh" script that abstracts several libraries, such as a symlink of pkgconfig Signed-off-by: Adam Vandenberg <flangy@gmail.com> 
+artifactory 4.0.1 Closes #48837. Signed-off-by: Dominyk Tiller <dominyktiller@gmail.com> 
+Aligning hashes per code review 
+libtrace: Update to Connector/C 6.1.6 
+gexiv2: add 0.10.2 bottle. 
+rbx is rbx-2.0 
+Merge pull request #196 from kazhiramatsu/escape Escape characters correctly dots need to disable Poppler. 
+test corrections 
+Reduce the precision could be properly installed on Ubuntu 16.04 with openssl via option in merge from 7.0.x 
+github gemspec 
+Update jasmine-ajax 
+Rewording the welcome page. 
+Configuration only validates that each question type. - #579 
+(Maint) Make sure the data path introduced The local domain is permanent, if a formula is silent as to when the tax_zone is contained inside a `label`, and the rails2 branch, which was only used untranslated string (:label_close_versions => Close completed versions) git-svn-id: svn+ssh://rubyforge.org/var/svn/redmine/trunk@3273 e93f8b46-1217-0410-a6f0-8f06a7374b81 
+libmpc uses homebrew scons 
+Reflect updates in preparation to move some things behind my back. UNIX is (and should probably go in. The third null assignment to `passed_ci'. To achieve that, relationship between host and hostgroups controller 
+Add CVE-2013-3184 (MS13-058) CFlatMarkupPointer Use After Free exploit by lincoln and corelanc0d3r git-svn-id: file:///home/svn/framework3/trunk@13974 4d416f70-5f16-0410-b530-b9f4589650da 
+Added LICENSE - add notes about slideshow proposals from the tab helper always returns all servers deploy 
+calabash_console now respects rbx * rbx is now set the neo_server on Relationships 
+add an instance variable. 
+Make sure the right prefix Also correct CFLAGS, CC, etc. 
+* parse.y (cond0): disable special treating of integer values for new feed which hits autoload, it is a real big pain. As such Bundler can no longer need the template Fixes #311 Signed-off-by: Miquel Sabaté Solà <msabate@suse.com> 
+Use constant proxies for RubyMotion developer. Removing the stub after as_null_object 
+Implement fast path and I think it also makes it consistent with app screenshot class Created in CSV format. * Added a `included` hook because there is no longer running tests. This test fails in the 'Protocols' section. 
+move form unless user is root object. closes #280 
+Cleanup. 
+fix JSON stream inherits from ApplicationController, it didn't exist in 1.8, thanks Jun Koi for the db, it would look like some repetition in the unversioned-keg. So I'd rather look at master/active etc - systemd provider always returned datetimes as DateTime instances. While adding checksums the signing plugin. 
+Add validation to 8.9 requires an editor for pages api. 
+Merge pull request #2 from jhart-r7/pr/fixup-6237 Address style/usability concerns in the event creator, he can build the python formula, and added polling link to the whole attributes listing on the add people dialog and hide 
+Merge pull request #104 from heroku/extra-super-outliers Prevent '###,###,###' on pg:outliers ncalls output Turns out that use the same as it requires fewer operands and make another update (or we're able to detect when a non-existent user, or add to tests with a resource type. This only effects merge_attributes (and therefore losing the previous default scopes should break the HTML that contains the first +Document+ given the set of 5 
+* ext/psych/lib/psych/visitors/yaml_tree.rb: supporting deprecated to_yaml api. git-svn-id: http://svn.typosphere.org/typo/trunk@37 820eb932-12ee-0310-9ca8-eeb645f39767 
+Added Ericsson-TV-Web-Server plugin 
+change width from confs 
+fix merge properly this time set in roles vs clusters 
+Fix incorrect unsubscription. 
+Merge pull request #1604 from will-in-wi/rubocop_signal_exception Enable SignalException cop configurable 
+Merge pull request #390 from johnberberich/patch-1 Fix command for github gem builds as github did not anticipate how many points questions were being compiled. ref: https://github.com/opal/opal/pull/687#issuecomment-69344736 
+gnutls: update 3.2.14 bottle. 
+unencrypted_password_forms module: cleaned up some of those to the application. git-svn-id: svn+ssh://rubyforge.org/var/svn/rake/trunk@481 5af023f1-ac1a-0410-98d6-829a145c37ef 
+Use guides-layout for guides and docs the RC release. Reviewed-By: Nick Lewis <nick@puppetlabs.com> 
+asterisk: don't strip the verifier from user-context files fixes CNVS-19611 This is mostly a no-op when executed. In turn, when searching inside `/etc/init.d`. 
+Add blackbytes.info 
+Version bump. Removes an extra parenthesis 
+Add docs Conflicts: 	VERSION 	doc-src/SASS_CHANGELOG.md 
+Fixed indexing on properties that can be restricted to panel overflowing on left nav bar and to foster an atmosphere of kindness, cooperation, and understanding. A code of Jonas Grimfelt [grimen] which gives much better word 
+don't print soft warnings when running Kitchen with first-class Windows support - issues/147 
+Add the DisableApiTermination flag to not write to a different JRuby than with a custom test The 'rails new' command 
+Add `length` alias for brew missing It was made under the hood when the goto-project checkbox is turned off in the compiler tests do not depend on sprockets ~> 2.0.0. 
+Add tab maintaining spec 
+luarocks: remove to remove_over option tests list support exists. 
+Add a default rounding value of the given file name 
+Merge branch 'hp_system_management_root' of https://github.com/agix/metasploit-framework into agix-hp_system_management 
+Docs 
+Change event history 
+Remove implicit dependency 
+Merge pull request #4055 from jekyll/beefer-collections Merge pull request #208 from BBC-News/failing_runs Failing runs exit 
+Redact saga-core It does not support Server now let you have put up notices suggesting to `gem env` output. 
+show new reward page 
+allow additional configuration necessary, though additional options to package libs (for both rails 3.2 in Travis CI. 
+Remove unnecesary varidation 
+WIP repository and provide a public method specs into new apps in /srv/http. 
+prelude.rb: deprecate Thread.exclusive * prelude.rb (IO#read_nonblock): wrapper + documentation for coordinates2statistics 
+fix proposal outcome flash 
+squirrel: add 3.0.6 bottle. 
+rework list reading to use the primary key if that description must be handled by primitives, which take less risky path when switch on. 
+Fixed alpha-value calculation when trimming @extend output. Closes gh-12 
+Added output of last commit and author... 
+libaacs 0.7.0 Closes #49519. Signed-off-by: Dominyk Tiller <dominyktiller@gmail.com> 
+yajl: update 2.1.0 bottle. 
+* Run tests on MRI 2.2. 
+tokyo-cabinet: add debian as url param in openid return_to url has been removed. 
+legit: update 0.2.0 bottle. 
+[Truffle] All of them back. 
+don't use this feature. 
+undo setting @record instance_variable 
+Convert more generic way of ensuring that, when doing a share view, tests 
+Land #2091, @wchen-r7's switch to versioned url 
+Merge pull request #3 from brntbeer/patch-1 Dumper#write takes in Yosemite. This is because relationships appended with the NIC is using 
+Grammar and stream [ci skip] /javascript/ ~> JavaScript 
+lsof 4.86 Signed-off-by: Jack Nagel <jacknagel@gmail.com> 
+Add missing record_invalid to bg.yml. Thanks to Pierre Paridans. Closes #18016. 
+Re-run Rubocup auto-correct on redmine.rb Signed-off-by: Alex Dunn <dunn.alex@gmail.com> 
+Apply new styling to TextSegmentCollection once  * Add WorkLog.duration_per_user scope with SmartProxy.with_features scope 
+new-style header in api/products requests (experimenting with Fastly) 
+describe("A", Hash, "with one element") will generate duplicate schemes of any better. 
+updated readme 
+allow creation of a wiki page, fix #12921.  ## Are there points in the case with sessid in URL was never used. Let's remove nodejs as required in Engine#initialize 
+Swift: add new class instead of running specs on 2.0 
+Merge pull request #9174 from jamesottaway/xamarin Restore Xamarin Studio, incl. Xamarin.Android, Xamarin.iOS and Mono MDK to 4.0 rc1 
+Added test for has_many deletion because the returned structure hash format for topic lists show last event message if no matches 
+pipemeter 1.1.3 Signed-off-by: Adam Vandenberg <flangy@gmail.com> 
+Remove extra include info about Vagrant 1.2+ build lab to generated cookbook 
+Add XKCD hovertext to default columns or not. This resulted in this case more relaxed for now fixes CNVS-23347 default browser behavior when detecting CPU/OS for FFI extension building to service uniqueness validation with "Invalid parameter provider". 
+re-use version in logic around replacing the remnants of update method. 
+Fix count in streaming GET requests for PUTs and some basic controller and routing problems 
+Re-add missing update_positions_admin_product_product_properties_url Fixes #2567 
+* remove trailing white-spaces from app/helpers/account_helper.rb. git-svn-id: svn+ssh://rubyforge.org/var/svn/redmine/trunk@6850 e93f8b46-1217-0410-a6f0-8f06a7374b81 
+fix ruby 1.9.2. Closes Homebrew/homebrew#14636. Signed-off-by: Adam Vandenberg <flangy@gmail.com> 
+stepdefs.json 
+testdisk 7.0 Closes #2942. Signed-off-by: Andy Blyler <andy@blyler.cc> 
+Fixed: error on connection handler 
+update to 0.56. Signed-off-by: Adam Vandenberg <flangy@gmail.com> 
+add in order to be compliant. 
+Ensure that save_and_open_page_path is re-set if save_page raises 
+update supported version of OSC encoder converts Rationals to Floats * No easy way of showing non ASCII chars in them Change-Id: Ia65ab7817dcd330107701e6e6641941343d72d24 Reviewed-on: https://gerrit.instructure.com/59999 Tested-by: Jenkins <jenkins@instructure.com> Reviewed-by: Jeremy Stanley <jeremy@instructure.com> Product-Review: Jeremy Stanley <jeremy@instructure.com> Product-Review: Jeremy Stanley <jeremy@instructure.com> QA-Review: Jahnavi Yetukuri <jyetukuri@instructure.com> Product-Review: James Williams <jamesw@instructure.com> QA-Review: James Williams <jamesw@instructure.com> 
+adding episode 284 
+[Truffle] Do not cache response 
+element toggler was moved into RuntimeHelperInstr call. * :tokens - A student belonging to the atlas box search Use medium size in the Playback section 
+pcl: update 1.7.2_1 bottle. 
+Adds an Airplay::Logger to handle paths with deprecation warnings. 
+RUBY-1130 Refactor DJ instrumentation Fix the JavaScript libs git-svn-id: file:///home/svn/framework3/trunk@4114 4d416f70-5f16-0410-b530-b9f4589650da 
+Adds support for `optional` param documentation for ActiveRecord::QueryMethods#reverse_order [ci skip] 
+dieharder: add 3.31.1 bottle. 
+Merge pull request #1924 from rubiojr/issue-1914-test-fix [xenserver|compute] Small fix for wrapping Time and DateTime properly now. Clear Gem.searcher when loading nodes 
+refactored feature tests. 
+ppl 0.11.2 
+hugo: use https homepage url to the Google Doc tab more accessible * Correct the value in version output (Ruby >= 1.9.3) - Add deprecation warnings for CommandBuilder#+ 
+Update github-linguist.gemspec 
+basic specs for create_from_provider 
+Rails4: replace deprecated errors.on at test_validate_mail_notification_inclusion of unit/user_test.rb git-svn-id: svn+ssh://rubyforge.org/var/svn/redmine/trunk@7593 e93f8b46-1217-0410-a6f0-8f06a7374b81 
+Last now takes style hash 
+adding a comment where example model name in XML declaration ("<?xml... ?>") at the time comparison in crud spec models 
+Fixed #6002 - Added proper entity quoting to dc:description excerpt in the early check that _current_user responds_to :email. For #734. 
+Introduce swappable backends, paving the way access token to tLBRACE 
+Modifying README. 
+Update RSpec. 
+Whoops - don't run on the issue and can lead to clashes with Rails 3 functionality 
+bugfix for MongoDB history 
+Reject double quotes 
+Latest factory_girl 
+Bump useable clang version to another, Augeas realise to reload controllers, skipping for now we have to do something on categories page 
+Merge pull request #2990 from Azure7111/feature/create_work_package Added documentation for consistency. 
+Use kitchen-appbundle-updater 
+(PUP-1884) Migrate MSI deps into a single expression. 
+Clean up and refactored usage in knife help rather than rails 3.1.x. 
+Fix tests 
+Version Node documentation to state *values* instead of #generate 
+With two separate languages, although closely related to https://github.com/travis-ci/travis-ci/issues/1641. 
+Fixed equality to be a file - Go to enable better file structure of these methods now return the kind of pointless tests but that shouldn't have been removed, and now they are supported. Convert avi, wmv, mkv, rm, mov and more intelligently 
+Controllers refactors: * Remove RGeo::CoordSys::Proj4.version_string (use .version) 
+Updated nb translation closes CNVS-12126 test plan - send a message that says 		'Grading' 3) Verify that the score again, and probably shouldn't happen. But if you attempt to fix failing migration on fresh checkouts and minimizes the amount of cache We don't need reset, restart is required when url_helpers or mounted_helpers are required. 
+Allow users to deactivate a running TCP proxy messages are always preserved between config reloads. 
+Merge pull request #3978 from tas50/knife-wording-2 Community site 
+libmonome: fix build in parallel. * cpu metric collection not as big (192 KB vs 90 KB). 
+[Truffle] Simplify WriteInstanceVariableNode, the actual behaviour not sure how duplicates can now be selected as a config file. 
+Enabled and updated layouts/application and subsidiary files to .html.erb of app/views/issue_statuses/new.rhtml. :rhtml and :rxml were finally removed as template handlers at Rails 3.1 RC4. git-svn-id: svn+ssh://rubyforge.org/var/svn/redmine/trunk@7048 e93f8b46-1217-0410-a6f0-8f06a7374b81 
+Adds http to http download Closes #3083. Signed-off-by: Andy Blyler <andy@blyler.cc> 
+dnscrypt-proxy: bump revision for dependents of ffmpeg or mplayer version doesn't match Chrome, iPhone, iPod and iPad 
+Add Paragon ExtFS Simple variation of #17778. 
+libbtbb 2015-10-R1 Closes Homebrew/homebrew#43761. 
+Change IRC to revert the line wrapping in the readme. 
+minor updates to a course * give the option will allow for correct throttling. 
+move from using ramp to lag for some job frameworks that will soon (hopefully almost immediately) be abstracted so that it didn't work correctly. git-svn-id: file:///home/svn/framework3/trunk@11958 4d416f70-5f16-0410-b530-b9f4589650da 
+provide ipa_url and plist_url to templates 
+Simplify set_javascripts_and_stylesheets. 
+fix :cancan specs run across all supported callbacks 
+Show TOC above code example in documentation 
+Spree Endpoint URL fill ins 
+FIX: damn timezones 
+Adding auto detection support to extract command completely for PR #4021 
+A working Rex backend for inviting people to have a copy [#138 state:resolved] 
+Fixed that date before the page was unusable (#1511) 
+remove 'the' from API overview headers 
+Regenerate gemspec for version 2.3.15 
+Revert "Can't run rake rails to 2.3.16 The html_escape changes were necessary. * gem_prelude.rb: removes copied codes from lib/rubygems/defaults.rb. uses require instead of a variable in m2m associations' input widgets and made sure we have enough scope to not try to call `select` it incorrectly finds `Kernel#select`. The solution to follow. 
+signal.c: signal list to API Documentation Guidelines Link to their own contexts. 
+use delete_if over select clause in find_home to use +/- signs only when right shifted. git-svn-id: svn+ssh://ci.ruby-lang.org/ruby/trunk@43080 b2dd03c8-39d4-4d8f-98ff-823fe69b080e 
+(#7911) Fixed exception handling was performed in parse_at_tag method before calling brew services restart mysql Error: Formula `mysql` not installed, and also add guards just like in real life. This is not a new user' test 
+timezones now use execute_job instead, which returns FbGraph::Picture object instead of a new syntax 
+New formula twoping.rb with a dummy and caching fixes CNVS-11199 test plan: * upload a video, see that message headers (doh\!) git-svn-id: svn://rubyforge.org/var/svn/sup/trunk@391 5c8cc53c-5e98-4d25-b20a-d8db53a31250 
+scm: remove global repository log encoding (#3396). This file must have something in that account) and prepared for 0.11.0 release > Rename scoped-properties/ to settings/ * vendor/grammars/language-shellscript e2d62af...cbec163 (2): > Prepare 0.39.0 release > Rename scoped-properties/ to settings/ 
+brew-test-bot: use OSX name for autotest 
+Merge branch 'expand-path-on-sinatra-root' [closes #67] Thanks @toy! 
+add Check.url method 
+* man/ri.1: Incorrect use of multiple tokens. It's a filename, or even spaces` 
+updated icon font toggler 
+Set the travis failures" this did warn. See #1903 for the nodejs use_npm marker 
+Do not handle removing the default config 
+No need to ensure coverage - Use now the adapter itself, but ID_JUNK cannot make shared arrays are processed. 
+Nop NullLogger 
+Fix memory leak in test. Normally, users don't have to be able to understand the directive. Parsing the assignment with more actions in admin/countries/index Fixes #2615 - Add a warning when running `thor :install'. 
+Merge pull request #88 from drhenner/work referrals and store requires only 2 arguments This might involve a minor error in docs git-svn-id: http://svn-commit.rubyonrails.org/rails/trunk@1570 5ecf4fe2-1ee6-0310-87b1-e25e094e27de 
+Add TextMate project file 
+Merge pull request #11339 from Ngrd/add-appcast Add appcast 
+fixing typo in optparse library [ci skip] 
+add support for raw_import flag (#375) This flag is inspected to ensure the teacher's time zone being used in arrays 
+trying to delete an instance which isn't supported for fenced code blocks to instance #invite! method 
+cleanup worksheet initializer. 
+FIX #32 generate ingore file before running tests on Ruby 1.8. [Haml] Properly indent doctype/XML decl inspect values. 
+Add validation to controller. git-svn-id: svn+ssh://rubyforge.org/var/svn/redmine/trunk@8735 e93f8b46-1217-0410-a6f0-8f06a7374b81 
+remove single quote in the director in the ID of the code base. As a student, which will create implicit sequence "vuln_details_id_seq" for serial column "module_platforms.id" NOTICE: CREATE TABLE IF NOT EXISTS if indexes are open to the database. 
+update menu links 
+Merge branch '9768_default_resources' into 2.7.x * josh/ticket/2.7.x/9458-puppet-fails-when-no-subcommand: (#9458) Require main puppet module build Fixes #30381. 
+cake 0.6.4 Updated to latest factory girl. 
+Merge pull request #4344 from sosiouxme/oo-diagnostics Merged by openshift-bot 
+dialog: update 1.2-20150528 bottle. 
+Merge branch 'update-db-schema' into 'master'  Add documentation intro to stream abitrary data from the c428f832 by avoiding exceptions whenever the grades page Change-Id: I679e942d83b34c42892dfab8a2c7753f3dbeaf40 Reviewed-on: https://gerrit.instructure.com/52037 Reviewed-by: Cameron Matheson <cameron@instructure.com> 
+add subdomain support to textfields 
+(PUP-5191) Fix acceptance test for a site admin privileges, confirm the e-mail configuration out into its own class in specs 
+Refactored the order_operation into new Normalization module * make sure column is included for NextStep, OpenStep, and Rhapsody ports which had been added to the method, added specs too 
+Refactor profile methods into helper as it's now within LICENSE 
+Merge branch 'group-navigation-redesign' into 'master'  Ajax filter has actually done nothing since we only wanted one to go. Change-Id: I42c24e31ca58cccc33d349bcb451defd3aaa5c9c Reviewed-on: https://gerrit.instructure.com/3993 Tested-by: Hudson <hudson@instructure.com> Tested-by: Selenium <selenium@instructure.com> Reviewed-by: Ryan Shaw <ryan@instructure.com> Tested-by: Hudson <hudson@instructure.com> Reviewed-by: Zach Wily <zach@instructure.com> Tested-by: Jenkins Product-Review: Jason Madsen <jmadsen@instructure.com> Tested-by: Jenkins <jenkins@instructure.com> 
+Release v0.3.4 
+move utf8 encoding resolves common heroku problem 
+simpler defaults for spec.json [#62406006] Signed-off-by: Nick Wade <nwade@pivotallabs.com> 
+Match --minimal-deps test 
+libvpx: simplify configure your editor of choice * Cleans up codebase 
+Merge pull request #496 from Vijar/master zsh aliases to DSL constants 
+README: Harmonize Gemfile instructions with `new` and `collection` routes. Refactored some of our test suite. 
+Updated french translation 
+todos 
+geeqie: intltool is a command-line flag Commit 76b11f0 added support for ruby 1.8 and 2.0 of the cache. This was also refined so that both files run again. For Python 3.x software as the teacher * assign peer reviews Fixes CNVS-23648 This fixes Rational(3,1)**3.0=>26.99999999999999 on FreeBSD. [ruby-core:21884] git-svn-id: svn+ssh://ci.ruby-lang.org/ruby/trunk@24140 b2dd03c8-39d4-4d8f-98ff-823fe69b080e 
+remove generate error when inserting array objects 
+Fix issue with multipart names (ie: DevelopmentProjects) 
+Update changelog 
+Skip DM models test if Unicode data file; refactoring; fix an arity of blocks, by adding positions:relative to some API clients have an announcement and disucssion topic should not say: 'due: No Due Date" when there is no next item. fixes #CNVS-7922 Change-Id: I5a54315b906842590c51c87273a6b22e94bc0879 Reviewed-on: https://gerrit.instructure.com/24028 Tested-by: Jenkins <jenkins@instructure.com> Reviewed-by: Brian Palmer <brianp@instructure.com> 
+rethinkdb 2.1.3 Updated rethinkdb formula to be a royal pain as a student NOT in one TX 
+I'm sure a faculty journal checkbox and the 'courses/:course_id/grading_standards' page. users should seek permission of bundled rfpdf (#17570) Contributed by Romano Licker. git-svn-id: svn+ssh://rubyforge.org/var/svn/redmine/trunk@7683 e93f8b46-1217-0410-a6f0-8f06a7374b81 
+[WATCHER] Added the `format` option to enable configurable logging Included class macro to cast the data store when dalli without default values for $LESS, if already included in the API model. This strategy is to move Generator back to homebrew/versions. Closes Homebrew/homebrew#28418. 
+Ruby 1.9 git-svn-id: http://svn-commit.rubyonrails.org/rails/trunk@7650 5ecf4fe2-1ee6-0310-87b1-e25e094e27de 
+ghostscript: update 9.16 bottle. 
+Version numbers are now reported back in #{direc} before requires as they are in download urls refs #6012 Change-Id: Idaa743ad206f0eb6eee5447d80f082048d802f08 Reviewed-on: https://gerrit.instructure.com/6357 Tested-by: Hudson <hudson@instructure.com> 
+removed memoization from inbox if message might get worried about this, I'll take it, anyway, because the polling stops Change-Id: I43ce2d3d44771ee3c2fed7bc5721418c06082784 Reviewed-on: https://gerrit.instructure.com/9619 Reviewed-by: Zach Wily <zach@instructure.com> 
+request server data dirs These fixes allow rubinius to support #2857. Specs pending. 
+don't cache user search page fixed: product validate error. 
+param_name configure via setting directly and rspec test for adding PersistentBreakpoint and BreakpointRestorer classes. 
+Adding "spree_" prefix to unused method 
+Fix FFI struct subclasses to class JavascriptInstrumentor 
+Changed directory check ... 
+clean config directory 4) you should see a backtrace and some documentation for the original module from the issue where subtasks of a reference to spawn inside the call site, remove some dead code. 
+Automatic commit of package [cartridge-postgresql-8.4] release [0.9.2-1]. 
+rp 1.0 Closes #10911. Signed-off-by: Adam Vandenberg <flangy@gmail.com> 
+Update LICENSE for reality. 
+Merge branch 'mislav/master' (early part) 
+add rake tasks 
+use _dump and _load to handle this; override Merb::Controller.display to use the standard libraries are taken from from MRI's one in the blog to the StockManagement permission set. 
+Renamed Hash#dragnet to #slice, to match the space in application.rb 
+pdf2htmlex: revision for icu4c 
+v2.2.1 
+* util.c (ruby_strtod): should not use testtask. 
+Fixed #2229 - Red Hat spec file loading less ugly would also be installed. 
+Merge branch 'stable' into develop 
+fixed: access_token error. 
+updated upload task by not resetting after large tables Rename to Search Summary and Details -> Description 
+Remove tags for 2.0 Ruby 2.0 to Travis check Ruby versions 
+If a tap then it should be able to view and subject 
+[API] Checkouts API What was this MR do? Decreased window min width for filter fieldset 
+add gist specific api endpoint 
+Merge pull request #509 from troessner/feature/revamp-our-doc-structure Revamp our doc layout 
+Merge pull request #74 from Shopify/fix_fetch_error_msg Fix error 500 if order is a deeper issue. 
+Save name_tr_key and action_button_tr_key via ListingShape API doc the private schema_parse_table_skip? method that would have to wait for 1 == maximum integer value is always used. Therefore to_param must always be responsible for creating a section is a method for Active Resource typos. 
+Hash#slice can take a while ago but now implemented as derived classes (enebo) JRUBY-99: UnboundMethod class created twice (Miguel) - Thread safe support for Luarocks dependencies. 
+Update kb article link in the footer; (4) the logo sweep delay 
+Fixed allow_blank_for to use bootstrap variables Bootstrap initial refactor Conflicts: 	extra_docs/ImageMagick.md 	lib/dragonfly/data_storage/s3data_store.rb 	lib/dragonfly/image_magick/utils.rb 	lib/dragonfly/job.rb 	spec/dragonfly/job_spec.rb 	spec/spec_helper.rb 
+Raise more useful modules 
+Implement auto-detection of Rails * Remove `require "formula"` and updated code for config file for the plugins directory, and since this update, referring to Rubygems et al. min 
+More tokenizer docs 
+Introduced settings for the key. 
+Sms Gammu: Fix insert disk to pass the spec files Pull request #1485 from laravie/feature/auth-events Add 'laravel.auth: login' and 'laravel.auth: logout' events. 
+mitie: add 0.3 bottle. 
+Converted getters to retrieve badges from admin check 
+Fixed a bug in Postgresql 9.0.{0-3}, fixed in Rails 3. If the criteria appears - When the link step for guest checkouts / orders. [#1093 state:resolved] 
+change admin/feedback routes show collection that passes it to the web ui 
+Allow skipping password when copying watchers: watcher expected its watchable to be more compatible - uses an https homepage 
+Fix spec and tags git-svn-id: http://redmine.rubyforge.org/svn/trunk@20 e93f8b46-1217-0410-a6f0-8f06a7374b81 
+Updated fr translation Change-Id: Id361539a4beccac613246d1304c4d48357267331 
+Merge pull request #3580 from jwhonce/bug/1005364 Merged by openshift-bot 
+Bump rubocop and update simple_form initializer to gain focus (or "Add Prerequisite" if the included class scope, when it is impossible to test using shoulda-matchers 
+Doc fixes 
+Make redis-sinatra tests to text_formatter_spec, added test case that the keys and values in transaction so if you got :bar, and if there wasn't an issue status (eg. status-1 where 1 socket.read() operation receives all requested dependencies to all the real package name test, we raise a helpful error message is written back to publishing grades, - Students see their quiz submissions. this includes: * all int loads now "linecache" 0.46 which includes also merge this in and thus displayed an incorrect date time regular expressions 
+Model names distinct from the pool is empty string. This also recovers some performance with messages ... 
+restore alert checking functionality, specs to be done. * Click "set default grade" button on Cheesecake 
+mkknlimg and knlinfo now in a "zombie" state, but this technique has no useful effect on presence of perl's ExtUtils::MakeMaker 
+Merge pull request #9206 from dsander/hipchat-options Add notify by default because that's most needed in other yamls. These keys were given a bogus path in apache_roller_ognl_injection The hardcoded File.open path in #change_line, not just return appropriate true / false 
+Merge pull request #1510 from MosesMendoza/maint/2.7.x/update_build_defaults [packaging] Update mocks and tests. - More readability fixes to stash $1 before we hit in the future we get the wrong indentation/styles for the UnrealIRCD backdoor git-svn-id: file:///home/svn/framework3/trunk@9503 4d416f70-5f16-0410-b530-b9f4589650da 
+Update history to reflect 1.4.6 release 
+Include 99 plugins by default, and add tests for sorting the backbone collection content to a specific setting Prior to Guard Plugins (wiki) to Readme 
+Fix check git version. Checking is "yes" only on has_many associations on rails 4. 
+Fix flakey unit spec coverage for the recurring functionality provided by Tim Pope's post on the fly FIX: unread and stay dry. 
+node: update 5.4.1 bottle. 
+Merge improved CssParser into esprima-parser. Had to rename RubyLint::Analyze to RubyLint::Analysis as the Mailer guide 
+Refactor our samples to the JSON response … 
+Made methods class methods, and support ranges that change right now. Once upstream cuts a new notification preference 		- Create a log route for omniauth 
+geomview: use patch DSL 
+h2o 0.9.2 Version bump. Should probably be clarified with a test for it 
+add back Thread API methods and instance private methods  Fix Raw / Rendered diff producing different results - turn on the page, not sure how this can only participate..." is checked [#1772 state:resolved] 
+adobe-air-sdk: fix SHA-1. 
+Favicon, map icon, better map bubble navigation - option values 
+Added a sort of thing. 
+mass-assignment-protection implemented 
+git-archive-all 1.9 
+Update VERSION to make now get rid of some larger files. 
+treesame commit of Socket and adding Atom check to not break other placeholders that are hidden until used, none are found. Update CHANGELOG 
+cache repository 
+Update sftp.md Add some new badges - Pay it forward day 
+Update Formula: libical Version bump to 1.0.40 
+Fix CI for Ruby < 2.1.0 (maint) Fix acceptance test Conflicts: 	lib/vanity/adapters/abstract_adapter.rb 	lib/vanity/experiment/ab_test.rb 	test/experiment/ab_test.rb 
+thread safety 
+dvdrtools: reference IOKit as a group override - introduce PWD environment variable interface 
+Parsing for if statements; Assume that `puppet node clean` can remove some unused method in subject into the fetcher 
+Fixed reference to mock api git-svn-id: http://svn.macosforge.org/repository/ruby/MacRuby/trunk@3201 23306eb0-4c56-4727-a40e-e92c0eb68959 
+Fix node searching modifying the method 
+postgresql: use Homebrew's freetype 
+fix array fields as that will be triggered when the project website has been replaced by an initializer. This means that it's failing to parse not-US address 
+Added .XN--MGBX4CD0AB (.ایران, Iran) IDN TLD server. See weppos/ianawhois@2ccdfe265b2ed8c83ca3b31e84b8c96221f49bc8 
+Refactor dependencies in tax_rate factory 
+Fixing wrong link in the non-chunked path, too. 
+Update History.md 
+between_times one-sided and Array Previously users would get it. Because there are graded correctly - set up for next release. see: http://lists.gnutls.org/pipermail/gnutls-devel/2013-July/006390.html Closes Homebrew/homebrew#21500. Signed-off-by: Adam Vandenberg <flangy@gmail.com> 
+Update chromium to 34.0.1847.116 
+unset rdoc template support on the test case for ActionDispatch::Response#charset= method 
+[Truffle] untag passing class tests 
+all local installed packages used on the side effect of making another separate request and reply. Relates to https://sentry.gitlap.com/gitlab/gitlabcom/issues/3507/  Closes #14568    See merge request !2904 
+adjust financial backers report 
+[Sass] Add some styling updates refs CNVS-11309 Test Plan Given I'm on the boot mode. 
+create a valid limit 
+add query parameter keys can be uploaded and displayed nothing.    See merge request !298 
+gpsim 0.25.0 gpsim is a valid destination. Corrected it according to readability conventions 
+Bump Spree version 
+Context refactoring. Move common detector methods to their usual single-threaded operation. The division of labor here is to switch to the stack is examined on each card. Fixes #5327 
+Updated ServiceFB to r80 to solve the intended error message on mobile 
+Creating ambry badges in titles, this fixes was: Failed to load lib code to only apply line_item_adjustments on selected text. this overwrites previous searches at the cost in 1.8 and 1.9. git-svn-id: svn+ssh://ci.ruby-lang.org/ruby/trunk@54009 b2dd03c8-39d4-4d8f-98ff-823fe69b080e 
+Upgrade to Rails 4.2 (see fbe38c9e) 
+Added rack-proxy gem. 
+i18n'd profiles/* 
+Fixed Bignum#modulo(0.0). 
+Updated ru translation Change-Id: I6499b496acfa105a77786dcaff95a01310a70c96 
+Map bubble contents are html_safe 
+remove billing things from Erlang, and in options) * add `heap_available_slots' field * Changed constant handling and removed unused class from DocParser. The purpose of the shipment 
+* lib/net/http.rb (Net::HTTPHeader#content_type): should return Time objects 
+Bump version to 3.2.5 version 
+Merge branch 'release/4.2' into dev 
+luarocks 2.2.1 Closes #495. 
+Fixes issue #364 by downcasing version string for url. 
+Specs for pack, unpack specs for #2843 
+comments/documentation 
+prepare 0.7.20 release 
+Updated to version 2.1.0 
+update ruby-saml-mod to v0.1.24 Change-Id: I3ad8b91b0138259c4f18f6e456753c75d2c5073e Reviewed-on: https://gerrit.instructure.com/29513 Tested-by: Jenkins Reviewed-by: Brad Humphrey <brad@instructure.com> Product-Review: Brad Humphrey <brad@instructure.com> Product-Review: Nathan Mills <nathanm@instructure.com> Product-Review: Bracken Mosbacker <bracken@instructure.com> QA-Review: August Thornton <august@instructure.com> Reviewed-by: Brad Humphrey <brad@instructure.com> Tested-by: Jenkins Product-Review: Ethan Vizitei <evizitei@instructure.com> 
+Move promo specific stuff and removed the path rather than send the helpers there" This reverts commit 7750505a3d9980502ff50c6bf42f76ba80c06e4c. There's a larger scale. 
+:latest as the rest of chao's patch :/ git-svn-id: file:///home/svn/framework3/trunk@11205 4d416f70-5f16-0410-b530-b9f4589650da 
+Only test on Windows 
+Port over ASCII escaping logic used in tests 
+vox-preferences-pane.rb: change ':unknown' license comment 
+Revert "Revert "Need to query the pointer of this code if the file on GitHub while developing 
+[CHEF-3090][SHELL_OUT] Mixin::ShellOut.shell_out! should convert `ldap_blocked` into `blocked`  Mockup for new CI config 
+Correct named captures from Regexps 
+Version bump to 0.3.1 Also changed the way we allow oembed discovery 
+Merge pull request 4974 
+Remove obsolete lightbox call 
+Fix a messy crash with missing params for admin not site admin), try to be at the same time. By moving this check will try to do "work", at a time, AST entries that are not crazy about the location when sharing a fstring from a compatible version 
+bump cache 
+Rename oauth_token to access_token to get every user API documentation updates 
+Updating Readme and added lang="en" to html entities for user 
+FIX #36 check if iseq. * proc.c (bmcall): method proc binding receiver * Allow exceptions (for Frontiers subjournals). 
+Update logic to context since you can't submit the assignment 
+#new? on embedded pagination out to checkout/edit This is to search based on the dashboard 
+nanopolish 0.2.0: Add bottles to method. 
+new versions of Ruby/Rails it runs (and when it was broken 
+Merge pull request #131 from timoschilling/plugable_logger_instrument plugable logger instrument 
+init.d script - There's no reason to enforce the URI be set to nil. 
+Merge pull request #112 from mbj/fix-ivar-initialization Initialize instance variables 
+rename skip_callback->suspend_callbacks refs CNVS-9522 in rails3 aren't loaded [Bryan Helmkamp] References #8713 git-svn-id: http://svn-commit.rubyonrails.org/rails/trunk@7824 5ecf4fe2-1ee6-0310-87b1-e25e094e27de 
+fix rubocop Style/WordArray warning 
+Adds int4range model specs 
+Merge branch 'case-insensitive-search' of git://github.com/change/carmen into change-case-insensitive-search 
+Messed the package manager * 'predict' command 
+RuboCop: Run during Travis runs This started happening as a special class to use RabbitMQ 1.5.1. Added nanite-admin to gem author for content length for certain exceptions Ideally we would call a new membership page 
+Version bump 
+Removed deprecated_mapper - we need to enable TCP_NOPUSH/TCP_CORK. Listen sockets are closed and then printing a Ruby version to 1.2.0 stable Closes #1829 
+The logstash-event gem should configure using fetch_file/url_whitelist 
+Added proper guard to explicitly call #to_s on Tag for simplified Chinese locale files. closes CNVS-17266 Test Plan: Create grading periods 4. Create three courses. - Publish grades on grades page should not write to a partial TLS record (issue #1280) 
+re-enable custom resource name 
+3.0.4 
+Remove temp workaround for Ctrl-C. git-svn-id: svn+ssh://ci.ruby-lang.org/ruby/trunk@6946 b2dd03c8-39d4-4d8f-98ff-823fe69b080e 
+Merge branch 'griffordson-master' 
+Fix review message parsing logic The summary_stop_at_header option now is just a bit * fixes large file lists is calculated 
+wording 
+Merge branch 'master' of https://github.com/enspiral/loomio 
+fixed #10 
+Cleaned up variable names made strange conftest 	 error. Fixed this by hand from ccb06d14451c0e762dfc207f93ac2286881d168a to fix Line contains trailing whitespace. [ci skip] 
+Handle path elements are used any of the records. Once the parser 
+Document cleanup 
+Remove Visualboyadvance This is a new spec syntax to `default:` and block is provided containing only '*', as absent. However, if any page that has no knowledge of HTML partials inside directory trees, fixes #1487 
+.cvsignore: have not already specified. Fixes #67. 
+Fixes for relish. 
+Fixed [#13065] Named routes should be rendered on admin order edit UI Fixes 
+spec/selenium: introduces new argument list Closes #362. 
+speedtest_cli 0.2.5 Closes #23264. Signed-off-by: Adam Vandenberg <flangy@gmail.com> 
+Merge pull request #59 from alexpeachey/add-automount-as-optional Add mounting options or arguments, it fails to compile. Force the usage of those - Clicking anywhere closes autocomplete - still optional 
+Switch bosh-director to 40 to accommodate new version which includes rtomayko/tilt#283 Thank you @hurty for your MFA code, not to overwrite handlebars templates 
+carthage: update 0.12 bottle. 
+Change gravatar tests to changed route globbing for rubocop and rspec helpers to use for everything 
+version and update gemojione to 2.6.1. This adds a touch hackish in terms of service hook raises service config (#4597) * Add support for the index.html was empty 
+new-style header in avogadro 
+* gc.c (gc_start): check FORCE_MAJOR_GC. git-svn-id: svn+ssh://ci.ruby-lang.org/ruby/trunk@48414 b2dd03c8-39d4-4d8f-98ff-823fe69b080e 
+Clean up thread-local access cleanup. 
+Merge pull request #11183 from mauricerkelly/update-appcode-3.1.6 Update AppCode to v3.3.3 
+Merge pull request #4276 from estolfo/MONGOID-4261-first-or-query-operators MONGOID-4261 MONGOID-3887 Assign hash attributes failure message 
+Merge branch homebrew/master into linuxbrew/master Conflicts: 	Library/Homebrew/extend/ENV/std.rb 
+Updated Kayako-SupportSuite plugin 
+synfig 0.62.02 Signed-off-by: Adam Vandenberg <flangy@gmail.com> 
+app stanza in filezilla.rb 
+Merge pull request #1419 from fbennett/oscola-legis-titles OSCOLA: roman + no fixnums on arg processing code. - Several bug fixes, including processing older model files 
+Revert "Shouldn't override def patch 
+more info check https://github.com/CocoaPods/Xcodeproj/blob/master/lib/xcodeproj/project/object/file_reference.rb#L13 If the current branch which are calculated at the same directory only once to prevent obsolete warning for OpenSSL, but only at asset precompilation-time (hence being in the beginning of the load path in test for export 
+Merge pull request #3235 from kylog/lmello-fix_pup-2289 (PUP-2289) Fix host argument from boolean option handling 
+some days I hate GemPathSeacher so much. 
+bundle update to the temp_object 
+update cycling74 max (7.2.1 160310) 
+Refactor: pull #query_statement_invalid up to ignore them?) Slight refactoring of attachments/_form broke this function never returns true/false, not values such as "The remote server for any length extension git-svn-id: file:///home/svn/framework3/trunk@12915 4d416f70-5f16-0410-b530-b9f4589650da 
+freeglut: fix build Supersonic expects to be reraised by operations wanted to keep that as well. It also effects the width of text field (<input />) while the job would find that we're not int 
+gifify 3.0 gifify v3.0 Closes #40111. Signed-off-by: Dominyk Tiller <dominyktiller@gmail.com> 
+(PUP-4359) Add the top level. 
+Regenerated gemspec for version 0.4.2 minor changes to allow 
+Fixed message 
+Centralized Redis key creation in the results. It is the recursion to great git-svn-id: file:///home/svn/framework3/trunk@9222 4d416f70-5f16-0410-b530-b9f4589650da 
+bsdconv: fix encoding compatibility before joining the join course button 2. as teach, go to Account Settings 2. Enable better file structure git-svn-id: svn+ssh://rubyforge.org/var/svn/mongrel/trunk@576 19e92222-5c0b-0410-8929-a290d50e31e9 
+gdl: remove broken title from CHANGELOG 
+Merge branch 'question-group-unanswered-fix' of https://github.com/jdzak/surveyor: Saving response set completion character 
+Add another condition to the GitHub source. Closes #41426. Signed-off-by: Mike McQuaid <mike@mikemcquaid.com> 
+Added attr_accessible so acts-as-taggable-on can play your Pandora stations right from your Mac when you're running tests 
+GNU Libidn is a derivative of the README 
+Use token instead if it does, executing scripts inside bin/ by using before_validation_on_create 
+New Formula: kbtin KBtin is a C header samples for mount functional tests (wiki). git-svn-id: http://redmine.rubyforge.org/svn/trunk@999 e93f8b46-1217-0410-a6f0-8f06a7374b81 
+Skip minor version 
+CHANGELOG: Tiny wording fix 
+Adds support for pending? to Row Scenarios Ensure snippets are not too clever - therefor we need to work. 
+Properly distinguish between runtime and library > The yield_control matcher 
+switch CHANGELOG to Active Merchant is included respond to #reimburse. Fix reimbursement original payment and update controller specs [frontend] 
+reverted change that password policy support, fixes #97 
+Require simplecov-html ~> 0.5.0 
+Release version 3.1.0 
+squidman.rb: change ':unknown' license comment 
+Remove feature of the extra stuff that's no longer 'magically' sets @product. Set it to now work for question banks and quizzes - check for linux kernel ignore check. Module#newMethod - Throw typeerror instead of only one Swift file would be: `https://example.com/namespace/project/blob/README.md` which omits the `master` ref, resulting in a future commit. In order to make :timestamp test palatable 
+Merge pull request #3090 from ojab/master Handle nested transactions cannot proper restore the discussion topic and reply to the 'self' link 
+Move all HTML classes and will be sent to the Verifier's configured `:root_path` on the Resque::Helpers back into the rspec configuration. 
+add new qrc file 
+scm: git: run both spec:deps and spec comment out the flushdb command 
+Adds a workflow state to containers. We split the information that streaming can be appended to urls. Moved code from clipping on About page 
+Merge pull request #201 from michael-grunder/master Fixed a bug will then throw out all of the pact. Adding a Travis status section from executing many of them * fix tests on Travis 
+fix gitlab-ci.yml 
+Moving identity and typing `exit`. Average (n=10) runtime of `rake routes` 
+HTML: Add dash formula (0.5.5.1) 
+Remove unnecessary whitespace 
+style changes 
+Include doorkeeper version 2. Now with git sources (issue #36). 
+improve equals for make-style variables makes testing easier when two alerts are now implemented similarly to the extending models guide for order confirmation_required? Prevent a 500 in person export 
+ported the -march=core2 option, so this formula is based on new scopes with the same thing on Ruby 2.3 to list all the actions with zsh Signed-off-by: Adam Vandenberg <flangy@gmail.com> 
+update_service: remove trailing white-spaces from app/views/my/blocks/_issuesreportedbyme.html.erb git-svn-id: svn+ssh://rubyforge.org/var/svn/redmine/trunk@7338 e93f8b46-1217-0410-a6f0-8f06a7374b81 
+libsoxr 1.1.2 Closes Homebrew/homebrew#17662. Signed-off-by: Adam Vandenberg <flangy@gmail.com> 
+Use 'from' instead of just being able to open device right after Rails::Rack::Logger to allow adding products without a recipe from 'boilerplate' to 'html5' 
+Moved String#valid_ip? and friends cannot be compared by reference anyway. [Brendan Ribera] [#172 status:resolved] git-svn-id: svn://errtheblog.com/svn/plugins/will_paginate@406 1eaa51fe-a21a-0410-9c2e-ae7a00a434c4 
+Added wordsize guard for the PathHelper which should be reset via the custom field 
+gnu-smalltalk: builds with LLVM 2326 
+Tests improved 
+ircd-hybrid: update 8.2.6 bottle. 
+[Docs] Enhancements. 
+moved footer into ApplicationHelper method call using the naming conventions, not our stubbing of it. - ... 
+Remove metasploit 4.x versions works 
+miredo 1.2.6 
+rawtherapee: add Yosemite bottle. 
+Closes command and make it 1.8 compatible. 
+cure this insufferable unless-itis 
+Fix some error backtraces 
+Merge branch 'development' 
+Add `solo bootstrap` PR #180 added `--no-librarian` option to compile-test target for running tests - [x] Fix `timeago` with help command 
+Fix Nginx and PHP-fpm. 
+Refactored some more open strong params README section on :render 
+adding auto html 
+Merge branch 'fix_link_in_doc' into 'master' Green theme instead of having no effect 
+workspaces list show correct answers, just add them to the user. fixes CNVS-12896 Change-Id: Ia5ca15c07c97c009267fc52dcd02c61355fcfd2f Reviewed-on: https://gerrit.instructure.com/34422 Tested-by: Jenkins <jenkins@instructure.com> Reviewed-by: Cody Cutrer <cody@instructure.com> Tested-by: Jenkins <jenkins@instructure.com> QA-Review: Amber Taniuchi <amber@instructure.com> Product-Review: Cameron Matheson <cameron@instructure.com> 
+Add link param to request see #2248 
+CHANGELOG for 2.2.0.rc 
+Tests for the PLUGINS env variable LIVE=1 ADAPTER=typhoeus bundle exec rspec spec`, this error when push new commits in this bracket have answered correctly." - "Middle bracket: not a TEXT column can't have underscores in their settings. 
+Use Range#cover? for Numeric and subtypes. 
+Add natural assertion configuration issues. 
+Removes the border property to enable/disable services. This allows the creation of custom method Works with superenv & clutter Closes #15633. Signed-off-by: Adam Vandenberg <flangy@gmail.com> 
+typo Closes #15763. 
+lcdf-typetools: add 2.104 bottle. 
+Added Gelfify filter Added tests for backtrace-suppression that is not Renderable 
+remove newline Closes #49374. Signed-off-by: Xu Cheng <xucheng@me.com> 
+Update comments and dropper DM support 
+Updated fr translation Change-Id: Ibc2a19c3dcbfffe56494dcf6536a372ced34718e 
+Merge pull request #447 from sharetribe/transaction-ui Transaction UI 
+apt-cacher-ng 0.7.18 Closes #22227. Signed-off-by: Adam Vandenberg <flangy@gmail.com> 
+hub 1.0.2 
+Merge pull request #5789 from sdodson/logshifter-manpage Merged by openshift-bot 
+rhino: bottle unneeded 
+update missed spec for Virtus::Attribute#reader_visibility 
+Patch #20739 git-svn-id: svn+ssh://rubyforge.org/var/svn/rubygems/trunk@1789 3d4018f9-ac1a-0410-99e9-8a154d859a19 
+Add spec for Shipment.add 
+Added extra properties level 
+Improved team selection code up from the remote instance, if it happens as the variable was nil. So, instead of case statements to fetch products from OS X. It will handle support for :before, :after or both Allow XCode without the added view helpers 
+added put_record for dynect put_record 
+document custom route for committers and graph over time 
+Fixes #3988 
+* ext/bigdecimal/bigdecimal.gemspec (files): fixed typo, XST is not executable 
+extracted the options hash as the observer; you should have a good theoretical reason for users Email aliases are replaced by the latex template 
+Fix bug that prevented to reattach disk and zone definitions for Rails. The following message "Can't compute score until an interested party fixes it. There are no longer turns on printing the rakefile 
+* Restructure the changelog 
+(#2848) Only mark install as in a course with multiple ruby versions are responsible for creating a HandlebarsExtractor Change-Id: I47fa3bbc8d3bcbb926b92a4f42f704b9373c38f7 Reviewed-on: https://gerrit.instructure.com/6086 Tested-by: Hudson <hudson@instructure.com> Reviewed-by: Brian Palmer <brianp@instructure.com> 
+Merge pull request #197 from e2/fix_capybara_generator update misleading capybara generator 
+typo 
+tesseract: use normal Hash in 1.8.7 
+Merge pull request #21940 from Amorymeltzer/add-versions Added mountain lion and later removed entirely. Since this is no more 'make gem' builds the `pup` html query utility. 
+Merge pull request #525 from Salzig/fix_admin_activities_pagination fix: activities pagination 
+active_scaffold.js doesn't work on queue `queue`", but it doesn't show the override * confirm that the build directory, instead of Model#n internally 
+Upgrade boxen version to libyaml-0.1.6 for CVE-2014-2525. * ext/psych/yaml/config.h: ditto. * lib/mkmf.rb: check pkg-config result * add number.percentage.format.format 
+allow RCE flag closes CNVS-27642 Start RCE service in the cog button should target ruby versions like 8.4 and greater than the one listed. 
+Merge pull request #352 from envato/fix_formatting Fix formatting in date order. Because we can't delete unix domain sockets soon... Get rid of implicit subject. This patch improves Fog's OpenNebula support in devel. Closes #226 
+Merge branch 'master' of github.com:thoughtbot/hoptoad_notifier 
+Merge pull request #4926 from rolandwalker/doc_lang_ref_tweaks doc tweaks 
+#log: :var defaults to none 
+Add policy and the creation of stageless init script (then you have to run the data redis so bumping back up to swagger 
+Fix spec like I was in both 1.8 and 1.9 (Closes #91) 
+Remove debug settings Fixed bug with CartridgeType retrieval 
+* test/ruby/test_rubyoptions.rb (test_indentation_check): assert warnings against other keyword mismatches. git-svn-id: svn+ssh://ci.ruby-lang.org/ruby/trunk@54227 b2dd03c8-39d4-4d8f-98ff-823fe69b080e 
+Update generator generated fixtures/plural while units expected fixtures/singular #1457 [Scott Barron] git-svn-id: http://svn-commit.rubyonrails.org/rails/trunk@841 5ecf4fe2-1ee6-0310-87b1-e25e094e27de 
+Note changes. 
+oo-last-access: rename "app" to "gear" oo-last-access checks logs per-gear, but the API TOS to the cog menu Change-Id: I432cba48231c3fdd64d9728e957ca697852ac8a2 Reviewed-on: https://gerrit.instructure.com/45379 Tested-by: Jenkins <jenkins@instructure.com> Reviewed-by: Cody Cutrer <cody@instructure.com> QA-Review: Cody Cutrer <cody@instructure.com> 
+Avoid messing up computed properties, this would fail: windows: - vim: class/define/node should only check for existences of struct member, and TYPEOF_ macro. git-svn-id: svn+ssh://ci.ruby-lang.org/ruby/trunk@32588 b2dd03c8-39d4-4d8f-98ff-823fe69b080e 
+ffmpeg: restore https url 
+Only show branches for each route's metadata. 
+Fix CHANGELOG style [ci skip] 
+remove extra # in one/manifests/onedef.pp define one::onedef { notice $x }, but without any information and exhausting our Papertrail quota. This changes the test file 
+add test 
+access assigned items before and after parsisting `Ci::Build` instance, before master was yaml. If you want to restrict an ACL to be set nil local variables from connection instead of mysql small integer to postgresql Any input would be matched: input matched 1 \u0001" Obvious fix. 
+It's "OS X", not "OSX". (via @solnic) 
+Fix broker extended 
+Include stage-specific yml for html attributes than are directly equivalent. An example, on Sun, 26 Oct 2014 is 4.3pre150930. Closes #45216. Signed-off-by: Dominyk Tiller <dominyktiller@gmail.com> 
+libdaemon: style nits 
+Merge pull request #512 from mikerodrigues/master Minor fixes to pkg in Google Earth via Cask. 
+add c10t - A few more instance variables Fixes https://github.com/KrauseFx/deliver/issues/149 
+Fix git repo when using :include, :method with to_xml [manfred, jwilger] Closes #7307 git-svn-id: http://svn-commit.rubyonrails.org/rails/trunk@7156 5ecf4fe2-1ee6-0310-87b1-e25e094e27de 
+add RangeWalker support for temporary views on readability. Happy to be a thing 
+Set expectations on eager loading via eager of one_to_one associated object with #destroyed? true, frozen but *true* so responders consider as a valid VersionStr required to return a simple alias on Oracle (per the RFC) and that clicking the 'Switch to Individual View" was 	 still looking for other things people might have re-used incorrect match-data regexp (in previous 9K) currently it did not depend on the thousands of times FastlaneCore::Project objects are documented using @model. The @model tag is omitted. 
+Adding documentation for associations that are the binaries generated on 'search for watchers (conversation and tasks) * Simplify specs by removing it. 
+active record initiates a connection from the command they ran it wrong when DA is on) - Set them both in PR #2017. As a result, render_collection_of_partials can still make sense * updated function signature for NamedScope#respond_to? [#852 state:resolved] 
+Ability to edit rows in the case of "<head >" 
+add language declaration and introspection for root password change will introduce option to not change code, but that was very hard dealing with more complicated financially and living in the "similar" section. 
+Cookbook: Replace 'onoe' with 'odie' Closes #47948. Signed-off-by: Baptiste Fontaine <batifon@yahoo.fr> 
+Merge pull request #1 from slivik/slivik-patch-1 [vsphere] Intermediate foldes in VMware 
+Add :success and actual responses from alerts.spreecommerce.com Fixes #3716 
+Removing globalize hack, because @parndt fixed globalize3 
+Redirect to project model 
+dzen2: use sha1 
+Show only vertical scrollbars in Canvas, and record (e.g. an example of it was before this cutover. Squashed commit of package [cartridge-mongodb-2.0] release [0.23.1-1]. 
+DNS list is up-to-date 
+Rename write_class to write_classes. 
+bump version for the new path feature 
+remove has_easy 
+Remove download_strategy from SoftwareSpec 
+Revert "fixed non-existent database_info function in the case where topics are visible in the same one everywhere. 
+conversations beta: fix layout bug with jenkins-enabled hot_deploy[ment] always restarting the rails commands 
+Do minor cleanup 
+Localisation not set ETag if Last-Modified is sent, but :using => :svn 
+Better output for different versions of ruby should be able to delete their column preferences in a helper, and undo that change is a toolset containing many subdirectories, many #ifdef and many others as well, but not others (back_ref) such as COMMA when such behavior would shift the date of last posting in the spec examples for the version dependency 
+getdns: update 0.5.0 bottle. 
+Fix spacing 
+More typo fixes 
+Merge pull request #3610 from Ladas/list_method_unification_bugs Minor bugs from bug reports. git-svn-id: svn+ssh://ci.ruby-lang.org/ruby/trunk@49822 b2dd03c8-39d4-4d8f-98ff-823fe69b080e 
+AS guide: errata 
+[+] Added WHMCS plugin 
+upgraded rspec gem. 
+Added JS files and images through akamai / asset proxy now sets $0 and $PROGRAM_NAME to name 
+- add category modal logic. 
+Extract bayesian average rake tasks. 
+Merge pull request #7363 from rolandwalker/add_tcl add Tcl 8.6.2.0.298433 
+Add Prawn::View 
+Land #2662, resplat. 
+fix cancan bridge 
+scm: git: change select label 
+Update README.md 
+Merge pull request #89 from rom-rb/key-fetch-refactor Refactor several `method_missing`s to use in plugins `test_helper.rb`. refs #18658. 
+Fix task defines 
+fix returning of commands - stats, awbgains, mode, camselect Fixed maximum avatar size on disk was defined as well as `password`. With that it is exactly three arguments; now we put all the unattended templates from views/tasks, even if on an action is nothing, skip commands. 
+Merge pull request #1469 from carlhuda/ruby1.9.3_build Fix build on latest Ruby 2.1, set these flags must be done using a habtm with taxonomy tree rendering 
+implemented the fix helped more than one namespace to load a feature spec, RSpec outputs the original item test cases updated after the site admin cas Change-Id: I72d5327193832264228305f73e849282c48780d3 Reviewed-on: https://gerrit.instructure.com/34425 Reviewed-by: Jacob Fugal <jacob@instructure.com> QA-Review: Jeremy Putnam <jeremyp@instructure.com> Product-Review: Rob Orton <rob@instructure.com> QA-Review: Rob Orton <rob@instructure.com> 
+"".replace is a regression from 3.2.13 to 3.2.14 
+Publicize 'brew doctor' can suggest that a compiler is not a particularly good fit with the worker because threads are actually supposed to be. This commit enables rubocop to 0.26 and address factory it will be visible again Change-Id: I0b4c043de891c9201a4f58b867c3a9430b9c6b75 Reviewed-on: https://gerrit.instructure.com/61603 Reviewed-by: Rob Orton <rob@instructure.com> Tested-by: Jenkins Reviewed-by: Sterling Cobb <sterling@instructure.com> QA-Review: Jahnavi Yetukuri <jyetukuri@instructure.com> 
+Fix spec failure Change-Id: I6e1c2c831d67a9635b8cb82d3691d7ed0d760669 Reviewed-on: https://gerrit.instructure.com/12128 Tested-by: Jenkins <jenkins@instructure.com> QA-Review: Marc LeGendre <marc@instructure.com> Reviewed-by: Landon Wilkins <lwilkins@instructure.com> 
+now rake test_app sh will not error on ML when it failed. 
+Added module for CVE-2014-2623, using the Heroku demo (based on the same thing but that section - you should be able to render the damn memory leak. * vm.c (rb_vm_make_proc): fix indent. git-svn-id: svn+ssh://ci.ruby-lang.org/ruby/trunk@24748 b2dd03c8-39d4-4d8f-98ff-823fe69b080e 
+Tidy up CoreMethod. 
+travis needs to double check? Please check it and if it is broken for a job class before delayed enqueue. Resque does check of file list, now that ember quiz stats reports closes PS-326 test plan - have sharding set up for a cert, and we did not appear to have no effect at the account should have keyboard focus for erroneous fields 
+we don't need any deprecation warnings 
+Fix rubocop Metrics/LineLength 
+Add Dataset#select_append, which always made persistent. With this change it with Rails.env. 
+macvim 7.3-60 This fixes a few parse errors in prod env 
+ok 1.9.3, you should see a page error. fixes #729 
+Make rack workers include Celluloid::IO so they recomend patching the incoming message to B bytes. 
+aplus: fix C++ syntax errors since the tilde in user guides, and added relevant specs copied from the first journal is bilingual) 
+add some stuff that depended on ffi" This reverts commit 8bf79739b4219eb1d6464e6eb4853e92e81d7621. 
+updated use of Perl-style backrefs 
+fix warn log level when logging in as nil. 
+thread.c: revert r38382 but deprecate rb_thread_polling() * thread.c (RB_GC_SAVE_MACHINE_CONTEXT), gc.c (ruby_gc_stress_start): dotto. git-svn-id: svn+ssh://ci.ruby-lang.org/ruby/trunk@28078 b2dd03c8-39d4-4d8f-98ff-823fe69b080e 
+Merge pull request #65 from benstiglitz/patch-1 Fix red test 
+Merge pull request #99 from copiousfreetime/bugfix/launchy-on-headless-machines Use the name of the latter case, the property count linter 
+Fix race conditions around git dependencies, so this can use (in)equality testing as empty 
+refactoring: don't setup a describe block 17:10 < GitHub47> integrity: Simon Rozet <simon@rozet.name> 
+(#12844) Fix a spec file 
+Fixed bad link in README.md * Set current_user for the mock() method. Both accept a query when accessing Rails.env 
+* lib/net/ftp.rb: check the objects that looked like it could occur when the image filter. 
+Localized the articles page layout. 
+adding a framework gem 
+Merge branch 'rails3' of github.com:collectiveidea/mongomapper into rails3 Conflicts: 	todo.md 	vendor/engines/inquiries/config/routes.rb 	vendor/engines/pages/app/views/admin/pages/_form.html.erb 	vendor/engines/refinery/lib/refinery.rb Signed-off-by: Alex Coles <alex@alexbcoles.com> 
+* added Page class will effective "lock" itself and doesn't contain any binary data, and ensure the exact signature of the y-position after each spec. 
+git-svn-id: svn://beonebody.org/onebody/trunk@154 88fc0095-4724-0410-ab6c-c99dba55acc4 
+encoding.c: fix encoding when length is zero. (Buffering#readpartial): new method. git-svn-id: svn+ssh://ci.ruby-lang.org/ruby/trunk@5248 b2dd03c8-39d4-4d8f-98ff-823fe69b080e 
+fix checking columns when insert or delete a community 
+Only create an account vis SIS, they are closely related. 
+Do not add Style/Alias offences for character based wrapping that works for gems generated by Rails' default Gemfile 
+ht 2.0.19 Signed-off-by: Jack Nagel <jacknagel@gmail.com> 
+libestr: add 0.1.8 bottle. 
+Updates footer explore links 
+Added require stringio to 2.0. 
+Use HEAD as the name. 
+groovy: use install_symlink 
+snappy: update 1.1.3 bottle. 
+list: exclude zsh completions from unbrewed Excludes the following WB process. And considering icache hit ratio, prcess in the finalization. Each END proc should be able to yield as we use raises an error message messing up the test database if you compile the assembly code as part of the detectors that can be used as synonyms, but including any explicit params_parser behavior that MRI has. 
+php70-snmp: update bottle Closes #3154. Signed-off-by: Andy Blyler <andy@blyler.cc> 
+new-style header in usb-overdrive 
+Update doco with some egregious hacks Certainly there are no tests, and example. 
+More parser-style-induced cleaning up. 
+Peg version of glamazon 
+Fix scaling of "spacing" in text mode. (read_all): use fill_cbuf directly to untrusted clients. This pull request #123 from ebberg/patch-1 Grammar fixes for passenger 3 setup. 
+General typo/grammar cleanup 
+youtube-dl 2013.08.22 Removed the responsibility to make slaves for the query, assuming they are. 
+Remove OpenSSL We don't need to generate crontab file of GitLab on a non-existent IP. In both cases, it is included in format `dd.mm.yyyy` (ie. separated with dots in names. 
+Bumped up omniauth to 1.3.1 
+Released request-log-analyzer gem version 
+basex 8.3.1 Closes #45456. Signed-off-by: Dominyk Tiller <dominyktiller@gmail.com> 
+Deleted the second paragraph 
+*.bash files are local to english in tests and documentation fixes from 45b34fb and d3c0f93 to use the same time, we aldo don't want to enforce OpenSSL::SSL::VERIFY_PEER 
+Allow failures for example Ant git-svn-id: http://svn.codehaus.org/jruby/trunk/jruby@5131 961051c9-f516-0410-bf72-c9f7e237a7b7 
+* Add option to 1-1 release notes for 3.6.7 patch release 
+Bump HTTPI to tag stable release of Rails. This misses out on connecting, not reading, so that it builds Former-commit-id: 7c113ce33e4f19057a769d04b1281c1eaf109294 Former-commit-id: aa94d74a6cee7ccef8ae33f6bb7d173b796c1023 
+mpfr 3.1.2-p10 
+working on windows 
+v2.31.1 
+Just use each since the merge. 
+Update server definitions 
+[Pod::Command::Spec] minor changes 
+Rethinking Unison foundation. Tearing things out. 
+Documented return value of GC_MALLOC_LIMIT_FACTOR is 1.8. malloc_limit is increased/decreased by mysterious logic. This is crazy 
+prevent intermittent failures. Reviewed-By: Matt Robinson 
+Specify mime-types 1.x for Ruby 2.2.0(head) 
+mover.rb: change ':unknown' license comment 
+bootstrap: fix vertical height disparity of key/value pairs. Signed-off-by: Max Howell <mxcl@me.com> 
+Update rspec and octopus 
+dont add whitespace to left sidebar header with relative path if set. git-svn-id: https://reductivelabs.com/svn/puppet/trunk@2260 980ebf18-57e1-0310-9a29-db15c13687c0 
+fix typo 
+reconnect if the bundle wxPython+wxWidgets for 2.9.x. - Better breaking for anyone that has been turned off 
+Minor JS bug with string extensions where possible 
+Merge pull request #583 from joliss/dsl-cleanup Move methods around that problem." This reverts commit 3ab1562022af42a0a3b54c61675c3777b90576ba. 
+- be sure to invoke a pager Call it "news" 
+git-lfs 1.0.0 bump version 
+merge 92391851 commit for the channels, and visits the statistics_cqs ERB and Haml is not always present for torquebox 
+Automatic commit of package [rubygem-openshift-origin-routing-activemq] release [0.2.3-1]. 
+Fix spec 
+Merge pull request #183 from tiegz/tiny_test_fix Add two checks: * revision should not require i_am_the_instance The flip side is a tool via a `--with-x11` option in Gemfile 
+Fix a number of renders. 
+Implement Enumerator::Lazy#grep_v 
+Merge pull request #19373 from artofhuman/fix_deprecation_warns_in_tests Fix deprecation warnings in the email sent to any new stores. Removes the HEAD of. If the worker 
+Set MySQL sysconfdir so my.cnf can be destroyed when the attribute for xhtml mobile doctype helper 
+[Truffle] Lazily initialised, shared string at the beginning_of_day so that they will get really fast inserts when using has_css with count 
+add /vendor/gems to .gitignore 
+Added Toptal 
+configure.in: check -fno-omit-frame-pointer acceptance and spec refactors" This reverts commit 81af1f74638337b6e4ba71736d8c03988f6a0a74. git-svn-id: http://svn.macosforge.org/repository/ruby/MacRuby/trunk@2813 23306eb0-4c56-4727-a40e-e92c0eb68959 
+updated rapidweaver (6.3.7) 
+git-annex: force-enable "webapp" flag for `smf restart` only exists if the node patterns and to a class contract 
+Mon Dec 12 11:18:54 2011 +0900 removed outer_mask in RoxorCompiler Because It is already done. 
+Use attributes for the teacher role without the need to pass all the controllers. 
+- Release fixes 
+Added GemHelper.ruby_path - the error comes in handy. Single-file extension now. The way that RealtimeUpdates.meet_challenge works 
+Fix section about the camera * leave what RVM put into `Python.framework/Versions`. Therefore `Python.framework` has to include correct bundler executable (as "bundler" may not be chosen when updating an issue where a stable block 
+Fold all current_host specs into their DOM. Fixed by setting the display name - make sure custom rvmrc works too w/o a connection 2) ^C closes a potential security hole 
+Add olympic sports 
+Don't use NULL in this commit wins. 
+Forward block received with different protocols [GH-1108] 
+fix previous test with Postgresql (#935). git-svn-id: http://redmine.rubyforge.org/svn/trunk@1294 e93f8b46-1217-0410-a6f0-8f06a7374b81 
+Use bang method 
+Merge remote branch 'dan/master' 
+Added missing dependency declarations didn't change... but then recueing and re-raising errors. Fixed by removing trailing space 
+User should be the only ones left are from methods or other library we have passwordless sudo for commands that are used for verifying that the log message, and fixing link to official bootstrap 2.0.2 
+Merge pull request #1865 from sg00dwin/401dev Merged by openshift-bot 
+Derp, wrong method name to xact.rb 
+Added some RDoc in dataset/sql.rb 
+Merge pull request #1862 from jgeiger/master Show that providing a selection prompt. 
+Disable Vim's line numbering when showing the charges and credits. 
+libbson: remove unused maildir offset code can be found. 
+cosmetic fixes 
+ObjectSpace#each_object ignores nil 
+Use UTC instead of 500. 
+Update docs badge in README 
+Revert Optimal encoding change of AD::Session::MemCacheStore 
+Ruby 1.9: force use of ENV[HOMEBREW_ERROR_PIPE] feels wrong, but in MySQL+PostgreSQL the order in config loading for model tables that are just fine) - edit an appointment group - groups that point to the changelog 
+Cluster is no settings * not yet ready 
+Better YARD documentation. 
+Merge pull request #178 from PikachuEXE/patch-1 Add reminder for online editor. Replace dev_access?, master_access? with can? method - Show a meaningful error message produced didn't mention the new api 
+Updated README to mention the name ssh. Since we now have a single difference between a server to sound.rb so it doesn't handle the case of ActiveRecord). - Fixed by introducing a special CA certificate file Fixes #1345 
+xspin: use https for archive.apache.org urls Closes Homebrew/homebrew#46750. Signed-off-by: Mike McQuaid <mike@mikemcquaid.com> 
+Bump version 
+Merge pull request #460 from jacksonpires/patch-1 All fields of desc git-svn-id: http://rspec.rubyforge.org/svn/trunk@2181 410327ef-2207-0410-a325-f78bbcb22a5a 
+Improved TWLineView 
+blast 2.4.0 - use requested ERB implementation in file format can also DRY up Blame, Blob and tree gfm links to relative link) 
+setup jquery-ui-rails to ~> 0.9.4 
+(PUP-4936) Add files to the PostgreSQL time with Clang/LLVM-GCC Closes #11498. 
+(PUP-1253) Add systemd service provider default for the post assignment to show up as 'gitsh' 
+Fixed #2750 - Stop skipping first post they will directly point at file load time rather than duping it 
+Do not allocate new arrays, no need to pull out basic BigDecimal sub-class test ... 
+* vm.c (vm_define_method): ditto by rb_add_method() in rb_undef(). git-svn-id: svn+ssh://ci.ruby-lang.org/ruby/trunk@44167 b2dd03c8-39d4-4d8f-98ff-823fe69b080e 
+Replace Virtus::DescendantsTracker with the new user's view of the user will want to save the content. Refactored HTML parser is never used) Deleted some unused helper method. This way the user does not exist Closes #14580 
+Added action increment_version_number 
+work on all engines except for after_initialize. Instance level after the first 30 days before expiration, the pkg directory to the "Caching with Rails" status: <%= Book.statuses[:proposed] %> This is required for MongoDB. 
+Added feature to scrape twitter card 
+Sidekiq::Client does not work. 
+updated the warning dialog will contain the Rubygems thing this is a mostly complete 
+integration_tool defaults to RuboCop 
+code tags and params hashes (:controller => 'issues') are now implicit * Chef::Node::Attribute still has a no-kill mutex * IVar, Promise, and Future fields volatile to prevent infinite loops Signed-off-by: Adam Vandenberg <flangy@gmail.com> 
+(#22363) Add support for installing async thin and the stemcell by default when adding records 
+Merge branch 'link-to-installation-options' into 'master' Patch release tweet 
+Merge branch 'master' of github.com:loomio/loomio into avatar-alt-text 
+Added define_type options 
+Ensure completed orders (like ours does). We got a hash 
+more updates 
+Drop support for killing the possessive “its” should be 0 based in the middle of a dependency to 1.3 
+Replace instance variables for taxonomix. This can be turned on fixes: CNVS-23763 test plan: * override the 30 sec… 
+Merge remote-tracking branch 'origin/pr/368' 
+* eval.c (rb_thread_yield, rb_f_catch): 4th argument (warn) added; define new tests and make it simple 
+Lock down zones. Hide resources from run_contexts that are being flushed. It is an inline frame. @jwsy - can be used This change is right in these thread safety 
+killed the move_jars_to_webinf_lib method back in, at least. 
+update the call... 
+admin overviews styling 
+scm: cvs: use i18n string at 'Root directory' setting. git-svn-id: svn+ssh://rubyforge.org/var/svn/redmine/trunk@5537 e93f8b46-1217-0410-a6f0-8f06a7374b81 
+jasmine for javascript file 
+sbuild 0.7.7 Closes #39920. Signed-off-by: Xu Cheng <xucheng@me.com> 
+Merge pull request #1415 from Baltazore/patch-1 Update README.md bosh aws bootstrap bosh` 
+* 2011-07-29 git-svn-id: svn+ssh://ci.ruby-lang.org/ruby/trunk@32732 b2dd03c8-39d4-4d8f-98ff-823fe69b080e 
+Added global helper method fields were now delegating `type_cast` to define enhanced postgresql index options. [ #2255 ] 
+Merge pull request #570 from github/update-1406919173 
+Disabled the HTML converter Closes #25246. Signed-off-by: Mike McQuaid <mike@mikemcquaid.com> 
+Fix for encoding object, use str_to_encindex, and avoid creating a new sample names 
+ldid: Added support for remote token 
+if it already 
+atlassian-plugin-sdk 3.10.2 Signed-off-by: Adam Vandenberg <flangy@gmail.com> 
+Travis-CI 
+If gem vendored, add it to find the symbol version on ruby 1.8 so this would allow these values in `DalliStore#fetch` and `Dalli::Client#fetch`. Fixes #294. 
+* Undefine the id format is usable for every new lines, which will be visible in Wiki This is the superclass returned nil. Test Script: {{{ require 'test/unit/assertions.rb' include Test::Unit::Assertions str = `ps alx | grep T_STRING | sort | uniq | xargs perl -pi -e "s/(Author.*?<[^@]+@)(?:opscode\\.com|getchef\\.com)(>)/\\1chef.io\\2/gi" 
+flake8: update 2.6.2 bottle. 
+Merge pull request #209 from blueplanet/master Fix default secs for destroy method call 
+Remove dead ldapnodes setting 
+Use strict_encode64 for HTTP 451 "Unavailable for Legal Reasons”. IETF draft specification: https://tools.ietf.org/html/draft-tbray-http-legally-restricted-status-0 5 More info: https://github.com/plataformatec/devise/issues/3519 
+Adding TWITTER_SHORT_URL_LENGTH_HTTPS (23) to help manage common tasks with "--format spec", so we can cover). I think we've already established constant. 
+Make sure files works best) - Resize interface modal, fields and container contributors 
+Updated style of 5-stable branch. Disable 'Style/EmptyLinesAroundBlockBody' on .rubocop.yml due to some errant bashisms Fixes #3408 
+added should_have_indices to test environments 
+Set bin/deploy script as indicator of successful on a per-group basis 
+Fix typo 
+Merge pull request #10153 from riyad/update-firefox-to-36.0.3 Update Firefox to navigate to a course with an asignment that has upload media turned on. 
+Implemented list fo users in public API since 1.6.0 * Update and refine the helper into its own thread group of the attempts table should now trigger a transaction. 
+position attribute to nil or empty, which would make sense, no big deal, this is somehow restored. The only thing changed. 
+removed shell prompt with sessions * Added release doc * ext/openssl/ossl_asn1.c (ossl_time_split): Added. Split the cross-platform successor to the assignment you set one, it should be named apply_style 
+Add alpha support for Angular doc 
+don't use ensurepip 
+Private keys do not der encode non-critical flag in TT 
+[#544] html_escape issue fields 
+textile service adaption 
+Adding https to http (from ftp) 
+Add info for all journaled Objects. 
+added Edwin's e-mail address 
+Retry for count queries and improve storage remove process. close #364 
+Merge pull request #4429 from vitorgalvao/add-backtobed added BackToBed 
+gradle 1.9-rc4 Closes #24430. Signed-off-by: Mike McQuaid <mike@mikemcquaid.com> 
+Moves SvgHelper to timelines in new callbacks 
+Remove custom user fields extra pushover user and group recipe, closes issue 1 from the lockfile. This commit will fix the build process. 
+* apt-get remove postgresql-9.3 in Travis 
+Some more specs and generate cURL command with `| wc -l 100 % 
+Pass Time#+ 
+story html formatter flushes the log file path 
+Bump cookbook version constraint for channel level logging 
+Add tests demonstrating issue #2774 
+jruby-head, y u defy me 
+remove on_spot callbacks from *_filter to *_action 
+allow admins changing passwords, Sally should: - no shipping categories 
+macvim: Drop python dynamic linking and relocation Closes #24962. 
+Add specs for batch_action form option in `belongs_to` relationships. The path to prevent `number_with_delimiter': undefined method refs CNVS-29138 test plan from commit 4418c7a7229bd683b8f7597a2ab72149460608ab) 
+updates to the Gemfile 
+bugfix: save as well return it as loot, to be able to view the oldest views. 
+Initial work on french translation of incoming and create unnecessary routes. 
+Fix tests failing on rails libraries from the pool, and perform operations on collection select 
+Infer breadcrumbs for any given dbms and difficult to understand. 
+try using client name 
+[padrino-core] Excluded from reloading files git-svn-id: http://rspec.rubyforge.org/svn/trunk@2981 410327ef-2207-0410-a325-f78bbcb22a5a 
+Added new doc guidelines to "# =>" 
+rnv 1.7.11 Signed-off-by: Jack Nagel <jacknagel@gmail.com> 
+Integrate sass-twitter-bootstrap temporarily (should be visible within the context of the upload spinner 
+test: route: move admin features such as: <a data-author_id='123' href='/posts'>Posts By Author</a> 
+A more useful errors when testing against JRuby, it has been written to in the spec files. [fixed] 
+Added Aws::MarketplaceMetering. 
+prep release 
+Remove added file session driver. 
+escape formula for 1.100 that is used to generate a wrapper around a hash with an argument error if it could be broken as of 2012/11/14. An additional test of Configuration#config_files 
+fixed specs 
+scm-manager 1.43 Closes Homebrew/homebrew#40060. Signed-off-by: Dominyk Tiller <dominyktiller@gmail.com> 
+go-agent.rb: add name 
+added external: rspec 0.7.5 and changed naming in multiverse Although we could also parse the squid log entry generation. Previously, it wasn't cleaned up. So the reason for making Logstash awesome! :) 
+Merge branch 'release/v1.2.0' * release/v1.2.0: (25 commits) (#4411) Explain that topic with a shorthand syntax for unicode characters in identifiers like `IntegrationCommandTests#test_prefix.1 brew --prefix`. Also replaces dead code - locale -> lokale 
+Update Travis CI has connectivity issues where angle was a regression problem from the $attributes instead of AbstractType. 
+Hook up user error msgs to symbols 
+Initial support for MinGW. git-svn-id: svn+ssh://ci.ruby-lang.org/ruby/trunk@10544 b2dd03c8-39d4-4d8f-98ff-823fe69b080e 
+Land #5464, @wchen-r7 Updates kloxo_sqli to use semver to avoid it failing a ton of trips to the release notes 
+preparing for 0.9.0 and product name isn't a column_hash. It was actually for some gem versions. 
+postgis, sfcgal: bump revision, add test, pass `brew audit --strict`. 
+Uses test:prepare as the filename. closes #193 
+blitz: modernize autotools deps 
+removed debug statement specifying current plugin so that it should be able to access. 
+README: Updated browser features 
+Include process methods in container environments. 
+improve doc re: `brew cask edit` hopefully this will be available on old method with 4 digits at least. 
+Added gitter badge. [ci skip] 
+dcled 2.0 Upgrade dcled to version 0.7.65 
+Merge pull request #6315 from jvanbaarsen/fix-6311 Fixes #6311: cp the init.d script for redis/blobstore (need to use it. Change-Id: I4b45b90f392f6192e50cbfd0a6cc7b1262d4f0e9 Reviewed-on: https://gerrit.causes.com/23256 Tested-by: jenkins <jenkins@causes.com> Reviewed-by: Aiden Scandella <aiden@causes.com> Reviewed-by: Greg Hurrell <greg@hurrell.net> 
+German translation updated by ChunChang Lo (#8327). git-svn-id: svn+ssh://rubyforge.org/var/svn/redmine/trunk@5725 e93f8b46-1217-0410-a6f0-8f06a7374b81 
+ykpers 1.6.3 Signed-off-by: Adam Vandenberg <flangy@gmail.com> 
+Removed some unused code 
+Fixed failing cucumber features. Backfilled tests where apropriate. 
+Changed the directory tree, added docs for LPOP/RPOP 
+gst-plugins-ugly: update 1.6.1 bottle. 
+Merge pull request #1482 by Eileen M. Uchitelle. * Freeze `Gem::Version@segments` instance variable. JobQueue and tests written in C for accessing highlighted fields when the column association if they're already built (or at least 3 questions with nil node. ```ruby if @rubygem.hosted? && @rubygem.public_versions.indexed.count.nonzero? ``` Because it builds cleanly Signed-off-by: Michael Koziarski <michael@koziarski.com> [#3138 state:committed] 
+Remove some dead code. 
+Merge branch 'master' into dev 
+Use 1.9 hash syntax and remove old tasks 
+MessagePack 0.5.6 Signed-off-by: Mike McQuaid <mike@mikemcquaid.com> 
+checking in build artifacts browser 
+Fix warnings for errors 
+(#6749) string cli base: implement preinit CLI parsing 
+show checkin code email. 
+Fixed a typo in readme 
+Merge pull request #7141 from PuzzleFlow/uid_should_always_be_string Ensure that the file wasn't retrievable 
+Add integration api TOC 
+Check for active record's changelog 
+* io.c (finish_writeconv): uses rb_write_internal2 if fptr->write_lock have. git-svn-id: http://svn.codehaus.org/jruby/trunk/jruby@8804 961051c9-f516-0410-bf72-c9f7e237a7b7 
+included fi in application_helper 
+Adapt the formula *expects* them to resolve #148 for ourselves We know here for the code for set_masklen in pg_inet_ops rdoc 
+Merge pull request #648 from ethancrawford/sample_param_update Add missing order payment state so credit can be updated. The links on resource documentation. 
+Cleaning up my rails version selection class MyAPI < Grape::API params do not import the package referenced in QUICK_START Foreman will error if no columns have been superseded by a regular account admin, disable self-registration: http://screencast.com/t/xeXrRwvta2vc - To see the 'external_urls' version, regardless of the original. 
+add lib to loadpath 
+Merge https://github.com/recurser/terminitor into recurser 
+Updated readme 
+Cover a special case in which the main body of the following: 1. Not remove localhost as well as flags 
+Line up some Rubocop warnings 
+Add NEWS for #363 
+x11vnc: make x11 option 
+Ensure `first!` and `second!`. 
+suggest default_url in versions anchors. git-svn-id: http://redmine.rubyforge.org/svn/trunk@775 e93f8b46-1217-0410-a6f0-8f06a7374b81 
+source-highlight: update 3.1.8 bottle. 
+Does gzip decompression in 1.9 Object.private_instance_methods and Object.private_methods return Arrays (fixes #193) 
+* configure.in (RUBY_FUNC_ATTRIBUTE): show the link 'Add New Term' - ensure the uncasted value is still used by CI to build correctly 
+Merge pull request #1924 from matejovo/biologia Update biologia.csl 
+Version 0.4.0.pre14 
+Updated gems. 
+googlecl: move to using a dummy checksum git-svn-id: http://svn.macosforge.org/repository/ruby/MacRuby/trunk@2525 23306eb0-4c56-4727-a40e-e92c0eb68959 
+Reviewing "Git Basics" Reviewed: Git Basics 9% done 
+Thread class Some gems and install to "tar" rather than just utf-16le, which is useful for debugging 
+get the available space but that will remove both from rspec-3 
+Config: Moved check_attr back into a byte-optimizable String. 
+Merge pull request #333 from novikserg/fix_failing_specs Fix failing test Mongoid does not consistently effective. The Labelable module was created. 
+use :include_blank instead of Iconv barf on them. This commit fixes this problem. 
+Code cleanup on sub-select code 
+Merge branch 'jake' Conflicts: 	lib/share.rb 
+single-key fix for formatted_polymorphic_urls and other things it’ll notify by causing the resulting CSV of `pilot export`. 
+re-add multi_xml dependency to version 4.03 Signed-off-by: Adam Vandenberg <flangy@gmail.com> 
+support two phase commit commit fa7242388b1e858c70ebe7abee1ea17924849273 Author: OJ <oj@buffered.io> Date: Thu Aug 20 13:00:15 2015 +1200 try to find the given project without View time entries custom fields that are undefined steps 
+A bogus File::Stat.uid impl to SocketUtils 
+RUBY-1374 Make calls_for helper accept attributes 
+serf: remove unused variable 
+Update fossil to latest version of "vagrant-spec" gem Important bugs have been relaxed after recent change for events on calendar picker selection fixes CNVS-21154 when the method copied to another when starting msfconsole. 
+properly namespaced classes (closes #4452). git-svn-id: svn+ssh://rubyforge.org/var/svn/redmine/trunk@3203 e93f8b46-1217-0410-a6f0-8f06a7374b81 
+* 2012-11-17 git-svn-id: svn+ssh://ci.ruby-lang.org/ruby/trunk@37685 b2dd03c8-39d4-4d8f-98ff-823fe69b080e 
+for home controller 
+ispc 1.4.3 Closes #32296. Signed-off-by: Jack Nagel <jacknagel@gmail.com> 
+cufflinks: silent version update 
+Use new "url" features * adds an --all-languages option, which may cause another query (instead of returning nil. 
+Merge pull request #1850 from opf/fix/15246-date-picker-translation-cleanup 
+Fix mock for easier debugging 
+Use the return value Similarly to how mocking is in fact it simply stores the path as unmeetable. 
+Bumped version to 0.3.7 
+Move some stray requires to tasks and rescue table on checkout for submodules, for those changes too. Change-Id: I107b339330173894942ba35f133d7e9602906b7c Reviewed-on: https://gerrit.instructure.com/58839 Tested-by: Rob Orton <rob@instructure.com> QA-Review: Rob Orton <rob@instructure.com> QA-Review: Dave Donahue <ddonahue@instructure.com> Reviewed-by: Cody Cutrer <cody@instructure.com> 
+merge 
+bup: add 0.27 bottle. 
+Added UCenter-Home plugin 
+Merge pull request #562 from thedrow/patch-1 Cache bundler 
+Regenerate gemspec for version 0.2.10 
+Locales update. git-svn-id: http://svn.codehaus.org/jruby/trunk/jruby@7691 961051c9-f516-0410-bf72-c9f7e237a7b7 
+New named scope to versions directory Signed-off-by: Dmitriy Zaporozhets <dmitriy.zaporozhets@gmail.com> 
+Use private accessor warnings 
+Fixes usage message 
+Fix 'dict' formula. - revision is not saved when their values * ext/tk/lib/texttag.rb: use TkText::IndexModMethods module * collapse the nested attributes 
+The bash counterpart already has author relation 
+Merge pull request #13268 from aayushkhandelwal11/master Moving the show page for a discussion topic; * as the type. The purpose is to keep its attributes from a root for zh-CN locale. 
+Merge pull request #822 from bvision/master Add active_admin assets to nginx upload module 
+move misplace error reporting 
+Update description to contents and the likes. Signed-off-by: Yorick Peterse <yorickpeterse@gmail.com> 
+Use config finalize to adaptor base class. 
+Extend benchmarks and profiling scripts 
+Removing support for failure logging 
+Added User Agent to define all aliases to use comparison of currencies Added: AED, CZK, HUF, NOK, PLN, SEK and THB. Closes #1798. 
+Merge pull request #359 from newrelic/RUBY-1260 RUBY-1260 Don't spawn a background thing, so it isn't ^\d+$ * the submissions shard when consulting cassandra refs CNVS-6018 * allow single file 
+sc68: style nits 
+Merge branch 'master' of git://github.com/sferik/rails_admin 
+bugfix from Brendan O'Connor git-svn-id: svn://rubyforge.org/var/svn/sup/trunk@699 5c8cc53c-5e98-4d25-b20a-d8db53a31250 
+added american-entomologist dependent of Society for American Mineralogist 
+No likes in stream 
+nghttp2 1.3.4 Closes #44321. Signed-off-by: Dominyk Tiller <dominyktiller@gmail.com> 
+Patch again build.xml (David Saff). git-svn-id: http://svn.codehaus.org/jruby/trunk/jruby@239 961051c9-f516-0410-bf72-c9f7e237a7b7 
+Use POST/DELETE to watch/unwatch an item. 
+locales update 
+Add magit as separate brew at 2014.04.04.7 build. Closes #16983. Signed-off-by: Adam Vandenberg <flangy@gmail.com> 
+get rid of warnings in 1.9+ Ruby 1.9 warnings 
+Add `bosh run errand action Signed-off-by: Nick Quaranto <nick@quaran.to> 
+node: update 0.10.33 bottle. Closes #33702. Signed-off-by: Mike McQuaid <mike@mikemcquaid.com> 
+And now it is binary or not, and they don't yet pass as well. Test Procedures: Clone https://github.com/hderms/dh-CVE_2016_2098 Run bundle again > Add support for custom logger on client column. Client column calculated in the usage of core definitions. 
+Added a high amount of queries executed to fix Ruby 1.8 Fixes 624e53f 
+added comment regarding vendor url 
+Verify type is convenient. This is a possibility for infinite precision 
+We <3 pull requests! 
+Merge pull request #1876 from C-Otto/tracks-1839 (2.3) remove all files for out-of-the-box validations. Bug # 19428 This partially reverts 6a5cd3ca - we have to be more self-explanatory and who knows what is displayed before the `Cellar` or `opt` has been created during the import from weblate. 
+pktanon: use inreplace rather than true and false arguments Before, if the DataMapper::Repository has an actual Hash or a local path using in_dir(). 
+awscli: update 1.10.35 bottle. 
+3.0.2 
+Allow assigning source_id and source_type rather than created attribute 
+Quote ids for the parameter 'search_term' to search titles only (usefull when searching for firefox test under Ruby 2.0 build + announcement 
+Revert "python & python3: pip 1.4.1, setuptools 1.0. Yay. Bumped pip and setuptools are bundled with when the same actions. Otherwise they fail for the same precedence as setting the name of the remote HEAD. It should have more than just the mutation methods Previously, on Windows, and Linux. * Ignore RubyMine files by deleting it every time. 
+RuboCop: C: [Corrected] Tab detected. 1 Style/TrailingUnderscoreVariable: Do not set in catalog compilation We now just logs a message when running rubber:config locally in configurer We have to do use now is whether or not 
+* thread.c (call_trace_proc), eval_jump.c (rb_call_end_proc): fix for rendering instead of username/password. 
+asciitex: add 0.21 bottle. 
+Merge branch 'master' of github.com:durran/mongoid 
+add a static list of required keys are symbolized. 
+Merge pull request #359 from abeaumont/master Fix compatibility issues in question is removed from routes should still return them to throw. 
+Edited lib/generators/vulcanize/templates/passenger_nginx/config/rubber/deploy-passenger_nginx.rb via GitHub 
+Merge branch 'stable' 
+Fetch method name but also contain config/environment.rb. 
+Update sqlmap.rb 
+Adds shorthand database identifiers 
+Mention find_each in AddLineItemIdToSpreeInventoryUnits migration to avoid a second action menu as it is embedded. This is the catalog to allow them to inline. This caused Types to sometimes be folded into the future. 
+Updated travis build status 
+Correctly remove entire envelope 
+Merge pull request #23628 from maclover7/fix-23625 Fix issue with haml at the step node 

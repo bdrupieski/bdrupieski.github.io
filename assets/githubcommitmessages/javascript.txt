@@ -1,0 +1,1004 @@
+JavaScript
+Most probable sentence: Merge pull request #1 from RubyLouvre/master merge avalon 
+
+Likely sentences:
+docs: reduce number of decimals that don't start listening to a version of reset password dialog 
+chore(build): Add grunt-contrib-watch task for easy options setting 
+Use of undefined 
+Remove unneeded tests. 
+Checkout: Thank You: Provide `primaryPurchase` to `CheckoutThankYouHeader` 
+Exit process manually after test. 
+.@download instead of mutating them, which is a more portable and ensure that the DOMUtils processHTML method. 
+Fix incorrect layout saving in DataTables. Will look into it or else "getJasmineRequireObj" won't be useful for clients to send TiFile/TiBlob in HTTPClient 
+Merge branch '1.x' into 2.x Conflicts: 	js/jquery.inputmask.js 
+Merge branch 'master' of https://github.com/fengyuanchen/cropper 
+[js] Replace the bind() function. 
+Release 0.44.0 
+[React Native] Update operating system has been around a SafariDriver bug. https://code.google.com/p/selenium/issues/detail?id=4996 
+code review suggesting that `href` is invalid. The assert functions are not ones already 
+Add typeahead database search 
+The method can fail to see 8 items code review changes 
+Add match ordinal to non-ordinal axis. Closes #988. 
+Fix naming of variables using '__' 
+
+added ngAnimate, angular-strap and updated tests, bindings, object controller tests 
+Adjusted recommended Gallery version. Closes #447 
+Merge pull request #3253 from vishalvijay/fix_browser_default_autocomplete_popup [Autocomplete] Disable browser auto-complete in a string instead of spaces between parameters 
+Fixed table plugin 
+initial import + relative url(). closes #5 - Chalk output 
+fixing Duo#assets() to correctly express its function 
+Add setting to be called only once 
+Literate Coffeescript example for enum validator 
+User a "spy" to make them in their native python rather than "real" numbers and newlines (in accordance with RFC 2606 Closes #4206 
+version bump v0.7.4 
+chore(util): Remove eslint errors. 
+Have Base.read() clone owned objects such as 'if', 'do', 'for', and so a situation where an empty Uri which somewhat mimics the other one. fixes #437 
+Tweaked a couple of typos 
+Update README.md 
+screen.js, RTCMultiConnection-v1.8, part-fo-screen demo, Record-Entire-Meeting, RecordRTC, RTCMultiConnection v2.2.2 and v3, port v1, simplify server.js 
+get rid of click-to-change-title in dashboard. 
+5.1.11 
+Many MIME headers have been opened once 
+Add dummy rainbow test 
+update README 
+Merge pull request #1250 from jkrehm/restore-on-destroy Restore select to matched item text size. - See #1695 - Don't start the quest (at least in this case. * font ... smallest * color ... same with ObjectId.) (Also, still need to place the scheduling algorithm to properly place selection. git-svn-id: https://svn.ckeditor.com/CKEditor/trunk@6329 da63caf2-3823-0410-a1e8-d69ccee00dfb 
+[dist] Version bump. 
+net: refactor self=this to arrow syntax instead of (deprecated) .clean 
+Unit tests: Navigation: When loading a new message to `uncaughtException` logs. Fixes #204. 
+Updated support files into js for transitions into 3 parts 
+Merge pull request #6624 from spalger/es6ify/autoModuleTransform [es6ify] re-apply automatic module transformer 
+Merge pull request #935 from knockout/935-fix-options-notify-value Observable not getting removed by the filter is applied as the code actually applies independent of user name link 
+Centralize lint, fix lint issues 
+Linked List update 
+Auth/Accounts improvements - Handle page convert and publish/draft changes - 1 
+Fix bug preventing edge label positioning attributes. The hard-coded aliases needed to be sure to run RC tests _should_ be here: https://github.com/tmpvar/jsdom/blob/fcece90f9f9505cfccbcdfac21fc66f40fcfae88/lib/jsdom/living/attributes/Attr-impl.js Closes https://github.com/facebook/jest/pull/723 Differential Revision: D3141798 fbshipit-source-id: f1ee08fd6bec504f5c0a36373023304046511cba 
+Allows use of util functions and tests for $.fn.hasClass. 
+Bump deps and fix a few int16_t type uses the same selection have the audit to the new strategy. 
+Add name to something more apt 'pipeline' Refactor 'composite' C to C++ WebDriver JSON wire protocol, the expiration to Store#destroyClient. 
+Merge pull request #101 from sammuel86/dev-0.3 Meh idk... (active buttion styling) 
+Allow SDK errors to be resistant to multiple fhem servers increase reconnect timeout 
+fixed possible uncaught error causes the index page. 
+TOC and put this in the client re-fetching documents and selecting one of the loop. 
+tests: fix connection not block/break app loading path in quotes to double check tests of sites using gatsby (#274) 
+添加《Scrapy 0.25 文档》 
+Add blowfish encryption, special model type to be an alternative redo shortcut to the dropdown is opened Fixes #10152 
+Applied mrdoob's optimizations from gibson 
+Update ComputingDerivedData.md 
+Remove unnecessary comment. 
+Remove debug print issue, caused clang warning 
+fix typo 
+app_dir -> appDir 
+Added test that fails in Opera Next (15+). 
+Make margin explicitly configurable per-axis. For #188. 
+Update hr.list@0.3.1 
+when --full-reset is enabled, for issue #1530 
+Facet by dynamic temp names (still pretty hacky) - Add spanish docs link 
+Changed version to 0.4.17 
+Inline support for funcCall 
+feat(*): allow method chaining Conflicts: 	src/plugins/hls_playback/hls_playback.js 
+add coffeescript, coco, LiveScript makefile targets for replacement with interchange, fixes #7838 
+server.js code cleaning on backbone-aura. enable jshint on grunt jshint. 
+Popup: increased delay between starting child processes to run really slow. But, hey, then we will generate the report and proof-of-concept. 
+Ignoring Editor too, too much with window/view functionality anyway 
+Implementation-independent hashing for auto-update 
+Release checklist update 
+- Removed the 'changeSelected' argument from GateOne.Visual.slideToTerm() since it is reported correctly to labels during init 
+closes #1301 
+updated docs 
+Pull out noscript tags, move excerpt generator after its height to the docs. closes #1704 
+Add Alex K. Wolfe to contrib 
+Merge pull request #377 from felixbuenemann/fix-activesupport-instrumentation Fix ActiveSupport instrumentation 
+Fixed so ListBox doesn't select word does not look for it anyway when created 
+Updated package to demonstrate effect of #77 
+filter edits before saving changes in fileUtil.js and rhino.js, but no longer causes the month to start/end of isoWeek 
+begin to customise which buttons to be simpler 1) If a typo "a" was null 
+Merge remote branch 'origin/protofy' into protofy Conflicts: 	js/highcharts.src.js 	js/parts/SvgRenderer.js 	js/parts/VmlRenderer.js 
+Update MD5 for german-umlat.pdf 
+Add note to Readme.md 
+Merge branch 'KarlJakober-master' * KarlJakober-master: Add profile information is now renamed to ScaleManager (a more general id generating function. Set isArea(false) on historicalStockChart 
+[Python] Apply variable.function scope as object. Fixed to support yyyy年mm月dd format. However rejecting all Unicode in OpenOffice PDF - supports adding JPEG images. Reason: .jpe is a minor tweak to notif window 
+fixed dependency 
+Merge pull request #722 from tomasAlabes/master Line spacing added to RCTTextView doesn't work when not running [closes #72] 
+WIP 
+Merge branch 'master' of git://github.com/remy/jsbin 
+release(2.0.0-alpha.5) 
+Generated JSON samples from .html to .md 
+Release 1.0.5 
+Update excused Underscore tests. 
+Merge branch 'bonfire-tests' of https://github.com/QuincyLarson/freecodecamp into QuincyLarson-bonfire-tests 
+dist build 
+bump deps 
+Say thanks to @iernie 
+Fixed css styles, to reflect babel upgrade changes - able to work on a Mac Pro. (Yes, those units are km fixed s/ParseFloat/parseFloat/ 
+Merge pull request #1456 from jharting/1415 Prevent error when no session 
+Updates roadmap 
+remove obsolete testcase Fixes #14426 Closes #14443 
+add check for exception with insertRule 
+v1.0.17 
+Update documentation for autoclose in link plugin some timer events were being displayed, like in PHP dependency manager 
+Initial cosmetic changes to legend 
+JasonLeyba: Make addCookie match the default works fine. Update packages.md design docs cached. As such we need way more complicated and requires less setup Former-commit-id: a04ac029b82d4820e9315b7670eb4ad68583f66f Former-commit-id: 9b87cce075dc526e1d80b0b6a4d09e120df4b0a4 
+Merge pull request #1918 from bootstraponline/master Fix real device docs 
+Released version 0.4.0 http://greenkeeper.io/ 
+Fixes #265 Includes test case. BugzID: 12052 
+update ko-KR 
+B.C. Time support Laterst version 
+fix(templates): small CSS transition animations. - CSS tweak to add input box when using "back" to dismiss the modal stack implementation 
+Fix test for deprecated arguments of drawImage() to image() - reopen if necessary. 
+Corrected Joyride typos. 
+Merge branch 'jacobe-develop' into develop # By Erik Erikson (3) and others difficult to use state keys, not state functions commit b234473bba7c1356ed595facdc6f3bdfff0d0d93 Author: Erich Ocean <erich.ocean@me.com> Date: Wed May 13 14:09:05 2014 -0700 Fix css ref 
+Started Collection benchmarks 
+Merge pull request #1145 from dmarcos/fix1135 Prevents running the tests r14045 
+Fixes sitemap image errors 
+[fix] use default color and no `return`    Going to 1.1b. 
+fix236 
+licenses 
+Merge pull request #4997 from srahim/timob-15749 [TIMOB-15749]iOS: Silentpush not being ignored after unhiding 
+Merge pull request #1045 from tanmancan/patch-1 Changed arrows and counter settings, merging intercom company 
+fix diffProps实现及顶层绑定属性 没有发挥作用的BUG 
+Don't fire dragend before moveend for consistency 
+Fix typos 
+Added a link to other statics block. 
+moving some config files. Reviewed By: zpao Differential Revision: D3291273 fbshipit-source-id: 05ef95c89a1333e7b9c4994e134c3ca33b495855 
+Merge pull request #7612 from feons/TIMOB-20027 [TIMOB-20027] Enable App-thinning Splicing by default and outputs to the list of fields which were created duping the formals but are correct 
+tests: minor fixes to use this behavior should be Object and String values 
+basic test runner to support streams2 API 
+Updated templates and babel polyfill to fix test from 5000ms to 1729ms. 
+Determine user card editing permissions in iOS8+ 
+Fixing #4058: wysiwyg mode is problematic given that the other styles 
+Merge pull request #381 from rkusa/castshadows fix Blender export bugfixes 
+Turning on PI tests, because it was impossible to parse the header (to make log work with full dev version. 
+make bare super call in IntlEngineInterfaceExtensionObject::EntryIntl_CompareString In certain scenarios, IE10/11/Edge create unresponsive select elements. Fixed #1239, #2233, #3038, #3343, #3395. They're also faster now, cause it to your project Fixes #471 Close #472 
+Remove cwd option to expand the jQuery shim, as it should, text is underlined issue #172 
+Merge branch 'Arkni-patch-Morocco' 
+Resync with official SourceSans 
+dont call module.getCanonicalName before module.rename (has undesired side effects. still not correct) title case for not using jquery 
+functional Each component 
+Computer foreignKey for belongsTo() from the Android sections since they caused an UnsupportedOperationException. Let's not do any auto upgrade. 
+Make worker work again 
+update bower resolution 
+add jspm package.json config 
+adding viewport, scrollTo and more prose 
+remove old p2pchat for now until it's fully removed in a90bc78534d94940a6b726c01cf8427c296b4c63. 
+uv: Upgrade to Bootstrap 3 
+UI: Updated WAI-ARIA markup (7) 
+All: Decouple Core fixture reset by `dumpCache`. 
+arg resolution 
+add tooltip for IMDb stars for starring/unstarring 
+Fixed capitalization Bitshift changed to use hardcoded current date if `useCurrent` is `true`. ### Example: ```shell # Override the next-to-load buffer with a missing comma into toolbar 
+Land: fixes for #2745 
+Fix admin-token ownership; when created as needed. 
+Update .gitignore 
+Make sortable pass JSHint without any additional house cleaning on the same name used to disable responding to minor fixes to XML documents, bug #1346. 
+Add Nexus 7 and Wed July 15th 
+Tiny simplification. 
+docs: example add change event, so it makes everything way cleaner 
+Added computeNextRunAt method and expanded list of phases // initial, // postinit, preauth, // session, auth, parse, routes, files, final app.defineMiddlewarePhases('custom'); // new list item element to pikaday.css 
+Merge branch 'master' into autocomplete-2 
+fixed update for accessibility purpose. We shouldn't be zero-filled. Remove Buffer::Create() as it was called twice if you had focus and it achieves its goal for the current blog cover image styl 
+Code formatting at end is done such that you can do with all new posts 
+cosmetic changes to bower in NPM for usage with promise polyfill. 
+centralize host configuration feature Adding the default react package to 1.0.5beta 
+More text 
+fix combo 
+get rid of 'mobile: location' 
+[TIDOC-1171] Typo 
+Moved other hooks have loaded, and a background color) with the autoSave option and increaseClusterLevel and decreaseClusterLevel methods. Still clustering bug and provide communication across all dialects. 
+Merge pull request #844 from kchung/fix-documentation Fix broken user list Signed-off-by: Rick Waldron <waldron.rick@gmail.com> 
+Update README.md 
+update images 
+Added types to avals and properties as true 
+AlexeiBarantsev: Throwing UnhandledAlertException on any level. 
+Fix res.send double-calling res.end for HEAD requests any respect. Skip them rather than uploaded 
+v6.2.0 
+version: update shrinkwrap 
+Update The Sanitizer 
+Adding more oz tests 
+add ellipsis to all editor instances 
+Fixing log tests 
+New test - This effectively reverts commit 9560d3d2457010cd25d4540822eff9acb139826e. 
+new features: test, timingTask and scheduled for a lot of headroom. So let's make sure it is being streamed back But deselect all nodes 
+adroll: updated for the image and open for 30s. Not a regression where declared IDs were supported by babel 6 and 7 of clock_seq_hi_and_reserved, see 4.4 in the ActivationObject from GlobalObject and use discriminator 
+TravisCI: Fix coveralls executable path * GUI: Bugfixes in Block Factory. 
+test for correct package 
+Nit 
+Add symbols to Unicodes 
+pulled in from SessionStorage when we're in processProperties (this happens when I first noticed `arrgs` instead of root node (<ul></ul>) remains in the tree. Fixes #1011 -- exit earlier for delimiters #309 an interaction with promise nomenclature 
+chore(*): add .gitattributes file to yaml and test watch workflow 
+use method to get a nervous breakdown if you pull from the tick key function. Previously it was suggested that on iOS, so things like EC2 natted hosts to network disconnection. 
+Allow linters to subscribe fn that returns a function instead of localName for IE8<= compatibility. refs #10 
+Improve long term caching by session token. Clear out more image_url stuff. Have a go sample 
+Merge pull request #1715 from rgarmsen2295/plt-1148 PLT-1148 Opens links within checkbox Closes #3063. 
+Add ES6 keywords in thrift.js (re: #403). 
+added support for removing tabs influences the next few days now. 
+Scope 'use strict' into the doc migration: When there is the only place this hackish fix will remove all spies, stubs and spies 
+More readme details 
+Merge remote branch 'public/master' * public/master: Typo: SC.Observable added twice in a loop should cause the middleware to tumblr and foursquare routes 
+Small code cleanup and optimization 
+Merge pull request #368 from raananw/DecimationFix Fixing variable name and widget) that could lead to potential false-positive popup blocks 
+timob-14520: checked hierarchyHasListener just before the first image should be local to do this, otherwise we'll keep it cooler 
+Change package.json to simplify bug modal 
+update year in license to README 
+Fixed saving settings 
+解决hello mui首页侧滑菜单首次点击不显示的问题 
+Adjust the widths need a certain amount of duplicate field fix #3567 
+Update WebGLRenderer.js 
+linter errors, remove ss from session.find 
+Merge pull request #1426 from jgao54/bug-fix correct missed arg.foreground to arg.daemon in cli 
+build 
+Merge branch 'master' of git@github.com:CloudMade/Leaflet.git 
+allow a list 
+Add caniuse keys to appear over another gridster chart when rotated 
+Pad small ethernet frames 
+session() test for include all current interfaces. 
+commented out LOG calls in 2 files" which was why the script can be correctly rendered. 
+Add Moment.js back into Calypso. 'env_id' corresponds to 2nd sheet) The right pane not position in undo levels wasn't created when deleting a post never had the version was pinned to a URL gets double-decoded. Pagecontainer: Test that the new api reality 
+fix(ons-tabbar, ons-tab): Fixed broken unregistering on $onsen's alias stack. 
+timob-14100: fix postlayout rect for region and country in locale files, but for `npost`. 
+Fixing uiprofile images on webtoons.com Fix #1765 
+allow node remote 
+Merge pull request #592 from Unitech/revert-591-master Revert "Added themes-list-loaded flag after checking for elements 
+Merge branch 'refs/heads/bundle-update' 
+chore(buttons): add demonstration of functionality. 
+Fixed issue with the correct function. 
+Merge pull request #699 from VivintSolar/master Added support for print 
+Merge remote-tracking branch 'upstream/master' 
+Replace Browserify with Webpack build 
+Use simpler message interpolation in user text from "setup" to "set up" is two trees, i.e. no merge occurred. If phase (1) finds nothing if no tag BABYLON.Tags.MatchesQuery(myObject, undefined); // => [ #bar ] $("#foo").parent().andSelf(); // => “” ``` 
+Action Bar - Adding the Groove device as the document have a positive and negative values. ArcadePhysics.Body now checks commit message is released 
+Provide an end-point that emulates a buggy challange (#8843) 
+Updated version back so that we can now be enabled 
+Add some examples 
+get rid of this should have been working at all!!! 
+merged in 2.0 branch 
+add back properties pane Closes #160 and Closes #2181 
+UI: Show extensions instead of setting it 
+Finnish translation update 
+Merge pull request #4666 from akhoury/patch-5 adding mid on the view, not the same instance name. Fixed typo in mirror effect and may make the usage of ES7 Summary: Closes https://github.com/facebook/react-native/pull/5471 Reviewed By: johnislarry Differential Revision: D2724936 fb-gh-sync-id: 7a32dd6ceccdde261b8e638291e9c200ec06fd42 
+Merge pull request #2500 from JulR43/patch-1 Change git-core to git archive to prevent conflicts 
+fix regression in 0.6.6 when we implement the logic and the validation errors - import the file object, so Object.keys picks them up. 
+Merge pull request #5078 from jithinv/Ti_UiPicker anvil test case 
+Try to improve the cache (thanks to beebs93) - #309 Changed features - disable app launch much more work on windows as well as rollback for vm function redefinition This commit improves url.parse() performance This commit makes the API 
+change additive to add ~/.meteor to PATH for a while at it 
+classes spritesmith #37 shield_warrior_0 (aka, no more wrong normal/binormal computation due to borwser bugs and improve jqueryui theme to idle fingers 
+better position for .reveal.linear sections. fixes #64 
+Fixed intermittent incorrect scrollbar positioning calculations 
+Add mac application section 
+Builders Created Sunspot::Builder module, which makes Cleartype work properly. We are already properly inherited; these declarations and removed automatical saving 
+Split event binding. 
+Update readme.md Clarify that React.PropTypes.node accepts fragments As of pull #331 
+Merge pull request #6667 from QuincyLarson/fix/small-map-button fix map button size on unix again. Suspect something changed in the text value and line width, reported by `git log tag1..tag2` is your friend (and mine!). MARKUP: Each version is slated to be (only an issue 
+Build: yui3-2712 
+fix format 
+Adding email functionality 
+added test for windows 
+chore(docs): display search result is 1 
+Remove unused code from Expression effect to affect many apps that are less than one region only as part of the drop down menu 
+Merge pull request #27 from dule/master Support time series 
+
+Update scaffold.js to use require internally. 
+ie8 vml fix, mouseover/mousemove/mouseout events for embedded hasMany 
+Fixed #4913, regression in this case stylesheet post-processing logic should be distributed in Release Notes 
+Merge branch 'master' of github.com:designcreateplay/NodeBB 
+Improve documentation of .z and .rotation 
+tweaks style, adds style to end event is emitted with the wrong background color 
+Bumping version to 0.8.3 final. 
+Selectmenu: Preserve text selection illustration in Opera r16788 
+Cleaned up Getting Started index.html For | farsi| Persian | فارسی Language 
+Merge redux-simple-router 
+Implemented individual shape docs. moved corner radius 
+Fix typo in example of using foreced reflows to deal with app titles are used by _spanify_screen() to save traces over http and ssh forwarding. Also changed style of config file flexibility 
+Initial boilerplate demo 
+Change parameter name conflicts (if multiple models with "paranoid" and defaultValue 
+Prototype: add failing tests for helpers/uri.js 
+Merge pull request #214 from SBero/master preventDuplicates allow previous message is not followed - the index.html file, which makes more sense 
+modify authorization middleware 
+client.seed: fix stream issue since Soundcloud updated the icons will now automatically calls `Group.removeFromHash`. 
+Merge pull request #2919 from apfelbox/patch-1 Small bugfix in the DB. This PR moves the functionality of the proxy as it looks nicer, it also uses `GateOne.openApplication()` instead of borrowing it from the actualOutputStream isTTY by default. Per our discussion - this functionality is also what Jordan did in a bad path is in fact only needs the latest version 
+Fix for issue 77 
+Disable source maps Fixes #256. 
+Merge pull request #995 from msimerson/result_store-hidden permit result_store consumers to store details of how LinkedLists are implemented. Missing are the tests require sudo on Travis better faster stronger  more ram, better network, better vm caching for url handlebards helper 
+Merge pull request #36 from trueadm/dev Dev 
+Dropped blank line tabs and code cleanup 
+fix installApp name conflict handling in that order (thanks @P0rnflake #1450) 
+Basic e2e infrastructure for firing events correctly, and fetches 
+Merge pull request #278 from mleinart/grammar_backslash_special_chars Support backslash escape forward slash 
+parse modals on order of deletion. Improved unit testing 
+Export: Specify which keyword fields 
+Merge pull request #1096 from Polyconseil/i18n/en-gb Add British English and German 
+fix(model): support custom pbkdf2 digest overloading is ridiculous. We have to always return true, while window resize handler is called). Makes it possible to remove and recreate the Node.contains polyfill Node.contains is supported in VS2013 
+Merge pull request #3061 from atomfrede/gradle-undertow-config exclude tomcat from global notice on stderr and sentry 
+Prep for v1.1.1 
+More docs. 
+changelog for 0.0.31 release of devtools. We will take care of having to remember to clear session & redirect to the global module in the executable or something.) Also, having a default value to line 43 
+压制第一次更新 
+1.0.0 - moves metadata out of Mongo 
+Complete logger tests. 
+Merge pull request #3303 from avastu/Fix-title-case Fixed Ambigious Explanation of junk from list-header 
+Purchases: Always use C linkage, prevent accidental npm publishing. #183 
+[fixed] infinite loop in the context of a fresh loader image. 
+Translate use of `mergeStyles()` and `prepareStyles()` accross src in the interpreter. Since this is not needed anymore. Overall, about 60 bytes saved (and code inlines now to unbreak React in existing directory. 
+Curve - Remove nylas-long-connection.coffee duplicate code 
+Merge pull request #1778 from TehShrike/2015-03-07-better-error-message-on-bad-template Fixing rabbit-trail-inducing error message before it was at position 0 ``` This commit also optimizes the force layout. This change only the parts of the other tests, have the browser-side of the PID and the module instead of $.html for showMessage and onFailure param support in code comment 
+- Fixed issue with setting channel notification message name 
+stub missing index pattern references, remove sort option 
+Don't query the database trigger event when the page size 
+unproject that alters ray 
+Small e-mail fixes. 
+Merge branch 'live-docs' of github.com:yui/yui3 into live-docs 
+Merge pull request #1463 from jonnykry/react-readme-update Update React to 0.13.3 
+Merge branch '4.3-wip' of github.com:zurb/foundation into 3.0-gem 
+Strip out all of them require intl 
+doc: fix typos & fixes 
+add a plan 
+Updated version number 
+yui3-1121 
+Remove author tag inside channel tag in reference_many filter 
+Linear repulsion 
+代码优化 
+[#TIMOB-3768] Fix add: Separate data/model updates from http://translatewiki.net. 
+Use eval-source-map instead of string length rather than using set() on the identity is always passed the item, add it back 
+Merge pull request #518 from kenwheeler/revert-517-patch-1 Revert "Improve Runner.start logic" This reverts commit 78a0901193a959cdeed81c199ee081a16fd412fe. 
+Support User: Add Support for */* was not wrapped in a rebase Closes #2460. Fixes #2373. 
+top-level help 
+chore(datepicker): unify code between news feed and reconnect to be included in the correct location for form modals 
+Preventing duplicate keys 
+Fix several references to the prior commit (overzealous line removal from empty object when using the wrapperClass setting. Defaults to /usr/local otherwise, which the writer cannot leave debugger calls embedded in :not() filters. Fixes #430 
+Updated tests for TypeScript injection based on methods and ansiCalendar. 
+Merge pull request #519 from RactiveJS/gh-489 first stab at changing the variable passed into load, then use my dbus repo so people know where the transform using "loose" options and setOptions 
+[merge] 
+Display progress bar to SimpleGmailClient 
+Update version to 12.11.26120. 
+Wording tweak- first paragraph 
+Fixed #3749 : Fixed scope issue of #298) 
+Indent with Tabs 
+- Added better commanline option support for <Text> Summary: public fixed-data-table lists react-dom as devDependencies 
+Rewrite <polygon> interpreter 
+Disallow tabbing to the findClassNames function so that it only unbinds its events and reinstall them again on TLS connections to be more portable Use 'openssl sha1' instead of linear. See http://rd.cas.de/tim/html/gradient.html. 
+translation work from Crowdin 
+OK, that's quite enough work on Preview app now lets you unset active options. 
+[util/registry] always cameCase names, no matter the timeout value 
+Implement glob-matching (SEL-39) r812 
+Fix #586 
+node-gyp: download header 
+just testing the right side instead of setting them to clean up angularFiles.js 
+Blur should not be updated. 
+Fixed issue #451, problem when emulating typing in an increasing sequence. I.e. when the lib directory 
+Parallax fixes 
+Document the --tag option of using pool directly 
+use octopress own setup_github_pages 
+remove router transition 
+Added link to HomeActivity This will give you the same call chain. 
+correctly augment the DOM in the DB returns 301, use the StrictFormalParameters grammar production meaning that it points to grunt-cli 
+Using relative file paths in tutorial 00 text 
+bugfix 
+Forgot to pass Main fix was introduced in previous commit by replacing the EVAT index with hashes that have just returned reference variables. The tests now use src/config - fixed SQL for dropping .js files for testing sake, this css only 
+Updated changelog.txt with release 
+fixed failing slider tests 
+Relax check for getElementsByClassName a little better 
+hover transition for flow annotation for mongo and socket.io (ws://) entry points. The main motivation for the client side fragment 
+Merge pull request #77 from adamyonk/patch-1 Fix typo 
+ditz issue update 
+Merge pull request #190 from FormidableLabs/ie9-docs Add note re: id="ng-app" to bootstrap/IE partials - #1445 
+Commit pin-circuit-event assets (fzz and png) Signed-off-by: Rick Waldron <waldron.rick@gmail.com> 
+Fix incorrect deprecation message if no vendor/ folder exists. 
+Fix: variable name of waitAMinute for more coverage 
+chore(docs): fix bootlint warnings Closes #3597 Closes #4075 
+Fix karma conf: prevent timeouts by printing keepalive message every 100ms. 
+add messageformat files to use a different navigation event test in the ArrayBuffer::Allocator to trigger `drop` event while autoscrolling 
+Updated bt_home_hub_xsrf to use new socketReady function 
+fixing typo from replace It doesn't seem to be instanceof Y.DOMEventFacade and the new SC.Logger functionality. 
+Cancel the correct file name 
+fix config 
+Update 
+Merge branch 't/12617' into major 
+Use cross-spawn-async cross-spawn-async does not show raw binary data (byteLength) 
+Document let transform One more quick time options. When a new url-parse module 
+DouniaBerrada: Updating injectable atoms to chrome store 
+[fix] Throw error when throwing error if one does not really useful stuff from interface.html. 
+Rearrange some lines and columns were being flaky. 
+Updated/Converted seed tests and a forceRelative flag 
+Merge pull request #4267 from pichalite/notifications-count complete fixes for Panel changes in 2.6 
+Update CONTRIBUTING.md 
+Revert "[maven-release-plugin] prepare release alohaeditor-1.1.19 
+Fixed odd scrolling issues when running npm install 
+Update README.md 
+Update README.md From "You you’re writing" 
+Merge pull request #1420 from rjackson/use_ascii_in_license Use plain element instead of the plot area in scrolled table 
+upgrade script to check for pixel ratio. Also fixed block demo: Column Blocks are now using GCC symbol visibility 
+Remove unnecessary comment 
+Better management of (non-interpreted) binaries. 
+Erik is a browser-like environement but some layout code 
+set traceurSrc with paths Summary: If we served from raw.github.com as executable Running 'grunt build' should be in your gulpfile but you still want to check if it's present on initialization in browsers. For consistency 
+Fix insertAdjacentHTML for pre element with name and tag 1 at index 2 is an array is empty. this.bounds was removed by the test. 
+Merge pull request #927 from kevinawoo/patch-2 feat:app: grunt-build-control to v0.4.0 
+put the fix to the constructor. 
+Close GH-7: Potential fix for androids input range false positive, but it needs Intl - Fixed ngColumn width being initialized more than enough. 
+Cleaned up the directory as well as successful (false positive) from the index name. This commit closes the select. Advantages of new 'sails debug' 
+mod: changed demo and screen.js updated. 
+fix protocol violations r16210 
+Removed plotShadows duped code. 
+Merge pull request #1866 from miguelmota/missing-quotes Add missing OperaDriver dependencies to devDependencies 
+Merge branch 'hotfix-1.1.x' into hotfix 
+adding in channels 
+update navbar, remove footer, create links on new message is working. Closes #1520. 
+Merge pull request #2641 from intuitivepixel/master Fixed typo in Accessibility documentation Summary:TSIA Closes https://github.com/facebook/react-native/pull/6432 Differential Revision: D2663635 Pulled By: @vjeux fb-gh-sync-id: 036e10a8d1819ea082e419cd328a458202f0e071 
+Cleanup and formatting. 
+Added `texture/disturb.jpg` 
+Fixed JSLint errors 
+Removes unnecessary variable Closes #137 
+Fixed documentation examples for Array.prototype.reduceRight; fixed Array.prototype.reduce examples 
+Rebuild packages 
+Merge branch 'master' of github.com:appcelerator/titanium_mobile 
+release 3.8.18 
+[TIMOB-9647] Added code to get an exception when private keys with simple string sending, that I want to remember if I want to disconnect 
+Use numeric identifiers when checking. Fixes gh-301 
+Merge pull request #3132 from plotly/image-server-disable-3d Allow disabling footer date with reactive-rerendering To use your scroll kept moving too close to trigger events directly on the ActivityEvent. Over time, I'd like there are changes in setOption in Options class. 
+Add comment 
+docs(readme): remove outdated comment 
+Immediately notify records of status & gif 
+Merge branch '1.x' into 2.x 
+link 
+Merge branch 'dev' of github.com:hakimel/reveal.js 
+Cleanup and preparing for 2.5.7 
+Merge pull request #4342 from HabitRPG/revert-4329-tranlsate-mystic-items Revert "Tranlsate mystic items" 
+[FEATURE ember-application-engines] Tests for context on the core CodeMirror CSS class was added. The only problem is that your activity is created, edited, or deleted), you make it safe to patch in 
+Added voting to comments. Made incoming request headers. You need to use LocalSolr as long as you scrolled (with your scroll position smoothness. 
+Hashrockets 
+refactor(reveal): update console message to inspect the process of plugin installation 
+fix typo 
+Fixing Issue #536 
+Merge pull request #1075 from restify/flush-404 GH-999: normalize NotFound error handler 
+Merge pull request #336 from jcspader/master Fix the last commit. 
+initial import 
+Fix hover to avoid confusion 
+type Issue #647 
+Added new p5.Vector Examples / Calculation 
+Improve PEEK command behavior. 
+[maven-release-plugin] prepare release alohaeditor-0.23.2 
+Rename action type 
+de-castrate client, misc fixes 
+Merge pull request #76 from zpao/lint Update linting 
+Effects tests: Ignore leading/trailing whitespace when parsing the most preferable way to propagate further down in the later being the last 5-n in place. Also methods to validators.js 
+fixed typo 
+Clean up event handling 
+Merge pull request #11864 from stefanpenner/ensure-test-helpers-are-auto-cleanedup [BUGFIX release] Remove obsolete js-comment-field 
+upgrade mongo to start selenium-server without relying on templates compilation 
+[1.2>master] [MERGE #729] OS4927797: TypeofElem fastpath mishandling out-of-range scenario Merge pull request #1549 from scott-christopher/contributing-since Add @since tags for scripts before loaded 
+Wait for package-store to be able to use HTTPS for fetching videos from the remote method, which is backwards, and very wide popup appear offscreen on load for native code fixes, added support to scripts/publish 
+Fix up framework search path for 'phones.json' Closes #5460 
+Triple equal change, part of the test suite and applies to Pjax's role. The Pjax tests to use promises. @stefanpenner & @leepfrog aka 'the leeping Penner' Bonus: ```Model.find#then``` now rejects/resolves correctly. 
+Merge branch 'master' of github.com:designcreateplay/NodeBB 
+html5 video: fix wrong paragraph in CONTRIBUTING.md 
+updated ignore files do not correspond to actual root node by specifying a callback from being fired for each plugin (280x160) * order/classify them     http://docs.travis-ci.com/user/workers/container-based-infrastructure/ 
+Add identifiers to modules 
+fix(general): common disabled behavior for the time where that was merged before 0656484d3e709c5162570b0dd6473b0b6140e5b2. The test improperly detected min/max values could be usefull when the priority on uvs over normals 
+0.5.3 
+Merge pull request #498 from leebyron/patch-1 Update CONTRIBUTING.md 
+Remove countPets and countMounts from codebase 
+Write a small inconsistency in processing empty descriptions for _.initial() 
+bug fixes from this file; error thrown, and I updated all timeout configuration 
+[react-native] Revert D2346396 to bring async functions to when it only when the file input when translation is disabled 
+Add HTML generation and the merged searchSource 
+Merge pull request #215 from mcavage/patch-1 db.batch().put() does not have properties 'draggable', 'resizeable' and gestureable set to false by default, allow only 1 is deterministic, regardless of whether the default extensions being installed properly. 
+Update package.json to point to %AsyncFunctionPrototype%. Like %GeneratorFunction% there is trailing garbage after Infinity now works consistantly with strings, numbers and added cumulative line chart 
+Merge pull request #98 from jaws-stack/v1.0-ux V1.0 ux 
+Merge pull request #1722 from kant/patch-1 Minor typo fix for mis-encoded cookie values were still causing issues. Fixes #392 
+Merge pull request #63 from nicokaiser/master Check connection status styling for the tip to Ben Alman and Paul Davis git-svn-id: https://svn.apache.org/repos/asf/couchdb/trunk@727156 13f79535-47bb-0310-9956-ffa450edef68 
+chore(*): prepare for next development iteration 
+Componetizes position, rotation and circumference properties to support: "fr-FR" 
+Merge pull request #541 from himynameisdave/master Add postcss-rgb-plz to list rooms update 
+fix(test): remove old schema.methods loop 
+Localisation updates from CorwinT. Closes #309. 
+Adding icons, again. 
+updating package json 
+Description of Euclid's algo is backwards compatible. PASSED: IE6-9, FFx 3-5, 8, 10 
+Add duck typing for handle drag handlers when dialogs are ever interested in failed path of Getting Started page 
+k add label support 
+Merge pull request #62 from wenzhixin/master Update my repo 
+v0.6.0 
+[TIMOB-13404] Cleanup 
+[jquery] always attach an indentation bug 
+Fixed issue with DL and remove memory leak 
+Fit points to the other side, the only active if it can't handle multiple elements by name (.). Selecting by ID to each other If an authenticated route * Add comma  * Move try-catch to separate file from bin Fixes #685 by disabeling and showing parent views were scheduled to end. 
+Prevent loading the app allows you to toggle the flex styles to the IPEC IRC module git-svn-id: https://beef.googlecode.com/svn/trunk@581 b87d56ec-f9c0-11de-8c8a-61c5e9addfc9 
+fix(tooltip): arrow position will refer to the new lowercase names. Fixes issue #119 
+Merge pull request #2832 from ajaxorg/fix/highlighting fix highlighter issues 
+Item returned in some autosize code for '=== null' and change table name prefixes. 
+paulbot.tease() method - Update Node.prototype.compareDocumentPosition to comply with the params. abandoning mootools-more for now until we actively decide which properties may or may not reflect it and assigns `null` to Tilemap.putTile as the server is stopped 
+- Checks if a string It happens when desired 
+Bold unbolded methods to easily store and MySQL Table defintions (parsing field comments) to generate pod components within `buildComponentFromVNode()` 
+Fixed so the whole page. 
+Fix Python examples 
+Merge remote-tracking branch 'upstream/master' into fix/jshint Conflicts: 	index.js 	page.js 
+further separate platform-specific code for Ghost. Fixing ugly linebreak with love. New module: gateone.core.configuration. Some of our old ping messages were only closed at com.squareup.okhttp.internal.ws.RealWebSocket.sendMessage(RealWebSocket.java:109) at com.facebook.react.modules.websocket.WebSocketModule.send(WebSocketModule.java:176) at java.lang.reflect.Method.invoke(Method.java) at java.lang.reflect.Method.invoke(Method.java:372) at com.facebook.react.bridge.BaseJavaModule$JavaMethod.invoke(BaseJavaModule.java:249) at com.facebook.react.bridge.NativeModuleRegistry$ModuleDefinition.call(NativeModuleRegistry.java:158) at com.facebook.react.bridge.NativeModuleRegistry.call(NativeModuleReg Closes https://github.com/facebook/react-native/pull/6301 Differential Revision: D3276285 Pulled By: astreet Differential Revision: D2769657 fb-gh-sync-id: faa530a148fb7879afc76e8567d987d0f329fdb2 
+Refactored Light's shadow API. 
+Limit the hinter to files in tty 
+Bump gem version to v0.9.0 which includes 0 and 1. Closes #1224. 
+[TIDOC-178] Updated based on ians suggestion 
+[clike mode] Properly parse certain oddly formed urls (isaacs) * fs: fix ReadStream fails to start log 
+Deselect all descendants on node > 4 
+Added ObservableStatic.from definition. 
+Merge pull request #139 from elemental-shift/master shAutoloader.js duplicate loading of the content expand dynamically. 
+resolve #23 
+New updates modal fixes Fixes #1104. 
+Stacked Area "Expanded" view does not support {raw:true} option 
+Merge pull request #513 from talyssonoc/add_isomorphic_alt_boilerplate Add Isomorphic Apps writing section to README 
+#788: Fully re-translated Simplified Chinese translation 
+Add more verbose with the proper sort order. Added a header with edit and create proxy initializers to Daemon 
+some code was largely copy-pasted over from female without modification except for certain easing functions, added to lib/ folder 
+Fix edge awareness bug in exponent notation when it wouldn't find the selectorStart 
+Only code that attempts to find a non-ASCII character to the newly-focused element before inserting our target table, then the real content of a new HDFS hook using a more straightforward logic in the admin UI 
+fixed typos 
+Inserted some more paths for the app and test to verify mount-point 
+add swarming 
+doc upd 
+redefinition 
+Merge branch 'filewell2.0' of github.com:plotly/streambed into meta-search-ui 
+Resolved conflict 
+fix(tests): Old values won't reflect those values that you can use both styles. 
+buffer: remove deprecated tt tag Closes #3028 
+Merge branch 'master' into feature-table-extension Conflicts: 	README.md 
+Tweak user activity on client records - In-table sorting - fix unintentional italics 
+Merge branch 'feature/hot-8' into merge 
+Adding necesarry code 
+Some documentation updates and objects are deep copied and pasted or being set. Fixes Bootstrap. (#67) 
+docs(contributing): add info about ES6 modules 
+travis bump 
+Kotlin: improve annotation highlighting 
+v0.3.0 
+bump 
+Use dev JS in the future. There's also a new undo/redo store that state, and responsibility for creating a "browser release" version of plugin activation click instead of just waiting on a model for this skeleton. This could be set when 404 was thrown. Instead, it is for things like Application Cursor Keys mode (\x1b[?1h) will now throw a TypeError being thrown.  It seems there are more consistent. 
+update karma bin directory 
+Close background on header, fix 0.8.0 header's level Closes #69 
+Tweaked darkt theme and improve rendering performance of style application flow that defaults file.read behaviour stay the same as <script> 
+Theme: Changed selectors for sections property per review 
+Branch selection styles. 
+Backspacing into a shared V8 library since 6f06aa6 (r69). Fixes PVRTC example #5807. This example was not updated accordingly. This is non-destructive on the server and add 3d line tutorial 
+Added feature to disable Scripted Playback. Fixed debug statement in menus.jsx 
+changed skip in FlateStream 
+Merge pull request #1520 from swagger-api/develop_2.0 Prepare for whitespace extension 
+Merge pull request #301 from niftylettuce/master added bower file update fr translations from CKEditor Translation Center git-svn-id: https://svn.ckeditor.com/CKEditor/trunk@7440 da63caf2-3823-0410-a1e8-d69ccee00dfb 
+use the main index.html of tool panel css changes 
+test(ngOptions): remove unnnecessary var 
+Remove leftover code 
+readme code samples to use promises Part of #33 
+Merge pull request #39 from mlocati/small-language-optimization Small locale-related optimizations here and reverting to the the input paths' winding direction 
+Changing 'jQuery' reference to old special cases that we don't generate chords if both methods as plain duk_(u)int_t and duk_small_(u)int_t but are more elegant, but it still works fine, but we recommend further up the slack object. (node) warning: possible EventEmitter memory leak with plotLines/Bands found earlier 
+Replacing homepage images with an image named `apple-touch-icon-precomposed.png` in the way down to just canThis(this) 
+Enh(rowSearcher): fix #3559 default condition set to default to subject[0] if not green. I believe this commit point 
+Issue #650 
+Tagging the 1.4.3rc1 release. 
+small cleanup. 
+repeater-better-events: addressing issue #3648 
+1.0.0-alpha.8 -> 1.0.0-alpha.9 
+Update The Redux Flow.md 
+Add instructions for font-awesome bootstrap challenge 
+Add a test for take(isNaN) 
+[minor] Added body decoder middleware example. Closes #877. 
+Kill ViewManager.updateView Differential Revision: D3212845 fb-gh-sync-id: f887cc89568571028eebe7f1883297b6ab1537a9 fbshipit-source-id: f887cc89568571028eebe7f1883297b6ab1537a9 
+Fix for a device from iTunes Sync to the deleted child index and indices aggregate stats exported. Added current device is to have the view compaction error When handling 304 responses, pretend they all tried to document "too many arguments" error messages for assertions Also test with texture-mapped font, which can be passed to the raised exception if already defined that just `reactTag` will be fixed with browser zooming. Zooming is still available to be on the wrapper with window.setTimeout. 
+Merge pull request #498 from renatopp/tick_fix Tick fix (Important!) 
+Improve simultaneous taps 
+docs : use only verbose output for tests/nightwatch 
+reset stats on ripening To-Dos Previously, on firefox, add velocity support, add EPSG:3395 (real mercator) 
+make container a simple shim test. 
+DanielWagnerHall: Fixing CSS issues 
+[maven-release-plugin] prepare for next release 
+adding anglemode back in June 2010. All that it can be applied to simd library, interpreter, and jit. Modified unit tests and adding the delete file lib/app/public/sass/base/components/beta_banner.scss file from bin directory 
+Only add an example. Descriptions of the url doesn't update the QuickOpen test checks that: - check whether the image naming, start with "--[[", not "--[" 
+tweak mode converter 
+make bootstrap cases to guard against them. 
+A follow-up commit to trigger test run All tests in xml 
+reformatted ls.js 
+update email regex on login container, plus a raw helper function into the iframe. Since jQuery version is faster than binary. 
+Fixed dev branch issue with tabs/spaces in python beautifier 
+Merge pull request #273 from secobarbital/patch-2 Only check useIdeConnection once. Reviewed By: hansonw Differential Revision: D2663576 fb-gh-sync-id: 259040eda54982c10374f9f1ee89f67a459937d0 
+* Removing scheduled from the user to install level 15 as well. 
+codemirror highlighting was missing the file path already ending in node_modules. Closes GH-1165 
+Fix bugs 
+Update `setVariables` to rerun a single commit. PR-URL: https://github.com/iojs/io.js/pull/990 Reviewed-By: Ben Noorhduis <info@bnoordhuis.nl> Reviewed-By: James M Snell <jasnell@gmail.com> 
+Fixing cross-to-ref and the terminology we use `createStrictShapeTypeChecker` prop types 
+Update Wicked Good XPath to 423f1b76c626cb4464962e638c27816fc8c2a8d4 This includes a note about modifying DELAY 
+[TIMOB-11578] ensure correctness of this function is missing from context menu * CoreWM: Now sets through macro to help tests. 
+Refactor Makefile. Now more resilient enum resolution and set the pretty-printer's recursion depth parameter to tests for minimal loading. 
+UI fix 
+Merge from master 
+Merge pull request #2185 from adobe/glenn/find-selector Use CSSUtils to lookup a templateName if specified. 
+updated event 
+ADD: anchor link code. SUP-2466 
+removed failing (because obsolete) tests 
+Update Vue.js to v0.8.4 
+Merge branch 'master' of github.com:gorhill/uBlock 
+Add change handler to the new HTTPS to remote servers. 
+Merge branch 'invoiceninja/develop' into attached-documents 
+Added enumeration for DOM events and state to be a much more basic types since new major version, because underscore.string version number for last commit 
+Added a "cdn" task that only one leave animation always runs all pending transaction results loader (incomplete) 
+add compress code, fix IBSC_MODULE, add and use url() 
+closed #315 
+Merge branch 'master' into react-14 
+Merge branch 'gl-vis' of github.com:plotly/streambed into 3d-image-server 
+Remove results attribute fixes #5297 Closes #5991 
+Reset hover when we can preemptively figure out what to do that. Also for consistency's sake. 
+option query相关抽离 
+JimEvans: Refactor of color with alpha Addresses comments in the kbnServer and will not be cancelled from the current state Removes early return to the document's children list here anymore 
+Merge pull request #281 from Gregoor/master Refactored data manipulation connect handling 
+Update .travis.yml Remove 0.8 from .travis.yml 
+[fix] @3rd-Eden is a first crude version of Font Awesome. 
+Merge pull request #2040 from bower/fix-shallow-host Fix shallow clone 
+css selector operator comma is placed inside a WebWorker is a separator.   The description refers to a unit test; this was dropped. This commit should get initialized before createMockEditor() calls EditorManager.setEditorHolder() to inject the client-side 
+fix svg mode. fix #274 
+SimonStewart: Fixing a few files with craftyjs generator files, add new example to use matrix. Signed-off-by: Grant Skinner <info@gskinner.com> 
+0.0.13 
+fix compile error in server implementations remain separate in image url. git-svn-id: http://svn.mootools.net/trunk@1199 4db308c1-fb21-0410-9919-de62e267375e 
+Fix issue with WiX 3.7/3.8 The `heat` tool that supports `value` and `key` arguments. 
+New testing example 
+Little bit more info to the concatenated property on DS.Model 
+Set DDP_DEFAULT_CONNECTION_URL to the documentation, both should fail now when false not needed since Outside.numBuilding is a more flexible than only the Navigator may throw an error (though other than your marker: setOpacity(0) 
+Merge remote-tracking branch 'upstream/master' 
+Merge pull request #2329 from dokkillo/dokkillo-2270 Issue 2270 
+get a String name "accountUsername" which can be defined. Closes #14470 Closes #14493 
+Update daterangepicker-bs3.css 
+Fix typos in plugin inits. closes #2532 
+Add method to chain extendModels Fixes #595 
+More code simplification 
+formattin 
+fix(compile): assign ctrl return values to addClass, removeClass, toggleClass functions to signed 32 bit of trailing whitespace from Gruntfile 
+Updated jshintrc 
+correctly display empty string should be ignored 
+change German "versandt" to "versendet" Both ways are formally correct, but covers many other PDFs. 
+Updated readme 
+Merge pull request #904 from ExactTarget/repeater-persisting-dataopts Repeater Persisting Dataopts 
+table-plugin: WAI input stays when you delete the vis options template that used it. 
+Try to speed up don’t actually support regions 
+Fix hybrid <select> init 
+Add confirm prompt before deleting documents 
+Updated some default keybindings 
+Merge pull request #715 from vitalets/default-initselection-hidden Default initSelection() for hidden grids demo page. Moved CSS stuff to the set of tests, too. 
+Merge pull request #76 from mcwhittemore/global package.json: add missing extraCode helper in the game. Closes #152 ($resource().query() sometimes calls callback also on non-element non-document nodes. Close gh-1127. 
+add unit tests to use 0.11.13+ 
+Add changelog and docs 
+Removes broken link to Meteor 1.0-rc.7 from Meteor Manual 
+Bugfix #936. contextMenu plugin can skip this if I left that we don't require -V 1 anymore 
+fix for #327 
+Merge branch 'master' of yuisource.corp.yahoo.com:yui3 
+Merge pull request #1974 from RocketChat/admin-add-user Added option to continuous replication which goes light pinkish on the server side locale from the nav link with imgur images and clickable blocky links. 
+remove support for pagination 
+Merge pull request #515 from realmacsoftware/master Populate author details to group plugin columns 
+Subdivition: needs complete rewrite to gcal plugin; leverages new event-source features 
+Worked around issue where getting an interpolated expression is in the post-build step, it can't access the server resulting in an infinite loop on url 
+Allowed tooltip and modal on a site screen. Format path for attributes and buffers. TIMOB-3894 
+Effect: Disable maxLineLength for description in the main entry point info- we could eventually return these instances) Note that this also happens when we need is to give another relative offset during layout. The setDashboardDom function is invoked when the camera is set to false on the proxy's object_id, thus scoping each session start. Modified implementation of high-medium generic cosmetic filters for implicit multiplication options 
+Use ui-sref for links in package.json 
+TIMOB-5236 Improved error handling when closing popup Closes #5660 
+Update version for v0.9.1 
+Merge pull request #4348 from yariplus/patch-6 Filter Love for unread and recent return random dates #110 
+fix for accidental DOM node consuming memory. It is faster than strings. 
+Charts unit tests. Clearer comments. Better variable names that the connection 
+Login dialog done HTML page of the React Native currently exposes the function can be starter https://github.com/gatsbyjs/gatsby-starter-blog 
+[eslint config] [breaking] disallow empty messages 
+Fix various issues in #184. 
+JariBakken: se-client - adding a redundant sentence. 
+Fix Lists error 
+partial fix for previous commit 
+Fix(package): There was no code remained that turned all tasks have finished mutating the previous element was considered part of the simulator, the sdk package by default 
+Example of moving the selection rectangle. By default alt uses JSON.stringify/JSON.parse. This change simplifies the REST API to prefer single quotes. 
+updaing the site is not a breaking change in the navbar's call to comment's resize rather than a mock test helper 
+Button tests: simulated clicks aren't perfect in first paragraph: hunderds->hundreds 
+fix typo in doc adjustments from affecting Fine Uploader, log exceptions if the current and last endpoints controls like switch view indexes on date object with "line" and "ch" as properties. Events - ready, selected, started, stopped, progress, uploaded, complete. 
+Clean up documentation for DD (all modules > 80%) now 
+[Idea: ScrollView] Add `getScrollResponder` to ScrollView unit tests 
+Fix bad wording in "jQuery.preferCulture" I added before controller now properly removes all apps 
+Add bug testcase for handling person email google calendar IDs 
+Server: fix sender channel id to userdata 
+start to js-git high-level interface 
+Fixed so multiple A->B relation could co-exists 
+Use `eq` in more tests. 
+- Fixed setting of unused lib/ stuff 
+Fix layout images 🎉 
+Update parser.js Allow first post in a broken link. 
+Minor tweaks - Part 1 | 0 | 1 the REST api 
+
+Cleanup bad commit files 
+Merge remote-tracking branch 'origin/master' Conflicts: 	app/templates/_pom.xml 	app/templates/src/main/java/package/conf/_WebConfigurer.java 
+Accepting accents in words. 
+Add CDATA on all textareas. Post-fixes #13031. 
+0.15.0-beta5 
+Merge branch 'rc-0.36' 
+Merge pull request #11605 from rwjblue/each-in-inverse Test that ui-date onSelect fires within scope.$apply() 
+Update dependencies 
+Merge pull request #1084 from wilmoore/fix-grade-school-for-test-runner fix grade-school module/import for test runner 
+Merge pull request #1509 from asturur/viewbox-small-fix Update parser.js Adding scaling of indentshift in HTML-CSS; since is outside the top right with the class technically is caching the href selection, account for routes 
+fixes #24 
+regenerate browser files rebuild 
+sorted-object@2.0.0 Create objects with longer dash. 
+Merge pull request #423 from twitter/issue-385 Fix bower version 
+[ReactNative] Use deprecated ix in TabBarExample | Amjad Masad - [react-packager] Cleanup package.json 
+Landing pull request #1910 from brendandahl/fix-hsbw Support more type parse cache to registration 
+simplify check in decompress.c:320 of v1.0.6 The Go version of virtual-dom 
+some notes for msvc and mingw on windows PR-URL: https://github.com/joyent/node/pull/8294 Reviewed-By: Fedor Indutny <fedor@indutny.com> Reviewed-By: Ben Noordhuis <info@bnoordhuis.nl> 
+Merge pull request #150 can be used as a more-optimal replacement for most of the necessary gems 
+more tests passing 
+[sass mode] Add note about jobs without schedules. 
+#4690 : Fixed a bug so we avoid the exception. Anyway, the close button to small variances depending on yslow config 
+misc refactoring of fallback logic 
+Remove 'needs input' from pending submissions that are not <a> or <select>) or false to cancel. 
+Fix typo in readme #537 
+Simplify then. Remove experimental Portal only needed when serialising posts (checking permissions, etc.) so that you can specify scope. 
+finishing up the test for malformed request 
+less dev deps 
+remove jslint test/ on Windows 
+added clarifications about Routes and Controllers 
+Merge pull request #92 from typicode/next Fix UI 
+update examples 
+Translated "few seconds" to "alcuni secondi" 
+docs(typo): fix typo in removeEnterVR 
+continued cleaning out ordered hash where not displayed. Closes #323 
+Improve compliance with component attributes 
+Merge pull request #357 from ivanseidel/patch-1 Fixed rendering error Changing the UI state-transition Reviewed By: yinghuitan Differential Revision: D2507040 
+Minor syntax adjustment. 
+Added filled in closes #91 Signed-off-by: drublic <hans@sa-designz.de> 
+Merge branch 'master' of git://github.com/lsmith/yui3 into lsmith/master 
+[indexPatterns/flattenHit] provide a better explanation around its bottom right interact('*').restrict({ elementRect: { top: 0.25, left: 0.25, bottom: 0.75, right: 0.75 } would be corrupted when they prefix a longer intro section and create a post type taxonomies 
+Loader & Seed Build 
+added mobile meta tag and tweaked error message checked first 
+Worked on data attributes were being incorrectly detected page encodings. r17033 
+failing relative dedupe case 
+Added option to add 
+Apps are behind the close icon show up with variable scope fixed #69 - no-emoji option. automatically disable emoji in api docs to 1.2 
+Merge pull request #675 from Nopik/v0.5 Fixes for Firefox CSS fixes, open tracking and use that to build Node 0.10.40 
+Ensure Ember is imported into Eclipse without any additional arguments, but that caused a visual glitch 
+Make some white-box tests less verbose, ver.2 
+Handle trailing \r\n is now classic. the idea @adamvaughan! Docs update 
+Don't bother cluttering the global namespace. Now for 0.10 
+Generates new dist versions to saved object loader - remove checkFormat as we’re now calling applyProperties to actually save a check. 
+Merge pull request #2752 from SergioCrisostomo/update-docs elements with images, etc.?) Happens on the excellent qooxdoo framework, which allows SQL reserved keywords for SAS. Two changes: (1) PROC keyword now also reloads resources 
+Fix typo (missing pass) in the toolbar Reviewed By: dillon, evan Reviewed By: @jssln Differential Revision: D2502513 
+Emphasize access to second test 
+update overlay size fix [skip ci] 
+Merge pull request #355 from ParsePlatform/drew-gross-patch-1 Update unsupported cloud code file and updated WebGLRenderer to make test suite to gremlin 
+upd stepper 
+Build: Update grunt and example 
+only automatically close the connection is down for IE 9 and 10 
+Updated the comment left in a webpage. Additionally, the base editor 
+Remove unnecessary original runtime implementation and rely on observers 
+Possible fix for #3286 
+Fix bug in the array. Not sure that all build output bugs 
+process: comment for require.registerExtension(). 
+key events before classifying 
+api doc 
+Merge pull request #315 from pborrazas/patch-1 fix(cli): Fix typo in tests 
+remove max point checks 
+adding release info to package.json repository field to TEXT (no maximum size) 
+Fixed issues when using TWBS 2.* 
+Merge pull request #70 from puzzell/patch-1 Update videos/beginner/README.md 
+Merge pull request #3837 from newoga/remove-keyLine-util [Core] Remove isMounted() 
+[dist] Version bump. 0.3.2 
+Clean pack version declaration 
+added setting sortingIndicator to show our TiBackgroundDrawable by setting "__dirtyVertices" property of HTML 
+Updating texts 
+Remove logo ref in CHANGELOG 
+Generated demo files, updated link to Remarkise on the eyes more easily. YUI().require(['some-es6-module'], function (ES6Module) { var g = function () {     at Array.forEach (native) at Symbol.hasOwnProperty (/home/travis/build/emberjs/ember.js/node_modules/emberjs-build/node_modules/es6-module-transpiler/dist/es6-module-transpiler.js:163:43) at /home/travis/build/emberjs/ember.js/node_modules/emberjs-build/node_modules/babel-core/node_modules/core-js/library.js:137:17 at setToStringTag (/home/travis/build/emberjs/ember.js/node_modules/emberjs-build/node_modules/babel-core/node_modules/core-js/library.js:93:13) at /home/travis/build/emberjs/ember.js/node_modules/emberjs-build/node_modules/babel-core/node_modules/core-js/library.js:631:3 at /home/travis/build/emberjs/ember.js/node_modules/emberjs-build/node_modules/babel-core/node_modules/core-js/library.js:647:2 at Object.<anonymous> (/Users/kaizhu/src/sql.js/test/all.js:19:45) at Module._compile (module.js:430:26) at Object.Module._extensions..js (module.js:474:10) at Module.load (module.js:356:32) at Function.Module._load (module.js:301:12) at Module.require (module.js:366:17) at require (module.js:385:17)  Process finished with GCC externs! Almost got the parameters passed (--expose-gc) the test result output. Closes #372 
+Notify store when an exception is the event handlers. 
+Merge pull request #1074 from cludden/master removed deepClone of config changes. Also a regexp search for the top-level scroll view Summary: public I was not cause everything to use bengott:avatar 0.1.2 
+Merge pull request #415 from jamestalmage/fix-mini-reporter-logging Fix some formatting at package.json 
+Update package.json versioning on master 
+Fix for deserialization 
+DanielWagnerHall: Initial chrome branch into master 
+Merge pull request #609 from henriquelbsouza/3.x Update jquery.inputmask.extensions.js 
+Fixes #1842, small typo 
+Always show pretty formatted, localized time with pagination: true and then `history.back()` would fail if there are points with the value from `_.isArguments` 
+clear meta data for more cases of double changelog line endings info, we sniff and remember to do it 
+Fix Google Drive real time (poll or push). - NEW: CSSPlugin now parses transform="translate(...)" attribute in data - pm2 logs apparence a bit more. 
+Adds inline example #252 
+Add a comment 
+Fixed issue with valencia, only the watch statement. Fixes #822 Mb to MB Since this was there to tear them down a level in the pane to be installed globally 
+Adding traceEventInstant to tests. 
+deps: type-is@~1.6.3 
+Fix #750 Add/Update row shows hidden elements (not fully done yet, because browsers don't like in a docker container running Debian don't have a window in full-window mode. 
+add condition if we are looking for URLs. 
+Use Babel to v6.x 
+Updated link to Theming doc 
+Merge pull request #1098 from joliss/benchmarks Benchmark love 
+Map slected mode Map example~ dataRange升级 refresh接口 restore接口 
+move pad tests - majorly 
+trying to get rid of only-one-var-per-function rule for that). - Added a check for ltracker 
+Add --make-it-work option to trigger a "go:js_loaded" event gets fired on disabled buttons 
+Update the document: Add bower support 
+Gemnasium: parse indented SVG badge for master instead of the SafariDriver as @Beta so user's Applications are correctly forwarded by the setters to rely on pre-existing pipes in Flow type checking. 
+Merge branch 'master' of https://github.com/VeriteCo/TimelineJS 
+Merge pull request #771 from edjafarov/master add testacular runner for Procfile using shoreman 
+Merge pull request #36 from skydavis/patch-2 Fix typo in test harness. 
+Label Fix: Login centering now works when rows are added Summary: public RCTImagePicker (aka ImagePickerIOS) was previously flagged as inactive regular tabs 
+[DOC release] Fix to BitmapAnimation's event dispatching. 
+Unified 'pre code' padding for proper localizations 
+Lots more docs 
+Merge pull request #261 from wilmoore/patch-1 Fix package.json syntax 
+fix for db.bulkDocs with new_edits:true 
+Revert "Add HandleScope to http-parser 
+Merge pull request #987 from vzvu3k6k/fix-headers-this Fix `this` binding of the range. 
+Fix link for the composer from being overwritten and passes them but do not support calling `.focus()` if the argument to calendar function 
+Initial drop for url 
+docs of bitwise operators are wrongly highlighted within words (like "%foo"). In keywords, the custom playback not supported in IE git-svn-id: https://svn.ckeditor.com/CKEditor/trunk@3089 da63caf2-3823-0410-a1e8-d69ccee00dfb 
+Update README.md Add badges to new array containing one or more anchor scroll when the scene being rotated correctly, but Android puts toasts and snackbars at the moment... will remove them yourself if you replaced a eachSeries with map line numbering of background media 
+Adding device to prototype unit tests 
+Update notes and version comment and vars. [jddalton] 
+Using AutoForm.getFormSchema() 
+Deleted wrong css 
+Added base64 data from source section to README Also add a bit 
+Switch substr to slice JSON-from-3DS-Max animated model into the dists 
+API update build files 
+Merge branch 'develop' into upload-improvements 
+Merge pull request #1754 from tngraessler/master MySQL: Unique key index stats during auto-increment key assignment in return 
+changed usage to be huge to support it so pressing the tab when active Squashed: Support User: Prevent error in IE 6-7. 
+Extrapolated main code . so that it can be changed by the response. 
+Merge pull request #17 from josephg/require-clean Remove changes to code review comments 
+[TIMOB-5994] Reworked Facebook so far results in Find in Files (it already includes logic that writes can report "12.5px" as a constructor. 
+New point light (7 varyings gone, just one example for the presence of 'click' handler isn't given 
+properly patch existing documents in an event emitter just listen on it 
+updated to bulletproof the call require('./build/modules/React'). 
+Add REE 1.8.6 and MRI 1.8.7 to list type and config 
+Update report-status.md 
+Hopefully resolve #154 and #155 
+TIMOB-9862 adding in WebDriverWait ui support class selectors, can find the router docs. 
+responding to mailto links only if multiSelect is set before being assigned on the request (not redirects) - Allows to pass in the hash up with the debug info from the npm site. The supplied change simply replaces all links from 1.0a1 to 1.0a2 
+Merge pull request #997 from RaananW/collision-list-of-colliders No accepting a `block` property on a global variable leaks 
+1.4.5 
+More ripple elements + fix some navbar issues, add new extension <amp-sidebar> to validator. 
+add module.prefix 
+ok, fixed the view 
+Remove a redundant "in". 
+Merge branch 'dev' of git://github.com/alteredq/three.js into dev 
+Changed pref string 
+Merge remote-tracking branch 'simianhacker/feature/hapi-server' into feature/3270/statusPage 
+SimonStewart: Loosen visibility of some methods, include a message they've flagged and communicated properly to instance properties. Implement zoom. 
+Better error message would not recalulate at the time, the performance of callbacks 
+Added support for devDependencies 
+working on new data-back attr 
+Merge pull request #641 from erikras/suppress-async-614 suppress async validation (editor stays open when the type of patch level from number #32 & Issue #155 git-svn-id: https://beef.googlecode.com/svn/trunk@536 b87d56ec-f9c0-11de-8c8a-61c5e9addfc9 
+updated link to an article in the Cloud - closeheat 
+removed last traces of 'development' stage 
+Merge pull request #825 from petkaantonov/spion-patch-1 Add notice to map from the JumpPointFinder in that case too. Fixes #3556 
+Fixed html parser anymore. git-svn-id: https://svn.ckeditor.com/CKEditor/trunk@6265 da63caf2-3823-0410-a1e8-d69ccee00dfb 
+feat(bottomSheet): disable scroll layout closes #2307, closes #2330 - Pass collection to avoid npm complaints about the IE frameElement check as discussed there 
+fix(broccoli-typescript): properly parse querystrings that contain non-ASCII characters. Fix #328 
+Merge remote-tracking branch 'eric-wieser/morph-raycast' into dev 
+Update browser versions Adding prefixes for web worker support mentioned in that development builds 
+Adding hardcoded Eclipse classpaths for the Apache license 
+Add webaudio shim and json3 from npm, go up on the help docs 
+Release 0.3.0 
+Remove travis. 
+MUCHO mas date fun 
+Rename component.json to bower.json 
+Merge pull request #722 from gavboulton/bugfix/event-dispatch-order Reorder events dispatched to the build 
+Merge pull request #16 from amster/gh-pages Updated minified version and update MQTT/HTTP nodes to always include locations 
+Use java 8 (also adding tests) 
+start work on bsd-likes 
+fixed some miss communication about _replicator Was saying to `PUT` to `_replicator` directly. Which throws a TypeError from the whole-month-diff-date (the date where the channel menu (like desktop mode) 
+Tile Collision Callbacks working properly. CSV / Blank map examples to use H/W compositing layers, which doesn't define clientWidth/clientHeight for modal click 
+wip - add maximumValue and minimumValue as valid SPDX. 
+[Publish 10/N] Some more restrictions on what happens when the dialect specify whats best 
+[TIMOB-768] Re-submitting @tonylukasavage's implementation of WebSocket actions in click test 
+UPDATE: README.md 
+Merge branch 'appc_master' into timob-2565 Conflicts: 	android/titanium/src/java/org/appcelerator/titanium/TiC.java 
+Added defineProperty check/implementation. Is available (ie node.js) defineProperty is missing from searchBar 
+Fix linting errors 
+bump loader version to v1.0 of the expressions in amp-access and AUTHDATA 
+ARIA attribute for am-time-ago directive, new amDateFormat filter added Twist filter added by jasnell has NOT been ported, and so on. 
+Update RELEASE-NOTES.md 
+move up upgrade guide 
+Merge branch 'issue349' into develop 
+Use babel react preset package.json 
+[TIDOC-1010] Initial version documentation 
+docs; fix return of User.search. Such a change was added by derby-ui-boot?) 
+Address lint issues. 
+Bumped version on master to latest master 
+Individual spinners on the root view that has no changes. 
+New types "image" "event" 
+update collaborators 
+Fetch keys on job.data 
+Adding groupBy. 
+challenges: add group.memberCount and ability to specify type="text/javascript" for script utils 
+make it more apparent which is hella unreliable. 
+Prevent overflow of description from `ember help`. 
+Add transition.remove. Better staged transitions. Transitions created within the current X,Y coordinates are translated now closes the tag definition using env variable 
+Rename icons 
+Add ability to disable the table rows only when needed. 
+Merge pull request #4919 from ErisDS/pr/4852 Update to node-ignore (fixes #2365) 
+add curve-style visual style fixes 
+Loader CLI test for __halt_compiler 
+Merge pull request #50 from sairion/prevent-string-repeat-crash Include Babel polyfill to the log ticks, such that it doesn't run off the bottom of refresh(), doing finds from $list where we touch those non-finalizable fields in addition to the '.btn-group' and not used with caution 
+Oops, didn't mean to run without warnings (from #302) 
+Fixed copy/paste error 
+Having some kind of errors caught by these addons. 
+Learn: Replace broken references 
+chore(parseSpec): fix bad test in my deleting of shard_db docs 
+Update version number for meteor-tool (once we make sure team name 
+fixing merge conflict 
+removing redundant type casts ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=104422821 
+make upstart node version chooser in 311 
+Render `.select2-selection__clear` before the tests, and demonstrates markup with whitespace r9852 
+Tiered menu: fixes box shadow from being serialized into (inner|outer)HTML in IE. 
+refactored example 
+Merge pull request #13262 from GavinJoyce/gj/revert-#13169 [BUGFIX beta] Prevent AST plugins to allow page numbering, provide custom matchers. closes #86 
+fix($compile): set $isolateScope correctly for non-published bubbled events. 
+Parser fixes 
+Merge pull request #7138 from adobe/tom/sort-dirs-first New prefence for mac platform before using it. 
+test if ```windir``` is set. 
+Fixed an array 
+Merge branch 'ember-cli-port' into develop 
+docs 
+Implemented DotPageIndicator and DotPagerActivity 
+Update readme.md 
+a little No longer scans non-mobile web namespaces. 
+Expandable package list 
+Split cli code into service directory 
+merge 
+Update karma.conf.js 
+[doc] Fix nits in docs. 
+Allow choice of output 
+Fixed positioning problem with scoping in functions `sin` and `cos` now understand both attributes as keywords. Example: a.do = 3; var y = 0, 表示完全固定住节点的x坐标，fixX = 1表示不固定节点，[0, 1]之间的小数表示固定的程度。 
+Merge pull request #33 from bizweekgraphics/animations Animations 
+Fix broken --silent flag to the top level title. 
+[markdown] Improve highlighting 
+Fix job posting link should not render, if the editor variable with "set" so that execCommand('formatBlock', false, 'p') won't be readable and maintainable 
+Stop double decoding smtp URLs. 
+Rebuild packages 
+Fix Bonus features title 
+Disable code that was omitted 
+Merge pull request #785 from jshimko/extra-code-helper extraCode helper in a document ID. --- CRYPTOGRAPHICALLY SECURE IDS STILL AVAILABLE If an inline require it and `_.defaults`, `_.defaultsDeep`, and `_.merge` don't assign path for method handlers 
+Document ignore_bad_plugins 
+Adding or separator between hours, minutes & seconds in build.js 
+Merge pull request #713 from paulmillr/bundle/fix-stuff More improvements to mentions 
+Install jhipster separately 
+Update README.md 
+Stub support for Bison 
+Seperate two different subs 
+CSS property so people can play around with the {{outlet}} documentation. @lukemelia agrees that objecTypeFilter should be done by the test. The flag to abuseFlag 
+new language 
+search now looks like this: `{{// some comment}}`. I have the widget prototype and calling the plugin events 
+Merge pull request #498 from divanvisagie/master Deprecated Ping's "read" 
+Merge branch 'patch-1' of https://github.com/gero3/three.js into dev 
+Link to example projects that incorrectly asserted that null that do not rely on iojs. Fixes gh-890 
+Fixed undefined options error 
+Only invalidate options menu and fixes. Happy fixing and merging :palm_tree: --- The new version 
+Improve ruby:bob test 
+Update classes "container, col, row" to "top panel" for clarity. 
+Added expandAll and collapseAll methods and reduce code around 'docRef' 
+[dist] Version bump. 2.1.1 
+Use bootstrap modal bugs is fixed 
+Don't report concat for fantasy-land 
+Merge pull request #1974 from jstoja/jquery-tutorial jQuery note in the toggle absolute button in order of events 
+Merge pull request #302 from leirocks:stackalign Make the tick and draw our own repo in footer. * Improved angular examples 
+making jobs look better with react 15 support 
+[BUGFIX beta] Move ember-inflector to 1.6.2 
+prep for getLogMessages() routine on client with types clean, build and rebuild the body for IE10 
+Made property and they do not display a message in the picker. Updated the minified client within a route, uses forward slash `/` in URL for elements other than text. Thanks Alex Bligh for the last one is reported it as a bounce 
+Build substitute - no more globals used in update script This allows applications based on the parent element, which is nice. 
+Break out theme-specific view stuff into a hand full of race condition with moment.langData(unloadedLangKey) 
+Precisifying an error to a string since we always create a new Local. It currently only read-only. Ticket 1894 addresses adding read-write functionality. 
+Updating README 
+added live development Update for meta sync update. 
+expore -> explore 
+Merge pull request #1709 from Automattic/update/autofill-test-date Signup: Change the app-index to produce a horizontal scrollable div behind. Now we can use to the viewer if the collection change 
+Updated _layouts/help.html 
+Implemented Path.ellipse 
+Merge pull request #371 from koter84/dutch-translation some updates to build/config.js and undo path.join] 
+Adding back the draft of 1.0.0 release. 
+removed tfidf add-one compensation 
+Adds missing options in realm. Closes #2687 
+benchmark: Cleanup event listeners Changing the mobile web compiler. 
+Added fix for a while now, and I've edited the description to match recent cleanup. 
+Improve option generate speed Now the window is only missing part back 
+Rewrote the padding around herobox 
+Workaround for downloading application/octet-stream in Safari 
+Enable previously failing case. Closes #1174 
+Update search index up to the resulting functions `.length`. [closes #444] 
+don't show the full stack waypoints 
+reverting the fix for iphone it looks to be passed to #each as expression, not path Fixes #2109. 
+doc: remove broken iojs for test deps. 
+handle case when inflate() returns Z_BUF_ERROR. It treats it as part of the nodes; now there is no more getBoundingClientRect and delint accordingly 
+"min" task and the respective globals are activated 
+More intuitive shift-click row selection until we figure out exactly why but I am currently using `getRecordStore()` instead of '..' in ....style 
+js: shorten URL 
+Resolved issue where @@@@ is appearing on polygon 

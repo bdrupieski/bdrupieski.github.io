@@ -1,0 +1,1004 @@
+Java
+Most probable sentence: Merge pull request #1 from alibaba/master merge 
+
+Likely sentences:
+Merge "Support quatation mark for Flex & Eclipse Warnings: * logger.equals was used as an option fastExist to test multiple implementation's behavior. 
+Update travis.yml for JS async functions to make sure generation is currently deliverable but the system classloader under windows. 
+Merge remote-tracking branch 'upstream/wip_master_client' into long closure return type tuple 
+refactor CppTokenCursor 
+Push method changed to call getDistanceFromView(), causing an NPE. 
+Merge pull request #6061 from mneedham/raft-instance-clock Introducing clock for timing issues on slow networks. 
+Don't do a "toEnum" internally. Fix ideaj warnings 
+make GraphBuilderAnnotation registration visible in the wrong way. git-svn-id: https://svn.neo4j.org/projects/neo/trunk@34 0b971d98-bb2f-0410-8247-b05b2b5feb2a 
+Merge "Fix uninitialized member warning" 
+Improve type error in training) (just reusing training data frame length in summary. 
+GUAC-932: Migrate internals of it. Typical error when we have the same as the content pane actions - 1 
+Improve error message 
+Merge JDT 4.5.2 NPE fix. We need to have `Generator` output `#pragma` directives 
+add Revault Sàrl 
+PolymerPass: Add @export to all cardviews 
+version 0.4.2 
+add CI for daemon-by-default. 
+Merge "Add tracing for saveLayer" into lmp-mr1-dev * commit '0c18ecac662fdf15ae453e1adba805e7c7fa1260': add image source files are excluded in favour of using the 'deprecated' ExtensionAuth. Added a default availability zone 
+tiny cleanup 
+set targetSdkVersion to 23 Change-Id: Ia87c1c650048ab1a6bc35641e875a2ea57c8b740 
+WFLY-6127 Throw IllegalStateException if DynamicChannelBuffer exceed the renderer is destroyed e.g. in a merge issue 
+Added support for undecoded RF Message 
+if available, added phone state listener 
+remove circular dependency between the two profiles, and handsfree profile yet. Change-Id: Ie0d2714730ea359b9318b9cbe6f0b2557ef0f976 
+Refactored 
+IDEA-130011 (javadoc asterisks stripped from pipe. This includes triggers, trigger parameters, actions, redstone, and pipe for index 
+[#1209] Render @javax.persistence.Column(length, precision, scale) properties, if standard dependency extraction Summary:This adds simple GC overhead at cbq-engine on the fill after. 
+Fix release logic for applying rule to copy the structure instead of streaming over SSL connections (JM-303). git-svn-id: http://svn.igniterealtime.org/svn/repos/messenger/trunk@1493 b35dd754-fafc-0310-a699-88a17e54d16e 
+core: enable line-dependent breakpoints in JavaScript code. #1555 Fixes `EnumSwitchStatementWhichMissesCases` inspection violation. Description: >Reports local variables on ValueAnimator." 
+@Override 
+Minor: added to the root (/). 
+[Java] Name stream counters with custom HAL formats. make this interpreter operational). * Is there breaking changes to allow for speed 
+Handle somewhat gracefully instead of a CallParticipant into a singleton 
+Partially revert 1645440. Can't use the new beta-1 release git-svn-id: https://svn.apache.org/repos/asf/tomcat/trunk@1075338 13f79535-47bb-0310-9956-ffa450edef68 
+SONAR-4971 Use modal windows in Manual Metrics pages 
+A bit more info. 
+refactor the setSchedulerLocation method (#727) 
+am beb1c4e9: am 66bc56b8: Merge "Fix Legacy typing of Key.getRawType() and undeprecated it. git-svn-id: http://svn.codehaus.org/groovy/trunk/groovy/groovy-core@17874 a5544e8c-8a19-0410-ba12-f9af4593a198 
+Merge branch 'master' of https://github.com/0xdata/h2o 
+new launcher for Windows (Daniel Dai via omalley) git-svn-id: https://svn.apache.org/repos/asf/hive/trunk@1484626 13f79535-47bb-0310-9956-ffa450edef68 
+HHH-6537 formatting 
+Point commit 
+replace experimental.Builder by Builder in springfox version 2.4.0 to 2.4.1.3 
+extract collision detectors for Java Maps 
+Merge pull request #2064 from wordpress-mobile/issue/2062-drawer-scrolling issue/2062-drawer-scrolling 
+Merge pull request #190 from dmuino/rateType Introduce a config in parent-central. git-svn-id: https://svn.neo4j.org/components/udc/trunk@5901 0b971d98-bb2f-0410-8247-b05b2b5feb2a 
+Polished management test to verify "set property" action in platform when they are used multiple times 
+EDU-525 Empty Editor shouldn't be there. * commit '8ce470dd4ba0608abb6b5eae117cefca927af96b': GPS Hardware geofencing. Add support for sendmmsg(...) and so improve tests and javadoc 
+Merge brancg 0.8.x 
+Added second message pulls null during testing 
+Updated design spec 
+SONAR-3755 first draft of media framework test" * commit '999a1ca984ec0877c795433e6f1baa6cd5853aac': Add activated text colors. Bug 15885062 Action bar does not play well with pasted input (including in source line index numbers - all unit tests Remove BootClassPathRunner infrustructure of page and get the account key chain of trust 
+Update Aeon SmartStrip product addition 
+More user friendly version of Kotlin symbols. Some tests are CPU load dependent check only applies to tree views colors are not symmetrical git-svn-id: http://svn.codehaus.org/groovy/trunk/groovy/groovy-core@3340 a5544e8c-8a19-0410-ba12-f9af4593a198 
+Fixing line in block lock manager This is needed for unit tests pass on multinetwork framework 
+do not follow the @test 
+IDEADEV-19029 
+merged files (keys now occur on fast storage medium. 
+Upgrade maven-deploy-plugin. 
+Merge pull request #121 from Randgalt/master Removed multiple copies of Twitter firehose reader. Adds hbc-core and joauth library dependencies. Add the permission to execute a db w/o reference node in evaluate expression editor highlights keywords from test/** svn propdel svn:keywords --depth infinity git-svn-id: https://svn.apache.org/repos/asf/tomcat/trunk@1561140 13f79535-47bb-0310-9956-ffa450edef68 
+Translated using Weblate (Slovak) Currently translated at 100.0% (1894 of 1894 strings) 
+Removed the field itself (where it needs to be padded. This regression was caused by Lifecycle refactoring StandardPipeline (and turn Eclipse compilation warnings 
+am d969f022: am 9d98894a: am 3f16106c: am ac0e00db: am eaee4693: Merge "docs:Build and Platform Tools Rel Note Nexus 6/9 dpi updates" into lmp-docs 
+Remove warnings and saw error. Reverted and checked that the ProjectFilesystem determine whether to show 0.8-beta-4b 
+. 
+Merge branch 'upstream' 
+fixed regression due to bug report or correct package for consistency 
+educational PyCharm is not filled and some cleanup comments. git-svn-id: http://svn.igniterealtime.org/svn/repos/openfire/trunk@10079 b35dd754-fafc-0310-a699-88a17e54d16e 
+Move to using embedded mode 
+Fixes #20 - Move and Copy. 3) Enable the bitmap util test fixes (this time for excess idle threads." into jb-dev * commit '08d00b9ad794d9f627f1c2c4b282c3950806f4bd': CoreTests: Fix LocationManagerProximityTest. 
+HDFS-9472. concat() API does and could make some of the cache twice for androidcentral.com, fix #375 
+jaxrs: add missing Socket permission in their decoded form. 
+am aa1beef7: am ed048c6c: am 790288a0: Merge "Only populate stack when kotlin.io is detected. The buck plugin project 
+use constant 
+Cleanup (a bit rough round the decimal separator 
+am 88099e98: am 252b1765: Merge "Fix memory corruption issues in Downloadlog 
+correct caching of resolved call 
+Merge branch 'cassandra-3.0' into trunk 
+Merge branch 'master' of http://yobi.navercorp.com/pinpoint/pinpoint #7 add properties git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@147 004c2c75-fc45-0410-b1a2-da8352e2331b 
+If cache config 
+Maven: indices and print a literal name if both of these hashes injected into K/V store, overwriting what was going out of the basename of the tools list." into jb-mr1-dev 
+remove rmarkdown install from unknown used to mean the output levels to cassandra-stress patch by slebresne; reviewed by Swarnim Kulkarni. git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1592803 13f79535-47bb-0310-9956-ffa450edef68 
+Import translations. DO NOT MERGE 
+MINOR: Exclude jline, netty and the pluggable entities forms: default values for capacity code duplication 
+Made the CommandManager responsible for providing access to the caller to a branch such that the Set Delimiter tags. Generalized, these tests to problem 69 
+must not be compiled into a background thread. o Remaining: Memory usage optimization in TinkerGraph.removeVertex --- great (the need for a user when build finishes +review REVIEW-5709 
+Fix indentation (with Eclipse tooling) git-svn-id: https://svn.apache.org/repos/asf/tomcat/trunk@1482751 13f79535-47bb-0310-9956-ffa450edef68 
+Adjust width and height of the tested code. (2nd half)" 
+Cleanup: DataFlowAnalyzer, ignore MethodMayBeStatic for SmartCastManager 
+Clarify definition of variable chunkSizes. All tests run in background): do not trunc trailing whitespace 
+Code cleaning 
+am 7d71d88c: Merge "Use right colors for better commit 8a6a294313fdf33b50c7126ec20c07867ecd637c Author: Adrien Grand <jpountz@gmail.com> Date: Fri May 22 08:28:04 2009 -0700 Proper support for RootbeerGpu.atomicAddGlobal 
+Update README.md 
+[project] noisy inspection 
+New VM binaries from Jenkins 
+Break up pipeling listener into PsiVFSListener, decouple FileManagerImpl from ProjectRootManager 
+Removed Skin#add(String, Object) to easily obtain the mime is unknown. Use ImageViewAware instead of Field<T> 
+取消单例设计 
+am 9a24cd71: (-s ours) Import translations. DO NOT MERGE 
+Fix issues with README.md file 
+fixed EA-32648 - IAE: VisualPosition.<init> 
+Make pyTestProduser, DocTestProduser check if git.cmd can be configured with "autoConsume: true", the consumer as a result send accessibility events are sent and received. @psh 
+New screen rotation and scale type values git-svn-id: https://svn.apache.org/repos/asf/tomcat/trunk@1553187 13f79535-47bb-0310-9956-ffa450edef68 
+Minor fix 
+Merge "Fix bug 5087980 - MenuItem#expandActionView should work now.. 
+back to version 2.4.0 to 2.4.4 
+preliminary service processing hooks 
+ClassPathUtils.scanJar fails to load old J3O files will now not using this interface so that free aplications can get permanently out of the Manager web application from root .gitignore 
+[iphone] [ZXingWidget] removed llvm dependency for old MMS headers 
+Initial software encoder is occasionally too small." into gingerbread * commit '58d66c30d78a70c7bb5d2a62669ed64d6931b777': Fix NPE when media descriptions are not supported. 
+Fixed issues with openfire before version 2.1 The currently used only in ImageView bounds configuration" into jb-dev * commit '0f875bacb5d2bc97192d4e4750a0125daa96db41': Large text support for nordic languages with Sami 
+* next releases are made, and registration checks in methods that shouldn't be invisible itself 
+Fixed a bug that could occur if the call transport field of each groovy snippet sent to kafka; reviewed by Sergey Shelukhin) git-svn-id: https://svn.apache.org/repos/asf/hive/trunk@1636811 13f79535-47bb-0310-9956-ffa450edef68 
+Use reinterpret_cast when an exception 
+Merge pull request #582 from realm/bp-remove-assert-text Removed some test cases. 
+am 73b58c0b: am ee37ab8d: Merge "LayoutLib: remove fade in/out calls. 
+[feature/UX-233] Remove modal view ui 
+Merge branch 'master' of https://github.com/google/j2objc Conflicts: 	jre_emul/Classes/IOSProtocolClass.m 	jre_emul/Classes/J2ObjCMain.m 	jre_emul/Classes/JreEmulation.h 	jre_emul/Classes/NSDictionaryMap.m 	jre_emul/Classes/NSString+JavaString.m 	jre_emul/Classes/java/lang/AbstractStringBuilder.m 	jre_emul/Classes/java/lang/StackTraceElement.java 	jre_emul/Classes/java/lang/System.java 	jre_emul/Classes/java/lang/reflect/Constructor.m 	jre_emul/JreEmulation.xcodeproj/project.pbxproj 	jre_emul/Makefile 	jre_emul/Tests/com/google/j2objc/ClassTest.java 	jre_emul/android/libcore/luni/src/main/java/java/nio/channels/Channels.java 	jre_emul/android/libcore/luni/src/main/java/java/nio/charset/Charsets.java 	jre_emul/android/libcore/luni/src/main/java/java/nio/charset/IOSCharset.java 	jre_emul/android/libcore/luni/src/main/java/java/nio/charset/IOSCharsetEncoder.java 	jre_emul/android/libcore/luni/src/main/java/java/util/logging/LogManager.java 	jre_emul/android/libcore/luni/src/main/java/libcore/icu/NativeDecimalFormat.java 	jre_emul/android/libcore/luni/src/test/java/libcore/java/lang/reflect/ConstructorTest.java 	jre_emul/tests.mk 
+Merge pull request #126 from paulk-asert/groovy4701 GROOVY-4701: MissingMethodException#printStackTrace() throws exception when acquiring a wake lock being held motionless, send a 'null' origin, a request and not the end of the class 
+Fix a problem in the DefaultDaemonConnector and made MessagesController more restful 
+handle windows command line arguments with a config file 
+am 37109819: am 303d666f: am 0e3f3c70: am 91bbb75c: Merge "Cast CallMethod\'s size_t parameters to know how it handles any new tasks into PlatformExtensions.xml 
+Update to MCP went in) 
+Remove list items in designer) 
+am c45d74f8: am ac8dbdaf: Merge "Materialize default app icon." into lmp-dev * commit '18ab87f8200d899082bfc39f4e80534222bd30b7': Import translations. DO NOT MERGE Change-Id: Ifc13db4fa4b5b2de4076272dadf15ce9cba09a42 Auto-generated-cl: translation import 
+am a34f3d30: am 800bf3ae: Merge "Fix horrible warning on array attributes git-svn-id: https://svn.apache.org/repos/asf/tomcat/tc6.0.x/trunk@522745 13f79535-47bb-0310-9956-ffa450edef68 
+版本 050 
+Speed up MP3Extractor using cached reads" into honeycomb * changes: Move destroying the web interface a bit of a file and symlinks 
+Change SmackExecutorthreadFactory constructor parameter for integration tests to remove duplicated code 
+Added get friends via graph or not, closes #50. 
+Fixing fedora classifier on master huge (1000 in this read action, which is no history should be right-justified when transport is null even after entering touch mode and with {} code starting from slash 
+am dbed514e: Merge "Fix two grant default permission grants uninstalling a system package update DO NOT MERGE Fix extraneous allocation and copying, which starts with '#', we cannot conditionally transform a JDBC TokenStore the system resource /system/cluster/nodes is for bug 6104366" into ics-mr1 * commit '3bde026aebffdaea8ab1315977b05e53e4a75185': DO NOT MERGE" into lmp-dev * commit '3244dc229af4d4c8b764bf9ca1e108b5cd933d90': Allow debugging only for leaking file handles open after being detached from session ... 
+minor fix to init engine and add javadoc 
+netty: Don't double-process ssl handshake completes. Related to #89 
+Fixed compilation errors in missing javadoc and unhide more Bluetooth API. 
+Add alignment code, thanks for Peter.Gromov for help jars) after downloading a certificate. Remove the constraint system status icons / battery / clock on the compilation error, other code artefacts 
+Implement SSLSession.invalidate() and isValid() for partials 
+smaller logo for EAP 6.4 coverage 
+remove android-apt dependency and upgraded support libraries against SDK 15 emulator. 
+Fixed a bug in #117 
+Javadocs. 
+Fix caching config example 
+Update README.md 
+Make LoggingHandler.appendHexDump(..) protected for extensibility of demo app 
+am a08934cf: am f789d45b: Merge "Avoid thrashing the glyph Change-Id: Ibcadcd008a58f42d8bd4238d768101d8bf726ff6 
+Use Transformers.cast() to ensure that any YAML file 
+implemented scala-extensions for 2.11 
+Fix issues#1223 
+Merge remote-tracking branch 'origin/master' into eng-3408-liverejoin 
+Log error when trying to fix a problem with spurious regexp attribute in the pom to 0.91 version 
+Change library-blur to blur background of message event 
+am 56205fea: Merge change 24931 into eclair * commit '06da01216cac173777a11460b6f9f1414cf03056': docs: Addressed reviews and someone trying to find the prototype * does reference counting segment test 
+Added banlist command. Fixes BUKKIT-3509 getInteger returns min value is 0, don't elect to use a separate thread. 
+AS7-4732 system-property "boot-time" attribute should support more identifiers than beacon 
+Remove Trailers 
+Issue 13: Add a generic thing and skip certificate check in DFSTestUtils#waitForReplication. 
+am 13bf77ed: am d2a4165a: am ebadc461: am dd8df041: Merge "Setting config_use_sim_language_file to false if spring web is jdk7 and latter jdk versions Splits into 3 parts: - First, a `DispatcherServlet` without having to use consistent mechanisms for LocationRequest and clarify in javadocs instead of btVector3 
+update README.md 
+binary files there implicitly while its running. Seekbar now strobes in and out thread to load a partial fix for issue #13 
+Merge branch 'master' of git@github.com:0xdata/h2o.git 
+Introduce ScriptPluginFactoryProvider SPI 
+svn: Replaced SVNNodeKind (from SVNKit) with custom shapes 
+MAPREDUCE-3114. Fixed invalid format specifier in diff before 
+Merge pull request #407 from wordpress-mobile/issue/406-nux-npe-on-signup Fix #406 - cleaning up 
+removed returnResponse from ClearRemoteTransactionOperation 
+[AS7-3641] - Lock in some files for 0.9.4 release 
+Fix issues from WS channels once actions are back. related-to-bug: 5739618 
+remove-breakpoint action is not set. Fixes its javadocs. 
+GROOVY-7087: @TupleConsructor and @Builder should use original method signature, which is incorrect for 7.1 audio playback until we have no default." into lmp-mr1-dev * commit '94fb04547ca35c09409cfc6e3b930805acddc7d6': Remove neg margin in code. Along the way we do. Addresses part of the configuration. git-svn-id: https://svn.neo4j.org/examples/neo4j-examples/trunk@6259 0b971d98-bb2f-0410-8247-b05b2b5feb2a 
+CAS-1353: Special characters in Spanish AnCora multi-word preprocessor: set up already but not ``src:bazel``. This CL makes each CSS or any of the annotation index to list queries that use a streaming sha1 hash 
+revert annot processors and translators order: (annot processors --> translators) 
+Improve feature 
+Merge pull request #617 from LilaQ/master Long animations names cant exist without tile entities, and marked only that line 
+catch and log an error when copying layoutparam The LayoutParams members, systemUiVisibility and subtreeSystemUiVisibility are derived from ERI text with a lowercase characater) * New integration tests Summary: We needed to increment transferred at once). All were updated and expanded to include a minimum size of settings that are scrollable. 
+Added a getter for session detail and is much smaller specs. While the difference between default and best_compression 
+fix lockBlock and unlockBlock in WorkerStorage, deleteBlock and unlockBlock in WorkerStorage, deleteBlock and unlockBlock delete getBlockFileInfo - non-thrift change test to demo 
+- try and download MMS via content provider has sent all the types supported - .ogg not supported anymore. new way accurate contact normal and colored programmatically. 
+Fixed smack sample for M3 release 
+Report syntax errors 
+Added default for primitive collections. git-svn-id: svn+ssh://gscollections.svn.services.gs.com/svnroot/gscollections-svn/trunk@379 d5c9223b-1aff-41ac-aadd-f810b4a99ac4 
+Fix(android): wasted call 
+New GBM test of CxfProducer with PayloadMessage git-svn-id: https://svn.apache.org/repos/asf/camel/trunk@1078662 13f79535-47bb-0310-9956-ffa450edef68 
+Merged. 
+Remove discovered inputs before execution 
+Added all lazy blocks to use a CordovaInterfaceImpl class. This allows to quickfilter and the uid we now initialize their classes 
+Closing #12256 Update service.bat with a qualified name of an lru memory cache with activity theme" into lmp-dev * commit '25e17ef6d7f56d0f157b799bfc2ad0315b413286': Give scheduled jobs Everything that was incorrectly created (addressing the feedback from the AUTHORS file to fix build 
+Merge pull request #2570 from osmandapp/obf-merge OBF combine address index: MapObjectComparator 
+Change uploadfile key to KEY_SUPPORTED_JPEG_THUMBNAIL_SIZES for consistency." into lmp-dev * commit '8cae7f644c59f0200f1962abdfbc6001166a192c': Fix incorrect setting of the platform to new trakt-java build 
+Modify parameters a warning log messages to single database and better scalability for the app and detects crashes or a period 
+Merge branch 'patch-676' of git://github.com/Flow86/BuildCraft into Flow86-patch-676 
+additional field values when passing events down to 2.5.0 git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1613498 13f79535-47bb-0310-9956-ffa450edef68 
+Added javadoc comments. git-svn-id: http://svn.codehaus.org/groovy/trunk/groovy/groovy-core@13934 a5544e8c-8a19-0410-ba12-f9af4593a198 
+URLs opened from line markers 
+Small addition to data import 
+Clean-up related to new response format of "created at" criteria Add missed lib junit_hamcrest to community 
+Merge remote-tracking branch 'origin/master' 
+Added new unit test coverage for multiple types of authentication module 
+Revert "Adds travis configuration 
+new project dialog 
+Fixed issue 596, TWL image tint. 
+Implement SimplifyExpressions as a ratio of metrics internals 
+Fix 2 compiler warning errors 
+Merge "Fix boot loop when trimming recent tasks of the class name (PY-7155) 
+add logging for team city setup 
+[PATCH 3830/7508] Ignore the gradle-app.setting file. 
+Merge "Crash in print preview process (IDEA-51510) 
+updated sphinx version to 1.2.6 in build.xml to gdx/ 
+Use empty map has been separated; 'clear basket' action in xml, use InspectionSuppressors for sql select order by too 
+educational PyCharm is not full-screen. 
+it's fixed, so that the finalizer Bug: 13902530 Don't try to use java.util.Date as well for views that they are easier to read. git-svn-id: https://svn.apache.org/repos/asf/tomcat/tc6.0.x/trunk@428895 13f79535-47bb-0310-9956-ffa450edef68 
+wrap calls in the test. 
+performance 
+[FLINK-1478] [jobmanager] (addendum) Add eager indexing on histogram aggregations to reduce confusion. Specifically point out DateUtils Also updated native facebook android sdk when not in the ajax resolver is not updated on the thread leak problem 
+Fixed test. git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@1482 004c2c75-fc45-0410-b1a2-da8352e2331b 
+Update README.md 
+Added documentation about special hex syntax, good code is red 
+Add missing failure when a drawable in our palette, which leads to wrong cluster resource to suppress the compiler's complaint 
+Merge pull request #791 from mwkang/ZEPPELIN-754 and squashes the following commits: 057a1f1 [lvfangmin] KAFKA-2055; Fix transient failure 
+Implement /api/search/lookup in the HTML Manager application to have _large suffix 
+Don't initialize the APR connector so that it's ok to set the gradle ones. This would seem this document -- somewhere under it after the initialization has really anal xml parsing. 
+Made some comments to match old behavior. This will prevent the user switch 
+insert must provide execution time to full time 
+Merge "Fix bug 5199326 - ListView\'s fast scroller is out of compile in around 4.3GB 
+Merge branch 'master' of https://github.com/roblabs/phonegap-plugins into roblabs-master 
+[#5245] Add org.jooq.Allow and org.jooq.Require annotation and additional threadpools that are moved to BaseActivity 
+Fixed sorting of modification lock around class header' processing to MapboxWebViewMapFragment 
+am 841aa8db: am 5237a792: am 8c44c394: Doc fixups to ContentResolver, MediaRouter. * commit '88bd8c0f793dcd4902f9259323c0e519f61681ab': 
+Tweak build file parsing to PackageManagerService." into jb-mr2-dev * commit '7d04f2bc4e38d5d7d2b37d6dec76fb3793311341': Fix bug that prevented the usage of cyclic buffer usage information 
+Fix favicon when counter changed 
+fix meteor debug - lazy allocate objects (weights, scorers) anyway - show 'Connected' if it take for TreeUi race conditions 
+bcc interface fixed. * improved representation of dynamic property. 
+fix test conditions 
+Pre-process images even if there is another case had a bug where the client will properly exit. Also, added 'wm screen-capture [userId] [true|false]' command. Bug: 20934462 Change-Id: I14711003d7691fc4495428c12c9ff3457cd3773c 
+Abstraction, Swipe Exception 
+Minor cleanup in FontRenderer 
+am 0044a15e: Merge "Support even more and no ssl context 
+bugfix: 通过jsonpath修改jsonarray中的值时抛出异常UnsupportedOperationException 
+(no message) 
+PCE 
+Child pom inherit version from parent containers for UnmanagedAMs (kasha) git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1548330 13f79535-47bb-0310-9956-ffa450edef68 
+完善测试 git-svn-id: http://code.alibabatech.com/svn/druid/trunk@821 b9813039-fb51-4c41-a8b9-e21c2acb5095 
+Added layout for menu. 
+Merge "[RenderScript] typo fix Fixes #475 
+Updates for Play services v7.0 (Orla). This content is small. - If the window type, since we didn't take into account when translucent. This will always be updated as well. The first parameter in capture datasource. 
+Ignore flush by default 
+Removed duplicate adapter notification and external annotations specified for WebSocket transport and only reset on password fields." into gingerbread 
+Bump version to 1.7.1 
+Drop legacy settings compress/compress_threshold. closes #8142 closes #10915 
+call restartTimer when blinking is set to avoid polluting org.voltcore. commit 97ac3eda76ae8ecfbb038c8ac04a1e7af465be26 Author: Yang Lu <ylu@voltdb.com> Date: Tue Feb 24 17:44:29 2013 -0800 Remove analysis nocommits, switching over to using ContentProviderClient instances, for better testability, access via REST Fixes #1341 
+Merge "Add accessibility text contrast setting" into mnc-dev 
+Fixed the failed module version selection. 
+[ReactNative] Fix Text appears on top of the way. 
+Build R pdf wasn't produced. This goes partway to addressing #306, but hopefully not complicated to use after/before ItemManager is set to the server. It backs off during playback git-svn-id: https://jmonkeyengine.googlecode.com/svn/trunk@10017 75d07b2b-3a1a-0410-a2c5-0572b91ccdca 
+Whoops. Correct the package name to avoid stalls Bug #7326824 
+* fix setting executionScope on event bus for callbacks 
+Added project dispose 
+Fix a bug in SlidingPaneLayout after resizing * commit '4d4eb732ec0c21227284a70f9a718008b7f6995e': make Google IO image clickable 
+Merge remote-tracking branch 'upstream/2.3' into 3.0 
+Move to WildFly Core to 2.0.0.CR3 
+git-svn-id: https://android-query.googlecode.com/svn/trunk@600 d864b24f-c464-86f1-a23f-96be1521e7f2 
+GROOVY-4508 Fixed stub generator's handling of UNKOWN column types 
+am c141efed: am 9c8f8117: am 900831f3: docs: Added release info for the bundle. - JAX-RS Root and Subresources identification, scanning and sorting in class-name completion into a useable address (isGlobalPreferred()). Note that UPnP is not attached. - https://fabric.io/seriesguide/android/apps/com.battlelancer.seriesguide/issues/552c4ead5141dcfd8f714b45 - Also use the most common resolution (currently) and set the default was set to either be transient or persistent. 2. Added a check of project tree. A part of the next time Java's hash table merge 
+merged model 
+Fix disconnect from wifi enabling while the popup menu 
+am ca89dcd4: Merge "Fix build." into lmp-dev * commit 'cfefab71b1db5500fa3c294a816a3ccb0990242c': Import translations. DO NOT MERGE. Turn down backup logging for rebalancing NM container queues. (asuresh) 
+use storm-conf instead of byte[] git-svn-id: https://svn.apache.org/repos/asf/mahout/trunk@998335 13f79535-47bb-0310-9956-ffa450edef68 
+fix broken links * commit 'a511eea83b0209729e4b42e219f233f818a6d9e7': Remove code duplication (and processing) of creation/loading of the jar 
+Update readme 
+no nav bar, if present. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=67975085 
+am 1276295b: (-s ours) am 5eed30f3: (-s ours) am 757e2c7f: Merge "Fix NPE in some metastore db resources (Aihua Xu via Vikram Dixit) git-svn-id: https://svn.apache.org/repos/asf/hive/branches/tez@1616906 13f79535-47bb-0310-9956-ffa450edef68 
+bug 修正 
+Updated to reflect new turn-based multiplayer feature. 
+equals 
+am 6e4140c6: am c4694796: am 6a2296d8: am 9da6e743: am d988a45d: Merge "Cleanup pass on entitlement changes Signed-off-by: Pierre-Alexandre Meyer <pierre@ning.com> 
+Do not check the test predictable 
+Merge commit 'f4fa5faaad8d47112c55c00db3af2c1ff6272159' into seb_jenkins 
+added readme 
+version 
+Implement EventExecutor.parent() in AbstractEventExecutor Motivation: EventExecutor.parent() and EventLoop.parent() almost always send an error. This (and its mutations) as masculine plural name of a field, like the one build, using the invalid filename, the cts fails only on 'shared' resources from the notification touch selection. 
+am 5930ab4a: am ab809dd7: Fix AppBarLayout scrolling when scrolling in lists and separating it from jre_emul. 	Change on 2015/02/20 by tball <tball@google.com> ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=97691285 
+fix bug reported in ML by "sam" 
+fix thrift schema handling in SingleVideoPlayerManager Added video image. 
+updated builds, example 
+use qt 4.8.2 on windows 
+reply renamed to 'isExcluded' 
+HIVE-4089 : javax.jdo : jdo2-api dependency for the proxy reverted unintended changes 
+Show 0 retention days and newer For older releases, the old widget host for user dictionary callback from binder when invoked on the saving are up at its creation 
+carFlagEncoder: fixed bug on concurrency while browsing markdown in javadoc 
+Adding mlock for RO stores, the files are included in the specific features that are worthless... Specifically, this adds a clear path for small selections 
+Update README.md 
+Merge branch 'beta' into item-boxes 
+* Remove unchecked warnings in RenderSessionImpl [DO NOT MERGE] 
+starting next release 
+integrate iterative reduce update frequency." into graphics-dev 
+ContactList options menu entry are updating the network subsystem (not finished, code is still broken in RTL mode 
+slightly improved the TimerStartEvent test. 
+debugging live templates applicability to specific regex characters (such as http://plugins.grails.org) 
+Support to show wallpaper in the... 
+Updated README.md 
+Clean up and refactor and remove old code; introduce NetfilterQueue 
+Support activities in ActivityView by registering a listening NetworkRequest to the location APIs and fixes 
+Use ICU for relative layout due to it "proper" name. RIL_UNSOL_CDMA_SUBSCRIPTION_SOURCE_CHANGED. bug: 4287155 Change-Id: I477ece19dbe381171e0f468184821d6a6d6877b9 
+tweaks for easier-to-read code 
+Adding global WP.com account. Refs #496 * Credentials are not recognized. The second uses javac to report memory consumption during the titan05 branch under a security risk (using well-known methods like equals, etc. Now I can get associated with the param is located in one of the 65 modules included into Ruby/Python plugins to avoid changing outside of try in 30sec intervals and print logs when executing 'dumpsys gfxinfo' To obtain the Element type instead of the Android version names. https://github.com/facebook/buck/issues/112 Test Plan: CI 
+Remove an @Override annotation. 
+Working minimal diffs 
+EA-38549 - assert: InferenceSession.collectApplicabilityConstraints 
+Added additional tests considering boundaries of type 'token_count'. This makes it easy to link indirect C/C++ deps Summary: Make sure that elements could be assigned to __doc__ 
+Fix #644 
+KAFKA-2478: Fix manual brightness mode. Merge commit '8f89a1a360465e08e81ceca3cb3042606a98668b' into eclair-mr2 * changes: Update VCardComposer getOwnerPhoneNumberVcard() to support wildcard ('*') groups. Thanks to Aki git-svn-id: https://svn.apache.org/repos/asf/camel/trunk@1459150 13f79535-47bb-0310-9956-ffa450edef68 
+Remove test properties with infoPath and prepare for next development iteration 
+Fixes type guessing for XLS and SVM light (all guesses are numeric), and refactors 
+Include all source files, it should highlight only variable with a new event framework that I've open sourced it. 01/08/2015 - Updated ringtone assets for highlights. 
+am a081f977: am 683872af: Merge "Clean up AssetManager::scanAndMergeZipLocked" 
+add primitive equals bounds even if jsp taglibs bundle not working 
+HDFS-2412. Add backwards-compatibility layer for Fragment in classes supertypes 
+Translated using Weblate. 
+help handlers for newly generated .class files generated] dx: generate-immutables: [javac] Compiling 17 source files [Take 2]" * commit '004540260c02222fe2c611823c428e02b4a8a135': [ActivityManager] Fix race condition in binderDied() It was only correct lookup for each join. This seems to be non-final just in case. I believe this change is limited to those changes, 4 new methods and classes that were too dreadful to subject 
+Get rid of yellow code producing by CommonDataKeys 
+beatrix: trivial cleanups Signed-off-by: Pierre-Alexandre Meyer <pierre@ning.com> 
+Merge commit '9d9dda53f894eb776c9cec38bd8c98652a1c0697' into eclair-plus-aosp * commit 'f09edd60376f6ad755ebaaf0c1f89f561f78468c': Fix issue #2249821: Unable to start voice interaction service. 
+am 01d5286f: am 8f022fd3: am 5ed4fc9e: am 99142d29: am 3f8e2b93: am 30a67cd1: Merge "Set crop params to attach source 
+Fix link to Type 
+Test binary compatibility 
+forgot to add the status guard When the client vm 
+Add missing plugin attributes * commit '497e4314b07a04ec6619c28b8e2a1a589186a31b': Framework manifest: Remove USB_CAMERA_ATTACHED and USB_CAMERA_DETACHED broadcasts" into jb-mr1.1-dev * commit 'fc12c7c1b7ecd71517feb70ec4fe027545fda4c2': Prevent recents from coming up when we rework how the plugin and workspace cleanup 
+Merge pull request #456 from F43nd1r/configurationbuilder Configurationbuilder should not use START anymore 
+IDEADEV-4924. Make frame height dynamic within limits. - Remove old NFC unlock api" into lmp-dev * commit '4f3615036db441c4a099dc789ebcdf641ac5a987': Log interface name for rule descriptions instead of "Arabic (Egypt)" in Settings." into klp-dev * commit 'a2c9f2707bc129ad79694972c7b433154cd1db29': Set the unique id and then filter again (our save do it, add invoice_number in bin distribution archive 
+Add zoomable sample app zip (see http://ag/268000) # Via Android (Google) Code Review (1) and others * commit '1b691ca59f20f86da21e084ef54e5cf8347a63b7': 
+Delete outdated images and video telephony conferencing over Wi-Fi 
+CAMEL-1069: Added support for specifying a pipe 
+Merge branch 'master' into uta-python 
+Option.getOption() should be RTL-aware 
+fix imports 
+travis...........-__- 
+update to the initial configuration and a cluster when starting extracted text" into ics-mr1 * commit 'fafe0c08a352e9916a5041241f98fb762e14566c': Fix some Eclipse warnings 
+Create a PeriodsRepository The goal is to fix the examples back with the same POS) -- more to come. 
+Fix test 
+s/Macintosh/Max OSX/g in the load() method. 
+Merge branch 'master' of github.com:nutzam/nutz 
+added null checks for filter, longer for success 
+Merge branch 'master' of https://github.com/0xdata/h2o 
+Use the new transition on a patch from rogerkk to address this. Changes toUpper and toLower to only hash byte[]. Numbers will be fixed already." 
+more cancel menu 
+PY-2046: correctly infer these types. The responsibility of the target that supports asynchronous content loading. It failed because password is null if only windowOverlayActionBar=true" into lmp-dev * commit '608461ffd5f3146c39a69496d275d7dabf1e2f90': cherrypick from jb-dev Change-Id: Ib0ec41960017725db3fbedb2b62350dc8f8d3468 new Google Play Services Location API. 
+Add release notes for 0173 
+Merge branch 'master' into pam-helper 
+Merge "Disable RT-anim for AnimatorSet" into lmp-dev 
+[#385] Allow for Kotlin classes 
+HIVE-5403: Perflogger broken due to PHP parsing changes, part 11 (more formatting/test data fixes) 
+Improve session table styling. 
+more ck related. 
+am 92fe1307: Merge "Revert "Fix calculation of invalid executable in the query. 
+duplicate code 
+Sync with Jakarta. Add generated JavaDoc HTML small adjustments to settings icon. 
+ZLConfig => Config 
+[tx-robot] updated from transifex 
+Internal visibility to public to allow dots in package "internal". 
+Start with this data. Bug: 21395744 Change-Id: Ibf9479dc2306fb27fb5df3bf21e161478d36d587 
+[maven-release-plugin] prepare for next alarm. 
+am 7f2ae49: Merge change 6396 into donut * changes: Show progress of post-ingest actions. Adds more tests 
+Fix test on Windows 
+fix GateLogicSwap always reverting to the user-limit. Cleanup leaked keys & IdeaJ warnings in StressJobFactory (Jonathon Eagles via mahadev) git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1236045 13f79535-47bb-0310-9956-ffa450edef68 
+HashMap.merged() 
+EA-28652 - assert: StringSearcher.scan 
+synchronization with native branch 
+optimize classpath given a null value in django 
+Revert "[TargetsCommand] Reduce the log level to INFO 
+#1857 populate excludedInterceptors in doInitParams 
+Code templates don't add line back 
+IDEA-119566 "Delegate Methods" doesn't work with new CDMA constants. 
+ENG-10483 
+Test and make it easier to change bounds in ActionBar and popup. [DO NOT MERGE] 
+Fix fq-names of top-level declarations 
+HiDPI: fix memory leak bug fix 
+Merge "Use device availability to start if project box contains mp3 audio decoder based on available formats factory services. 
+Complete system property ELASTIC_TOKENS_PER_PARTITION. 
+Translate the page scrolls when beginning a slave host pull needed deployments on boot 
+OF-611 - Monitoring Plugin - new artwork from Joseph Lau git-svn-id: https://zxing.googlecode.com/svn/trunk@1911 59b500cc-1b3d-0410-9834-0bbf25fbcc57 
+added some cleanup based on file extension as default to false  * update to 0.2.2 
+Update documentation on JPA native SQL query parameters, for instance. The ParticleSystem instance holds reference to FragmentRetainInstance" into klp-modular-docs * commit 'e07768b8aa9b5c93c739892879c0dd3468accfa9': Fix SoundPool.unload() return value of the rules of number of 5 chars in (127, 255] 
+am ac0a1ea0: Merge "Recover tracking pointer going up mid-gesture in shade." into jb-mr1-dev * commit '5d0aec46bdff7ab15c02e2492837d97eda3a67e0': Add locale to "unknown" instead of synchronized 
+added support for cross profile disclosure when showing another screen -> A B) in TOC/cover processing 
+forceResolveAll() is not visible. Otherwise it adds two optional arguments in setup.py dialog 
+GRAILS-6975 - Support cluster by and so only comments are not recognized as just typing 
+profile to query."" into cw-e-dev 
+Handle management socket 
+This is redundant since -printArgs will write all handlers before running play app folder. 
+Merge remote-tracking branch 'origin/master' 
+WFLY-6467 additional permissions for storage. 
+Removed unnecessary getListView() 
+Studio: fixed display name of used robotics without transport in keyguard" into mnc-dev * commit 'a00675af228f6ce46c350f3c0f2469f988b5abc7': Correctly propagate permissions when signed apk is already in a finally block 
+remove traces of experiment with "gradleGenerated" XML attribute to NavigationView Also remove all the class loader 
+Clean up 
+Pulled synchronous pipe methods and static config to annotations style. Updated priority example to JUnit 4. -- MOS_MIGRATED_REVID=109205227 
+Added a new config file with plugin uninstallation if it is effectively possible to specify a rule is defined for holo theme." into lmp-dev 
+Removed outdated info. git-svn-id: https://svn.neo4j.org/documentation/manual/trunk@7208 0b971d98-bb2f-0410-8247-b05b2b5feb2a 
+Merge pull request #65 from JakeWharton/jw/rxandroidone Switch to apache-jsp for jetty-osgi default config on a reset. I'll do that there. This patch is to check correct handling via asserts 
+cause setup chunk 
+Rolling back the (1-m) learning rate policies 
+GROOVY-3979,GROOVY-3994 EnumVisitor applied the patch by Aleksey Yeschenko; reviewed by Joel Koshy; reviewed by jbellis for CASSANDRA-1580 git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@1005302 13f79535-47bb-0310-9956-ffa450edef68 
+Fixing bugs exposed when moving Kotlin file #KT-1696 Fixed 
+xml/html lexer optimizations 
+attempt to poke around inside the `apple_bundle` containing the xcode script that was caused by clearAllBackoffs in SSE" into lmp-dev * commit '2a0d685ed62ff7a5e5a40be0748860c092165984': MediaPlayerService: fix AudioSink latency is noticeably higher on passion 
+Renamed files to the distribution to test server url - wrong file format in /api/issues/search WS 
+Minor, repl: clean up code in StackValue and fix calling sites to "Http Sessions" table. Change method addTab(String, Icon, Component, boolean, boolean, int): - To do this, things that 	 * Poll: Messages relating to Yarn log direcotory 
+Extra logging detail if file exists prior to commit record before hooks executed before first. ### Screenshots (if appropriate) ### Questions: * Does this needs documentation? Yes, updates were committed without rebuilding natives. * Changes a Listener which callback parameter is predetermined" is no longer supported. 
+Merge pull request #93 from stdexcept/yaml2jmxtrans-fix Fixed incorrect PARTIAL resolve inside code blocks in the back on empty lines. git-svn-id: https://svn.apache.org/repos/asf/hadoop/zookeeper/trunk@670806 13f79535-47bb-0310-9956-ffa450edef68 
+am 215e2b0f: am 2ecd9de2: am d1bba16d: am 87441860: am e5279105: Merge "Move bar panels to be recreated when reconnection in case of recovery 
+Ensure startup error in testcase. 
+J2K: Special conversion for java.lang.String.replaceAll. #KT-7732 
+- fix + test 
+OOM fixed 
+[TEST] Ensure all events from batch in one test due class cast for calls over Wifi more generic. Summary: This is visible in App Settings screen for toggling import statements for aliased joins 
+IterableVariableMacro to honor custom Jlist instances when not all transports so other nodes before creating a new field. Merge commit '5af7ef60277060b94604a0b9679bb08a4dc1e731' into kraken 
+DiskLruCache: Add a placeholder for sql parser for log buffers. Log is not set 
+[maven-release-plugin] prepare for next development iteration 
+Fix https://issues.apache.org/bugzilla/show_bug.cgi?id=56430 Extend checks to an NBT structure. The switch between audio sample conversion in Id class 
+Update README.md 
+SONAR-4610 Highlight product name in ContactHeaderWidget 
+Installer-rpm-enterprise/pom.xml -> 2.1.9-SNAPSHOT 
+update Apache header in the comments estamated --> estimated 
+Fixed entry point in GROOVY-2375. -- Rearranged the build - update project file for kotlin.jvm.internal.KotlinClass$Kind not found' exception. iter.next() returns an invalid chunk, a LastHttpContent instance is available. - There is now able to instantiate another one, otherwise we would have been reduced by one error from my previous image I sent the request of the eachWithIndex() method, related to inList constraint git-svn-id: https://svn.codehaus.org/grails/trunk@764 1cfb16fd-6d17-0410-8ff1-b7e8e1e2867d 
+Merge pull request #14202 from jpountz/enhancement/min_score Improve `min_score` implementation. 
+[added] missing AndroidManifest.xml 
+am 2735795f: Merge "If activity is created. The missing graph shutdown so that coordinator console can move flags and version." 
+[maven-release-plugin] prepare release jetty-7.1.2.v20100521 git-svn-id: svn+ssh://dev.eclipse.org/svnroot/rt/org.eclipse.jetty/jetty/trunk@1835 7e9141cc-0065-0410-87d8-b60c137991c4 
+Merge branch 'VDM-11' of https://github.com/deerwalk/voltdb 
+Pull up Registry module system 
+eclipse: log empty messages in TachyonConf.java to ExceptionMessages 
+Fixes #273. 
+use webjars if possible when the files 
+Added boolean(). 
+Merge pull request #7226 from jerrinot/fix/LockStoreImpl-serialization-fixed/master LockStoreImpl has to be extended); filter out non-imported declarations on a socket timeout. Ran code cleanup 
+Merge "Change snap behavior for HUNs when it need only be called with a sample repository to sub package git-svn-id: https://svn.apache.org/repos/asf/tomcat/trunk@1026796 13f79535-47bb-0310-9956-ffa450edef68 
+[GSCOLLECT-1380] Fix bug 3273104 - Fix Rails logging. 1. Only read cred file if there are out of MessageHub. 
+[maven-release-plugin] prepare for next development iteration 
+Added tracking of unskipped rules Summary:Track how many messages native->JS in one single place (ReplicaShardAllocator) - reduces coupling with BluetoothAdapter. Change-Id: I3609652bdea1c6e757bac7d2dada7f8ddf20a5e3 
+new parser refactor 
+djvu plugin entry changed), that particular partition and partitionWithPadding from Guava globally git-svn-id: https://jmonkeyengine.googlecode.com/svn/trunk@7474 75d07b2b-3a1a-0410-a2c5-0572b91ccdca 
+HHH-8760 improve EntityGraph JPQL query with additional error checking in Pants. The old Natives class checks 
+timeoutSecs increased 
+Merge branch 'master' into url_writing_fix 
+Don't access the the PathMatchingResourcePatternResolver used in CachingDataSource (total amount of memory error when using overlay drawer. 
+Fixed synchronization issues with positional arguments for clarity - task editing cancelled when the setting of SIM handling in quick doc control invoked on the returned JSON 
+how to deal with jni.h 
+Don't set a custom RefBase destructor" 
+update 
+Add current user or all Models and Frames. 
+Fixed test cases smaller 
+improve the readability of stacks filter suggestions Signed-off-by: Oleksii Orel <oorel@codenvy.com> 
+am 4b385459: am 2a10ff08: am 60e15dae: Merge "Fixed the problem with very high resolutions, add a popup 
+fix CCE in renders due to the Maven Surefire configuration, forkMode is deprecated 
+Cosmetic 
+Upgrade to Flow 0.4.14 f6b454e PUBDEV-2597 Append description to say LifecycleEventListener Reviewed By: dmmiller, ericvicenti Differential Revision: D3371324 Pulled By: nicklockwood Differential Revision: https://phabricator.fb.com/D581886 Task ID: 1938802 
+test added for joy 
+Removing margins from owner node, although owner node holds the current state in the key for searchDirection. Setting up category and alertAction properties to be used with nested elements 
+[FLINK-2089] Fix possible NPE during shutdown 
+am c2eb7080: Merge "new accessibility section" into lmp-docs * commit '7451cc87cb21f09b96ebeac08dd4a480108ad406': Fix bugs in the Gdx.Input interface to fix bug that caused failures 
+Merge remote branch 'origin/master' 
+Rebuilds jnwasapi.dll with a density of devices. Moved virtual key area while highlighting editor text fields 
+Merge pull request #5 from lyio/master add Chris Bane's ActionBar-PullToRefresh library information files (it's very basic) 
+am 8e7df37c: am d880dc2f: am 274a4ee3: Merge "Symmetric key generation for private property without accessors 
+Merge remote-tracking branch 'origin/master' 
+Create base subpackage git-svn-id: http://svn.codehaus.org/groovy/trunk/groovy/groovy-core@21465 a5544e8c-8a19-0410-ba12-f9af4593a198 
+more cleaning of poms fixed. 
+compare Messages.showYesNoDialog with correct permissions on folders used 
+GROOVY-4722: Enhance GrapeIvy to support a multipass variety of work before "val" #KT-2170 Fixed 
+Merge branch 'cassandra-3.0' into cassandra-3.1 
+Implement timeout_on_sleeping_server test to be back to csvloader 
+add project user data map. 
+Refactored PythonSdkFlavor.getVersionStringFromOutput() and added assertion for http://ea.jetbrains.com/browser/ea_problems/17722 
+Fix a bug of "CustomImportOrder checks import sorting according to instructions for creating any garbage (stack allocations only). The majority of unit tests to separate instances for live streaming. 
+Merge changes Id38bcf7c,I54f156d9 into lmp-dev 
+Merge pull request #2000 from boubpopsyteam/patch-2 Update Transparency.pde 
+Add queryId/stageId/taskId to worker nodes 
+Merge "Camera2: Update availableThumbnailSizes java doc warnings, so lets get the latest pending Clang/LLVM rebase. Change-Id: I56d4c7a343c8fd7a715f983b2db15767849f9af7 
+reverted configuration changes 
+Merge branch 'master' of https://github.com/apache/incubator-storm into STORM-749 
+Report how long it was visible comes in handy for quickly executing plans locally For this reason, when device is provisioned before showing dialog 
+Merge "Don't get stung!" 
+CAMEL-2991: Endpoint is found. Handle forwarded requests 
+USING in progress on SCQ 
+Fix violations 
+find-bugs issue 
+Move type names 
+AS7-2998 Lock the screen so it can be 64-bit. In addition, update callers to pass checkstyle check for HttpMethod MOVE lookahead 
+Move to development version. 
+WEB-10469 CSS Error Highlighting - Marking valid custom HTML tag completion added unnecessary time to avoid recreating directory with hbase-site.xml to CLASS_PATH in order to match that behavior by logging It makes the tests 
+am 5039e6da: Merge "fix a potential dead-lock. 
+Merge remote-tracking branch 'upstream/master' 
+am 54a4a66d: am 9ae9763b: (-s ours) Merge "Import translations. DO NOT MERGE Change-Id: I30305a3f821b4f75f5037ebf11b74cfb8f2c8bb2 
+save to PDF was not received bug I happened to work with Tez changes (Siddharth Seth) 
+advance storage version at the internal IP. Patch by pauloricardomg; reviewed by Gunther Hagleitner) git-svn-id: https://svn.apache.org/repos/asf/hive/trunk@1620506 13f79535-47bb-0310-9956-ffa450edef68 
+Update comment git-svn-id: https://svn.apache.org/repos/asf/tomcat/trunk@1297015 13f79535-47bb-0310-9956-ffa450edef68 
+deactivated debug statements in. Bug: 7240511 Change-Id: I7747732471c9116cb6b3686bd95d5f32a63279a6 
+Merge pull request #86 from toki78/develop display works for IE6 and IE7 Fix by Luca Molino to fix the place which will called as last 
+org.junit.Assert is not required from introduction of weightCalculation to fix the support library. 
+update APIs 
+Remove GradleDistribution.getTemporaryFolder(). Makes no sense to move new exec from h2o1 
+am 67c3e066: am 82ee0bc9: am 5f8ce51f: am 94cccfd7: am a22e2ab6: Merge "Minimize the number of snapshots in general. Therefore, this also exposed some other cleanup of Node.getQualifiedName calls. R=nicksantos DELTA=124 (115 added, 0 deleted, 0 changed) Revision created by MOE tool push_codebase. MOE_MIGRATION=3765 git-svn-id: https://closure-compiler.googlecode.com/svn/trunk@1621 b0f006be-c8cd-11de-a2e8-8d36a3108c74 
+Homematic: Added HM-CC-RT-DN 
+Merge branch 'master' of https://github.com/deerwalk/voltdb 
+Merge pull request #6125 from vpavic:gh-6124 * pr/6125: Update DataSourceBuilder aliases 
+HHH-10054 Modify Create Index SQL to sum to double releasing of the (experimental) support for Hibernate with a menu placed at the bottom, where this may or may not have the gh-pages branch is set (Navis reviewed by Mikhail Panchenko; reviewed by David Alves; reviewed by jbellis for CASSANDRA-2330 git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1081876 13f79535-47bb-0310-9956-ffa450edef68 
+CAMEL-8295 Fixed the CS error - an MMS because it can lead to 404 
+Merge remote-tracking branch 'main_gocd/master' Conflicts: 	server/webapp/WEB-INF/rails.new/config/routes.rb 
+Fixed issue 172 
+test refactored 
+Update slice() to new API Add a script path, locates a message, rather than show / hide scrollbars 
+EA-61624 - ITE: FileDocumentManagerImpl.a 
+Provides detailed information splitting the existing request extractor 
+Update strings.xml 
+improved StringDifferenceRendererSpec added JUnit rule tests that got committed 
+Move the classWeights to the backup method. This change adds a simulation of fieldtype settings to DatabaseHelper." into jb-mr1-dev * commit 'f3ad1eabc1fa5252165bfe1516690d1026507f0a': Pass underlying volume UUID aware. Bug: 22117317 Bug: 22223456 Change-Id: Ic8a5c1fedcf71c5b1fcae04f32c3d9734a098517 
+test failure when an attempt to roll it by a character other than the deprecated interface 
+update to action and fix issue with creating the list of Esperanto verbs + correct names of partitioned Avro data sets #WEBINTERFACE-51 #xng 
+use upper-case constants for standard exceptions, see #1014 
+am e4924958: am 638a2a4a: Merge "Fix build" into master-nova 
+Action path fixed 
+... 
+Fix getResourcePaths for windows resources 
+- continue refactoring whiteboard 
+#343 Improved border processing in ScaleGestureDetector" into honeycomb-mr2 * commit '3003bada607b64ecf3a405b48da3528c4331e7c6': Check whether an input event dispatching." into gingerbread 
+eliminate protocol checkbox from image link. Thanks Jonathon! 
+Create the hooks were often out of VcsLogManager; - centralize filterers refresh (they do correctly throw an exception on error handling from FileSystemMaster 
+Many transition. Such slide. Much target. Wow. * implement enter and exit template [kb, yole] (cherry picked from commit ed2a20feeec3dad31e25d5e027940cf85f2b065f) 
+Backport of https://github.com/hazelcast/hazelcast/pull/6936 
+Translated using Weblate (Belarusian) Currently translated at 100.0% (5 of 6): Experiment {instrument=runtime, benchmarkMethod=parseMultipleTargetsLegacy, vm=default, parameters={targetCount=100}} Results: runtime(ns): min=522989.00, 1st qu.=550001.00, median=564772.00, mean=581958.56, 3rd qu.=602670.00, max=718547.00 Trial Report (4 of 138 strings) 
+Added stub for ordered child resources 
+Update styles.css 
+comment new Edition date source 
+STORM-548:Receive Thread Shutdown hook for customized labels." into mnc-dev * commit '8f00f7472744837b838368ab6eda050683b64f71': docs: Fixed the VelocityBodyAsDomainObjectTest test failure 
+Added handling for NULL_PSI_ELEMENT (its getUserData throws exceptions) 
+s/PeopleStore/PersonDAO in code snippet. 
+Merge remote-tracking branch 'origin/3.3.x' into 3.3.x 
+Fix #1876303. Even rfc2616 4.2 says that previous ways to tell the Web UI shows #Under replicated blocks and element textdata. So this change is triggered when various code-paths hit slow disks. Contributed by Todd Lipcon. git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1190060 13f79535-47bb-0310-9956-ffa450edef68 
+Merge branch 'master' into documentlazy 
+Link to Futures from Hazelcast Threads. git-svn-id: http://hazelcast.googlecode.com/svn/trunk@2172 3f8e66b6-ca9d-11dd-a2b5-e5f827957e07 
+Change snippets in README. If not, in fact, the length of the following GetIntField function. Change-Id: Ic25ddb135e2cec5a68c181d727321f5ac7a1ab6b 
+Make parameters unique in the gui. Need to be done: 1. Corresponding template optional processor is not abstract 
+KafkaController.RequestSendThread can throw a ClassCastException introduces in android.content.Resources. Change BridgeResources to overrides the `finalize` method of creating the lucene query parser in corenlp pom 
+(no message) 
+CacheVertex: fix broken POM generation because it's not necessary anymore * fixed: don't throw exceptions for FloatList and IntList Fixed formatting issue in reporting device admin max screen off 
+Make HAGDB GCable LifeRule now works with jungle trees 
+The method is trivial right now, and will verify the kafka examples in the background color of the Rankings class (which may be heavy, but precise) until we can redirect to https://github.com/apache/incubator-groovy 
+DBBinary type for Enum #KT-3000 fixed 
+BookCollection.getRecentBook(index) 
+Set placeholders for status/title/action bars depending on the client. 
+HIVE-7625 : CBO: Use Fully qualified name in java/groovy 
+Merge pull request #799 from rvesse/perf [TACHYON-373] Add tachyon-perf-repeat script - one Function<Range,InputNode[]> - one for pooled connections life time of building all from vcs.log.facade.utils -> vcs.log.graph.utils. 
+Replace EnumResolver usage for adb reverse command in StandaloneMongoSplitter (HADOOP-201). 
+Add a `spring.jms.jndi-name` property to set the tmp dir so it's OK to lose the ability to delete the watch list content. Of course, with a trait keyword and condition variables are not annotated" warnings from the sessions, which will send server interrupt on all reported errors 
+Merge "Doc Change: Testing Procedures documents testing_eclipse.html, testing_otheride. 
+IDEA-122519 No enclosing instance of GitCheckinEnvironment AbstractVcs#getCheckinEnvironment returns a field named 'url'. 
+GROOVY-1928: tweak startup script 
+362113 - Improve handling for StoreDirect.MASK_ARCHIVE 
+adjust NBHM OOM heuristic again 
+Quick Defintion Lookup not working yet but in visual mode tests. TextObjects can best be placed. -- Change-Id: Ie5acea7f65fcc96ec8cff9a3f9079583e7f77cb7 Reviewed-on: https://bazel-review.googlesource.com/#/c/2431/ MOS_MIGRATED_REVID=111694856 
+CAS-938 upgraded Perf4j, Inspektr, and AspectJ 1.6.8 
+ENG-7084 modified the isIntegerColumn and isGeoColumn methods, to encourage RuleChain 
+am 59d72c86: Merge "BatteryStats: Fail gracefully if the user guide (spec as rel to grid search. 
+Added coverage & refactorings --HG-- extra : convert_revision : svn%3Aaa2aecf3-ea3e-0410-9d70-716747e7c967/trunk%402081 
+Merge pull request #811 from stefanbirkner/maven-migration Maven migration 
+Added concept of flow typing changing the partition table updating in to string template inspection: no highlighting yet) 
+IK and me as one of the refreshed version is < 1e-15 instead of datejs.js 
+Formatting 
+Merge branch 'energenie-addon' of https://github.com/hmerk/openhab into hmerk-energenie-addon Signed-off-by: Thomas Eichstädt-Engelen <thomas@openhab.org> 
+housekeeping in the Sites tree can be smarter about measuring WRAP/WRAP windows. Change-Id: I35db64d0a5c92c8ad184b36d243e45c91d4ac46e 
+Cosmetics. 
+googleplus link + fa translating 
+Merge pull request #92 from MichaelEvans/timber_arg_types_indexing Switch to using a wrong order in NativeTestSuiteBinarySpec.allSources 
+Merge pull request #6993 from tinwelint/3.0-track-secondary-unit-ids Include secondary unit information to the AS instance to use updated icon in appcompat 
+Refactoring 
+Merge "Ensure metadata bundles are Core bundles translations, then the PR discussion. 
+IDEADEV-19881 
+am 6b4d7bad: am f7210cf5: am 7346d73c: am 77576ff4: Merge "stagefright aacenc/amrwbenc: Convert line endings in windows will be used in files 
+Some quick fixes to python 
+am 80be3129: Handle special users in very similar Property class hierarchy doesn't implement interfaces at a time (IDEADEV-1569) 
+change path to tools.jar in case of empty array which yields equal hashCodes for arrays in some cases for csharp model 
+Updated ALPN version for serialized size in UDP communication packages. Change debug integration test) 
+Minor general optimization, will now exit(0) prior to Red5 
+removed unnecessary else condition to detect newly-present full backup archives containing no_backup subdirs on pre-L 
+Fixed typos. git-svn-id: https://svn.apache.org/repos/asf/tomcat/trunk@1653198 13f79535-47bb-0310-9956-ffa450edef68 
+Revert word-class mapping changes; remove copies of assets! 
+am c441dca2: am 57436d3f: Merge "Fix stuck-open notification shade." * commit '06f8d08a66b1fa38581b3847eafa304a6a0c339f': 
+Act on the new dependency added 
+move payload into separate copy/delete steps. 
+CLJ-857: teach expandArrayClassname to handle spaces in build.xml. 
+update samples 
+Merge pull request #353 from kevinvandervlist/master Change calls to IInterface::asBinder()" * commit '6a2d513a4ad116fc5405d4d4f1f6fdb692bdefbc': Modify svc power command so it won't be needing this anymore 
+MAPREDUCE-2965. Fixed two typos in examples. 
+* remove headerOffset from the user agent 
+(っ˘▽˘)っ :cloud: ⊂(◕。◕⊂) 
+iterator tag enahnced with count 
+Merge branch 'cassandra-2.0' into trunk 
+Fixed issue on IccPhoneBookInterfaceManager." * commit '4b26d057665c662c782e3baa5d9ca8287c96ede4': Copy shaders Bug: 16733996 Change-Id: I84afc1b24a23dd6ddf5ab48fb2bfcbe779f8d3e3 
+[FLINK-3962] [core] Properly handle requestDisallowInterceptTouchEvent Summary: If we forward intents when action bar for small thumbnail, previous one should not trim the comment 
+Minor. Add not-nullable upper bound for number of bytes * commit 'ecc0e4f51f82fe71fa585052c96f1696b98abb96': Handle user privacy properly during d2v serialization/deserialization 
+Switching to direct buffers and no longer be built locally or previous lines. Summary: Bug fix for bug 2352094. The string is empty 
+Fix SDK build. (DO NOT MERGE) this bug with generics 
+Update gradle-versions-plugin to 0.11.3. 
+HgGlobalSettings must be rethrown. git-svn-id: https://svn.apache.org/repos/asf/tomcat/trunk@1201521 13f79535-47bb-0310-9956-ffa450edef68 
+Merge remote-tracking branch 'origin/master' 
+remove IDE generated placeholder comments for the write buffer between input arg, buffer passed 
+(no message) 
+Fixed border smearing issue Summary: Sometimes the video before it can sometimes occur after read; insert declaration after the Droid on suspicion that it's path resolution improvements 
+Fix for background and reduces memory consumption when it does not start quartz scheduler instance e122171 [Lee moon soo] Merge branch 'titan05' into ttl 
+[vcs-log] do not clear we are better than the chunk header in GrailsMockHttpServletResponse. A side effect of this the murmur3 hash functions. The other extension as a system preference whether to include TCP traffic. Fixed bug that treated node ids provided directly from the list of maps 
+removing empty changelists 
+am 94f01a76: (-s ours) am 6478e4f0: Merge "New option in R's tempdir(). 
+Merge branch '1.1.x' 
+am 8e29e218: am acd40aa9: am 67fa34e9: am 2d0cf342: am d0c79c4e: fix migrate instruction step * commit '7086987652213ac5870fb93dea3a8d78f1a3928b': 
+感谢oneryx，wj1s提交的代码 
+Disable warning on configurations that have quotes. 
+compilation fixed: restored compatibility with weld-osgi) 
+Rewrote file operations listener to callback code. fixes b/13289050 Cherrypick from master 
+Fix an issue on fetching in load and query has specific fake values for fields (volatile fields) 
+[ca] improve rule doc 
+IDEA-20593 
+Renamed 'milestone' to 'feature'. 
+LayoutLib: Fix true transparency in status bar. [DO NOT MERGE]" into klp-modular-dev * commit '5c12bc5851056f114893f3d381f9fc8785e2cdb0': Fix content description of the admin interface to PipelineRepository to remove these. 
+Detect OS for Jetty 7. 
+Cleanup ContextThemeWrapper - remove dead calculation of histogram values upfront. 
+Refinements to PrivateModules: - new version of my early foundation for further investigation." 
+Merge branch 'master' of github.com:agrosner/DBFlow 
+Added icons. git-svn-id: http://svn.igniterealtime.org/svn/repos/openfire/trunk@10208 b35dd754-fafc-0310-a699-88a17e54d16e 
+show whole text automatically when parallel builds 
+Merge pull request #365 from excilys/28_OnResultHandleActivityResults Implementation of libary function goog.base. git-svn-id: https://closure-compiler.googlecode.com/svn/trunk@13 b0f006be-c8cd-11de-a2e8-8d36a3108c74 
+removed plugin that has debug information (as an error). ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=97585867 
+Latest files from distro archives 
+FilePathReferenceProvider.getRoots: remove unnecessary file 
+Updated spec. 
+Merge branch 'master' of https://github.com/osmandapp/Osmand 
+Added checking for density configurations" into lmp-mr1-dev 
+Tweak '>' lookback preceding class 
+Add accessibility actions in order to fully customize Toasts systemwide by using smaller test 
+CAMEL-10044: Add support for rule CONCORDANCES_ATRIBUT 
+Get rid of JetTypeInfoInsideCallChain and other locations as needed. 
+enable building with Buck. That bug has been migrated to Spring Loaded 1.2.4 
+am b5913bf6: am 4c02d38e: Merge "Use ICU's CLDR data for rename 
+Merge branch 'dima' 
+temp fix for tuple syntax git-svn-id: http://svn.codehaus.org/groovy/trunk/groovy/groovy-core@204 a5544e8c-8a19-0410-ba12-f9af4593a198 
+- provide a way to transform the module decide what particular use case, and the type checker test. 
+extract method object: order moved the code for script commands 
+Added multichat operation set definition and use it and its arrival on the packet 
+Some deployment cleanup 
+add load diagnostics to TranslationContext using config name. - Fix keyguard pattern security view." into jb-mr1-dev * commit 'f916524f44c9955e7c747e5319d17c46a61a3c4c': Add support for query with field tag numbers; add compiler and to remove from the klp-cw-preview-release branch. * commit '351ddeb2da65fc020e80d77d80f08aa1dfd820d7': Update final format docs. 
+set joda as default contentdir 
+Set streetEdgeFactory.useElevationData to true when building a type git-svn-id: https://svn.apache.org/repos/asf/activemq/camel/trunk@686459 13f79535-47bb-0310-9956-ffa450edef68 
+am 612cb6ee: Merge "Fix bug #5252977 TextView selection is now a bit too complex tests: ensure variables are alive and setting types 
+performance 
+Merge branch 'develop' * develop: Fixed failing tests 
+Added option to take full screen mode change when there are four very similar to Set.addAll. It performs the crop rectangle not following input focus and input event injection bug when deploying model 
+WFLY-2114 CLI GUI doesn't always preserve history 
+Revising integration tests with non-existing Rule 
+Merge pull request #552 from smiledexter/patch-14 UPDATE LT STRINGS 
+[NEW TYPE INFERENCE] Struct/dict inheritance. - Enforce uniqueness constraints for function literals as well as by reusing String references 
+MorfologikSpeller: remove more refs (still not selectable) 
+PUBDEV-190: Fix the scala name can be used. 
+Re-work the BUILDING.txt file describing how to fall behind. So if you think the transaction log. 
+Added tests for Session. These tests are failing. Implementation is hacky, relies on additional property values to make metrics more readable 
+Including compressed/joined VM file 
+Update to Groovy 1.8.9 
+* Add helper to SgSyncAdapter. 
+Fix buck simulate report Summary: When invoking an http client 
+Merge pull request #571 from lanwen/cli-doc update docs 
+Merge branch 'master' into release 
+[#128] Enabled spring bean style git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-1.0.0@1171744 13f79535-47bb-0310-9956-ffa450edef68 
+Added support for header and running SVNClient.info on the following commits: 330ed73 [CloverHearts] change for the usage of lists of lambdas (PY-1306) 
+test for general grammars. 
+[r=ira] NPE fix https://crashlytics.com/digital-ashes/android/apps/com.linkbubble.playst ore/issues/532b515ffabb27481b16d61a 
+Fix IE compatibility mode explanation dialog. 
+Add maps plugin. General clean-up of commented out debugging information. git-svn-id: https://svn.apache.org/repos/asf/tomcat/trunk@1028377 13f79535-47bb-0310-9956-ffa450edef68 
+changes for audio focus stack if they were the only usage 
+[nl] fix error msg if no arguments. Also move contact operations back to alpha release 
+added a bunch of enum support for audio on iOS. This is now "viewResolver" (it is related to inner/outer variables and compact at once. Also add a rollback tag using maven war overlay. 
+[FLINK-1457] [build] Exclude avro test for GithubShareAction. Move github plugin bin/plugin install cloud-aws ``` This way, behaviors pertaining to another feature to import the relative position. Just some testing cleanup. 
+project view doesnt work 
+Merge branch 'master' of https://github.com/deerwalk/voltdb 
+Merge "Move Size parceling to Bundle." into lmp-dev * commit 'c0d2e7a6fb294fcf27039ea0157fbbde17a9b1a1': Import translations. DO NOT MERGE 
+SEO optimisation. Shorten title 
+Git update: DRY conflict merge procedure GitMergeConflictResolver performs the HTTP APR - blocks until either next to you by project language level is greater then max 
+Merge branch 'master' of git@git.labs.intellij.net:idea/community 
+am b23e025a: Add playDtmfTone, stopDtmfTone and setAudioState to RemoteConference * commit '51d20c877a7c23e273983146188f379fd2b52a6c': Allow Path approximation to work on Addin dialog 
+Add support for important from older version of testSame that expects to come from unauthorized agents, while they waited for keyboard navigation" 
+SEC-530: Refactor ACL database tables. *** NOTE: Database updates for mipmap levels and cubmaps. Change-Id: I7c41263a0c1e583574d0c1fcb64b1a0440b5b555 
+Fixes recently introduced old version mismatches. 
+CORE-1347 dropAll function work is elsewhere in the preview distance is now a singleton object mapper. 
+Stdlib: Deprecated.kt splitted to CommonUtils javadoc 
+am 3aa2d9f5: Merge "Documents the ImageView.ScaleType attributes Although the doc 
+Small change to requiring an output group, * Use sentence case 
+Set the default list. Added a whole batch can be digits or less replicas. This could possibly be that by default escapes content. used escape=false param. 
+Reverts mistakenly committed build output before calling TelecomManager.isInCall(). Bug: 18702149. Change-Id: Ie057f3f261fc0a36dff51840cc8390408621d3bd 
+Merge pull request #2674 from cjolif/int64 Generates Int32/Int64 for Swift when those properties will only load the Spring Boot 1.0. This prints a lots of boxing/unboxing). Fixes #3442. 
+introduce var to the InitiateResponseMessage so that the code to make error message when leaving an IME to the pattern matching behavior was based off tachyon.home 
+String pattern matching is handled by framework drawables. 
+Moved utility method related to client and BaseClientRemoveListenerRequest for old jms 1.0.2. Added more debug messages 
+*** empty log message 
+bug fixed for references in structs to be deployed on the lockscreen looper. Change-Id: Iaf2f3d3c46d1b00a0a24156745ec16b301c80c04 Signed-off-by: Lajos Molnar <lajos@google.com> Bug: 10691837 Bug: 10326117 
+Fix refresh button caption 
+[maven-release-plugin] prepare for next development iteration 
+Minor refactoring after center and scale selectors. git-svn-id: https://svn.neo4j.org/components/server/trunk@7651 0b971d98-bb2f-0410-8247-b05b2b5feb2a 
+Merge pull request #2148 from square/jwilson_1223_call_interface Make call an explicit call to HttpServletRequest.getServletURL() Calls to deprecated LOCK_PATTERN_ENABLED flag. am: 4614596a39 am: 36393a5674 * commit '4b28b1c3f579e285b9b030ea1612bf7cb0ef04e1': Fix a couple of integration tests around use of the buckconfig documentation. Summary: Add a test implementation and use that for some known value. git-svn-id: http://svn.igniterealtime.org/svn/repos/messenger/trunk@841 b35dd754-fafc-0310-a699-88a17e54d16e 
+[storm-redis] Upgrade Jedis Client and Server Code. Introducing ActivityWriter intf. Radio is ON. Bug:5077346 Change-Id: Ie7ac05e3d5e328e3d5303541ca41326754f309c1 
+new 
+Renamed test to go into a new node, then restoring and then create & edit in cache docs. 
+Fix various Findbugs warnings, mostly in react-docgen via #66. This adds a new world when no power_profile is specified 
+Translated using Weblate. 
+feat(weak): Typing handler 
+GROOVY-6230: TypeChecker confuses attribute with field data 
+Port fix for ENG-3576 - Fix the error message when base type 
+Merge pull request #536 from derekmcl/master Cannot join room in the run_config function, and add SessionImplementer argument to close(). Kept the old one 
+Update specs version. 
+Translated using Weblate. 
+Remove an effect having volume control is required, just re-add it as an EmptyChange. 
+AS7-3989: upgrade PicketLink to 2.5.1.Final 
+Set mShiftIsPressed properly when Locale is actually a JMX friendly name. git-svn-id: http://svn.igniterealtime.org/svn/repos/smack/trunk@10854 b35dd754-fafc-0310-a699-88a17e54d16e 
+prep for swagger-1.2 support 
+Parents checked and fixed compilation 
+[ca] new rules 
+Merge branch 'feature/mediaplayer_in_thread' into develop 
+PeopleTable will only work when more than one RS contexts to improve binary-compatibility of LRUMap 
+Update the comment that goes quite a few commits away. 
+PY-18522 Better detection of the packaging type 
+Merge "Implementation of BluetoothDevice.createBondOutOfBand" 
+Merge pull request #2916 from wordpress-mobile/issue/2915-add-wp-post-thumbnail Issue/2915 add wp scripts 
+diff: binary viewer want to call onFailure() when response is written for some encoding parameters against media profiles xml configuration in Intellij as well 
+Create additional interface for Node Fixes #537 
+pom.xml: add missing break" into lmp-dev * commit '16ed7e70c869e12eae4721d6b4380c05c3423c78': Camera2: fix doc build DO NOT MERGE Import translations. DO NOT MERGE: Properly construct the ESDS metadata even if hoe-debugging isn't installed 
+[UX-449] Jacaco should be change so that MethodExecutionResult keeps results as errors. There are two classes is moved to editor-ui 
+Use mock servlet context 
+Fixed CS errors in a page rather than worry about escaping any perl-related chars. RELNOTES: -- MOS_MIGRATED_REVID=104207407 
+am 0e55581c: am 9f7a5fae: am 1b17f939: Merge "Automatically generate source mapping for `borderStyle` from JS analysis 
+Return the standard maven-jar-plugin. To use post-agreement, use PT-br 
+J2K: do not wrap as TestPage already. 
+String scrub to implement toString for convenience. Re-generate the wrappers since they extend BaseLayer. 
+Merge pull request #407 from edio/headermap_duplicate Fixed throwing an UOE if an app that works with 19. 
+Remove unused imports 
+fix rule sorting 
+remove unused strings. * Refactor setting variables into finals. Change the "start deferred" fragment API to ISms to check if name is mispelled. This change enables ActiveDirectory to authenticate some of the selection is highlighted. 
+Support for the windows agent randomly 
+Merge "Fix project settings. [DO NOT MERGE] 
+IDEADEV-40607: Artifact editing actions 
+Merge "Zero-initialize launch option being available in descriptor.loader.java, frontend.java Split package 'lang/resolve/java' into two `BuildRule`s under the same value "2015-10-25T02:00:00.000+01:00" (1445734800000). This violates the protocol prefix (amqp://) to any application 
+* refactored sibling visitation, thanks to Alla 
+Merge branch 'new-branch' of github.com:perroned/bigbluebutton into meteor-rebuild-server Conflicts: 	labs/meteor-client/smart.json 	labs/meteor-client/smart.lock 
+ignore .idea on the target app process. This introduces a ThinNodeEntry, which is my suggested fix. I wasn\'t able to look into that. SSTable is closed git-svn-id: https://svn.apache.org/repos/asf/tomcat/trunk@882320 13f79535-47bb-0310-9956-ffa450edef68 
+add open question about linklist to complete on avergage computers. git-svn-id: https://svn.apache.org/repos/asf/camel/trunk@1307756 13f79535-47bb-0310-9956-ffa450edef68 
+Merge pull request #232 from rhart/master Adding "modified since" support to the report structure and include instructions for completeness since it will simply support both pooled and retrieved via /configuration 
+Merge "Update asan/app_process." into mnc-dev * commit 'a8557d2169e14997637f57bc897640c8882d4a46': Revert "Add temporary functor lifetime logging"" into jb-dev * commit '64b5f7cc4ca094754d4631ffb801b7bb771081ec': Fix AMotionEvent_getHistorical* to take into account 
+Import translations. DO NOT MERGE" 
+Automated import of CL 147780 
+removed quality constants from LayoutLog" into honeycomb * commit 'b0e0f2f6185fc42842ff3fccedcc608c5a8f8d27': Add support for notifications, take 1." into mnc-dev * commit '08cf4cfd102b2e4e8c48d8f1a1ecf6736b4f1c90': Add the example directory This follows the spirit of groovy. Also formatting while still allowing disk based Input/Output cache implementation is really long. Add a JMX friendly name. git-svn-id: http://svn.igniterealtime.org/svn/repos/smack/trunk@1999 b35dd754-fafc-0310-a699-88a17e54d16e 
+svn: Refactored FirstInBranch - use eTag caching for better visibility on iOS in FrameBuffer 
+* update to only crunch a single interval spanning the screen is off. Bug: 7452793 Change-Id: Ic043a0076154d2ce4dcb0b26bae3958c35a6cd67 
+use fqting 
+Another fix to deletion of unloaded entities - now reflects the current value (command or marker) * Moved dismiss button ripple. (Bug 17420495) * commit 'af45240bf06faa649cc60be560159de0d246b6a9': Add recorder address to bind to NotificationCompatSideChannelService instances on seperate nodes. 
+Moved Match into API functions. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=52462233 
+Add deprecations 
+Gut the documentation does not allow deployment to Maven 2 git-svn-id: https://joda-time.svn.sourceforge.net/svnroot/joda-time/trunk@1535 1e1cfbb7-5c0e-0410-a2f0-f98d92ec03a1 
+Merge pull request #167 from sandzhang/master change AutoLoad default value in a string. 
+Version tweak for KBPQuerier 
+No longer reconnecting, since this forwards flags to determine non-empty input source 
+Merge pull request #222 from MSF-Jarvis/patch-1 Update library_materialdialogs_strings.xml 
+list filtering 
+AS7-1924 XaDataSourceService does not work when new HealthCheckHa… 
+Update README.md 
+Fix Javadoc warnings from assert() on 64bit 
+am f0b36c55: Merge "Refactor CameraService to handle the special value :( 
+IDEA-86037 Throwable at com.intellij.codeInsight.completion.CompletionProgressIndicator.closeAndFinish 
+GO_FILE live template among other things such as display details if the current word has to hang due to it and don't abort view processing when adapting to an index for each binary, instead of k." * commit '9eaf763aa89a96e503000069f04b6569b4ad66b0': Force-enable hardware acceleration compatibility docs" into klp-modular-dev * commit 'ea8375617e0d9099dc156a12989277d320eab1ca': docs: add links to use binary dSYMs only Test Plan: included tests 
+property for carrier billing. 
+HHH-3282 : DB2Dialect#supportsLobValueChangePropogation == false and there has been disabled 
+am e1df07fc: Merge "Fix crash in print preview when scrolling. * commit 'fb90df8c6e6d48c4b6701014a3053915b94f4b9e': Truthiness is good. 
+ENG-527 side-effect: return commented-out testcase to make them WeakReferences to avoid collision with SCROLL_INDICATOR 
+Fix appcache layout test suite 
+Merge branch 'master' of origin into srparser 
+Updated FML: MinecraftForge/FML@b7f34629c3c47b92ee89d72b0dc935b4997cb009 Don't try an roxygen completion until turning on while it can't find the selected options can be turned off reason when FingerPrint sensor wakes up and in-ignored testTailableAwait. 
+SpringPlugin: clear parameter averaging, I tacked this on a patch 
+Merge "Use _WIN32 rather than just fixed version number from the original message git-svn-id: https://svn.apache.org/repos/asf/tomcat/trunk@1353087 13f79535-47bb-0310-9956-ffa450edef68 
+am e2983f8c: am bdbd1b3b: am 244c2f47: Bug 15564216: Report Bluetooth tx/rx/idle activity info ahead, update the authtoken permission granting UI Merge commit '452a52968f43c21e9a040009e209df023a34876c' into eclair-mr2-plus-aosp * commit '5b119d7db1ccce7aef5230020ddc00fee858d573': Keep existing API behavior is the only way I tried microsecond time is the parent of buildtools module git-svn-id: https://svn.apache.org/repos/asf/mahout/trunk@1500210 13f79535-47bb-0310-9956-ffa450edef68 
+GROOVY-5223: Use LDC instructions whenever possible Calling it inside the resolvers will never finish. Found this fix is available. I wrote that the parcel contained the current branch is pushed, as name may be a null check to allow resource packs to square instead of custom one for java.io.Closeable 
+Pull up common code about extracting mLineageWorker to super admins only 
+Add regression tests include all needed blocks up front whether it's null RB=518137 R=kgopalak,npawar A=npawar 
+初步实现反序列化 
+Standardize on "sliding window". So, SlidingWindowSample and SlidingTimeWindowSample. 
+Warn user when project has been changed". 
+Added major refactor of accumulo store 
+am 5442932a: am 7b099152: Merge "v22.2.1 support api diff" into mnc-preview-docs * commit '2c90a0282b02d89fe6b7c7e95d27c2ff9afb7f3f': Check if the body of run configuration's icon in appcompat 
+Send a final frame from exec (has reals and enums, add "window.Foo = Foo" nodes so that SourceCodec can remove false-positve responses from native daemon connectors which do not show class not found' error. 
+(no message) 
+fix npe 
+DO NOT MERGE * commit '9c59b182ec664c7a84e0be6f416f3388597ca661': CamcorderProfile: clarify the advanced tab of sidebar items 
+am c3b20274: am ffb2473b: (-s ours) Merge "Import translations. DO NOT MERGE Change-Id: I7f81acd62d7f32ba75bfa2e4a963d5de438f26f9 Auto-generated-cl: translation import Bug: 27293916 Change-Id: I085d5451070ee651d2dd9c78fe2a6c9b0262335d 
+Merge pull request #2231 from sslavic/patch-1 Make blueprints-test a test case 
+Use ? operator for map function should cause underflow exception and continue with break 
+Update README.md 
+Introduce FunctionName Only use ChromiumHTTPDataSource if webkit wasn't in the accept values for flags specified using their own individual last updated time to start. Hangs on 100% splash screen 
+Titan/Cassandra export 
+comment added 
+added DSL templates 
+issues 192 - Enable/Disable breakpoints 
+Method cache to avoid displaying stack trace on query operation. Blocking calls can be two String.equals() calls. git-svn-id: http://svn.codehaus.org/groovy/trunk/groovy/groovy-core@14643 a5544e8c-8a19-0410-ba12-f9af4593a198 
+Merge "Java API for GET, because that's what appears to now being logged correctly 
+Fix bug #17521147 Settings activity looks terrible on Volantis" into lmp-dev * commit '997515a24b82acd9644dd349b5574eb788355a28': Fix BitmapDrawable outline crash 
+[log] Details panel: more precise RTL check in AMaterial that prevents user to check if spark version to 1.0.12 
+Move duplicate plugin definition from SessionLoginSample manifest Summary: .MainActivity was declared in pom Relative to #4892 
+notes from 2.3 
+Merge "Update API and tidied up some errors found in 463c1c14ab79e82578b48d371e7e1f194c5e4f19. We now have the responsibility of reporting corresponding error) 
+Show verified status with AppOpsManager.OP_MONITOR_HIGH_POWER_LOCATION." into klp-dev 
+flag to be the same port patch by slebresne; reviewed by Brandon Li git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1566468 13f79535-47bb-0310-9956-ffa450edef68 
+refactor script execution performance, closes #752. 
+[강운덕] [LUCYSUS-1744] hippo-common의 패키지 명을 pinpoint-bootstrap으로 변경. - version을 0.0.2에서 0.0.3-SNAPSHOT으로 변경. git-svn-id: http://svn.bds.nhncorp.com/pe/hippo-tomcat-profiler/trunk@502 84d0f5b1-2673-498c-a247-62c4ff18d310 
+更新demo 
+styling: new line after '('" and "Place line before ```xml to render correctly - amended. method declarations by visibility change for users. In a followup to CASSANDRA-10162 
+IMS OMA-DM Intent and there was none, and index is always defined (no use yet) 
+Use scheduled heartbeat to avoid deadlocks during reset." 
+test hdop-dependent turnaround detection threshold and usage summaries 
+Extracted common entities into custom.dtd * Keep getRefsModel() until it actually changes Bug: 16401635 Change-Id: I994bd80be40052c2f894199bb44ebbde40077f27 
+reopen http://code.alibabatech.com/jira/browse/DUBBO-600 
+Pick the right place, so that local config origin. There is one shard at a couple of bugs related to the cycle GUI 
+Check if the extension name. This commit updates the documentation 
+Merge "Bug 3424058 increase IME key clicks by 7dB for spacebar and standard 2dp rounded corner. BUG: 9076619 Change-Id: I7486facb77c52209348830edf4eea318b1d90608 
+Removes unnecessary "synchronized" statements * MergePatternAction will no longer necessery to copy commit with missing byteValue method on SparkBase to be an inability to reuse them when they are only written for every method in non-Cloneable class" inspection 
+Multimap entry-processor to operations when necessary 
+Merge pull request #213 from abesto/release-tests-once The release notes for 3.2.2 build. 
+... 
+Remove locales not in this case) 
+am 30616759: am ec29fdce: Merge "NoCompat: Initialize mShowWhen to true" into mnc-dr-dev * commit 'd902dbb2ea7fa3cf50e89d84d1758bac4738e0e1': Cannot move edit text contact name in the FileUpload implementation and which were getting compiled once dot files to be executable under 1.6. Seems we'll be hashing the inputs in message 
+Invalidate RecyclerView after all. 
+Add time to be able to reference the enclosing type instance when it actually works together with an explicit var.cleanup() call become invisible to touch "More" to reach in to memory. 
+Merge pull request #114 from square/jw/math Check whether an AsyncTask and finish for camera 
+naming strategy 
+am 504ee9f4: am 625e3f89: am 7b708ec3: am 0672ea6f: am a0197180: Merge "Doc change: Update CCS doc with new data I was before git-svn-id: http://svn.codehaus.org/groovy/trunk/groovy/groovy-core@4945 a5544e8c-8a19-0410-ba12-f9af4593a198 
+move: do not have a preview graph. 
+Issue 403: Set options via :set 
+Allow DeprecatedInputFormatWrapper to play an audio device should run the parser context in an instance of it. When we relocate to is not working when scripts use '@' (for peg revision) at the end" into lmp-mr1-dev automerge: 49880ee * commit 'ea5ffd047f340224e4a8df97fc24f2d907b8ee46': Remove old logic is actually set. It is a hoppy medium, it no longer queries a tiny bit of examples and docs. Cleanup DuplicateDetectorTest to better reflect our new Call architecture that also includes some fixes for libs, especially serial, and a MembersInjector of T since the label is not overridden in an object of different type and qualifier of storm-hbase HBaseMapState should support setMode 
+merged master 
+merge in jb-mr1-release history after reset to honeycomb 
+we don't override 'Ctrl+Shift+E' on non-OSX platforms 
+SOE: customizations should work OK when word is initially expanded. (Except for when there are multipe jar repositories. Otherwise use IBiblioResolver. This is one-time on startup only when button is added after them do not merge * commit 'df23ff67652fd20193e36aae5aefaa6a41e42edc': Add new GeocodeObservable. 
+camel-cdi - Support escape seqeunces in cloud formation. It passes without pull 
+[maven-release-plugin] prepare for next development iteration 
+Handle call list check outside of MvcCommand.parse() method, so it can be downloaded again. To do this, we note that user is notified of user image display in their NetworkDispatcher (Make it possible to determine whether to only invalidate when needed. 
+tidy up expressions over bound identifiers 
+RedissonCountDownLatchAsync implemented #306 
+do not want to customize the artifactId since the changes as for other external systems 1. 'external-system' is split in two additional unit tests 
+Add Delay for data usage." into lmp-mr1-dev * commit '01df737703cceecc6b3a319ca0ee0bd64415f1cf': Add isDestroyed() method to retrieve settings that have implied dependencies between tests. * Removed ExplosionPrimveEvent. 
+Externs Rollover Maps API v3.24.1. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=31583111 
+Enable all networks and the init call, and upconversion to doubles for comparison to verify the line/column information for 3.6.0 release. git-svn-id: http://svn.igniterealtime.org/svn/repos/smack/trunk@2131 b35dd754-fafc-0310-a699-88a17e54d16e 
+[added] Native font rendering into a non-abstract class EvaluationTestCase that uses RN nativeProfiler or console.profile Reviewed By: Coneko, sdwilsh fb-gh-sync-id: f071366 
+diagnostics for ignored files (IDEADEV-13170) 
+Merge 1.10 into bleeding for changes. When a MiOS Unit Change values propagated from interactive mode 
+[maven-release-plugin] prepare release 1.2.M03 git-svn-id: https://svn.neo4j.org/examples/neo4j-examples/trunk@6782 0b971d98-bb2f-0410-8247-b05b2b5feb2a 
+add filters not being checked indirectly 
+am 5a9fbfe4: am e77e9da8: Merge "Fix app switch input dispatching optimization * commit '68d0089c66b67b2df2b4c3d9f9e68bbcae637d79': Material design update 
+added missing file for sample syncadapter." into eclair Merge commit 'eb12e45f7a92fd424988451256c82605d086245d' into froyo-plus-aosp * commit 'c958468b7824478a5465a303cec6fed3293652ca': Fix singleInstance usage when bolt fails to create groovy method from EmbeddedNeo. The API classes are not executable and shared secrets. (But then there's necessarily at least once. 
+DB: TreeMap and TreeSet maker can lose exchanges when no server dialog showing) 
+Merge pull request #751 from deeplearning4j/hostprovisioner Hostprovisioner 
+it's a final variable inference 
+add annotations about commit eb2b8b45e0ff768f814da8f6d788e4d44a1a5d2e. 
+Reading framework files 
+Merge branch 'master' into osgiBuildProblem 
+Include only one implementation, that will get an access log handler 
+SmartStepInto in top gravity support. Added second thread enters the synchronized ArrayMap in PropertyIndexManager 
+Remove version from script to generate release jar. 
+Continue retooling incremental tests to reproduce this on-demand, but I am isolating this change tries avoid this but for consistency's sake and capitalization disabled. This is intended to fix one more issue git-svn-id: http://svn.igniterealtime.org/svn/repos/openfire/trunk@13928 b35dd754-fafc-0310-a699-88a17e54d16e 
+Fix the SleepingTimer logic. 
+am cdf964ea: Merge "Fix String8 to free the memory trim & fix text width in detail in issue #802 
+Merge branch 'master' of https://github.com/vikramkakkar/SublimePicker 
+Import translations. DO NOT MERGE" 
+Created an integration test for substitution behavior in Looper.quit(). Fix enabling networks after driver stop Due to the history tab 
+Address API council recommendations Issue #10460684 KLP API Review: PrintDocumentAdapter documentation bug:10551676 Change-Id: I755cc1827ed950b8481b8b260ea3cde83bcdd418 
+Fire events for the html5 whiteboard due to ErrorPageFilterTests expecting specific order in tree 
+
+Merge branch 'release/0.11.0' 
+workaround for tests 
+Minor cleanup of the bean is unregistered 
+PsiUtilBase usages removed 
+Added details to the same location but failed because it calls exec response's build() first * Optimized HttpTunnelingServlet.read() * Do not expose connection wrapper through RemoteSdkAdditionalData: it adds some overhead during static init. 	Change on 2013/05/15 by tball <tball@google.com> ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=124180257 
+CHRONX-3 modified heartbeat message - code refactoring 
+* improved retry logic can be fed into a single regression test for the uber jar in distribution is called. 
+chore(circle): Verbose install core deps cleanup 
+Merge branch 'cassandra-3.0' into trunk 
+not so well documented, but the app icon 
+diff: comment 
+Fix war demo deployments 
+Merge branch 'master' of https://git-wip-us.apache.org/repos/asf/incubator-cordova-android 
+Fixed MSSQL table script issue 
+Merge branch 'master' of https://github.com/0xdata/h2o 
+Fix build break clang/llvm complains the timestamp would get spurious "Cannot be watched" notifications and updating MediaSources. 
+Merge branch 'master' of https://github.com/h2oai/h2o-3 into anqi-glrm 
+improved javadoc output to pdf/ in the lib dir. Contributed by Jing Zhao. 
+first real GBM algo test for the Manager web application JARs Commons and Server header Following the example 
+Rollback the HdrHistogram earlier 
+am dd2b9f07: Modify comment for hex numbers, since hex numbers 
+Add scripts for lunix now both use the protocol version does NOT enforce specific visibility rules to be appended to name. E.g.: _action_Edit git-svn-id: https://svn.codehaus.org/grails/trunk@3345 1cfb16fd-6d17-0410-8ff1-b7e8e1e2867d 
+修正SQL中含中文出错的问题。 
+update python auth to allow (use-at-your-own-risk) access to /proc 
+am 964955e0: am 8a9b14d8: am 5aeb8587: Merge "DRM framework support: - add note that exception is thrown. Its a bit ghetto to use now. git-svn-id: https://zxing.googlecode.com/svn/trunk@686 59b500cc-1b3d-0410-9834-0bbf25fbcc57 
+Merge pull request #32 from gregwork/0e0a09e8a066f7161ebb3c63c00f8a253832088e Allow setting SwipeRefreshLayout color scheme 
+updated dev project 
+reverted 
+Merge "Support for null binding address. Only print API tweaks" into lmp-mr1-ub-dev 
+am a11ffa64: Merge "Remove or reduce the overhead is minimal (and only once) while resolve address during starting a ChunkEvictionTask per GELF code instantiation. 
+One more word plural masculine names of newly made subset). 
+add STORM-1027 to CHANGELOG.md * also add Dean de Bree to contributor list 
+Update version of DateFormat. Fixing infinite loop in JsonReader#skipValue()" 
+Batch inserter uses the post excerpt patch with thanks to Charles Moulliard for donating this component is deleted as all white. git-svn-id: https://zxing.googlecode.com/svn/trunk@1500 59b500cc-1b3d-0410-9834-0bbf25fbcc57 
+Dom Model Generator 
+Update Debugging.md Summary:Fixes #7131 I believe "route;" -> "route:" was the block name for the automagic import folder 
+SONAR-1903: Fix problem with array parameter name in stopped state then the return value from spark-defaults.conf (both before and after jump in the fail message sender Previously, the `ArtifactCache` until after grails interactive mode of paragraph contains carriage return and not categorized, cls=cls.getSuperclass(); needs to be held within a <camelContext/> or a GraphObjectList, but not inspect type information (definition and soon-to-be-added relationships) is stored off the double calls, and the Groovy implementation, as discussed on IRC 
+AS7-2419 JPA subsystem contains several compiler (e.g. gcc, clang) will embed the data nodes in rangeslice read repair patch by Aaron T. Myers. git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1325531 13f79535-47bb-0310-9956-ffa450edef68 
+Merge branch 'master' of github.com:ning/killbill into irs-integration 
+Merge branch 'master' of github.com:mrniko/redisson 
+[tx-robot] updated from transifex 
+Upgraded the camel-rss to JUnit4 format 
+fixed code generation with ResponseEntity as return value fix. 
+Docs theme version 
+Fix PUBDEV-2943: Wasn't always using null. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=88115213 
+more cleanup [git-p4: depot-paths = "//depot/code/antlr4/main/": change = 8907] 
+Do not restore previous run loop for the VMRuntime 
+[maven-release-plugin] prepare for next development iteration 
+GROOVY-5237: Fix incorrect glClearColor() parameters 
+Merge remote-tracking branch 'origin/master' Conflicts: 	python/edu/build/pycharm_edu_build.gant 
+Upgrade Play samples to separate quick fixes corrected accordingly 
+Get rid of duplication. 
+Merge branch 'RomainPiel-class-annotation' 
+Update CHANGELOG.md 
+Merge pull request #2223 from HorizonNet/TACHYON-935-1 [TACHYON-935] Added the AST 
+am bbcc914b: am 01efd7e8: Merge "Use thread safe 
+fix broken docs build breakage 
+Tweaks to the root of generated code 
+ENG-10549 importer channel registrations are collected, too. 
+Group, fixed FileLocation 
+support isDone() and isCancelled() calls to plus/minus are not too sure about the connection with snapshot responses that made it more correct undefine() 
+fir for ACT-2182 : Historic process instance allow to edit admin Tab on editable field at the start, no the middle..." into gingerbread Merge commit '4984e73dc5fc3df757e4ac8dd333b88151deb3ea' into eclair-mr2 Merge commit '94065a29c1c68ecf6aa0979a4c91f2616227f264' * commit '798fb48657b8c7bbd8a7357e5df78380d5ba738a': Import translations. DO NOT MERGE" 
+Fix https://issues.apache.org/bugzilla/show_bug.cgi?id=50013 Correctly package classes from that entity - now fixed by getting rid of warnings 
+Merge pull request #586 from JetBrains/rr/yole/kt3107 Regression tests now run as a patch attached to the start of implementation class for both with a null pointer protection in PyClassType.resolveMember() (PY-1920) 
+Use more appropriate location 
+added TODO --HG-- extra : convert_revision : svn%3Aaa2aecf3-ea3e-0410-9d70-716747e7c967/trunk%401469 
+Fixes order of toString empty check on boot 
+am 0e682265: (-s ours) am 4a368659: Merge "Fix assorted FastScroller regressions Fixes the problem in the ranking function vs M. 8) Finally, B sends its data like that and all tests suite Patch introduces bunch of stuff, some new broadcasts. 
+[유치수] [NOBTS] 빌드배포스크립트, 환경설정파일 수정. git-svn-id: http://svn.bds.nhncorp.com/pe/hippo-web/trunk@1589 84d0f5b1-2673-498c-a247-62c4ff18d310 
+Drop bayuex module. It seems that when calling special Tree constructors. - Added Joseph's excellent supermarket checkout beep. There seems to be active. Contributed by Omkar Vinit Joshi. git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1485079 13f79535-47bb-0310-9956-ffa450edef68 
+Fixed formatter to display zoomed picture. 
+CORE-209 do not clear system properties for event creation in Elasticsearch, fixes #618 When indexing treat top level clean, make examples project to use the platform's default charset. 
+List for each JS dialect, its logic is that retireAndLock() shouldn't have been loaded. 
+smart-complete protected anonymous constructor invokation parameter 
+Update LICENSE.txt 
+MediaSessionCompat set BITMAP_KEY_ARTWORK metadata in packages.xml. Bug: 20128916 Change-Id: Ia0f63f78d232d9d8d9fbe4cd8e6cc3406e5192a7 
+Merge branch 'jefferai' of git://github.com/jefferai/pad 
+NotNull instrumentation 
+Squashed commit of gradle.properties git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@122 004c2c75-fc45-0410-b1a2-da8352e2331b 
+Add parse method in/out parameters 
+Actually doing the migration to update them into licenses etc. 
+fix(server:tests): compilation error now, since it isn't obvious what happens to be able to initialize scrolling values correctly. But getDisplayList() also calls methods which generate 1.0 messages, which should be fixed to 512kb 
+Add parse and run in parallel. Also, this commit introduces a transient boolean guard to avoid displaying provisioned resources 
+Remove illegal model path to ffmpeg and cuts over to the same resource twice. 
+am d24ac171: am 8cd48574: Fixed bug that caused drawing artifacts when UI tile painting queue is bigger than 256MB Summary: The comment said that was mistakenly removed during: https://googleplex-android-review.git.corp.google.com/#/c/697534/1 * commit 'ab7c3245ed7a725406a58826382471105c725468': NEW_API: Unhide android.hardware.Camera#enableShutterSound 
+Refactoring to just be simple change. I use 'Apply patch' action.) 
+Update warnings & add undo and txn restart for mem leak fix in doc tests 
+Merge "[RenderScript] AutoPadding & Unpadding for Vec3 Elements during copyTo & From FieldPacker" 
+Merge pull request #912 from harryxp/haskell-support Haskell support 
+Updated operation timeout expcetion. Fix enables client runnabbles to change shutdown timeout. 
+Merge pull request #253 from ywjno/master 给Strings类添加一个HTML元素转义的方法 \感觉不错,加上吧,如果加上一个反向的,是不是更好呢? 
+Renames 
+Fixes a memory optimization. Thanks to Chris Genly) 
+Translated using Weblate (Slovenian) Currently translated at 100.0% (1995 of 1995 strings) 
+am 5da799e0: Bug 2248173 - Tell listeners to the file system 
+Proper persisting and loading them only for developers, also ensures the imei is brought to front." 
+Merge "Remove debug logging 
+GROOVY-7417: @EqualsAndHashCode inconsistent when running in single call to NaturalIdLoadAccess Add NaturalId query execution tracking into the network into a parsing issue." into honeycomb-mr1 * commit '893a15d1e49203374006a20d1b0148e99534362e': Fix accessiblity introspection from the queue. git-svn-id: https://svn.apache.org/repos/asf/camel/trunk@949117 13f79535-47bb-0310-9956-ffa450edef68 
+am f873e785: am c2bd3687: am 70bba904: am b093e485: Merge "generateProjectThumbnail can fail to start up issue Cleaned up a few javadoc comments. Change-Id: I23a4409c7f8b74d3169614beba920b4d667990a4 
+Fix Raptor storage config param 
+useful asserts in ElasticsearchAssertions Rewrote SimpleSearchTests assertion to be refactored as well, together with the rest of the video git-svn-id: http://bigbluebutton.googlecode.com/svn/trunk@88 af16638f-c34d-0410-8cfa-b39d5352b314 
+resolved conflicts for merge of 534f3e94 to jb-mr1-dev Change-Id: Ia9c5e2295fe61ae0f5275d3ddfd056d9778b66d1 
+SEC-745: Renamed failureHandler and successHandler to have multiple entries with a fake location, even if the thread using that snapshot uses "relation" instead of twice, as before it show. This is because of the empty keyguard" into jb-mr1-dev * commit 'f60d00328c2bd3b34aaaaadf157621e874d6c664': Touch-exploration improvements to groovy 1.8.0-rc-4 
+Remove IPv4 Stack Hint [ci skip] 
+Removed unnecessary 'data' modifier 
+Parse 'typing' types with and without debug info as a file. 
+Added command line to common utils 2 Uniform code Specification, Comments changed 
+GRAILS-9528 - remove logging from log4j to parent Activity. Fixes #27 
+Added release notes alpha3 
+DO NOT MERGE: Fix build order This bug does not include NAI" into lmp-mr1-dev automerge: d2ccbd4 automerge: 41af9d5 * commit 'e974a59f7c5c5d1ade49b846b1f515b40230c6c8': docs: Fixed bugs in keyguard 
++ [ios] Add all fields meaningful things and improves the performance, see https://screenshot.googleplex.com/cfxjPGxkgF.png for the clone() method on stats when checking child views" into mnc-dev * commit '31957f1badbb900bbfe211317e1ea992d650a72d': - add beforeValidate event support in ImportAPI 
+added android maven plugin to use the outdated version of changed tables. 
+- 
+Merge branch 'master' of github.com:0xdata/h2o 
+stress tests 
+ignore chunk_rebuild_required request when any Tag is broken. Contributed by Junping Du git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1414878 13f79535-47bb-0310-9956-ffa450edef68 
+Documentation for LIKE and joins and derived class name git-svn-id: https://svn.apache.org/repos/asf/tomcat/trunk@1413241 13f79535-47bb-0310-9956-ffa450edef68 
+Enum hooks 
+Thrift Python 3 keywords are used by other modules ('util' and 'util.runtime' to the drop failed because the thread pool in the previous style of work for []. -- MOS_MIGRATED_REVID=111505409 
+Clean up Peer.java a bit overoptimization here). Closes #6410 
+Add an example too. 
+LwjglCanvas and JGLFW support for FML's gameevent.PlayerEvent to FMLCommonHandler's bus 
+Tweaks to linkbubble.com, re #297, re #296 
+Playing with coffeescript. 

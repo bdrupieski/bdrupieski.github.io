@@ -1,0 +1,1004 @@
+Python
+Most probable sentence: Merge pull request #1 from wbond/master Update 
+
+Likely sentences:
+Add ES 2.x 
+Nuked another reference to Python 2.7 
+.gitignore is now lacking features. 
+Add XEP-0163 plugin. This help info for the 'python' and 'nopython' to pure ruby 
+Add keys. Make sure frame is left in 
+coerce is buggy 
+Remove prettyAtom as prettyForm has ATOM binding by default and allaows for either date or datetime This is a package. 
+PEP8 cleanup and fixes 
+helpers module is availble in agent. 
+fixed marking :) 
+better temperature combo box size threshold for button 
+path for now let's make room for 0.1.7 Signed-off-by: Maxime Petazzoni <max@signalfuse.com> 
+Dont scan font files saved are .flv containers with restart Signed-off-by: Sam Nazarko <email@samnazarko.co.uk> 
+accelerated-domains: add 52ppt.com 
+Fixes #543: Import of ``getSiteManager`` should be quoted if we use currently) pre-set. This config file when updating a marathon app as task close and also added new Greek, Armenian, Georgian glyphs to oblique set 
+Allow keyword arguments are working 
+[FIX] purchase: wrong currency rate records so actual functionality - fix partner id into Metadata. It should inherit from Object Inspector. 
+Do Category to pp/script/priority conversion as beta reduction * Fixed path for static x axis so labels don't disappear when unused) Signed-off-by: Jerome Flesch <jflesch@gmail.com> 
+Fix tutorial with link to "mastering matplotlib" book 
+Fix pylint errors and add tests to accommodate text() Fixed bug with validation bzr revid: qdp-launchpad@openerp.com-20140417081707-aeonwtmmvf2l7j03 
+Remove unused models 
+ref #19855: skip uuid test_find_mac on non-Posix as in 2.3 
+[IMP] Add the missing space to accomodate reactors that caused the use of sys.path.append() 
+setup.py to bring consistency to the end of the description by copying mixin columns documentation 
+Nudged to version that is was already fixed in landed cost on unresolved signature, to penalize it a lot of torrents with one argument. 
+When setScriptSource and not need tests, as they were, they shouldn't ever be relative. git-svn-id: http://code.djangoproject.com/svn/django/trunk@5798 bcc190cf-cafb-0310-a4f2-bffc1f526a37 
+Reduce salt-ssh debug doc 
+doc: revisions to uix/behaviours.py 
+move sparksql-datashape tests to test-parser 
+add a venv create -g option for --dir-only is -d, and the given failure condition for mongo retention to other tests are still a nice addition to ConfigurationRecorder in the single method on instances, for complex() conversion. Keep gcc -Wall happy. 
+Merge branch 'v1.5.x' into v2.0.x 
+fixed minor markup issues with locales that can't handle sys.maxint, that was added and used by the six_moves operation of other implementations suffer from this option is used, this hasn't been a normal user. We now have Help and Issue #334. 
+accelerated-domains: add boting.co 
+HUE-2373 [search] Heatmap can break rebuilds --HG-- branch : trunk 
+Merge pull request #2100 from patcon/add-travis-badge Add travis tests to reflect new behavior. 
+Merge pull request #445 from t-8ch/clock_broken_warning warn if instances that serialized fields are empty) create a new indicator for 'not None' declaration on the backend (2) If both near and id columns. Adding an engine at that time out. 
+Merge branch 'integracion' into master branch 
+fixed argument conflicts with DKH 
+Extend the brief amount of time doing font substituitions 
+Update README.md 
+reduce code duplication in LargeMmapTests. Original patch by Paul Colomiets. 
+Merge branch 'develop' of github.com:nicolargo/glances 
+Merge pull request #8856 from asmeurer/mpmath Improve error message when pandoc is missing due to time log. Fixed issues with returning local timestamp but still be tested) closes #4600 
+Removing duplicate code in classobject.c, so I'm not particularly interested in embedding main program for icon support - hosts.allow and host.deny access control was out of date. 
+readline prototype 
+Add checks for eval 
+accelerated-domains: add 2015nian.com 
+fix(deisctl): improve dock name match actually file name has changed INFO:subp.spluigi: warnings.warn('Use value rather than an array without operator overloading. The simplest way to just use the --include-children of mprofile. Only the "Static" scheme is http or https, depending on whether or not - I'm in a recent change to the arguments and set the list of all sentry subprocesses under Py3.4 and adapt docstring 
+Adding VariableManager class for the docs to be 
+change to gp_symbreg doc example. 
+Delete 4 week old articles 
+Typo fix 
+Fix test for loading Linux modules 
+Implement first piece of code completion for new resourcetypes in the db field to Submission 
+Place the change that was used as fallback name if possible 
+parse output for imageinfo plugin. 
+use configured timeout The current code 
+Minor content tweaks to config section easier as gerrit will display full content with blockreplace (#33049) Fix #12422 
+Fix whitespace in linux_pstree 
+Cover __repr__ implementation (issue #297) 
+Fixed typo in warning for when everything else This contains utilities for view messages thread 
+Merge pull request #4369 from jtratner/make-network-tests-run-twice TST: Make graphics directory testable 
+Fix assignment to undefined (really a micro detail) 
+Fix #2027: ``make epub`` got errors if we just have two checks. One to One Command package 
+Add Gemma repository 
+Fixes copy and rename import error 
+Fixed #25304 -- Allowed deleting nodata value on the forward port of branch 7.0 up to summarize 
+pyjamas desktop 
+Fix tracker check 
+Release 0.0.13. 
+[IMP] When no videofiles 
+remove empty modules when the optional hyphenation algorithm that doesn't involve any operation with unicode objects to get network ports allocated by the cookiejar. 
+We don't need to remove mention of import_ics_calendar command to swift-ring-builder add." 
+Let us know if the user to include these headerfiles. i have no idea why I put there, but I need to clean up after itself on a socket was closed git-svn-id: https://svn.tribler.org/abc/branches/mainbranch@22655 001aeff7-3401-0410-a489-f7902fc005dd 
+[FIX] potential bug in which those interfaces specified and not to work on parsing calls 
+disable coding style of all operators, although the review request ID in index view 
+Removed left-over print statement from JS rather than keep tacking on extra fields will change. 
+fix incompatible changes and other assorted code improvements for idiots 
+Merged in Brouznouf/sphinx (pull request #20) Issue #25005: Backout fix for debian This is because the temporary CWD. 
+Fix #20447: URL names use dash. 
+(Fixes Issue 336) - two new property on the log file if the new mailing list that is low 
+Fix server get to avoid KeyError. Closes-Bug: #1478430 Change-Id: I30ddab33ebff14e695e7f2450eb5083544f9ba63 
+FIX issue #159: Streams wrapped multiple times over during the normal request-response cycle. The behaviour of daemon 
+Style cleanup 
+Merge pull request #520 from precise54/fix-deprecation-warning Fix deprecation of macostools.touched(); it completely with oracle 'owner' attribute 
+Remove reference to it. In short, your code to use Apple's installed Python, and not the user what the provider icon to New->New Window, so it work again 
+Resync pot file change details: salt/utils/async.py: - Implemented new median calculation slightly 
+Merge branch 'master' into with-evaluate Conflicts: 	sympy/core/evaluate.py 
+[Merge] : branch merged with trunk bzr revid: odo@openerp.com-20111017145714-36khvwvipuf8cauh 
+Usenet stuffs Client-side support for goldenmoustache.com 
+Drops dependency on dict.copy(). 
+Add CssColor conftype 
+fix(run_server.py): test if TESTFN_ENCODING is None. 
+[MERGE]Merge with trunk bzr revid: chs@openerp.com-20121114174258-ly0dniub0k383045 
+Submodule.remove() now seems to be defined. Noted that __init__.py files to salt/pkg/windows 
+Example notebooks updated. 
+updated Myriad info 
+Fix 1036082, or at least Added frame codec parameter (jpg or png) to shell - There is still supported for mongo list to reg executionmod and state modules Fixes https://github.com/feincms/feincms/pull/528 
+Fixed a typo, share more than just the content to stanzas. Full support for --config-path option 
+Add test for NearestNDInterpolator 
+Merge pull request #489 from sivel/pushbullet-no-24 Ignore pushbullet.py from 2.4 maint. Bug #1160802: Can't build Python could fail in int_or_none 
+Removing the last one... 
+Merge pull request #31500 from rallytime/merge-develop [develop] Merge 2015.8 forward to learning python 
+Implemented process CPU cumulative time of the changes are displayed correctly. Fixed #314. 
+Merge pull request #6265 from franckcuny/gce-fixes Add credential parameters to ffmpeg using the mkdocs-basic theme 
+Moved remotely svn/trunk@3674 
+let's try to load a specific store svn path=/src/trunk/Pootle/; revision=17232 
+1st attempt fails 
+fixes to SLP classifier 
+Don't import the moved port. The temporary group is given and statuses 
+Set master_password for modify command into wagtailcore 
+Replace __import__ with "unicode" strings. * In [2]: a = -1 
+Added openid as an enclosure 
+Display the media center auth method Fixes GH-2727 
+remerged with 2a 
+assertion message git-svn-id: https://linkchecker.svn.sourceforge.net/svnroot/linkchecker/trunk/linkchecker@3507 e7d03fd6-7b0d-0410-9947-9c21f3af8025 
+release 2.8.8 
+Stop duplicating BaseType attributes on the Tru64 buildbot appears to be an error--don't blindly run and doc references" This reverts commit 94ce103247332a8ad56bb41a7245546f824971c3. 
+Apparently this is a common place As part of primary keys to UPPER on adding stack traces for the accept button wasn't always getting into bad request exception.A new test in test_sets.py 
+Merge pull request #647 from kachick/implement-integer-even,odd Implement Integer#even?, Integer#odd? 
+Changed press release in to master. 
+Merge pull request #6067 from mgwilliams/ddns ddns: ensure name uniqueness on the searchview's spyglass Required reifying the purely visual component which displays everyone. 
+improved some cyrillic characters 
+few driver path fixes 
+skip doctest with direct access to the dashboard into horizon. This patch will fix the dovecot.filter for me, the attempt to encode a message when repository key file left out regex and StringMatchQ 
+remove unused variables 
+add RabbitVCS for sublime and sublimeplugin imports - Rewrapped lines to 79 characters ought to be passed to the registration become more important than job flows whether failed or successful when it was overwritten closes #1004 
+Remove combined_open_ended XModule Python tests from PyRegion.py to pyregion_test.py 
+NIS documentation from wiki 
+Logged errors now inherit SyntaxCorpusReader: - BracketParseCorpusReader - SinicaTreebankCorpusReader - TreebankCorpusReader (unnecessary? -- no longer optionally 1 param 
+SSL certificate validation. Contributed by rszabo50, part of bootstrap modules. 
+Upgraded CherryPy libs to 3.3.0 
+Move lazy-loading override logic when the subprocess command through the Execution Summary Essentially you would expect. For those who just want one-shot without the GIL and after some time this function is then discarded by the hostnames, so duplicate controllers can use the pip bug. Change-Id: Ifd1a0676073e91104db3a13df6fe1eb2189f20f5 Related-bug: #1445412 
+Attempt to fix with where=2 detection phase. Minor bug fixes and improvements Rules of Korean spelling (Section 43) - "일 분" to "1분": Keep consistency between name and topic nodes. 
+Ignore *.pyc for PEP8 
+VMware: remove duplicate oe 
+Updated Java Applet with obfuscation. 
+fixes #23: incorrect use of backslash continuation. 
+Check for multiple types, update Class tests, start test cases of interlaced I/O in dulwich script. 
+Updated copyright year 
+Restatus, even when replying to the error was previously swallowed so you now need transforn that need them to a group is switched on by default, which will make it slightly faster. 
+fixes #2900 
+Merge "Fix broken method interface 
+BUG: interpolate/bpoly: make BPoly.extend work 
+Release 0.4.1 
+Pass on the zinc compiler doesn't seem to matter, just doing it in in-the-wild code they're not openssl specific plus bonus better exception on getattr condition git-svn-id: svn://svn.twistedmatrix.com/svn/Twisted/trunk@12782 bbbe8e31-12d6-0310-92fd-ac37d47ddeeb 
+minor cosmetics 
+simplify the replacement for comment-indent-function's default lambda value (in %) and the need for the paranoid a little statement assignment problem 
+Add some docs 
+packing list patch of _bootstrap_inner since it will have some clean up git-svn-id: https://pdfminerr.googlecode.com/svn/trunk/pdfminer@43 1aa58f4a-7d42-0410-adbc-911cccaed67c 
+replace "BuildSlave" with "Worker" in workers_src.svg 
+Use !default for the row, this should enable clear_after to match the SD card in Job subquery 
+Were copied to an assumption that `~` follows no symlinks can slip in. Closes-bug: #1404605 Change-Id: I0d308127081bb2fa4ff7d7e0ed2f1b6e915163c9 
+Restrict various membership queries 
+Undid [6718], as it displays the right name. 
+Merge pull request #1152 from immenz/dev_extract [ExtractArchive] Bugfix 
+[IMP] improved code in a many2many field stage_ids in sales invoice fails when columns are blue (dark blue unfocused, bright blue focused) and split mongo LMS-11090 
+Update README.md missed tent so much... 
+Fix mod_random not loading things in what's new svn path=/trunk/matplotlib/; revision=4892 
+Merge branch 'master' into devel 
+[MERGE]Merge with parent branch lp:~openerp-dev/openobject-addons/trunk-l10n-control-dev-parent-child-load-coa-templates-ron bzr revid: odo@openerp.com-20120801101014-sw2vla5a5u1bjpvv 
+Extract ordering the ticket, Python still blows up. Also a new compiled router 
+test fixes 
+[IMP} fix a synchronized block to a mixin it is already in test_query its more optimal example 
+:meth:`routing.Map.bind_to_environ` raises a new when it is finished, raising an exception. Now it is immediately active 
+Merge pull request #5384 from mdboom/nbagg-without-ipython BUG: Make sure vars don't make any non-list struct a list 
+Move to using only the python invocations, as for the new genbank format, now named Submission.from_url to avoid encoding issues. --HG-- branch : trunk 
+Fixes notification about credit requirement in setup.py 
+Allow editing an answer as argument to ModelForms.__new__. Patch from Leo Soto. git-svn-id: http://code.djangoproject.com/svn/django/trunk@6270 bcc190cf-cafb-0310-a4f2-bffc1f526a37 
+Fix test_packaging on Windws (#12678) 
+different walking git-svn-id: https://svn.tribler.org/abc/branches/mainbranch@22665 001aeff7-3401-0410-a489-f7902fc005dd 
+More fixes for scipy core 
+Drop 3.2 from Travis services We've never actually enabled. 
+#16940: fix indentation 
+Update README.md 
+Fix #8929 (reopened enhancement) Improve Content Views from model and collection filtering from V3 API flavor returning empty lists. Leads empty list 
+Ssmtplib, python library for all failures 
+Disable notify_new_message calls in testing instances. 
+Removed French and Korean Translations 
+Sumo and SVN revno as a Sublime Text 2 использует Python 2.6. 
+Using a redirect instead of saving and loading spinner to teh support banner. 
+Cleanup. 
+lint 
+fixed: navmeshex.cpp: In member function 'static PyObject* KBEngine::script::PyStruct::unpack(PyObject*, PyObject*)': pystruct.cpp:114: error: no matching sls file that was active fix gh-2327 
+[package] [kernel-osmc] Bump version to 2.6 + unittest2 + pika 
+support py3k.. 
+[DEL]Remove commented useless fields_view_get bzr revid: launchpad_translations_on_behalf_of_openerp-20130223052013-0e0cku4hw2cmvymq bzr revid: xmo@openerp.com-20110321081419-e2mv119gfm5kbaem 
+Remove fake pyem package. From: Fabian Pedregosa <fabian.pedregosa@inria.fr> git-svn-id: https://scikit-learn.svn.sourceforge.net/svnroot/scikit-learn/trunk@350 22fbfee3-77ab-4535-9bad-27d1bd3bc7d8 
+Merge pull request #1873 from eeshangarg/starter-project-1870 Refs #1870 twisted.trial.test.test_runner.DeferredSharedSuiteTest.test_waitForDeferred fails with ValueError: Invalid URL "javascript:history.back(1)"" 
+accelerated-domains: add xingtai123.com 
+Prefer anchor element content not in ubuntu dev env 
+Merge pull request #355 from GoogleCloudPlatform/dev-klausw-fixes Fix malfunctioning boilerplate.sh hook. 
+This rq.filter doesn't actually map RBD images (we don't have an underscore can be configured with the same way as memmove is often a very descriptive and can be used like properties (closures with different comparisons (== -1, <0, >-1, >0, == 0, set changed=True Add enabled and disabled add paused if trakt is enabled - cobbler status 
+[#931] Fixed by using $* instead of 'category:detail' with kwargs on top of a sudo flag to bin/builds sync 
+Tracebacks are printed to the new init parameter: erase_on_connect defaulting to the repository into the gitcmds module. Signed-off-by: David Aguilar <davvid@gmail.com> 
+BaseException.message was deprecated prior even to send emails. - Added 'usercancel to list them in as big (if possible) 
+[FIX] configuration overview actions should not impose format restrictions) 
+Updated 'search' examples. 
+add a module 
+Fixed #5945 -- Treat string literals in Python 2. Older versions of pyflakes warnings 
+Enable swift tunneling on swift. 
+bugfix_lp_335179 bzr revid: nel@tinyerp.com-20100617081206-clo884lxc66jxjkt 
+updates image info 
+Fixed issue 95 - Multiple update ts stores with TBAA 
+address comments 
+Fix #1505 
+Completely get rid of all picking bzr revid: nicolas.vanhoren@openerp.com-20121217150005-xucbt5xvysl85768 
+git-svn-id: https://svn.tribler.org/abc/branches/release-5.9.x@27942 001aeff7-3401-0410-a489-f7902fc005dd 
+Restore app wrapper experiment 
+Bump up joblib version, update CHANGELOG 
+don't generate bad error message when a plugin being inserted from writing a Ttk example 
+Add tests for singular matrix in fititer 
+Merge pull request #717 from MITx/feature/bridger/wiki_fixes Feature/bridger/wiki fixes 
+Tweaks to the mistral workbook The utility itself will use to the subcribed address set in profile signal handler 
+don't update position Fix the status quo. Testing Done: Have tested on a 10.3 system. ........ r45661 | ronald.oussoren | 2009-09-20 16:18:15 +0200 (So, 02 Aug 2010) | 2 lines fix typo 
+docstring 
+Added cleaning for user/group selection - make sure key files that are no longer considered a quote from the doc-strings says), but only when registering. 
+cleanup 
+Change formatting from [8212]. git-svn-id: http://code.djangoproject.com/svn/django/trunk@8213 bcc190cf-cafb-0310-a4f2-bffc1f526a37 
+Make DruidDatasource.version_higher support funky version strings in quotes in values returned by backend_ps. svn path=/trunk/matplotlib/; revision=8010 
+changelog: add missing description to course module. 
+Merge branch 'master' into docker. - Move to acme handler 
+improved bzr revid: hip@tinyerp.com-20121126044500-3elpfk2qcv3oo6pz bzr revid: fme@openerp.com-20120607131244-nc20un5t1wg1jmip 
+DOC: add reference to ambiance (integrated from komodo (trunk) change 83020 by toddw) git-svn-id: http://svn.openkomodo.com/repos/openkomodo/trunk@4102 b87d16e7-d29f-4ee1-b5ec-817d645d335f 
+Add Zeus Color Scheme 
+Make spacing after comment sign before the arguments of an empty string. 
+Import e0bc3c2e508130e33d1a2456a2f1ffb36f0ad277 from bitprophet/etcaetera 
+Fix remaining issues with mixed objects. 
+check win32clipboard existence instead of country_id. 
+Refactor how pretty printing with multiple searches at once 
+Improves tox for py32 Do not use None to 0 before exiting. 
+Update the suspicious builder not available 
+Add animezb provider 
+Refactored Contact Add JS support to setupegg.py svn path=/trunk/matplotlib/; revision=5268 
+Refactors code as WARNINGS, instead of file:lineno of deprecated (and slower) API git-svn-id: svn://svn.twistedmatrix.com/svn/Twisted/trunk@5512 bbbe8e31-12d6-0310-92fd-ac37d47ddeeb 
+Implement #7711 (Add "Previous" Button to Low Level Object No support of active_domain bzr revid: jni@tinyerp.com-20100713120301-zbn0v36ofcyhwwvp 
+Migrating to manage them both in wiki module [FIX]: fix the fix here implies catching potential failures from autopep8 commit: 66fc98f0b7316331b505c4c4d4929fcbdc668d86 Arising from correcting PEP8 violations caused by numpy.ma bugs 
+[beeswax] force scroller to work around a tuple of bools in argument_spec instead of calling search_read directly bzr revid: ced-15c090b4660faf4ae5927172e3c0c117987b23a4 
+Merge pull request #889 from GoogleCloudPlatform/list-consistency-iterations Add Flag for SessionToken ttl setting. 
+Merge pull request #457 from VladimirPal/master fix int_range input 
+[FIX] product: add archive button on hover of follow button 
+Exclude -avx as a workaround for #504" This reverts commit cb8968400f8c8370cab309de0f63e82565bfb25b. The series option will be ignored, and an extension method signatures. This also removes the 'build' commands. 
+assistances > assistance 
+Update tests and check that direction 
+finally remove serializer_shelve, which is actually complete and we call the correct place This reverts commit 1598d72d23f423cd877e696fe66230aade3d689b. 
+Factor out edit_variable in responsive modal launch improvements 
+Add notification for remote files, something which actually uses the new objects. Also, ownership field for the ep summary on the client-side. Since template fragment caching is enabled In case we end in period) bzr revid: ced-064cf82573e34cdc578f936431e4588c1829891c 
+Merge branch 'master' of github.com:dcramer/django-sentry 
+Merge branch 'master' into diana/open-ended-tests 
+moved string.h utility code into own module 
+Merge pull request #47 from digitalocean/readme-travis-badges Add Travis build icon 
+Minor fix in adblock.py 
+Merge pull request #611 from benningm/benningm-patch-puppet-yumrepo fix case bug at update to avoid sqlite segfaults. Create MultiServiceLoop to manage alert policies in cloudformation 
+Add --status-port. 
+Fixed #24129 -- Added class/app_label interpolation for resolving program names, replacing underscores with spaces, fixes #406 Prevents the problem or with the same one depending on the minion retry when IOError 
+scimoz: need to call PyErr_CheckSignals(). 
+Merge pull request #10452 from edx/bderusha/rc-2015-11-03-bug Fix dashboard display fix. 
+Merge "Don't replace instance object is now required. git-svn-id: http://code.djangoproject.com/svn/django/trunk@3137 bcc190cf-cafb-0310-a4f2-bffc1f526a37 
+Null merge 3.3 
+Expect unicode in all_refs() This allows customizing the logger handlers dump internal errors from user-defined validators can use VersionPredicate to say runas not available Visual Studio development environment in automated fashion using a server with VLAN. 
+Merge pull request #264 from dotcloud/tls_alt_api Improved TLSConfig API 
+Updated changelog 
+Add Hello World examples to test_decimals 
+git-svn-id: https://svn.tribler.org/abc/branches/mainbranch@31727 001aeff7-3401-0410-a489-f7902fc005dd 
+Fix screenshot commenting were quite a lot of the tests with Python2.6 
+Update aliases.py 
+Updated Java Applet with obfuscation. 
+More spelling fixes. 
+Merge pull request #2878 from hypothesis/decouple_ext_build_from_pyramid Decouple Chrome extension This extension is actually run inside the div.focal-point-chooser block. For thin images, the 4 individual functions in nova.compute.flavors from instance_type Change-Id: I50268a85ccd62b019436a207c2b52b1901597564 
+Move inject variables into the relevant repo. 
+Add pyston_ prefix to C functions, causing the windows build. 
+remove precompiled 32bit bootloader. 
+now modules do not lie. git-subtree-dir: json git-subtree-split: 9dc2c40347a8724163461ab553c0fb1adf812f89 
+urllib3 update 
+[REF] reformat xml files in `$HOME/.ansible` instead of hard coded value, and I dont know how this could suggest we are. Return one of three or more. * Change _PyUnicode_InsertThousandsGrouping() API to delete the error when calling CONF 
+Bumped changelog 
+Don't try to configure this in without a hard-coded MANIFEST.in to make things more complex author names; simplify process to freezing.html. 
+garden 
+Merge pull request #4222 from edx/ahodges/documentation/DOC158 Ahodges/documentation/doc158 
+Simplify the code so that it requires a special case log(1,1) 
+Merge pull request #2542 from bfroehle/IPython_main Allow starting runtests from any scope. - Update Roundcube Webmail to the container's root filesystem as translation message catalog templates. 
+little precaution from checks.py to common.py. Initial refactoring of View PlayTab Pro driver) 
+Update HISTORY 
+improved the way user can force a RSS feed, since http://eztvapi.re does not have it translated 
+Merge pull request #270 from Holzhaus/split-unittests Split unittests into shards for faster and easier reading 
+[project @ moraes-20021023115220-7b961936f27ecd5b] [project @ robey@lag.net-20060530065858-6300e2d76304778c] convert an (ascii) Unicode object is not new files." The advice to follow existing style is out of loop once 
+run autoconf (step forgotten in r17479. git-svn-id: http://code.djangoproject.com/svn/django/trunk@17485 bcc190cf-cafb-0310-a4f2-bffc1f526a37 
+Added unit test 
+Remove deprecated tkinter functions: Delete an accidentally removed previously. Add assertion message. Thanks for contributing! 
+[FIX] mail: fix res_id link when the transaction is short term, pending proper parsing of perforce diffs 
+fixed empty sections 
+Updated user manual. Minor bug fix for end users. Also remove a duplicate test of map-like usage 
+Add Plex Media Server and gunicorn should not be found 
+Merge "Insert validation with Django 1.5+ 
+Merge pull request #31026 from terminalmage/issue30934 Fix regression introduced in saas-3 but should prevent issues with KAT Provider now uses SSYNC verb instead of restoring windows to shorten lines. --HG-- branch : trunk 
+Removing bubbrubboftime sadly 
+Improve stderr handling code when we actually delete the key 'ssh_port' in the diff with two google namespaces in netns_cleanup" 
+修正一台硬件上部署多组服时， kbmachine经常无法识别关闭又重启之后的进程。 
+fix %load docstring was never set the 'service' product hasn't been parsed automatically, although that might just freeze it to be used in applications docs. Refs #2565 
+accelerated-domains: add meilele.com (美乐乐) 
+Address review comments: https://travis-ci.org/pantsbuild/pants/builds/85625440 Reviewed at https://reviews.reviewboard.org/r/8009/ 
+Merge branch 'master' into uri-shift 
+Corrected the SQLite logging backend configuration guide 
+Fix backward compatibility - Encode string/unicode to UTF8 text messages through Sublime Text 2 seems more appropriate parameters to sed 
+[FIX] unwarranted assumption that LoncapaProblem.fileobject is actually resampled, unlike in Python2, added support for user existence and mode can now generate a module method, not a full sync. Saw that it could fail due to low version with mock 
+Fixing login message now displays the stack 
+up 
+scheduler->worker getitem uses queues 
+Update bootstrap.sh to setup.sh 
+Remove now unnecessary property from files 
+implement somewhat different way of handling ir_model_data and ir_value for portal members in project 
+[ADD] Chatter widget: fixed a typo on viewsets.md 
+this exception to boot). This makes sense to have DHCP enabled. This patch updates 
+fix #1290 
+PEP8 
+Add OVS patch port between br-int and br-tun, respecting drop_flows_on_start configuration option. 
+Use bigint for db_type 
+Move "M" shortcut key on pci_devices.compute_node_id" 
+schemes: correct handling of affiliate flag. 
+Fix pylint warnings: unnecessary parens after 'XXX' keyword" 
+process lib: similar refactoring for bulk_email monitoring. 
+[FIX] Point Of Sale : Added a test for revert of changeset 228fd2bd83a5 by Nadeem Vawda. 
+updates file upload progress indicator with percents. 
+Spelling: keypad 
+Clarify file.replace MULTILINE flag interaction with OS Change I1ab0c33f7ac4690b72a14e7748356a6ec22c9308 was missing access rules for l10n_fr report lp bug: https://launchpad.net/bugs/405721 fixed bzr revid: rgo@tinyerp.com-20140421112339-36q7ifaplea40r56 
+Simplify test setup docstring 
+Added a YAML based configuration leverages ConfigParser's native multi-file support. Files changed: nodes.py -> - Check 'location' key in dictionary: pass ` is both odd and ends by `/shop/cart`. opw-666351 
+Adjust logic for determining if an absolute path on Travis 
+Merge pull request #8423 from jreback/str API: Series.str wont' raise and catch Invalid before, the context of row being edited forced the value(s) to be left in old directories (fixes #28) 
+Add lexers to all of the "Procurement" process node ( only to check if they meet the requirement in docs/getting-started.txt 
+accelerated-domains: add hengqijy.com 
+Merge pull request #5100 from cvrebert/patch-1 utils.verify.zmq_version: fix pylint complaint, also lock it when HistogramGlyph is called in a model instance for two different "rename" functions can now use a Context.create() method. 
+Adds support for HTTPBasic modules, adding new records inheriting from pootle.core.views.TestUserFieldMixin were producing different keycodes 
+Clean up some unused level of the user, e.g. "Revert Section", should default 
+Links to notebook. 
+QuickView: Show a message on bool arith op failures 
+minor doc changes 
+Remove stuff from SearchCommunity and change TileProvider to TileSource 
+"included_assets" and "excluded_assets" are project owners automatically 
+[IMP] sale: fix form actions (remove Angular hack) 
+Added support for the appropriate v3 directories unchanged. The copy as-is will not bring much. 
+Removed unused vars reported by ToR (unknown charset 'is0-8859-1') 
+Add release notes 
+Added the ability to do the job configs that have spurious closing </body> and/or </html> tags in sample code. git-svn-id: http://code.djangoproject.com/svn/django/trunk@5554 bcc190cf-cafb-0310-a4f2-bffc1f526a37 
+convert.py: Fix error on travis-ci. - Installs all mopidy -v or: python -W with -j in regrtest 
+More compact render_tag 
+merge 
+Match all groups within the product product should return False if the host or generic_host (esp. if STATIC_URL is an IOError for ECONNRESET. This allows importers to shadow moudle 
+[IMP]:survey,hr_evaluation.(Ref-YSA,APA). Fixed: -Survey analysis report bzr revid: mma@tinyerp.com-20121105065106-195oyhgl3x266r9t 
+Added Robin to "Major contributing authors" 
+Add link with MSVC 6. 
+fix issue151 - heuristcally lookup conftest files --HG-- extra : transplant_source : %B2Q%A0%A7c%3B%EE%40%93%08%E1%C9-%83%88%BA%ACU%7D%8D 
+Merge pull request #1746 from ivanov/confirm_restart Confirm kernel restart it and delegate to local testcode as well. One vision I have no cutoff by deault 
+Fix: add the runtype to the readme. (Django and IPython.) 
+add mode to save the metadata, but it will open the last planned bug-fix release of Biopython 
+Merge pull request #1866 from burrows-labs/master Get results of some /v1/repositories/<path:repository>/images logging. Those logs were parsed 
+update md 
+Bumped version for release groups from accounting configration and place a record is processed for each system interface's MAC/IP, just as easily fixed. 
+[spark] Add session parameter from: security_group_default_rule_get() and security_group_default_rule_list() They are intended as strings since the bug that was removed in favor of a pending change. Testing Done: Locally, need to repeat this process because the cell is really an alias, we'd generate a message is returned. Further work is now a dummy thread objects when it loses connection to a file, so this was a bug with environment variables. 
+Merge branch 'gc-user-watch' * gc-user-watch: Added page to avoid traceback which is 'switch carrot to kombu'. Leaves carrot as the resulting expression. Docstring and comment for sso_authenticate 
+Move all html content 
+Move argparse import ArgumentParser import psutil E ImportError: No module named pyinotify' D: fn=/home/yoh/test/monitorfailures_FilterPoll9nUKoCfail2ban-0 hashes=d41d8cd98f00b204e9800998ecf8427e/d41d8cd98f00b204e9800998ecf8427e inos=5398862/5398862 pos=0 rotate=False D: Adding a body at the requested_networks passed by args in custom built clang instead by the m2m table. People should receive the exact location is used in generated .classpath * Add version info to document that imresize converts the space from argumentless commands (resolves issue #3290) 
+Re-added TERMINAL_CLEAR Fix 
+Show progress when pushing an image to Urban Dictionary extension 
+ENH: Allow read_frame to use in EmbeddedDocument 
+small fixes 
+BUG in MultiIndex.drop for not-lexsorted multi-indexes, #12078 Closes #12078 
+Adding the CONTRIBUTING file 
+Support Routes==2.3 SubMapper.connect allows in self.transition_prob. Raise an error message when cheap inheritance caused confusing behaviour. 
+Add generic Twisted Web for customizing the logic could work around incorrect big status Use 7bit or 8bit encoding on Python 3 compat fix 
+Create README.md 
+support rw bind mode in text control as they were marked Pending Deprecation. * Documentation added. Simple interface "pdb.run('<statement>')" added. 
+Fixed a typo, this patch makes the test env re #193 and friends are window object of length 1 
+Remove assignment of an expm without computing the next time 
+Update phases.rst Line 4, added `` around code to minimize the cost of setting the GIT_COLA_SCALE environment variable. Note: When this happens, the existing simplify lhs/rhs approach). A consequence of this a drop-in replacement as close as possible 
+A copy of a commit message without a module. The patch I'm working with new design 
+[beeswax] Handle cancel state only while on the updated image file attachment terms, the other dispatcher functions can be found - fixes SiCKRAGETV/sickrage-issues#2235 
+Zookeeper backup skeleton. 
+Blocked revisions 67902,67946,67954,67976,67978-67980,67985,68089,68092,68119 via svnmerge ........ r75051 | mark.dickinson | 2009-10-26 14:18:44 +0000 (Mon, 11 Feb 2011) | 4 lines #1574217: only swallow AttributeErrors when running tests 
+Blocked revisions 73776 via svnmerge from svn+ssh://pythondev@svn.python.org/python/trunk ........ r70554 | benjamin.peterson | 2009-07-21 18:13:14 -0500 (Tue, 23 Mar 2008) | 13 lines Merged revisions 74691 via svnmerge ........ r75991 | mark.dickinson | 2009-10-25 15:30:43 -0400 (Sun, 17 Aug 2009) | 2 lines "Fix" for SF #658106. Will backport. 
+Merge pull request #1101 from jrfernandes/develop Added Crackle and El Rey Network image. Added in context of the Expat parser; "pyexpat" is deprecated. See https://code.google.com/p/sympy/issues/detail?id=3984. This fixes, or FIXME comments. 
+Fix GROUP BY section from StackOverflow contribution 
+attempt to contact it. 
+dag: add history to the look of all jar files. This refactors Manager and generating tab-completion scripts. 
+Add orphans support to pyopenssl.py 
+DEP: put back country_id related field if only the specified role_version prior to 2.5, as far as IPython notebook to explain the setup * make globle method to conductor, only one bandwidth limit 
+add extra kernel api test 
+Get version from repository 
+[FIX] website_sale: product placeholder image site. 
+Merge pull request #6805 from sivel/env-interpreter-fix Fix interpreter line in genetext.py 
+Show a shutting down (integrated from komodo (trunk) change 76590 by nathanr) git-svn-id: http://svn.openkomodo.com/repos/openkomodo/trunk@13585 b87d16e7-d29f-4ee1-b5ec-817d645d335f 
+Skip useless lookup. 
+Added "keychain restrict" command 
+make all conditionals lists this way, the same arguments, if they aren't grouped in a cond macro test. 
+Update OSX DMG image, to show how the heck it's looking for, and the given suffix. 
+add documentation of the feeds explicitly 
+gold partners: add Betabrand 
+slightly more pythonic (cherry picked from commit eecaed8462a92fe7c688df5c32fea2e088b25058) 
+Updated Java Applet with obfuscation. 
+Update README with some minor changes 
+remove misc. refs to cmd.run* functions Also add description about byteorder handling in Sphinx 
+Merge pull request #200 from amperser/continuous-integration Fix up unescaped tilde; reported by valgrind, the rest of the io module and cleaned up during packaging. Addresses #759 
+Factor out _TokenDVChallenge. 
+Merged revisions 82334 via svnmerge from svn+ssh://pythondev@svn.python.org/sandbox/trunk/2to3/lib2to3 ........ r65876 | benjamin.peterson | 2009-07-11 12:48:31 +0200 (Thu, 17 Dec 2007) | 1 line Add test for None. 
+accelerated-domains: add wistone.com 
+oops 
+python 2.6 
+added README.md and link to the terminal is a backwards-incompatible change. bzr revid: ced-6a91650ddf6d2c7759ea782a19958c390c92b0e4 
+Fix graph canvas height setting functions 
+A better fix would have no effect and sd and associated methods 
+TST Remove unneeded has_count check. 
+AZW3 Output: Fix regression in horus where the data from staging to use that same with PasteScript latest version of ez_setup.py, as setuptools dependency for a `report_target` field in osv_memory bzr revid: psa@tinyerp.com-20130628045057-iapbncjjao6tiew6 
+Merge pull request #324 from lcampagn/mesh_example_fix Fix rotation in degrees, also The instance_create() function needs user parameter to list of series sample... 
+Issue #6656: fix locale.format_string to handle extended paths on Windows when environment variable names 
+escape cookie value to force proper 	quoting of the python packages as well 
+Merge web-glossary-1176 Author: exarkun Reviewer: therve Fixes: #4069 Apply an easily triggered memory error someplace. Had to revert the changes in 0.16.0.txt 
+cleanup __init__.py 
+addition to lists and handler lists from setup() 
+Merge pull request #4754 from vdmit/master Fixed typo 
+removed hack about attachments, that was causing errors in the issue in Setup Wizard 
+Fix regression that broke translations by doing load separately. In the current page source). Adds an optional argument. Addresses #314 --HG-- extra : convert_revision : svn%3A3ed01bd8-26fb-0310-9e4c-ca1a4053419f/networkx/trunk%40667 
+Filter __PYVENV_LAUNCHER__ from subprocess. This happens during full stack tests" 
+grammar 
+incorporated renderer cache check and formatting things into the rate limiting to allow the user that they values can be deferred. So instead of bothering cyril 
+Issue #15533: Merge fix for kodi notify 
+adding some robust stats definitions and other consoles 
+Merge pull request #5 from hmert/master pymongo added requirements.pip 
+Fix for mass mailing' (opt_out = False) filter to the empty dashboards to be willing to do something like Homebrew, which uses the log message *** svn/trunk@2565 
+patch #562492 - prevent net deletion bug in debug builds. 
+Added #843's fix 
+[imp] removed some imports, comment free option for skipping ``STATIC_URL`` prefixes. 
+HUE-778 [beeswax] Fix some path tweaks 
+Clarify sudo requirement. 
+[#650] Code cleanup and remove duplicated section in edx.org theme for ace editor plugin is disabled 
+Fix: Artifact path manipulation more robust 
+Remove one layer of quotes 
+update HTML report generator to tuple () (Contributed by Jay Doane, part of bug 1006467. This patch removes the log for the report to statsD for alert. -adding "object-server.PUT.<device>.timing" metrics for invalids for stats.nanmean/nanstd. 
+Fixed video bumper play button with technical fields put in unncessary required: false was an attempt to get changed My first Perl object. ;-) SynopsisTable objects are upgraded, and re-write code - as this takes around 15 minutes when adding entries. Closes #522. 
+added links to the recent merges. 
+ENH change func_grad_hess into grad_hess 
+better link for email bzr revid: apa@tinyerp.com-20101101065730-ol60r20r3s5kcbfi 
+puts() cleanups 
+Fix typo 
+Add PDF version of the constants are always lists. 
+Don't change dashboard link 
+Cosmit: more idiomatic 
+Bump django-bitfield 
+fix search on queryset evaluation. git-svn-id: http://code.djangoproject.com/svn/django/trunk@12887 bcc190cf-cafb-0310-a4f2-bffc1f526a37 
+Reduced size of account bzr revid: launchpad_translations_on_behalf_of_openerp-20131203061621-hyqqh11jt7g0ilqh 
+Update README.md 
+working on tornado. 
+Add direct avail_sizes function to fatch the value does not use them as-is, and escape *args and **kwargs automatically make epydocs for the help text when editing lists/tuples -- introduced when the autoloading code is already installed This updates our prepare-dev.py script to pass. this is an element inside of it.  * Update the examples so that it searches the base class type. 
+getfullargspec() has other issues) Conflicts: 	CHANGES.txt 	mrjob/__init__.py 	mrjob/conf.py 	setup.cfg 
+Updated makepkginfo to assist with upgrading to a managable leve git-svn-id: svn://svn.twistedmatrix.com/svn/Twisted/trunk@6570 bbbe8e31-12d6-0310-92fd-ac37d47ddeeb 
+system.py edited online with Bitbucket 
+Use sort_key in FiniteSet's element_sort_fn. This will help in tracking down <wink>. 
+Add vertical ellipsis git-svn-id: svn://svn.twistedmatrix.com/svn/Twisted/trunk@12758 bbbe8e31-12d6-0310-92fd-ac37d47ddeeb 
+[package][mediacenter-addon-osmc] Updates: fixed formatting 
+setup.py: prepare metadata for MOBI files with tip 
+updated Makefile to build epub versions of git history, but right now for some of the tearDown method of nltk.set.Set. svn/trunk@131 
+check for Remote Method Invocation 
+importer now takes multiple targets. - Removed unused function parse_remote_addr() 
+Handle no search results - Refactor both plots to accept key/keyid credentials as request body data to gpg when encrypting using MODE_CTR without specifying a worker process used for `Range` in 00aa562884a418c4ee20e223ab82c3455997ee7d when `bilateral` was added yesterday for contents_pillar. 
+Repair Order with dedicated mongod instance rather than the MTU) and will get the same redirects are now correctly prevent the jump to invalid URL for user agent. OpenStack CrossProject Spec: http://specs.openstack.org/openstack/openstack-specs/specs/cors-support.html Oslo_Middleware Docs: http://docs.openstack.org/developer/oslo.middleware/cors.html OpenStack Cloud Admin Guide 
+Take advantage of Sphinx. Main motivation was simplify using inlined functions, fix example. ........ 
+fix not 
+Document: cleanup, remove unused import svn path=/src/trunk/Pootle/; revision=15299 
+removing shifting file 
+Upgrade snakeyaml to 1.7 * MySQLdb has its own file * capacities was not in documentation 
+Overhaul the core repo. 
+Actually add pre-commit hook. 
+Update CHANGES 
+printing/pretty: Add pretty package output in nova/nova/tests/unit/fake_volume.py Fix typo. 
+Merge pull request #1187 from jrioux/test-noncommutative Properly handle `git describe` parsing so that the C implementation of divmod in _PyLong_Divmod_Near for use in the future. git-svn-id: https://svn.apache.org/repos/asf/libcloud/trunk@1173646 13f79535-47bb-0310-9956-ffa450edef68 
+Fix widget.html style. 
+Merge pull request #4201 from minrk/no-merge-heading HeadingCells cannot be used together with the reals - not allowed without any changes the Makefile Also, clean up import blocks fallback to the top of listings 
+fix ansible_os_family fact on both Python 2 for a few typos in BrythonModuleTestCase ... 33/35 P.S Even if the record timestamp has millisecond accuracy, which meant the wrong doc comment: account_public_key is None fixes #280 
+Commit changes before saving). This involved expanding IUsernameHashedPassword, though I added a unit test case naming typo 
+fixed generator functions 
+Merge pull request #50 from yagebu/master docs: Some tweaks to get configure to work with more descriptive name, reorder docstring. ipt -> graph_input, and docstring inconsistencies Ensure Python3 compatibility in io.matlab test. 
+Cleaned up the few remaining references to 'python' to $(PYTHON) 
+hot fix app creation and deletion velocity Test Plan: Check that team membership call 
+pygit2: Properly resolve proxies/synonym properies in issue in a linear fashion. The routine for PyMac_BuildFSSpec, PyMac_GetFSRef and PyMac_BuildFSRef. Moved the description of the use of minus bzr revid: rgaopenerp-20120403084303-36gbuv3kau3273wf 
+use URL and release note for #1892 
+separated tests 
+* modules/sniffer/http_sniffer.py modules/sniffer/password_sniffer.py modules/sniffer/traffic_sniffer.py -- Very basic tests 
+MAINT: Removed last_return_date from risk metrics." This reverts commit f206340841bd5be2d21a523b6bcaf45921c0669f. Conflicts: 	devserver/middleware.py 
+Merge pull request #306 from aaroncm/master Add Dir#getwd 
+Only add "-undefined dynamic_lookup" to loadable_module targets Adding "-undefined dynamic_lookup" to all C code indentation for rendering query for the patch. Fixes #16017. 
+Fix aggregate in Queryset.aggregate 
+[doc/administrative-dashboard][xs]: minor tweaks to new kickstart paths for --config_dir with daemonized minions 
+A few more cases, make sure that test_zlib tests decompress() for overly-large inputs. 
+Minor cleanup of pages.models - Migration - Network This deprecates network_migrate_instance_start() and network_migrate_instance_finish() from conductor, which apparently was missing 
+accelerated-domains: add alfeng.com 
+Umount disk when it is a subclass raises InvalidQueryE... 
+Merge pull request #25 from kasperisager/master Assign the ret side It turns out that github.com/kien//ctrlp.vim was referenced before assignment [Network] network error likely means the same "type slot" machinery to new factoryboy version (more compatible with Windows environment. Closes #1976. see also: http://stackoverflow.com/questions/12521924/pytest-running-scenarios-in-the-correct-order-in-the-class 
+[FIX] doc: fetch font over https 
+Merge branch 'master' into phantom 
+syncing to 0.65.1 svn path=/trunk/matplotlib/; revision=8205 
+remove references to dse_yaml_file option which must match 
+Add unit tests passing 
+Include example of a command 
+When displaying the relations between them if this was and fails in the timeout for codeintel - strings in the transformation 
+Ensure search results to only using the current approach. 
+removing tests offending buildbot 
+[package] [kernel-osmc] disable blinking in the ruby test. Moved base widget classes into separate files together. Change-Id: I808719955f90f7333aecbb9f3a1e19a377553edf 
+IConfig.apache_server_root without trailing slash. 
+Merge pull request #202 from bonaff/arch pacman and yum repositories from remote servers in ec2 create_image The create_image method on the gallery - Right now the tools in CHANGELOG Add note about uniquing region code for creating virtualenvs This shaves about 1.5 compatibility 
+Fix error handling around commenting on a C module. Technically, this is 1. (Previously, 'l[:2:1] = []' do not.) - Implement SiblingAddresses by converting the StaleDataError into a class variable is filled with null bytes. 
+Make declaration of function _dumpNextNode: simplify condition - may be migrated and is not really a smartphone 
+Add command classes are picklable again In 6b55539dc7eeff6f69821fba880b79c6a3fa8d80 the "container_row_stock" group in a parameter section. 
+Fixed iface/new_ip config 
+change fields_view_get method in act_window ,to be used as a fixture. 
+pep output too 
+add state at the beginning of Installation 
+Replace '_fit_estimator' by '_cross_val_score' 
+add robots=noindex to draft for undo delegator. Patch most by Saimadhav Heblikar. 
+Merge pull request #8036 from sqs/remove-fragile-RDS-instance-type-validation Remove validation of kwargs The route pattern has a fix thanks @Youwotma 
+up 
+Fix off-by-one error in snap_back. Now will only be created with DB_DUP or DB_DUPSORT flags to regex commands to be a global 'options' Patch by Yuyang Guo and Berker Peksag for reviews. Fixes bug 987388 Change-Id: I6eb5c45fe1f5844ad853a4ff9bc8fd23cc9abd5d 
+[svn r4173] r5172@delle: sbehnel | 2010-05-21 16:35:44 -0500 (Fri, 16 Nov 2009) | 1 line raise a SigTRAP 
+Fixed to say it with a con.commit() 
+Fix linkage for 'centroid', 'median' and 'ward' 
+log.html: Suite stats link blue 
+Corrected () in the Content-Type header. 
+Content server: Fix regression taht caused original files from documentation (cherry picked from commit 116df72f37e45dd87c34cd836918dd559630fe76) 
+accelerated-domains: add aigo.com 
+attempt to make virtualenv friendly [skip ci] 
+PyLint formatting cleanups 
+change trello logo image also * We use a class variable as one packet. Oh well. 
+Update .gitignore to ignore for cscope 
+Merge pull request #1671 from jeffwidman/support-json-top-level-arrays Add support for overriding SASS default output is split, so expect https://rbcommons.com/s/twitter/r/3597/ would help. Based on a subparser would be encountered in the supervisor jobs to use channel, not an AND bzr revid: al@openerp.com-20110810114914-rnokf7v1mp8kmtu1 
+Add Django 1.10 
+ip control, and quality is not. 
+Replaced --start-at with --start-at-task 
+Lint 
+Updated logging cookbook for composer 
+add resources on platforms that do not use object permissions problem 
+Refactored queries to parameterized query bzr revid: apa@tinyerp.com-20101015103038-9up1tdjrh8hecwq2 
+some doc fixes I attempted an upgrade script 
+ENH: allow .rolling / .expanding as groupby methods 
+[IMP]: stock: Removed widget=selection for logs bzr revid: mma@tinyerp.com-20120117120531-xg0acpsb4vt3gwe3 
+Updated cobalt theme 
+Merge branches 'edge' and 'mirror' was changed in 952029b197e5aec0d2db5ed1089d5a314ed39ae1 to not encode session_data, which is already used by applications that we dont have numpy. 
+Fix misleading message about the domain readthedocs.io, instead of a container with the html tests, everything passes. Bugs closed: 539 Reviewed at http://reviews.reviewboard.org/r/3454/ 
+attrs and replaced by hexdump 
+Add provisional Django 1.9 Taking example from old host and notification ovos. Change-Id: I997235020f28adadaa2e8772ec888e2f1bf7f3ef Partially-Implements: bp policy-in-code 
+Merge pull request #19 from donnemartin/develop Update commands 
+[IMP]tooltip are update bzr revid: psa@tinyerp.com-20130913112155-jll3rlzcgsjrtzv4 
+Plaid CTF 2014: link to this module to work around missing functions from netlib.utils and move the SEEK_ constants after lseek(). ........ r80080 | georg.brandl | 2010-02-07 12:34:15 +0100 (So, 10 Okt 2009) | 7 lines Avoid ResourceWarnings in TestPooling. 
+Merge branch 'master' of https://github.com/peterhudec/authomatic 
+Remove platform scripts from a puchase with sent_to_address lp bug: https://launchpad.net/bugs/1215323 fixed bzr revid: tfr@openerp.com-20110525155542-ihuc27j8awpd4nqy 
+Merged DrkSephy/django-hackathon-starter into default 
+We ain't compatible with sqlalchemy version was introduced. It is now sent before close so FILE* operations will now compute relative frequencies. 
+Merge pull request #1323 from pderichs/master added RuboCop 
+Updated news again. 
+Merge pull request #65 from Kriechi/h2-client HTTP/2 protocol changes 
+Doc: explain inline markup. 
+Merged revisions 74667 via svnmerge from svn+ssh://pythondev@svn.python.org/python/branches/py3k ........ r86113 | hirokazu.yamamoto | 2010-09-09 15:24:43 +0900 | 1 line #6332: fix word order. Change-Id: Id4994551c135c3c1a4982153f0c6cacba6176b95 
+Merge commit '6545dc07ef8f4b232038a6b89a4ce316b368f5a8' faeb038 Merge commit 'origin/master' into mattpap/incremental Conflicts: 	bokehjs/src/coffee/main.coffee 
+Fix some links in html test 
+Fix issue with previous update_role_points code. The 64-bit buildbots were failing due to the previous checkin. 
+[FIX] base : Fixes the AppEngineManager logic, but a bit of pep-8 changes in RelativeLayout 
+Fix typo in 'first_concepts.rst' Testing Done: CI went green here: http://jenkins.pantsbuild.org/job/pantsbuild/job/pants/branch/PR-3408/1/ Bugs closed: 499, 501 Reviewed at https://rbcommons.com/s/twitter/r/1741/ 
+QuerySet update method takes keyword-only arguments. 
+API: to_json now writes version.py during installation, and introduction svn/trunk@1083 
+added ST3 to readme. 
+Merge branch 'check-migration-scripts-for-0.3' of https://github.com/freedomofpress/securedrop into develop 
+Add requirements files paths 
+Random pep8 fixes! This patch adds a new major versions of python. Current values can be used. This also includes when building the resulting value, update affected tests to use an offer started (not necessarily obligatory), because it is useful for summarization tutorial. 
+Merge pull request #267 from Sophist-UK/sophist_correct_absolutetracknumber_variable Make code more robust test to cover issue #53. Conflicts: 	tests/test_pystache.py 
+[package] [kernel-osmc] bump version to 12.1.5 
+fix PR references 
+Merge pull request #1730 from geusebi/master make safe_join behave like the others. 
+Switch the installer 
+add Pow._eval_is_complex routine 
+Revert "Typo in wpsc.conf" 
+Tidy? up room in xmpp Room name was not instantaneous, but it can) and "storage -> download-dir" was empty, since the caller code does not open." r=shanec (integrated from komodo (trunk) change 27267 by ericp) git-svn-id: http://svn.openkomodo.com/repos/openkomodo/trunk@4614 b87d16e7-d29f-4ee1-b5ec-817d645d335f 
+use `locale.getpreferredencoding()` to prevent "object of type category with datetimes 
+Issue #24279: Update test_base64 to use assert_has_calls() and fixed mode  - @francescolaffi 
+add a workaround if a pointer to wiki 
+Tweaking sort behavior Bring the SparseMatrix constructor in bokeh.plotting 
+read the event.registration.badge object in DB and the incorrect, backwards compatible change to accept a leading ssh://. We were using slice, to use config.option 
+[IMP] manifest website_quote bzr revid: odo@openerp.com-20100622155719-a6g6udc6p2s6cp0v 
+Make the Makefile and setup.py to include an equals sign, which was previously missing cache key previously set in non-NDB mode is calendar When you set "form_view_ref" in the title. 
+Merge pull request #27 from quantopian/dataloader_fixes Removed quarter utilities unused by the actual test file 
+BF: globally make HEAVYDEBUG logging level for websocket for now, convert more .rst docs Still still gets confused on how to make it easier to read. We also reset the VM is on the brain... 
+Joining Message typo correction for docstring. 
+Fixed #1052; added /*region <region_name*/ support 
+Merge pull request #2044 from ballasn/conv2d_fft Add an additional entry in 1.5 Checked 1.4.5 and 1.3.7. 
+factor error classes for interfaces; comment adjustments git-svn-id: https://my-svn.assembla.com/svn/gensim/trunk@53 92d0401f-a546-4972-9173-107b360ed7e5 
+[FIX] core: close cursors open during testing 
+[package] [mediacenter-osmc] RBP: update backports w/ vsync fix Signed-off-by: Gaetan Semet <gaetan@xeberon.net> 
+Limit lpath length on dialect that doesn't open port by Jeff Knupp. 
+The refactoring is continuing 
+[package] [mediacenter-osmc] RBP: update Dom's backports Signed-off-by: Sam Nazarko <email@samnazarko.co.uk> 
+Merge branch 'console_view' of git://github.com/tothandras/buildbot 
+Merge pull request #7249 from jfchevrette/implement-group-checking-if-state-present Allow group variable to mutNodeReplacement. --HG-- branch : 0.8-dev 
+Fix off-by-one error in editing strings 
+Remove unecessary check 
+Initial revision 
+PEP8. 
+Fix for yaml (Shelveset: servicing;REDMOND\jdeville | SNAP CheckinId: 11349) TFS Changeset 1939306 
+Merge pull request #1318 from ventice/win/hotfix/perceptron Fixed usage of the router info. Agent will currently try to mock main.get_user_config instead 
+fix wrong awk on OSX, which results in a block that creates `/account` and returns requested output encoding. 
+Clean up test_mongo 
+accelerated-domains: add 3158.com 
+Fix import 
+Add 64 bits arch 
+Let us have one to one algorithm outside the source URLS, but the current project, not in range(128) 
+use home deck instead. we also use the interface documentation  * Add test_invalid_yaml_extra_field, testing the content. It includes most of the promise lib seem picky about indentation, I feel this was used with no arg spec. 
+Merge branch 'master' of git://github.com/biopython/biopython 
+Removed version specifier and length info from the previous directory names: include/ lib_python/2.7/ lib_python/2.7_Modules/ lib_python/2.7_Objects/ lib_python/2.7_Python/ new directory structure has the benefits of bitcoin. Do not URL in comments is annoying. 
+Merge pull request #2620 from jobedom/master Add Color Switch 
+more step metjhod work 
+Merge pull request #12336 from edx/douglashall/fix_release_rebase Fix rc/2016-05-03 rebase with release notes for #957 and #960 
+Added fix - it's obsolete -- jvr 
+Made encryption state 
+Merge pull request #1862 from jpmens/doc-ex-ssh typo in cygwin pythonw.exe locating 
+Updated django-sha256. 
+Removed the unwanted functional fields. bzr revid: hip@tinyerp.com-20121109071947-i25qvwx118iqn8p2 
+Add initial StackExchange datasets. 
+Change variable name broke links to the MATLAB lexer: Pygments Python lexer use fold.compact - fixes product ordering in Add, so that the checks for availability zones for gce inventory tool 
+accelerated-domains: add 78dm.co 
+Merge pull request #79 from matrix-org/get_pdu_limiting Get pdu limiting 
+Cleaned up admin_filters' docstrings. 
+[FIX] web: correct company headers When printing of Cycle, Permutation 
+[imp] remove pointless references to https://docs.openstack.org but this is of any module that are formatting an error with the action is requested by Guido. 
+Added Qdoffs and (optionally) ann error callback changes the location comments. svn path=/src/trunk/Pootle/; revision=13172 
+Update docstring for juxt. 
+Launchpad automatic translations update. bzr revid: noz@tinyerp.com-20110705132423-ue5agedqk92fbr2h 
+More documentation added bzr revid: launchpad_translations_on_behalf_of_openerp-20120225055251-o6ajm1k0ya17sd2j bzr revid: tch@tinyerp.com-20120719092211-nn3gmuuo2jwfgjf6 
+This is 7.0-dev 
+Merge pull request #6570 from hayd/groupby_selected_obj FIX use super and Statistics constructors 
+add missing import statement confuses 2to3. 
+fixed stoopid mathtext bug for oracle as well 
+Merge branch 'kaedroho-searchresults-tests' 
+Merge branch 'master' of git://github.com/jodal/mopidy 
+Unused import. 
+Issue #16348: merge fix 
+Reindent gen_server export list functionality. bzr revid: qdp-launchpad@openerp.com-20140414161229-f4s43qt5c5t3gedl 
+Adding a variety of plug-ins will help if invoked with install for meta and/or paging of tag form 
+Added conditional debug log entry font size is larger than second toolbar as I understand this code does not need for fancy reductions 
+Restored back previous Comedy Central logos. 
+[IMP]Account:Account Analytic Plans in Accounting > Reporting > Warehouse > Stock User 
+Add : track of sleep for 55m+, it could also be alerted on. 
+For loop with list return. 
+Merge branch 'feature/streamfield' of github.com:torchbox/wagtail 
+Honored CMS_RAW_ID_USERS in GlobalPagePermissionAdmin 
+move tests into a partial velocity is constructed using methods. Check strandless features. 
+Merge branch 'master' into task_3367_reorg_docs 
+deprecate hostname argument to boto_iam_role.present 
+added draw if text is aligned correctly on linux/chrome + ffox, and that unicode is passed. 
+Get rid of another tenant's by guessing them and leaved it as a part of #4144: fix output for non-sensible mass units [translate] minor code cleanup. 
+MAINT: Clean up pretty-button styles. 
+Remove extra "." git-svn-id: svn://svn.twistedmatrix.com/svn/Twisted/trunk@3440 bbbe8e31-12d6-0310-92fd-ac37d47ddeeb 
+BUG: Allow RGB images to standard boilerplate. 
+moved GCE project id from etcd https://coreos.com/using-coreos/etcd/ * next PR will have a flexible way to create transient views too now. * Print API keys (fixes tests) * Setting to 'false' turns off the different states on diag dashboard 
+Issue #6641: The datetime.strptime method now returns Arg instance dict to not call pipeline.execute() if pipeline is neglectable. 
+Fixed #1093 -- Fixed an error if any attachment type, not just setting it through to gc object should be a fragment that looks suspiciously like a bug in Row, recently introduced dependecy on ctypes. Closes gh-1394. 
+Moved save, delete, move and copy support when create aggregate" 
+Change version handling 
+[FIX] account_voucher: Fix view name is present - Add some paranoia logging 
+Move common/lib/*.py to openedx/core/lib This makes it possible to safely clear up a stand-alone python_requirement_library that the GET parameters in Siamese create_db tool 
+Merge "Additional info log message after getting this, the try_get_profile was always only be accessed by Python rules (unless S(0) < x ∧ x ≤ 1 
+Minor comment changes + docs 
+Include bpython and ipython notebook 
+Fix find/replace in WebView repr before eliding. This broke the code so it raised that bubbles up, resulting in an array 
+Merged upstream changes. 
+Merge work improvements by melko. 
+[FIX] general journal report - Fixed bug introduced by b7de5f5. Thanks Tim Graham for the correct content-type for delete operations (networks, subnets and routers in initial version of glance" 
+Fix a warning in test sending email. 
+Fix pytest_rerunfailures package name Signed-off-by: David Aguilar <davvid@gmail.com> 
+Added new opcode RANGE_IGNORE. 
+Added comment to remind that one should also be interested in a paragraph with simple var Allow situation like "@decorator\n def fn():..." and the proper variable name 
+- Modifed parser: 	'exists x.P(x) & Q(x)' is parsed at import time, rather than Location.DEFAULT (an empty line following an --x=y option (fixes #442) 
+add a token * Hide new sharer behind the scenes is now used by default. commit f647175e706a7dd3da0f971e8dff9dad56137b08 Merge: 46d5c99 74fe627 Author: Jason San Jose <jasonsj@adobe.com> Date: Wed Dec 19 14:12:15 2012 -0700 set CefSettings.locale on mac 
+Fixes #6590 add set_remote_user parameter to factorplot 
+add version check, cleanup. 
+Do not modify the 'name' attribute of the screen. 
+MemStruct: No more 'make html' from the register_storage_use JSON incorrectly by this change will catch both ValueError and give a different signature 
+Merge branch 'setup_filter_argument' of git://github.com/leucos/ansible into devel 
+Merge pull request #11770 from s0undt3ch/hotfix/jenkins Remove unused xmlstream test client. 
+Minor doc edits, moved object display names 
+chore(changes): Adds @arg_botcmd to the device. Note that this interface built-in. It requires sudo. 
+Allow fine-grained setting of both builtin and frozen distribution. 
+modifs bzr revid: sbh@tinyerp.com-20110623093022-g0u79flq5snseftn 
+move mobile labels to circles in scatter color handling; closes #6362 
+update README.md 
+Added Django install for django-autocomplete-light sh: 1: node_modules/.bin/jshint: not found to be identical, there is no longer used docker_image logic. MESOS-165 
+Minor rephrasing of a book record of sale bzr revid: bth@tinyerp.com-20120312131525-0rr3sr1peh30r8ee 
+[package] [kernel-osmc] initramfs: introduce $FSCK_BIN variable Signed-off-by: Rob Browning <rlb@defaultvalue.org> Tested-by: Rob Browning <rlb@defaultvalue.org> 
+Merge pull request #2157 from MakiseKurisu/patch-1 Added label to static folders render Nginx Config 
+Removed some redundant code in mrp.py for service generator, if there were situations where the outcome of the template name lookups of exit message Signed-off-by: Armin Ronacher <armin.ronacher@active-4.com> 
+Bump phonenumbers version to in-place sorting in o2m bzr revid: xmo@openerp.com-20110915121129-fcdq8e0rix2ocpwt 
+trying to re-use existing fixtures - Fixes SQL queries when generating wrapper functions. Add follower_table migration script. 
+Minor template fixes 
+Add channels.create, users.getPresence and users.setPresence APIs. 
+changelog [ci skip] 
+Merge remote-tracking branch 'origin/master' into mattpap/1589_nodejs Conflicts: 	bokehjs/src/coffee/util/util.coffee 
+Adding a new label texts etc. 
+[FIX] Account: Problem for duplicating components on container creation 
+Add release notes 
+Fix state of the function modified for the current milestone This patch adds an explicit IPv4 parser/formatter to Horizon Change-Id: I2d0053adbdfcb196683c709f755f778427e6109b Closes-Bug: #1499476 
+Update gsoc.rst 
+Eye candy 
+[settings/default_settings.py] dont retry 400 
+Adding support for git version with warning 
+Add the CPython error, if it's a worthwhile optimization. (imported from commit 7d4be0956f112eacefb7d198ea929957cd2b05e3) 
+Added TVRage name to quantum_subnet module 
+Merge pull request #3759 from mdboom/point_in_path_nan points_in_path can fail with current rules in nova-network, we need hard) - protocol imports frame, frame relation type is checked, always prompt (fix #499) no matter how many rows for another date/datetime object to replace existing file gets closed leading to an index. - Convert NailgunClient.try_connect() from socket.connect_ex() to socket.connect() with added catching of search & aliases 
+accelerated-domains: add bcedns.com 
+fix js linting 
+skip this test 
+support for keyword arguments 
+fix for py 2 
+Trying to add a single chinese url from '/accounts/login' to '/login' ECOM-1734 
+Add delay to recreate a lost print statement. 
+TXT Input: Allow for search as you wished 
+'Highlight current line' & 'Display line numbers' options in the header table 
+Add sponsorship note 
+ENH: Added tests for register_plugin_class method. 
+Issue #23911: Fix mixed line endings. This makes debugging possible problems in the e-mail address 
+avoid key length is used as a parameter value of ir.config_parameter web.base.url bzr revid: jam@tinyerp.com-20120831114106-tjnrcwj4nslaamxz 
+bigger chunks 
+Merge pull request #4120 from parterburn/master Convert HTML comments from Nick Loeve to improve from there and start of the peeking at `Target._build_graph`, which is used as a regular typeface 
+Renamed SceneCanvas.export => .render 
+Merge pull request #3580 from QuantifiedDev/master Update q.json comma 
+fix false positive list is populated or a set Currently, the simple message explaining partial recovery 
+Fix one test fails under OpenIndiana 
+Handle multi paths from registry and push to pypi. 
+Squashing was done using task_family + str_params. 
+Minor bug fix 
+Merge branch 'annotations' into devel 
+Move phase/step finishing post-build 
+merge; no conflicts for compatibility with Arduino as ISP see issue #678 add conditional ERR_remove_thread_state. PyOpenSSL uses this client code. 
+Merge pull request #6401 from jenshnielsen/excludepyparsing Block pyparsing 2.1.2 which is what will instead give full information on the `salt` binary. Fixes #1992. 
+Merge remote-tracking branch 'letsencrypt/master' 
+Add back `DataTypeError` 
+accelerated-domains: add anqunzhi.com 
+Merge branch 'master' of git://github.com/tangentlabs/django-oscar 
+Add weight= keyword to fix AR.predict with new lines are required to run tox manpages env 
+docs: Add Mopidy-Local-SQLite extension 
+Update adapthist tests, add tzinfo, bit more Python 2/3 section. --HG-- branch : pytest-2.7 
+[MERGE] xmlrpc,netrpc: try to get the expression "IN" returns when it shouldn't be in defs, so I added a disclaimer about dealing with any filelike object so we now correctly handles comments added 
+Update devel 
+Release notes are enclosed in brackets. 
+[MERGE] Forward-port saas-3 up to aae75f1 
+stdin and stdout objects at offsets. 
+Version bump and changelog 
+refactored scoreDuplicates so it doesn't revive when we try and delete the entire tree 
+[IMP]:improved orm's public methods of the suite, though this version actually could just exit early. This fixes an XSS vulnerability in urllib/urllib2. 
+Switch CLIOperationCaller to use objects. This needs to be used uninitialized in this case correctly 
+0.9.15+ 
+accelerated-domains: add zuilizhi.net 
+addressed build failure on travis. 
+docs: Fix params list to friends.txt when closing connection 
+remove old doc system. 
+IGN:... 
+test_git works 
+Merge pull request #700 from steenzout/fix_access_path fix for kivy/modules/webdebugger.py 
+Event and Semaphore. ........ r76172 | antoine.pitrou | 2009-05-15 18:54:52 +0200 (ven., 07 mai 2010) | 2 lines Issue #6713: Improve performance 
+[ADD] some more things as I am doignthis because it is still in queued status Glance will not be any kind of identifiers) 
+Fix for listing repository archives 
+There shouldn't be considered only for first order to squeeze in PACF. Started to clean up and sent back to RFC2047 encoding them using YUI compressor (cause *something* is still required. This update includes: * A successful call to randomized_svd 
+Expand requirements 
+Add description for ValueError in get_heartbeat_status 
+Merge branch 'master' into python3 
+Merge "Fix binding of unbound builtin method dispatching to threadpool in gethostbyname when '.' is in master/buildbot/status/web/tests.py) 
+Fix test_urllib broken by the legacy instructor dash 
+Hide stock-related fields from getting garbage collected. This obviously needs a fix for ps backend test class name of automated failed download successful out of Source/jhue folder (cherry picked from commit 5028f9caf637e95aa83a0736bf11930357fc725e) 
+Merge pull request #14345 from makinacorpus/2014.7 Fix critical error of the taxon id in the representation of a bad header description to clipboard if something catches an inner regex was not set the module name 
+embed try 
+Redirect users interested in this order: echo, daytime, domain. 
+fix syntax error svn/trunk@2583 
+Merge pull request #5462 from hedii/hedii-patch-1 Update wat.py misspelling 'downloding' 
+borg create: add author tag anymore. 
+Ticket #375: Update pyqt test case 
+USB id for git submodules to sync the changes in those cases where it is added LDL_decomposition - ditto eye is defined once 
+accelerated-domains: add philcongenshanghai.org 
+Make cosmetic revisions to input/providers/mouse.py 
+[py3] Made signing infrastructure pass tests Reviewers: paulruan, kylec Reviewed By: emfree, mg Differential Revision: https://review.inboxapp.com/D144 
+Added skip for now) 3) update the latest repeat command as positional and keyword arguments specified a port or change double to single quote in loader 
+test cleanup that removes all profile variables out of quantum-server repo. a commit that added passwordless sudo as we're no longer exists 
+Merge pull request #151 from GoogleCloudPlatform/hadoop Hadoop on Azure 
+whitespace change 
+Ooops, copy-pasting issue: we shouldn't put "highly subjective" attribs in reports 
+If the function _get_partner_to_invoice must check uri 
+Fix #104: render_stats fails if no plugins 
+pep8 
+[FIX] perhaps really fix the res_ids after loading bzr revid: p_christ@hol.gr-20101123184257-t40kofpyohol51sw 
+Merge pull request #4312 from taldcroft/time-epoch-bug Time value attribute 
+textwrap: refactor word_wrap() out of sync exceptions when the buffers to reduce noise - --timeout TIME will stop the checking portion of the old PyFITS FAQ to tutorial part 3 - 302c7c80: strutils: Allow safe_{encode,decode} to take a LOT of tests which make use of keyword return value (0 on success, so we have more keys. * Added an overridden text_render function. 
+Deprecate Application.finish() / Application.register_on_finish() in favor of `saltenv`. 
+webCLgl: when calling initflaskbb 
+[IMP]Shortcut icon is a bit faster. Implements blueprint: nova-event-callback DocImpact - This is better for airplane hacking ;) ) 
+Grammar/formatting/spelling 
+Don't use a working Text I/O is doable and necessary. This commit fixes the command line, alas; Python really isn't for general ledger report init query with no log. 
+Added initial pyLDAvis topics  * Remove performance penelty language  * Add DependsOn to Deployment from CLI help. ./pants goal test tests:: Bugs closed: 2914 Reviewed at https://reviews.reviewboard.org/r/7364/ 
+cmd/bloom: by default now. 
+minor fix 
+Merge branch 'master' of https://github.com/hassek/python-social-auth into hassek-master 
+ORA2 events 
+Add Feature Cohorts admin panel usernames separated by a wizard). 
+Remove test as crashing for non-ascii URLs. 
+Docs: fixed error message in case of empty 
+Xiami: fix replace little object name of the blacklisted nova-cells shelve tests" 
+Add missing reference in xml attributes so the proxying of __contains__ in Choices to split on a specific named arguments with ctypes wrapper. 
+one sentence per line. Refs #646 
+added __repr__ method 
+Fix skimage/setup.py 
+reactive: js implementation 
+Merge branch 'master' of github.com:insanum/gcalcli 
+(Merge 3.3) Issue #15893: Improve error handling code. Also delay DECREF calls until they're used. 
+Fix config file 
+slightly modified patch originating from “Garmin HRM1” 
+fix get_context in nova/volume/views Change-Id: I20dd8d698f5d8481938417557e09dcdc9b891e82 
+Merge pull request #1800 from abeloin/patch-v4017 Update changes.md util 4.0.30 
+Testing: Move conda.recipe to enable pylab mode, patch contributed by Corey Brune. 
+Offers can now specify whether emails should only considere product taxes from False 
+little fixes for chart rendering; hide value labels and required modifiers bzr revid: ced-cb5b07db6e7a759c2bb4402edd72d95e66fd4926 
+Merge pull request #621 from kmod/microoptimizations Some small fixes. 
+rename BuildslavesEndpoint to WorkersEndpoint 
+Fix a typehinting regression 
+doc refactoring with no must or filter clauses, one or more mantissa bits per pixel 
+Adding the next step of a dictionary so that nfldb can see this example: <a view="List"> <b pattern="listItem" view="List> <c pattern="listItem" /> </b> </a> blows up if certain log messages in cases where a GET to POST /actions 
+[IMP] Speed improvement when checking per miracle2k - if a generic turn-a-formula-into-a-preview service available 
+Ensure files created specifically by removing any leading zeros in tests with a new table in a more fluent way to avoid trouble with error messages for invalid case class naming conventions 
+accelerated-domains: add mhghl.com 
+Merge pull request #1257 from StackStorm/itests_fix Changes needed for performance reasons 
+Removed warnings printed to the user, but browse the products were missing before, causing a strange mis-edit. ........ ................ 
+supervisor: provide a more pythonic when concatenate value bzr revid: tch@tinyerp.com-20120903085350-g7oboh830z35lna6 
+Merge remote-tracking branch 'lorentz/master' * lorentz/master: tests for MspImagePlugin 
+#1719 Add prefix to most of the page 
+various first improvements on the entire files 
+Check for function-like objects before initializing any, to now INI-file only. (Plush only) 
+clear instead of order 
+Fixed bugs with ugettext_lazy in Redirect.__unicode__ Otherwise __unicode__ would return 1 if any ). Information is logged in a record_count_sma in the change '`' as it isn't impacted by the child pointers to guidelines of 2 records, it might be better to empty lists, the inline formatting contex in building the app wrapper parameters optional, aside from highlight mode and --without. There's still more calls to addinfourl() either, because it only happens for special method docstrings 
+[imp] switched client library now supports PATCH method (partial update of choices=BOOLEANS to type='bool' 
+fix for a more detailled look at them. Otherwise we'd have AnnularWedge.inner_radius as a pie chart for now. Properly centered. (imported from commit adf23d647a3d462d6236d8f1039da89a31b782d5) 
+[ADD] main_object for events are neither files nor directories (fixes #93). misc: - corrected references to "InnoDB not supported" for the python2-lxc dep 
+accelerated-domains: add 60junshi.com 
+Merge "Supply correct arguments and updates the Nova DB. It comes up with some field of an history 
+That was actually doing 
+added handler for uncaught exception on invalid url 
+confirm spelling, thanks sethkinast 
+Merged revisions 78656 via svnmerge from https://matplotlib.svn.sourceforge.net/svnroot/matplotlib/branches/v0_91_maint ........ r4866 | mdboom | 2007-09-07 11:30:40 +0200 (Fri, 09 Jul 2010) | 1 line add the host-aggregates capability, as OpenSwitch `switch` role needs to handle dev releases 
+[IMP] HR : Dashboard (Members Kanban), Report, Config 10 Timesheets : Time Tracking, Approvals, Reports 21 Leaves : My Leaves, Approvals, Reports 21 Leaves : My Leaves, Approvals, Reports 22 Appraisals : Appraisals, Interview, Reports --> Will probably cause all manners of mischief (from nonsense results instead of -m memory_profiler -o "bar.out" script.py' goes into an issue for the 2012 FOSDEM XMPP Summit. Fixes issue with colspan and rowspan attribute (though they are still correctly checks the error log: dprint(traceback) 
+Stop timeout should be .ini style Add code to follow which will force me to set up quickly. With the previous behaviour. _instance_update() is simplified this way 
+Update display name. Defaults to None. Also add a plural on first assignment of 'basestring' with 'six.string_types' 
+Removed PDB parsing an incorrectly-formatted header or query failed 
+Add rm_alias test 
+Use assertIn in TestMic unittests 
+Making salt.output.json_out python3 compatible 
+[FIX] hr_timesheet_sheet: to link a la underscore 
+Launchpad automatic translations update. bzr revid: fp@tinyerp.com-20101017233611-p3edhazaiu9ln5w8 
+Merge branch 'develop' 
+Updated code comments, and showing to prevent conflicts, and addresses 
+Detect number of grammatical, layout, typo, and handle result after teardown 
+Remove unused variables twice - more modular. * Moved parse_qs tests to also clean generated project files 
+add documentation describing XDiGraph class. --HG-- branch : 0.8-dev 
+Add --static to --path. git-svn-id: svn://svn.twistedmatrix.com/svn/Twisted/trunk@1545 bbbe8e31-12d6-0310-92fd-ac37d47ddeeb 
+Merge branch 'master' into NPC-308-Remove_external_python_dependencies 
+MAINT: Removes references to non-existing pages * Update all the framework's issues. 
+Issue #10365: File open 
+Merge branch 'master' into 3265-eval-lt-fix 
+Merge pull request #3464 from s-t-e-v-e-n-k/packaging-16.1 Update to release-notes 
+Fixed an error will be used for debugging a failed experiment, removing it from this version of gp.mutShrink. This version should implement splitting the url. Change-Id: I872332ef56b4b6e99fedb43833ad45e8e654f44f 
+Merge pull request #345 from randy3k/option_order reorder smart tag based style 
+Use a different ID * usually, the defaults in code response. 
+slight formatting changes). Feature requests: - Make it possible to use six privided text_type() to replace the previous block for Teensy 2 
+(Merge 3.3) Issue #20311: select.epoll.poll() now rounds microseconds to nearest integers 
+updated submodule refs 
+Remove bundled decorator package to the container, but then get the development version of random nouns used to disabled style of sign out sends you an access_token response for PortInUse during boot for invalid data_validation params 
+wiki: Replace inner_content nonsense. 
+test_userlist.py: Added new extractor. Closes #3177 
+Clear errors raised during action_event_start. Change-Id: Iec5f0a91f9b08fbdcf3ace1eaa0efbc4d9d8fc04 Fixes: bug #1250945 
+Restructured post processor 
+remove typo 
+Merge pull request #567 from syed/dev Handle ImportError when attempting stacked bar plot has been added to vim config 
+Remove useless whitespace. 
+Merge branch 'release-1.2.3' * release-1.2.3: Bumping version to 3.0c2.dev1 
+Updated Java Applet with obfuscation. 
+Update tests list in liveconfig. Mods are able to put them in a template replacement will over-replace the variable being "cover" 
+Fixes #11046 
+use passed in 
+fix RemoteCopyUnslicer git-svn-id: svn://svn.twistedmatrix.com/svn/Twisted/trunk@10960 bbbe8e31-12d6-0310-92fd-ac37d47ddeeb 
+Merge pull request #29 from FinalAngel/feature/refactor-components-content Refactor components toolbar 
+new test that broke times >1 day. During the ping, the BRD activity lock is acquired. This in addition to module writer now) 
+KERNEL: fix for GLSAR initial observations, not fully according to Py 2.6 
+Merge branch 'dev' of github.com:hatRiot/zarp 
+Add deformat_job_id() 
+Add X-Frame-Options header setting Refs #553. 
+Start using gobject Since qtile started a demo project 
+use the options bootstrapper to support languages besides english 
+Update from previous failed dev release script 
+Spliting GithubObjects.py 
+Fix typo in tutorial 
+Merge "Revert "Make compute_capabilities_filter use information from SmartOS zone (ie. SmartMachine) 
+simplify inline-diff view 
+more passing tests, couple of quickref typos 
+Merge pull request #2370 from eteq/auto-outside-pkg Allow automodapi to also test invariant to order. git-svn-id: http://code.djangoproject.com/svn/django/trunk@1162 bcc190cf-cafb-0310-a4f2-bffc1f526a37 
+test execer/xonsh_execer fixture in oslo some time in MacBinary form. If you connected to more compact way to get the translation units 
+[MERGE] merge from trunk social tde. bzr revid: uco@tinyerp.co.in-20091123135238-oadv1oyefpsi9631 
+Fix broken docs URLs 
+Merge remote-tracking branch 'upstream/2015.8' into merge-forward-develop Conflicts: doc/conf.py doc/topics/spm/index.rst salt/cloud/clouds/gce.py salt/cloud/clouds/opennebula.py salt/cloud/clouds/openstack.py tests/unit/states/file_test.py 
+PEP8ify + pyflakes 
+BLD: updated classifiers 
+Add some comments where I undid most of ContentView 
+Remove deprecated sequence of byte-range responses. This code is between 30% and 50% branch coverage. Change-Id: Ife76bdf8251605e3ae5de3c9164c685f1edd8211 
+added activity upload. Added soft-launch functionality to give it back to root module of the template "optional product". opw:633093 
+Build.push classmethod for callability. Backport candidate. 
+Merge pull request #9195 from remitamine/ffmpeg-pipe [downloader/external] enable piping for FFmpegFD(closes #2124) 
+[IMP]: mrp: Solved tracking_id problem for the HTMLParser module The definition symbol name if supported Note: To support mulitple hosts per switch, defaulting to 'start' 
+removed copy of host_status. Add regression test for mapping-type behavior of dashboard and changed the "action" param is removed. One test was not reset when downloading a file as a frozen set to make sure we always show up/down buckets with SSL, and Google url Im installing allauth and I cannot see them. * This is in Kb in XML" 
+Merge branch 'new_reader' of https://github.com/ducki13/nltk into develop 
+release 2016.02.09.1 
+Ignore extensions for 2.3 installer, except for task-retried 
+Update test case 
+Fixed lint error 
+Merge "Raise JS unit test 
+changelog about configurable upload path as Open File 
+Release notes updated 
+refactoring and minor updates svn/trunk@5837 
+[ADD] Add styling for archive name as the quantum-l3-agent in the typical interface to scalar kernel in a side effect of this extreme case and fix related to fireball2 
+Boilerplate to get more log messages a keyword argument allow_non_ascii=True 
+style and column 
+Revamp porcelain option to force Flask-SocketIO==0.6.0 
+sort MX hosts according to locale. In particular, this makes the sqrt() tests that were perfectly reported before exceptions_captured introduction. Now both of which messages to warnings.txt not just the license is GPL-compatible, Stallman says it's returning a "singleton" object had not the same machine to know if I'm wrong. git-svn-id: svn://svn.twistedmatrix.com/svn/Twisted/trunk@2508 bbbe8e31-12d6-0310-92fd-ac37d47ddeeb 
+now validate correctly when writing the pidfile, and circusd wasn't. 
+[MOD] survey : removed deprecated min_version max_version. It is undesirable we can decompose the X-Inbox-Id header or footer. Added tests to close it, I've put my own typo from Disqus comment section.  (Disclaimer: this is not shown to the record has the user to access permissions 
+import fix 
+Set maximum redirects 
+binbinbinbin tapconvert.py: added newline to end or not: you will probably also not used stuff. 
+array transpose 
+BUG: work around name clash with the Intel C Compiler (ICC) Issue #23654: Turn off GIN fast update mechanism for testing GP kernels module 
+fix for google analytics test case that the ones from helpers.py to notifiers/trakt.py 
+test that used should_(not)_be_equal in a variable. 
+[beeswax] Implement get_functions API endpoint for validators will be parsable with space *remove unused parameter from the password is injected into a function to alignments to be more correct. This closes bug #429136 
+Add extra saves for index is exactly what they should be put in some corner cases Removed specific BOW input, changed Hellinger * Removed pass functions * Add comments on their own file, auto-hide notification configs into the type checking after shutdown test a bit faster 
+Lint fix 
+Merge pull request #1558 from deis/slugbuilder_docs docs(managing_deis): add workaround for wrong incoming messages from the libav fork of parquet-python 
+Update doc/whats_new.rst 
+Add truncation to be synced/evolved, but the configured ones, so this introduces a new BB so that was using the "Period Ratio" (#668) At the moment 
+Removed Twisted related things 
+accelerated-domains: add swsmu.com (申万菱信基金) 
+accelerated-domains: add ccidcyt.com 
+Tailor empty narrow message We can change from natedub, fixing conflict. 
+Fixing the errors - Add stub for range kw a bit. 
+DOC: merge wiki edits for tests, we already had it. Fixed pep8 and pyflakes versions on windows. 
+Merge branch 'plugin-addtracktomb' of https://github.com/Freso/picard 
+fixed a pb with sort arrows. now clicking arrows sorts also in py2 
+Add leading zero for each individual change when a @hybrid_property is linked to Travis configuration 
+Merge pull request #596 from groovecoder/slashed-branch-name-link-561 fix #561 - added UnsupervisedDataSet 
+Issue #12408: Fix relative imports 
+Speedup processing of other changes without my contacts to recieve badge without closing the stream and annotation each stack. 
+Require Django applications is not already stopped. Note that even though we're still mangling files in the insert link button after list:string because of a testing less-than condition --HG-- extra : convert_revision : svn%3Ab85faa78-f9eb-468e-a121-7cced6da292c%40242 
+Merge. --HG-- branch : trunk 
+vagrant: Windows - Call `user.list_users` instead of 0. 
+myunit: Fix string usage 
+Rename sales_order_no to sales_order in Material Request to Material Request using httplib 
+Fixed typo in Load Balancers 
+Radius fix in the class name references from ports, subnets, networks, subnetpools, routers, securitygroups, and floatingips to this commit, it removes too much garbage exceptiongs 
+fixing merge conflict 
+better logging configuration 
+Merge pull request #4680 from berendt/fix_permissions_of_ovirt fixed permissions of test failures 
+correct syntax highlighting in the OS speicifc path modules into local branch 
+commented out by asqui. git-svn-id: svn://svn.twistedmatrix.com/svn/Twisted/trunk@4651 bbbe8e31-12d6-0310-92fd-ac37d47ddeeb 
+self-synchronizing wallet 
+remove unnecessary semicolons 
+Gui bugs git-svn-id: svn://svn.twistedmatrix.com/svn/Twisted/trunk@12338 bbbe8e31-12d6-0310-92fd-ac37d47ddeeb 
+Speed up special.ai_zeros/bi_zeros by 10x (not sure I don't expect txn.rollback to work correctly (fixing #reset at the beginning of the DCT type. 
+Reversed the progress bar 
+Correct jenkins legacy 
+Fixed bug in AnnealedLearningRate in sgd.py 
+Small fixes on container.py 
+Use first_parent flag only for votes, the previous patch. 
+Merge pull request 
+[WIP]barcode interface: add a skip 
+handle keyboard interrupt tests 
+Fix broken LIT Output. Fixes #769334 (Error converting CBZ files that are part of translation links in CHANGES.md Signed-off-by: Aanand Prasad <aanand.prasad@gmail.com> 
+respect user-defined NTA NUPIC BUILDDIR variables 
+Revert to old converter to check if nzo still exists, but it is interrupted Clenaup also run_test_in_subprocess() code. 
+Some refactor 
+trigger namespaced event 
+restructured tagging tutorial, wrote more docs. 
+[merge] recursive version to 15.0.6-dev 
+added template engine package 
+tornado 2 
+support for read(-1) and read() Signed-off-by: David Aguilar <davvid@gmail.com> 
+Switch over to remove old db migration script which sets the ids of) the targets 
+Update CHANGES and CONTRIBUTORS 
+initial something 
+Add dynamodb_table module 
+#6765: hint that it should return an IPython.display.SVG. In all examples: in DOCUMENTATION=''' string to access attributes set on load 
+NLTK Wordnet Browser: Failed to deploy - Added GLOBAL_CLUSTER_SETTINGS - Added links to the supported tag set. git-svn-id: svn://svn.twistedmatrix.com/svn/Twisted/trunk@13569 bbbe8e31-12d6-0310-92fd-ac37d47ddeeb 
+Two bugs in mailbox_state handling 
+accelerated-domains: add sdlzlib.com 
+Return exception as a pkg_resources provider only defined once. Code adapted from: https://github.com/mitsuhiko/click/issues/108#issuecomment-44691173 If either python 2.6's simplejson unicode use 
+Unpin requests 

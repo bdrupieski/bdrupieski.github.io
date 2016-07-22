@@ -1,0 +1,1004 @@
+Php
+Most probable sentence: Merge pull request #1 from woothemes/master Update 
+
+Likely sentences:
+Merge pull request #50 from deplorableword/c4e925e4 Issues now migrated to add extra test cases [ticket/10005] Add validation for check 
+Fixing infinite loops Fixes #8494 
+added some new caching in the unlikely name "0". 
+refs #3813 rowevolution should work "good enough" for all FormTypes - fixed {strip} handling in case of 404 with no "other". Test Plan: unit tests 
+Fixed some entities inside PHAR. 
+Enhance PHPUnits 
+[Upg] delete group if not enogh SA questions are removed from the edit page. 
+SW-12016 - Fix messages copying using drag&drop + SHIFT (#1484086) 
+* AuthPlugin added strictUserAuth() method to print the legend marker. Fallback is the goal has a higher level ends up *not* defining `kernel.secret` there will always be one of its translation property initialized with apache mod_deflate 
+added the "Log in" & "or" isn't equal to the field's settings (details tab). 
+Add cleaning up various other minor fixes to css/menu/list view padding issue 
+Removed short tags 
+paths.yml added 
+Merge branch 'devel' of dev.sourcefabric.org:airtime into devel 
+Separate GET and I don't intend to. Instead, we walk the arbitrarily deep trees - Moved Filters from sidebar The favorite icon unit test bootstrap this dependency should be changed from width to 60 requests / do not make sense (check for PECL HTTP extension response array. Also minor code style errors 
+modified length function so we can not be there... 
+call OC_App::loadApps(); to load and stats methods. 
+- Updated Samples accordingly - Remove duplicate lines git-svn-id: https://svn.typo3.org/TYPO3v4/Core/trunk@10116 709f56b5-9817-0410-a4d7-c38de5d9e867 
+Fix: Missing kenya currency 
+Fixed marketplace price in price.tpl 
+not needed anymore and can be handled by rename share-keys are now in the original filename. Merged from MOODLE_19_STABLE 
+Merge pull request #85 from hirak/drop-stdout Drop STDOUT 
+Merge pull request #1214 from xanido/layout-area-attributes Propagate area attributes through layouts 
+pt-br translations 
+*** empty log message has no real reason is that we really mean. Change-Id: Iea265be5c0e6113e91e700124ac36a0b588ca25c 
+convert sizes (UNTESTED at the top of rhino; we use the non-numeric key as implicit group Refactor JavaScript for change column component - Reorganize test file 
+Merge "API: Mark seldom-used formats as well 
+Merge branch '1.6' of https://github.com/PrestaShop/PrestaShop into 1.6 
+Merge pull request #80 from zgq354/master 修复当cookie的值为空的时候不跳转登陆界面的问题 
+Merge branch 'develop' into develop-next Conflicts: 	.gitignore 	.travis.yml 	composer.json 
+Add hasManyThrough relationship 
+update cake version for prevent wrong primary key for mcp (global permission settings 
+removed extra button outside the visible frame appear in token instead of creating your own custom method. git-svn-id: http://joomlacode.org/svn/joomla/development/trunk@13997 6f6e1ebd-4c2b-0410-823f-f34bde69bce9 
+Refs #6162 check this option. 4. Reordered the list_ functions to avoid fatal error 
+Correct README links to the category 
+// labels 
+Add file_put_contents() function 
+Merge pull request #320 from rolka/patch-1 Created lt.php 
+Merge branch 'master' into talmdal_dev 
+debug toolbar issue" src="https://cloud.githubusercontent.com/assets/6603411/12887804/fdf4496a-ce76-11e5-8253-9be3861925ec.png"> i fixed the CI form_radio 
+Adding initial Orm package for Oro - moved maintenance command - added "SecurityFacade" into MultipleEntityType - added js confirm message from haw * fix a number of comments - jscs fixes 
+Reorder array checks Make sure html variable set as not yet be setup. This resolves a potential 1.0.0 release, bump version to 20100112 
+Issue #2089671 by disasm, larowlan: Convert translation metadata should be protected 
+Log query execution to make them say "product" instead of `sub_str` in order to use the same page as comments 
+Add test for the database connection to a page is asked for it in a theme's stylesheets. 
+[WebProfileBundle] fixed unit test databases need to initialize modules by type 
+Update README.md 
+Fix stupid typo in the exception to gitignore 
+Standardize to uppercase per style guide. References to stdClass conversion for xEditable Permit inline edit 
+[#9451] changelog entry in app as workaround any more 
+MDL-9123: Check that current changes 
+move suite methods over to pure unit tests! 
+Move Schema to CVS. git-svn-id: http://svn.zoneminder.com/svn/zm/trunk@151 e3e1d417-86f3-4887-817a-d78f3d33393f 
+Updated translation: Japanese by c_schmitz, ecocitizen, aesteban, larjona Updated translation: Dutch (Informal) by c_schmitz Updated translation: Persian by M. Plumbley: documented drupal_is_denied(), and improved coding style with other JS libraries. Also, some people and noted in bug 113 
+Fix merge conflicts - fixed legacy block usage information. This preserves behavior FormHelper had where it wasn't tested yet... 
+Qual: Meilleur gestion erreur 
+Check if identifiableName method exists - Switch themes/schemes 
+adds support for m4a and m4b 
+4.1-alpha-29800. (Bumping to permanently sync the revision during the redesign. Somehow seems more appropriate here adjust default image gallery. Patch by Matt. See mailing list. See bug 2804. 
+Merge remote-tracking branch 'refs/remotes/origin/master' into choice 
+try to connect with the GoogleMapsBusinessProvider, throw an exception was thrown when saving and updating the docblocks in composer schema 
+Fix a bug where feedEmpty() was not working if you are looking for hunks. - Viewed externals. - Viewed People list. - Edited an initiative. - Edited a question; edited an existing page git-svn-id: http://dev.piwik.org/svn/trunk@2073 59fd770c-687e-43c8-a1e3-f5a4ff64c105 
+Fix CheckPermission(). 
+Add a user 
+Merge branch 'Custom-CSS-problems' of github.com:mattoperry/jetpack into mattoperry-Custom-CSS-problems Conflicts: 	modules/custom-css/custom-css.php 
+Translation update done using Pootle. 
+MDL-46792 core_group: Check that paths might call `DateInterval::setTimezone()`, so this always fails, so if using current password is set to true. Effectively this is outside a storage. Additionally add two configurable attributes are not up to other method to generate activity association entities - add caching for extremely busy pages like layout-home.php. There is no longer needed. 
+Import additional tests for value. 
+Update includes/download-functions.php Fix issue #90: Safari 5.1.2 + field-template context dialog not reappearing after being disabled when not in the profiler 
+Added U_CRON_JOBS key 
+start using it in grouped product moved models into `Model` (single record) and `ModelCollection` (multiple models) 
+Renamed PodsForm::field_comment to PodsForm::comment. Filtering and Empty Trash button and compress files_external icon 
+Issue #2497455 by Manuel Garcia, derhasi, pcambra, dawehner, tim.plunkett, damiankloip, EclipseGc, martin107, neclimdul: Introduce a send_core_update_notification_email filter to it's entity. 
+Merge pull request #56 from Zizaco/coverage-100 100% coverage 
+Build correct corpus in copied or not for humans. Be specific about what the sql report 
+there seems no more used in tests 32b79eb removed obsolete faq entry about the page of the news or calendar feeds from disk, only allow image embeds in HTML #3089 
+GCM adapter added 
+Validation tests. Woot!!! 
+Accept strings as a first column -Widgets is immediately blanked Dev Note, this will cause problems with Paypal account for multiple actions at once, recommend putting this in RELENG_1. 
+recreate configs web rebuilding domains 
+MAGETWO-37808: Create Indexer field handlers 
+Merge "resourceloader: Vary module_deps on language selection for products * Changed the element is created with change of the jquery dialog. 
+Fix weird skipif message with the calendar block to throw exception. Now a teacher has "student view" on the link to avoid putting 'quotes' around integers (performance) 
+Fix: link to `8.1` here instead to make another test 
+Fixed #1458: Birthday Date is missing git-svn-id: https://svn.typo3.org/TYPO3v4/CoreProjects/workspaces/workspaces/trunk@3828 743128fe-103e-dd11-99c4-001b210b3e58 
+Update db_get_table() calls for PHP 7 doesn't come up with unfixable error. This might take a long time ago from all glossaries on the fancy layout 
+refs #6045 fixed some test error If the developer console and verified the envvar was accessible even with a 'Location:' header that prevents upload Public upload is done using Pootle. 
+Fix Solver function visibility 
+Add integration tests 
+Merge pull request #85 from phpcr/styleci added styleci 
+Dev: little space after Pool Title on ProductLoop 
+Minor changes 
+fixed table name in ext_autoload files are inconsistent so can be stripped from bookmark actions. 
+uncomment die instruction 
+Readability refactor of server_databases.php 
+get rid of Administration Shortcuts menu. Left-over code. 
+issue #56: Added ability to edit .bashrc and drush.prompt.sh during core-config. 
+Issue #2035087 by lazysoundsystem, rasmusluckow: Removing t() from test suite and making API changes 
+Add the spice of life and it's not just basic insertion points. Used __call() to Phalcon\Registry 
+updated dependencies 
+Use semver for sammyk/facebook-query-builder 
+Improvements #503 
+Merge branch '3.8' of git@github.com:Dolibarr/dolibarr.git into develop 
+Merge branch 'feature/b2b_flow_adjustments' of github.com:laboro/platform into testing/CRM-1276 
+PHP Lumen is running - edit group needs more cleanup Slight cleanup of the Response to $additionalHeaderData (and also because of special modifiers. This fixes an error from when importers were shipped with its refactored version. git-svn-id: https://svn.typo3.org/TYPO3v4/Core/trunk@1492 709f56b5-9817-0410-a4d7-c38de5d9e867 
+[-] BO : #PSCFV-3831 : check data integrity 
+Added current percent complete to the end?) 
+Adding private message sound capability 
+made some changes made to f376c2ffd7d8304bafff851ead3ed10dee34c805. 
+Phing build refactorings - Add unit tests 
+Fix: template is selected. Props SergeyBiryukov. fixes #19090 git-svn-id: http://svn.automattic.com/wordpress/trunk@19255 1a063a9b-81f0-0310-95a4-ce76da25c4cd 
+fix for sub-panel footable, still bugs as possible, fixes cases where this is gonna be done in the cart) 
+Doh! allow it to ignore pjax request 
+Updated Directory.php 
+Issue #2081209 by mrsinguyen: Remove Unused local variable to field names are now based on comment of a wrapped PHP exception. Thanks Roberto 
+Issue #1198904 by das-peter, bojanz: Add form management 
+Merge pull request #813 from phil-davis/master Validate firewall rule by moving menus submenu values not interpreted 
+Merge remote-tracking branch 'origin/master' 
+Forgot to commit it. 
+Typo (bug #3028566) 
+MDL-35691 fix int(20) db schema 
+Merge remote-tracking branch 'origin/3.3' into develop 
+Merge branch 'w27_MDL-33876_m24_delenrol' of git://github.com/skodak/moodle 
+[ticket/12352] Revert to using the uca-default collation, sortkey's starting with n-z 
+Merge pull request #2090 from iAmShorty/move-donors-to-stats [UPDATE] move donors to stats from being removed 
+Added a behat task 
+MAGETWO-47308: Static tests - added email template creation date rather than username git-svn-id: file:///svn/phpbb/trunk@2769 89ea8834-ac86-4346-8a33-228a782c2dd0 
+Convert Kunena intallation to jQuery and MooTools configuration in entity config and other fixes state that is no big deal on a couple instances I could find. Test Plan: Write a test for slideshow background color in the database isn't installed. git-svn-id: http://svn.php.net/repository/pear/packages/PHP_CodeSniffer/trunk@284316 c90b9560-bf6c-de11-be94-00142212c4b1 
+conflicts 
+Merge pull request #5508 from mickaelandrieu/do-stuff-you-know 	Re add category modal 
+MDL-29509 move timezoneimport to admin 
+Merge remote-tracking branch 'origin/pull/542/head' Conflicts: 	src/Assetic/Filter/Sass/SassFilter.php 
+The method used to sanitise subject. PHPBB3-10650 
+#679960 follow-up by Crell: split node.module. 
+Merge branch '4.0' 
+Enable to customize toolbar 
+Merge branch 'MDL-53635-master' of git://github.com/jleyva/moodle 
+Fix regex in the past -removed (commented out) 
+#1003860 follow-up by neclimdul, phenaproxima: Improve and add tests for EnumValueValidator - created module GroupedProduct * Moved validation function in case an exception as it is read only 
+Refs #3184, fix ApiGetReportMetadata_yearTest. git-svn-id: http://dev.piwik.org/svn/trunk@6937 59fd770c-687e-43c8-a1e3-f5a4ff64c105 
+Fix WP build 
+[*] MO : #PSCFV-3049 - Fix an extra level (git diff -w) * other minor changes 
+allow usage of the Datasource Filter. Closes #995 
+Translation update done using Pootle. 
+Merge pull request #99 from neoascetic/fixes/86 Fix issue where we just define NO_OUTPUT_BUFFERING before including it in the i18n system SkinTemplate displayed an "Undelete" tab if the email view page and non-cached one * Support for dynamically generated then searched for config generation script 
+BAP-3121: Create Merge view page if the modifications I've done on seperate lines somewhere... seems to run it. Test Plan: - Created a Query already, the TextRenderer has been added to ACL context-user group pairings 
+added docs/internals-ja/versions.md 
+Improved job_feed searching. Closes #1348 
+Refs #210 & #211 : Some icons weren't produced when a user is anonymous 
+Documentation: Remove section on caching. See #434 
+Fixed some syntax cruft & formatting tweaks 
+Updated welcome url for Global Meta file 
+minor 
+Obsolete strongswan SMP files 
+fix readme 
+ensure a consistent way. From here, they can also be triggered while admin is now lint and unit star support. Test Plan: Created a new response object being built. Change-Id: I115f8cf9d3b0a1dba979ceb58b5f14dd0b76ec49 
+Fixing vendor prefixes for PageHistory 
+Convert index.php to a category beacause of robot.txt 
+Adding exceptions to this email directly or view it on a file header 
+Changed visibility of class constants 
+Auto-update composer.lock 
+Merge pull request #1389 from guzzle/add-json-functions Adding back json data 
+Closes #994: elgg_view_exists will now fail. Removing for now 
+Correctly break; when looping childNodes in be.container ViewHelper to render it out this functionality should be 'Samoa', #11017 
+Merge branch 'bug/contact-seller' into develop * origin/pr/406: added contains/containsnot conditional 
+Merge remote-tracking branch 'origin/3.6' into 3.7 
+*** empty log message *** 
+NOBUG if we are shown on view files. Fixes #30 
+updates based on Category page and adding test for roles with correct background color erase sequences. * Made HistoryPager use a Location field that maps the property would not load. This will allow help section if we could consider to allow bag access when XFF is set to true color on hover. 
+[TASK] Refactor ext:beuser access module Editing permissions were not uploaded with plupload. If a config setting for the new types, consistency. Test Plan: - Used "parent" in the browser was not being slurped into the 2.3 features ? git-svn-id: file:///Users/Shitiz/Downloads/lssvn/source/limesurvey@7776 b72ed6b6-b9f8-46b5-92b4-906544132732 
+Make linker warning useful Follow-up to r60163 - add logic in constructors - Part 2 max_status 
+Merge branch 'release/0.9.2' 
+Enabling mutli-record validation errors 
+Vendor structure 
+Issue #1938158 by MegaChriz: Fixed code style issues 
+Adding a second option in annotation, and that fos_re 
+Refactoring of group multiselect to the comment -> twig comment 
+Fixed padding issue on welcome page. 
+BAP-920 Migrate ACME Test bundle to list and get job 
+Merge pull request #230 from junkpad92/patch-1 Fixing spelling mistake in comment. 
+more scrutinizer fixes 
+Add hook to the user has at least to 1. 
+SW-5370 - Rename folder Exceptions to Doctrine Common is not a string.  https://github.com/zendframework/zend-diactoros/blob/master/src/MessageTrait.php (Line 191)  Not entirely happy with the cache folder 
+BAP-6118: Force load fixtures. 
+Merge branch 'credit-notes' of https://github.com/woothemes/woocommerce 
+Update the "Add new user" link on it. 
+Few safeguards if cache enabled 
+Update DateHistogramTest with separate repo 
+- Patch #624882 by jhodgdon: Improve documentation for autocomplete functionality Bug fix: no Feature addition: yes Backwards compatibility break: no Symfony2 tests pass: yes Fixes the “Wrong parameters for some new lang files, need to confirm default dates in PropertyType::convertType to use scopedProfileIn * Also override QuickTemplate::msg(), QuickTemplate::msgHtml() and QuickTemplate::msgWiki() in BaseTemplate to simplify the code to delete default country in request scope Discussion ---------- fix phpdoc getQuery, it returns '0.0.0.0'. Which seems ok, but the former title message to include Mockery files in var/modules/g2_import when we process "C". Test Plan: Tried to close the file list. 
+Fix: When there is nearly useless so maybe it merges an updated manual - fixed unit test failure 
+Merge pull request #1149 from wp-cli/create-themes-dir When scaffolding a new StreamingEngineInterface to keep all features; keep it a good exception. - Second, don't let user change warning message when setting up the processing when cache additions aren't useful. - Fix ordernumber generation for index name to Macaw. 
+dml-sqlsrv MDL-26025 Removed use of createAttribute in doc 
+Add csrf to end when it's present in DB 
+add test that ensures indentation is not set twice before it was decided (by me and Aaron Halfaker. Bug: 56397 Change-Id: I51cfd563734a3aeed3667fbb19bf3be40fabbb6b 
+applied patch 5a76cc4 | Issue #1846510 by Tor Arne Thune: Fixed UPGRADE.txt describes erroneous step and needed a way to get enrolment instance info 1. Line length etc. 
+Improved the help string 
+Merge "Resolve code invoking Title::newFromURL" 
+Merge remote-tracking branch 'tyx/master' 
+Fixed other issues 
+Extract method override 
+optimizing loops 
+Allow the empty string. This will get at least inconsistently). Partial fix for deleting roles to configurables. 
+MAGETWO-34988: Implement exception handling into contact substitution 
+MDL-37562 calendar: Adding Aria-attributes to make it possible to disable parsing <style> blocks Only if we don't want to create a new CMSProfileController class and create tickets. 
+#58 Move js functions by reference to custom functions. 
+[ticket/11201] Add visibility specifiers. 
+[Form] Individual rows of the NewParserTests.php with old and new line at EOF git-svn-id: http://mantisbt.svn.sourceforge.net/svnroot/mantisbt/trunk@4197 f5dc347c-c33d-0410-90a0-b07cc1902cb9 
+Twenty Twelve: update comment args The input filter to output page-objects like a webapp in test cases. 
+Qual: Move init to updaters.inc that can be fixed properly in fronted statistics. 
+Postgres ENUMs are now allowed 
+[VarDumper] Fix missing closing parentheses. 
+- various updates: + Some grammatical corrections to pt_PT and pt_BR translations [Validator] Minor fix for postgresql in SearchFormTest and TranslatableSearchFormTest to avoid code duplication Signed-off-by: Madhura Jayaratne <madhura.cj@gmail.com> 
+disallow banned users more similar directory structure 
+About: Make sure to update usertopics information # [#24762] Regression in library filter 
+Fully qualify class name was wrong 
+Added the get-vanilla-ut8-query and post-vanilla-query-space tests from exbase base class AbstractResource 
+Fixed .jshintrc 
+Refs OX-5382 Fixed bug #16526: EM resolve dependencies by default By this the lawnmower that precedes updates. 
+Defaulting autoMock to true. And since detachBehavior() unsets elements in a future $limit that could still result in a double linked list 
+- Patch #821672 by dereine, justinrandell: remove from explanation PHPBB3-10221 
+Issue #2550945 by alexpott, xjm: Notifying user of a note to upgrade.md 
+- GO with RC4. SVN Rev: 2841 
+Merge branch 'hotfix/42' Close #42 
+adds client credentials are now supported under ISAPI (IIS) so we can add a new method. 
+Upload picture script fix 
+Issue #2636980 by Lars Toomre: Fix up mistake in I82711cee Can't believe we made all sqlite fields nullable to fix issues in german texts 
+Adding the rewrite base detection for Intex devices 
+Merge branch 'master' of ssh://code.driven-by-data.net/datadriven/datawrapper-app 
+Фикс багов 
+fixed test cases 
+Using array_set() in Session::flash() for consistency. 
+Constructor on top of this user is. Test Plan: Generated some image things 
+Remove unnecessary itarations through value normalization processors after a discussion in D11945. This finishes #436. Commits ------- b7b26af [DependencyInjection] Added, implemented and wrong though and don't add anymore the ApcuClassLoader could cause visual problems when shunt modules are installed by default this identifier before processing import so people can customize our address tables for subclasses to work with newest version is smaller, more focused easier to transition without "unrecognized parameter" warnings, I'd like to be reapproved. PHPBB3-12052 
+
+Race condition in config for using huge tables git-svn-id: https://adminer.svn.sourceforge.net/svnroot/adminer/trunk@285 7c3ca157-0c34-0410-bff1-cbf682f78f5c 
+Updated schema and relocated to Dompdf\Helpers 
+Allow dropping databases 
+password reset success/fail 
+Merge pull request #763 from atiris/master Slovak language update 
+UI changes for #5219 accidentally reverted something else. Dropped AbstractSchemaManager::listTableConstraints() support - create schema commands to process values git-svn-id: https://svn.typo3.org/TYPO3v4/Core/trunk@299 709f56b5-9817-0410-a4d7-c38de5d9e867 
+Always return successful return code and message authorisation code grant 
+// Start design of actions links git-svn-id: file:///Users/Shitiz/Downloads/lssvn/trunk/unstable@67 b72ed6b6-b9f8-46b5-92b4-906544132732 
+- Patch #563992 by plach: Remove Translatable option on clang 
+^ [#15886] Merged revisions 50805 via svnmerge from svn://svn.silverstripe.com/silverstripe/modules/sapphire/branches/2.0-nzct-postaudit ........ r33175 | hsmith | 2007-04-05 16:29:55 +1200 (Thu, 10 Apr 2008) | 1 line #2302 - Fixing typo in interface messages rather than in an unclear risk/benefit tradeoff between making it a more nuanced (e.g., users who have option disabled. 
+Fixed failing test and listed first in config.php 
+[sluggable] do not have a ping periodic service in the middle of a record with a way to fetch the video folder may be created in backend Customer grid indexer and in this function is annoying; the status info the the other can be replaced with return values [ticket/10006] More testing + code refactoring 
+BAP-9073: Change cron strategy to prevent "Fatal error: Nesting level 2 mediawiki.jqueryMsg.js:1144 was blowing up the code is ever replaced via ajax missing data problem 
+- started working on fieldapi fields. 
+Accessors should be red (but a different class 
+Cookie: Fix @throws comment Change-Id: Ia0af1e53c11c371f70dd60acdf5d32485bd8b3bc 
+Use inline JSON instead of setExpectedException() 
+Feature || Bug: Backend for mobile devices #1027 
+add more tests for translation 
+Fix ini Config adapter issue 
+various keyboard shortcuts in TinyMCE producing empty <br /> with <hr /> however). 
+Corrected the form has invalid input from webapi * Implemented by statusmodules command in demo supplier 
+#212 admin:user:create - allow spaces in name) 
+Added my new styles in loadView() blade view-tables && fixes issue #56 
+Merge pull request #385 from daeks/pm_v3 Enhancement: Plugin Manager git-svn-id: http://joomlacode.org/svn/joomla/development/trunk@8346 6f6e1ebd-4c2b-0410-823f-f34bde69bce9 
+Translation update done using Pootle. 
+fixed transform.pre event 
+translate edit: fix bug in pitfalls Discussion ---------- [FrameworkBundle] Improving bad bundle exception in EditPage::attemptSave() instead of the page header 
+Merge remote branch 'upstream/release-2.0.5-pl' into release-2.0.5-pl 
+fix eloquent auth driver users. 
+exception: Use MWExceptionHandler::logException in more reports git-svn-id: http://dev.piwik.org/svn/trunk@5899 59fd770c-687e-43c8-a1e3-f5a4ff64c105 
+Merge pull request #46 from sgiehl/master #3813 jQuery / jQueryUI / jqPlot upgrades to setup unit tests did not allow adding IP address not correctly referenced as a supported driver" 
+Update version to 2.0.0 from 1.8.2 to 1.3.2 
+Issue #1178580 by Dave Reid: Fix db_update() failure on opening HTML editor. Dev: now also checks for presence, not for values is given but empty 
+Revert r28136; overlong title prefix obscures page title 
+Removed the very beginning of changelog file 
+Replaced the deprecated `lint.ruby.prefix` configuration. The problem is only a new Form_StaticText(). So I added for the feature. 
+Release notes for `Doctrine\ORM\Repository\DefaultRepositoryFactory` tests 
+Translation update done using Pootle. 
+Made sure Filesystem::dumpFile() overwrites an existing account. I've made these enhancements for timeline entries that match the administration pages. Patch #3 by Al. Feature request 1869997 : "Fit to screen" button is disabled 
+Fixed extra lines. git-svn-id: file:///Users/Shitiz/Downloads/lssvn/trunk/unstable@1071 b72ed6b6-b9f8-46b5-92b4-906544132732 
+Merge "(bug 4220) dump schema get unique id 
+Add the lapis framework to use if i18n translations 
+bug #15721 [FrameworkBundle] compatibility with multi-company module 
+Upgraded to jQuery for readability 
+Finished relay support (at least for me. I also fixed UPGRADE fails from Locale to MessageSelector SwiftMailerHandler in Monolog test if arr::get still works just the sort number 
+fix bugs on "you are here" heading. Also, white space. To avoid having a issue where it belongs 
+[Adressing] Remove fluent interface in Pheanstalk 
+[K4.1] Libraries: Code Improvements 
+Update README.md 
+MAGETWO-42909: Setup unit tests for "CClientScriptTest::registerScript()" and "CClientScriptTest::registerScriptFile()" have been performed only with single quotes in console and "arc". Reviewed By: btrahan CC: aran Maniphest Tasks: T3485 Differential Revision: https://secure.phabricator.com/D2342 
+Follow-up to T137658 in OOjs UI. Improving `:focus` states of primary key index 
+update deprecation docs 
+Remove unused arg 
+Improve changepassword route naming rules for Titles and Actions 
+?> at the footer of workpanels. Test Plan: - Added DocBlock to ProductOptionManagementInterface 
+Merge pull request #1997 in SW/shopware from bugfix/master/sw-6633-fix-same-origin-missmatch to master - there is really rough version of http://github.com/gallery/gallery3-flex/commit/88efbd77b45ae888b035295a8034229c645267c2 
+Merge pull request #934 from escopecz/checkbox-values-does-not-save-fix Value can't be inferred from file on the page and made method overrideable 
+MDL-41369 Pass viewing argument to action- and page-viewHelpers. Now you can do at most the first script loaded from the admin sale notification. Closes #1407 
+Issue #2426489 by dawehner: Remove hook_menu_site_status_alter() in favor of getting property values to fit the new one 
+Prepare release 
+Temporary solution for now 
+Restructuring the logic determining whether to insert users into thumbs stats on enabled MSRP and PayPal EC - Merge branch 'install_master' of https://git.in.moodle.com/amosbot/moodle-install 
+MDL-19162 added error pages 
+New: Can filter on Module Builder view changes to the theme. To prevent this, `fill_descendants()` now sets SO_RCVTIMEO/SO_SNDTIMEO 
+Merged from MOODLE_18_STABLE. 
+Added mosConfig_cache_path git-svn-id: http://joomlacode.org/svn/joomla/development/trunk@8486 6f6e1ebd-4c2b-0410-823f-f34bde69bce9 
+Merge pull request #7330 from Arrilot/patch-6 [5.0] Add missing tests 
+Add document number to double qoutes git-svn-id: http://www.pimcore.org/svn/pimcore/private/core/trunk@2207 1f8fe7d8-47f0-464c-8d0a-336f4953ab05 
+Issue #581 : Fixed ProtectBinary behaviour on Contact view redesign - update doc 
+updaitng usage of deprecated code from another existing variant. If already installed, fixes #1171 
+Add a space 
+minified ccm.app.js 
+hint改名为hint 
+Now tries to load template files 
+switch master to develop 
+#6622 Logger refactoring: support for UIWebView 
+[TASK] #374 Added Microsoft Registry language 
+Merge pull request #286 from wp-cli/term-command A term command with --no-interaction and confirmation do not force the owner of a patch to allow or prevent recursive loop. 
+Refactor. 
+^ [#19345] Template Manager gives 500 Internal Server Error` (#1334) 
+readme 
+[Composer] Upd console, use symfony/event-dispatcher 
+Update README covering changes to trailing slashes Don't ask for Database 
+Fixed typo in admin.css: "li" -> "li.leaf". 
+Missing # 
+The `admin_body_class` takes a little to no longer used to allow code to conform to naming conventions 
+Merge pull request #4870 from pamil/travis/barker-out-of-control-bash-is [Travis] Bunch of minor typos. OX-3017. 
+- Fix the first CID found instead of spaces. Thanks Richard McDaniel. (Fix #739) 
+Merge commit 'f1712b2' 
+Document breadcrumb handler for add-to-cart Closes #3200 
+- Patch #500292 by Boombatower: provide a more flexibility, Reflection methods removed from mods folder and a non existing issues have been unselected from CP Allowed Hostnames 
+replaced php config 
+Merge branch '40821-27' of git://github.com/samhemelryk/moodle 
+move readme and travis config. 
+[1.6] Added test cases related with the DDC-1383 bugfix 
+don't restrict to BASE_TABLE. This allows the admin is looking for two equal OrderItems 
+fixes #773 
+SW-14266 - Factory method has several issues. 
+Merge pull request #4285 from rossriley/feature/repeating-fields-ui Remove hardcoding of the CGI sapi. 
+Docblock update git-svn-id: file:///svn/phpbb/trunk@4480 89ea8834-ac86-4346-8a33-228a782c2dd0 
+Merge pull request #3554 from BFTrick/fix-norwegian-language-file Fixing Norwegian Typo on dynamic interfaces - added OC.Util.History utility class instead of HTTP Client Handler & Bump Version. 
+Fixed #8798 for translations 
+fixed display of priority when trait methods & tests. Refs #306. 
+composer.json update 
+Rename DeployCustomCommand 
+Merge "ResourceLoaderImage: Allow shorthand syntax" 
+merged branch husinluck/master (PR #1822) Commits ------- 3be9b0d [docs] add recurring payment status action. add some tests, and fix minor typo 
+Handle key prefixing for route classes itself. 
+Merge branch 'release/0.9.4' into develop 
+Modify the Cobub Razor introduction 
+Merge branch 'feature/CRM-4000' into ticket/CRM-4126 
+Merge pull-request #744 
+Move certificate bundle fails to update without $data['status'] being set. Correcting use of slashes inside the screen with no read access denied handling 
+add Notepad++ plugin to contain the TypoScript PAGE properties * includeJSlibs * includeJSFooterlibs * includeJS * includeJSFooter Resolves: #28382 Releases: master Change-Id: Ie84dc9c49b606e6b3d6b15c0af64fe9614f4c5e4 Reviewed-on: https://review.typo3.org/44857 Reviewed-by: Georg Ringer Tested-by: Georg Ringer Tested-by: Georg Ringer Tested-by: Georg Ringer Tested-by: Georg Ringer 
+Fixes for #766 - setting magic_quotes_gpc Since PHP 5.2.1 https://github.com/FreshRSS/FreshRSS/issues/894 https://github.com/marienfressinaud/FreshRSS/commit/0cabd1f50dd7d1cf0941a50139e6fbeed6825b4d https://github.com/FreshRSS/FreshRSS/issues/789#issuecomment-73878076 
+Removed old blade extensions and query are prefixed with the class method "__e" for unknown macro 
+Improve coding style Signed-off-by: Marc Delisle <marc@infomarc.info> 
+Fix type documentation 
+New: Add property buttons.link.type.properties.target.default New RTE configuration variable called $this. 
+Merge pull request #5813 from craue/code-cleanup code cleanup 
+MDL-54837 tags: fixed tooltip git-svn-id: http://www.pimcore.org/svn/pimcore/private/core/trunk@2481 1f8fe7d8-47f0-464c-8d0a-336f4953ab05 
+Moved AbstractAdapter polyfill methods to enforce these rules twice, but it was merged into the 1.0.x-dev branch. Discussion ---------- [Security] add subject variable to fix tag 
+refs #4564 avoid possible js execution 
+fix: cannot delete multiple order by COUNT(*) before executing the query 
+Merge remote branch 'xpdo/develop' into develop 
+Builder CSS moved from one group of an exception. 
+Loading core's functions.php before plugins are now displayed properly in xPDOQuery::parseConditions() Bump version to 20081229 
+Merge branch '1.6' of github.com:PrestaShop/PrestaShop into 1.6 
+Add FrameworkTestTypes for DB, just redirect to play/index.php to create ci3_sessions table, so that the $base_url variable and it's much better way 
+show blob size 
+[*] BO : fixed bug #10665: css/calendar-blue.css not included in backup 
+Fix wp_admin_bar link. 
+Merge pull request #10543 from laravel/analysis-8nlEgq Applied fixes from StyleCI 
+Converting this file to Composer configuration 
+[tx-robot] updated from transifex 
+Nouveau fichier 
+- Patch #28826 by chx: made it more natively. but for now always use SSL when linking to external site from test assertions in WatchedItemStoreUnitTest" 
+// maj 
+Section names are too generic for user and org info 
+Moved global constants for test to reflect changes in L10n class, and fix implementation for APC checking, as it builds the l10n domain detection work on bootstrap, updated Request and Response API 
+Remove slicing from the image editor so it can be specified) we'll hit a couple of tweaks to hsb's Countdown implementation: - Allow [] chars in [url] submissions ... could use it at will as everything else. * The first alpha release. git-svn-id: http://mantisbt.svn.sourceforge.net/svnroot/mantisbt/trunk@2256 f5dc347c-c33d-0410-90a0-b07cc1902cb9 
+Translation update done using Pootle. 
+MINOR Documentation corrected in 5785a9a by running tearDown() and removed old code 
+Improved headers sent 
+Keep database and made implicit checks explicit" 
+added piwik tracking (custom url, custom variables) 
+Use 'zfs mount' to get list of available languages, fixes #2986 
+fix: updated context-sensitive help to stderr stream, so scripts can rely on Javascript, making the id 
+Czech translation 
+Fix setup.py 
+Optimized graphics This patch adds a failing handshake status already assigned isGod variable. 
+MDL-37046 behat: Changes from comments. It shouldn't be used, especially in the test_class.functions.compat.php file. 
+Merge pull request #10256 from JeroenNoten/patch-1 Change readme.md to README.md 
+fixes #1101 - BLOB/TEXT column 'sqlquery' can't have multiple output styles per control. Fixes #35579. Built from https://develop.svn.wordpress.org/trunk@30366 git-svn-id: http://core.svn.wordpress.org/trunk@30365 1a063a9b-81f0-0310-95a4-ce76da25c4cd 
+- Patch #861420 by sun: Fixed Image tests are a few quircks along the way to the LDAP field names. May not be increased on supplier order confirmation page [ticket/11684] Remove useless libraries. 
+Add type declaration 
+Batch 3 of 7. Oh well, doing it raw. 
+Update index.php 
+Merge pull request #283 from voda/patch-1 SelectBox: optgroup label escaping funciton to keep it and it will not be validated (empty -> flagged red). Extra points: * Fix for changed user guide 
+Updated README 
+Merge pull request #226 from wagnert/master Closed #350 - Creating two new public static variable access" branch in 
+Update PHPDoc. Signed-off-by: Hugues Peccatte <hugues.peccatte@gmail.com> 
+do not crash in PHP 5.2.3, where it received the message_access() text. - It appears to be disabled for now 
+Use HTTP_X_FORWARDED_ https://github.com/FreshRSS/FreshRSS/issues/975 
+Improved documentation Using the edit API keys 	modified: modules/custom/api_petitions/example_implementations/javascript/thermometer/README.md 	modified: modules/custom/api_petitions/example_implementations/javascript/thermometer/index.html 
+// Added debug info git-svn-id: http://www.pimcore.org/svn/pimcore/private/core/trunk@2304 1f8fe7d8-47f0-464c-8d0a-336f4953ab05 
+Remove SLA when overdue 
+composer.lock removed 
+fix man page 
+Resurrect database link in the All websites dashboard were not assigned 
+Merge remote branch 'origin/master' 
+JS-388: Re-test multi-address checkout 
+CRM-5173: Unexpected slow login performance - optimization replace hhvm extension by default) with PropelPDO. 
+Server synchronize: * change asterisk to required extensions check & tentant tab Fixes #2481. Param was missing so that only calls the selectbox replacement 
+Fix autoblocks in r92480 
+Remove useless variable 
+Translation update done using Pootle. 
+Variable name fix. 
+Replaced JQueryElement toString() method by default. 
+Merge pull request #5514 from mbabker/MoreInstallAdapter Continued JInstallerAdapter implementation - update command : add custom lines for better responsive handling of context cache Refactor pluginCache generation - sometimes I want to use ui component 
+Merge branch 'devel' of dev.sourcefabric.org:airtime into devel 
+lets start thinking they can monitor the filter would allow developers to specify in your API classes into several smaller and easier to understand 
+Merge branch 'wip-mdl-45293' of git://github.com/rajeshtaneja/moodle 
+Dev: Use the full_name for the wrong values, so we can trigger off builds for bug #957 
+CRM-668: Remove JS function: getElement 
+cs fix Added code snippet in SkinFallbackTemplate explicitly ltr" 
+HelloWidget as Dashboard widget configuration won't fit in CTF-popup (removed "click here to make the array keys were ignored 
+Merged pull request #4049 from laboro/ticket/CRM-2909 CRM-2909: Make attachment focus styles for very large meme, and a local setTimeout reference. * Use Validation library too. 
+Issue #1800122 by chx, katbailey, effulgentsia, podarok et al: localized menu options 
+[Console] Fix console option parser fails, the rename of `wp user list` 1. Only JSON encode fields that have a base for future comparison between link in text (from r111851) git-svn-id: svn://svn.silverstripe.com/silverstripe/open/modules/sapphire/trunk@112931 467b73ca-7a2a-4603-9d3b-597d59a354a9 
+Merge branch 'feature/BAP-8910_rest_api_get' into ticket/BAP-9171 
+// Added some missing page content. Props mcsf, fixes #30608. Built from https://develop.svn.wordpress.org/trunk@33237 git-svn-id: http://core.svn.wordpress.org/trunk@33209 1a063a9b-81f0-0310-95a4-ce76da25c4cd 
+Used factory to construct the Minify plugin to support names. Fixed general issues of the name are NOT included on the resulting exception. 
+Rewrite readme 
+Merge remote-tracking branch 'origin/develop' into MAGETWO-37720 
+[FIXED] Typo in status string and not updated on PHP 7 namespace strict compatibility 
+[2.0][DDC-171] Fixed. 
+Change template default fallback title isn't in the task of finding shares for the icon Summary: Fixes T11115, but unclear what this is, simply about to skip in 5.3 and Symfony 2.5.4, unquoted asterisks in word "nekorkts", should be placed in .phalcon/migration-version.  This fix reduces the risks of security class with custom menu where it makes erwan happy 
+update login page Fix #2004 
+Added proper handling (and in some cases 
+Added a new style buttons 
+Update README.md 
+compile js 
+Some small textual changes git-svn-id: http://svn.concrete5.org/svn/concrete5@78 b0551a0c-1e16-4222-a7d5-975db1aca215 
+PlatformRepository now adds the possibility to configure colorbox (code from @mrclay) 
+Update PHPDoc 
+HTML Compliance - System tests 
+* Use copy instead of Uri does some setup of OC, also check for filter added 
+MDL-20051 removing login links 
+Add an official list of options 
+Missing ChangeLog entry for bosnian translations to .pot file and verified the task structure 
+enforce_home_folder_naming_rule cannot be overridden by a test case helper class and its not possible to determine which class is assuming that the user was marked with ACL & role. 
+- Patch #955610 by casey: Remove stray f 
+instead of 18px) so it doesn't seem well thought out well before I killed <td nowrap>. Hello <td class="nowrap"> ! 
+Bugfix 
+Merge remote-tracking branch 'origin/master' 
+edd_get_option cleanup 
+Match headers case insensitive, it allows images to be in typo3/Classes/Bootstrap/ Change-Id: I063ab9b3a337dce3ffc795be1c81429468a855d7 Resolves: #38089 Releases: 6.0 Reviewed-on: http://review.typo3.org/11337 Reviewed-by: Susanne Moog Reviewed-by: Wouter Wolters Reviewed-by: Stanislas Rolland 
+Update README.md 
+Upgraded libodbc++ to the default language is not the best available algorithm. Test Plan: Open Notification Menu. Scroll. No longer uses action 
+Implemented UI for users of the cycle is triggered. 
+Run tests > Result: The new signature and uniformize code and database configuration options 
+fixed #3644: missing '>' in free shipping display when reordering fields. 
+Another pass at some point, had it applied as url(?background); 
+Follow-ups to r84258 
+Fix for #2020: docs about installing from source 
+Merge branch 'MDL-37035' of git://github.com/adrianfish/moodle 
+мелкие правки модуля 
+#205795 by douggreen: minor db_query() fix to xPDOManager::createObjectContainer() 
+MDL-44079 Javascript: Check whether a function for User 
+Various security fixes applied 
+1.7.1 
+Retina friendly travis badge 
+Release number / data types: bug fixes see #7509 git-svn-id: http://svn.automattic.com/wordpress/trunk@9332 1a063a9b-81f0-0310-95a4-ce76da25c4cd 
+- Patch #707724 by chx: menu_rebuild() needs to be part of the group name seems to be more consistent for UI Listing component - I18n files now stored in /tmp.  On exit, `edit_link_save()` correctly ends the profiling data. xdebug_start_profiling() that begins profiling process, xdebug_stop_profiling() that ends the idiot homework ... git-svn-id: svn://gallium.openminds.be/opt/svn/fork2/trunk@1682 869247f0-a1f3-4d5c-9449-4b73fc252fa6 
+Merge pull request #1 from facebook/community Sync with english language 
+Preparing for release 1.5.5 
+Add value attribute like text or space as whitespace 
+Dev Fixed a few unnecessary str_replace() calls f5e7f24 [HttpFoundation] Optimize ServerBag::getHeaders() 
+Removed "Fix me" TODO item now is that it operates in a different context. More often then not caching 0 as 'other'. Now it accepts an array to load mcrypt extension. 
+(bug 28076) Thumbnail height limited to comments 
+Merge branch 'tmp-path' into log-refactoring-1 
+added some details to readme 
+[-] FO : small fix in Runner/CommandLine UTs 
+Merge branch 'develop' into FearlessKiwis-MAGETWO-43961-fpt-final-price-with-custom-opts Conflicts: 	app/code/Magento/Weee/Observer/GetPriceConfigurationObserver.php 	app/code/Magento/Weee/Observer/UpdateProductOptionsObserver.php 	app/code/Magento/Weee/Test/Unit/Observer/UpdateProductOptionsObserverTest.php 
+Use correct labels for editor instances. Stick to the General::array_to_xml method by take out class names 
+Add favicon mimetype as well 
+MDL-35421 Add conclusion text fields (description, additional information) were shown a message to welcome view that category PHPBB3-11169 
+Cleanup the dash board structure file fails to resolve this, edit your own action (pods_form_ui_field_{$type}) to output declarations in the dedicated PHPUnit extension 
+Adding in fallback image possibility (see #2) 
+Added support for table head 
+MDL-50013 mod_book: Move logging and PID directory if it is better placed in lib/default.ttf eg ftp://ftp.netscape.com/pub/communicator/extras/fonts/windows/Cyberbit.ZIP 
+Updated Caching Framework configuration and enforce single quotes instead of IRI::$iri, since we're using PHP later 
+1. Add aspnet-sqlserver-raw and aspnet-sqlserver-entityframework tests. 2. Don't share DbParameter object between [Codeception](http://codeception.com/) tests, which also checks $CFG->allowcoursethemes before letting the newest phrases to German 
+. 
+Merge pull request #23 from orocrm/frontend fix main parsertests (thanks Rob) 
+Merge pull request #119 from GrahamCampbell/patch-1 [2.0] Updated Build process - decomposition of ScheduledTransitionProcesses 
+Remove old code a bit, was getting more cluttered. I suggest to do something better here (configuration, CMS stuff, etc), but we can provide content types to helper to check if Phalanger is being saved - fix passing empty array 
+Merge branch '3.0' * 3.0: [Process] Fix #5594 : `termsig` must be 5.3 compatible.  * [+] Security : Removed recall method 
+Update docs. 
+Client-side migration for 3.1.0-RC4 
+Added a basic description to all Class/Functions 
+add a comment as suggested by Julian. 
+minor fix in websocket_comet.js 
+Translation update done using Pootle. 
+[BUGFIX] Re-allow t3d export ended up in conflicts and merged app.php and app_dev.php 
+Merge branch 'MDL-42023-master' of git://github.com/damyon/moodle 
+throw an exception in non-debug mode for OpenVPN client specific override. Forum report https://forum.pfsense.org/index.php/topic,72877.0.html 
+Needs to check if the user 01c913b moved the diagnostics plugin git-svn-id: http://dev.piwik.org/svn/trunk@490 59fd770c-687e-43c8-a1e3-f5a4ff64c105 
+Merged siteidentifier from stable 
+Merge pull request #137 from weejames/patch-1 Sends percolate request when using the correct ipv6-icmp tag. 
+SW-5671 - Add ability to add them before the first field. 
+merged branch marijn/hotfix/configure-git-path (PR #43) Commits ------- e2f0b2e Fixed a couple of improvements and fixes #335 
+Swedish language file. This solves an strict standards in controller constructs Call control instead of relying on the same result like that. 
+CRM-4452: Move context autocomplete to the dev environment 
+New string for the Errbit API key in the plugin as a result of the summary was given * Error message not success 
+plugins and of couse - we fatal: http://pastebin.com/raw.php?i=ykpfr4MT This patch replaces the raw subpart template if graduated price table 
+Update Resources/translations/Admingenerator.fr.yml 
+(bug 31405) block reason for me to do this for us to retain fidelity on exporting survey results to include this feature is on 
+Improved ACL Database adapter 
+Follow-up r90334 and r90337: made DifferenceEngine::addHeader() non-static to can be used on windows too 140509d [BREAKING CHANGE] Cleanup widget focus/select/clear methods Change-Id: Ica0bf776d3f22678b6fb67cdd85da188011509b0 Reviewed-on: https://review.typo3.org/19522 Reviewed-by: Anja Leichsenring <aleichsenring@ab-softlab.de> Reviewed-by: Christian Kuhn Tested-by: Christian Kuhn Tested-by: Christian Kuhn <lolli@schwarzbu.ch> Tested-by: Christian Kuhn Reviewed-by: Alexander Opitz <opitz.alexander@googlemail.com> Tested-by: Alexander Opitz <opitz.alexander@googlemail.com> Reviewed-by: Wouter Wolters 
+improve web service switch 
+update netty to version 1.0.2 
+unstatic Frontend methods 
+Merge branch 'develop' of github.com:phpDocumentor/phpDocumentor2 into feature/refactor-templates-and-writers 
+Merge pull request #1227 from ADmad/3.0 2.5 => 3.0 merge. 
+Fix completion test. Ptach by helmo. 
+merged branch stof/exception_listener (PR #1633) Commits ------- 811fc30 [Validator] Added more testing before stable release including it. 
+[-] Project : put the name of the drivers and remove the protected `$connections` variable in kernel so allow is_gle_op() to be incomplete Change-Id: I75b91d3b9a951169038b40b9cf2f59707ba0c11d 
+Prevent accidental subnav popping up The test upgrade procedure in 2.5.x-installer branch * Add a method ("myMethod") on a branch. --------------------------------------------------------------------------- by bamarni at 2012-10-01T13:06:47Z @fabpot: you closed this #6254 as this ```before``` filter (in participant and token 
+Dev Continuing to build 
+Fix for header size. Changing the Plugin Manager." contains an escaped dot we circumvent this issue. Resolves #5634. [+BUGFIX] Extbase: Updated ext_autoload.php (thanks to Anonymous) 
+Adding tests that generated the PHP $_SERVER docs. Fixes #1888 Note: Year Period is not needed 
+PhpdocParamsFixer - now redirects in cURL and make them faulty without further modifications) 
+Upgraded versions of a selected option of `git archive` in testGitExcludes(). 
+Full path 
+We should replace their initialization with saved results git-svn-id: http://yourls.googlecode.com/svn/trunk@129 12232710-3e20-11de-b438-597f59cd7555 
+updates git-svn-id: file:///svn/phpbb/trunk@382 89ea8834-ac86-4346-8a33-228a782c2dd0 
+added byteserving, fixed cookieless mode, changed the format of the argument for translation 
+Merge pull request #4660 from Zales0123/clean-up-promotions-steps [Behat] Remove *.class parameters in WS tests 
+Merge pull request #680 from jakr/datacolumns Reformatted code of SpecialAllpages::showChunk() - Early isShared return 
+Made database parent classes for new about page. See https://github.com/Automattic/beep-beep-boop/issues/229 Merges r114724-wpcom. 
+Fix: eclipse error 
+Move 2 messages with less aggressive Fixed the indentation in generated SQL for a question, so it always evaluates FALSE (1<>1). 
+Updated to emulate the original merge from 1.0. 
+Merge branch 'issue-288-feature' into develop 
+Translation update done using Pootle. 
+MDL-46479 enrol_plugin: Final deprecation of IntlDateFormatter::setTimeZoneId() in PHP 6. require_once() phar:///usr/local/Cellar/phpunit/5.1.0/libexec/phpunit-5.1.0.phar/phpunit/TextUI/TestRunner.php:805 ``` 
+Add expand/close links for UI consistency. Still needs lots of modules to be PSR-4 compliant + translations 
+Add CMB2-Grid as third-party library that can be created. Keep trying to match menu item doesn't get the real class name 
+adding new context API to CHANGELOG.txt. 
+Make comments for more info. 
+CC-4588: Airtime 2.2 upgrade 
+watch() bug fix 
+Replace intval() with int typecasts 
+netteForms.js: Use '' as the base path prepended - if the category you have free credit in the second argument of the alias table getting too long) 
+Move second parse stage. This is still worth it for now). Improved logic for snapshots later 
+
+Applied fixes from DD32. see #7326 git-svn-id: http://svn.automattic.com/wordpress/trunk@8773 1a063a9b-81f0-0310-95a4-ce76da25c4cd 
+Adding the report was last touched. The simple test PHPBB3-12099 
+
+Followup r98676: add @embed comments to fix this by trying to setup the form to string if sharing group sync 
+MAGETWO-36026: [UI] Checkout: Payment Information 
+right sidebar of the symbols everywhere so updater takes effect :P Signed-off-by: Florian Aders <eleras@froxlor.org> 
+Doc 
+Merge pull request #2977 from Automattic/fix/2976 Subscription Widget: Backwards compatibility break: no Symfony2 tests pass: yes Fixes the issue is a regression #2485 
+Added tags to allow CURL options to a protected method. 
+Fixed old references tomorrow... 
+* post-fixed the suhosin tests 
+updated VENDORS for 2.5.9 bumped Symfony version to 2.4.0 Updated test case 
+MDL-20204 blocks rendering does not introduce a final else to say english?give me a horizontal break or fix anything 
+display the category's image on contact card. 
+Merge pull request #8373 from dgt41/modalFix regression: fix for ticket:331. Adds a contributing file which is blank by default. / Add xml_parser_create function test. 
+[Form] Adapted to the `WP_Error` class. Props afercia. Fixes #26160. Built from https://develop.svn.wordpress.org/trunk@25832 git-svn-id: http://core.svn.wordpress.org/trunk@25832 1a063a9b-81f0-0310-95a4-ce76da25c4cd 
+MOE update after rebase. 
+Merge pull request #2385 from amenophis/api-event Catch event stop during create/update 
+[TASK] Reports module shows multiple resourcetypes, if available 
+[http client] reuse CallableStub 
+[DoctrineBundle] Fixed: CollectionToChoiceTransformer should accept identificator. 
+Update compiled file config 
+cleanup 
+Cleaning up the code thinks that all responses 
+Support symfony/console for 2.3 Commits ------- 29986a9 Added note for storage types. 
+Fixed the initialize() call 
+Add option for removing .DS_Store files 
+Fix images 
+Translation update done using Pootle. 
+[tx-robot] updated from transifex 
+- Patch #105757 by kkaefer: improve wording of indentation here 
+Translation update done using Pootle. 
+Translation update done using Pootle. 
+Bumped Artax to latest version of zversion. 
+Translated using Weblate (Albanian) Currently translated at 99.9% (2648 of 2665) 
+Merge pull request #9262 from piwik/omnifixture_fixes Fixing issues with tabs their own directory (since there can not have a central ``query()`` method in MySQL/MySQLi to protected closure 
+Merge remote-tracking branch 'remotes/origin/master' into ticket/BAP-9469 
+[*] BO : fixed JS string on restore. MDL-14330 ; merged from MOODLE_19_STABLE 
+Merge pull request #10953 from GrahamForks/html [5.2] Fixed database discrepancies between the Dbal and the phpunit binary 
+Merge pull request #562 from aledeg/install Refactor install tool (see #3586). 
+// Remove _DB_TYPE_ constant from sample code 
+Add check for valid plural rule parser for language config to 0.0.2 
+- small visual updates to lead fields for api tokens 
+* Fixed bugs in the list is: <?if ($REQUEST_URI == "/index.php") echo "selected"; ?> And this is a new user so chooses. Checking is_null would make even more safe. 
+full phpdoc documentation (from r108375) git-svn-id: svn://svn.silverstripe.com/silverstripe/open/modules/sapphire/trunk@112721 467b73ca-7a2a-4603-9d3b-597d59a354a9 
+CompiledExpression - fix Error: Uncaught Error: Module name pattern for Opera < 12 
+make edit links accessible 
+* Fixed an issue where Bundle Product unit test git-svn-id: https://svn.cakephp.org/repo/branches/1.2.x.x@4813 3807eeeb-6ff5-0310-8944-8be069107fe0 
+Translation update done using Pootle. 
+Added AICC API 
+Fixes #1172: URL now can have a 'from' clause. 
+Added ajax behaviour in filter - fixed bug in restoring from a `Document::data()`. 
+Another Id comment lines to match class names. Fixes issue #15. 
+Translation update done using Pootle. 
+Translation update done using Pootle. 
+Prepare release 
+Add is enabled even if archiving is never an article without updating any package. Change-Id: Ic8068fa048075584c9334d0c21fb4efd87eade02 
+Fix update error styling 
+add salt for each iteration. Failing to string and running multiple accounts in the install_update.html [ticket/9535] Fix some more methods to the shell runs to come back later. 
+Added missing js file of that node is added via UI. 
+ONly load pages 
+Implemented '$wgWhitelistRead'. $wgWhitelistRead is now linear and is somewhat incomplete and don't use them, will they? 
+No need for a more complex url structures 
+Clean up Blog Post crumbs Summary: Adds support for all 'hg' commands by composer to install Swiftmailer 
+XSD file versioning for shared size propagation for single array-access assigments [ci skip] Fixed a bug where the folder nature, and remove some duplicate newlines according to the docBlock 
+Merge pull request #5857 from owncloud/type-ahead-share-by-mail-master introduce auto completion 
+resourceloader: Fix-up missing expandRelativePaths() in preloadModuleInfo" 
+updates' git-svn-id: http://svn.concrete5.org/svn/concrete5@1195 b0551a0c-1e16-4222-a7d5-975db1aca215 
+Change MySQL* drivers getTableColumns method to use Form:: & update Lang Updated <input> to Form:: 
+Merge pull request #4319 from xchs/pull_request_2012-05-17_01 
+Updated Phalcon config for media manager FS#1324 darcs-hash:20080215091527-7ad00-181de33e08256577fec9cb52ff11811ad0f4fc01.gz 
+Merge pull request #3987 from R-J/AltIsNotAlt Improve overall autoloading performance. Do not include fresh post_visibility 
+Fixed term ordering 
+Merge pull request #61 from rew-ind/rew-ind-patch-1 Index.blade update for WP 3.7 
+Merge pull request #395 from pippinsplugins/reporting-dev Reporting dev 
+Show pages tree (Trac #6930) 
+Add Cache::get_handler() To try out: * This avoids obscure error messages 
+// Added warning message regarding hook_update_last_removed() is not needed except for the file since they are easier to translate this. It makes the code saves it if not valid (invalid financial indicators are currently working in /tmp/patched. 
+replace payment with gateway. impr doc. 
+- Patch #355360 by burningdog, spatz4000, netaustin: standardize on https://www.pfsense.org, point to the apache sites file, only once per object [Translator][FrameworkBundle] Added @ to suppress errors in `wp-admin/network/site-users.php`. props ericlewis, kraftbj, lukecarbis, mrmist. fixes #33667. see #14530. Built from https://develop.svn.wordpress.org/trunk@25842 git-svn-id: http://core.svn.wordpress.org/trunk@25754 1a063a9b-81f0-0310-95a4-ce76da25c4cd 
+PIMCORE-1876 - Do not use wfDeprecated() when there are no menu item 
+Special:ComparePages: output titles in Reports, Segments, Channel related entitie... 
+Translation update done using Pootle. 
+Translation update done using Pootle. 
+Changed background color white 
+#152819: Module .info files for updates when you "edit metadata" view the calendar 
+improvements in model class 
+Fixed #3963: A full fix to preserve nested keys in the `tl_member` language file 
+Merge pull request #490 from niallkennedy/publish-hooks always load from a pre 1.7 group profile layout tweaks. 
+s/;/./ 
+Moving sample.png to root 
+[TASK] Disable save button only for existing database 
+download_fsockopen fixed minor string correction 
+Replaced hardcoded table name when type is triggered after modals dismiss A new $type has been introduced with trailing newlines to strip off the image. 
+Translation update done using Pootle. 
+Fix: Si le type de connexion ldap reste a tester. 
+Docs 
+MAGETWO-46056: Shading under Storefront Navigation Menu has vertical scroll 
+verify Started a theme.inc clean-up. 
+Refactoring to maintain order of methods. 
+Fix CS 
+Automatic installer.php lang files by hash: Special:FileDuplicateSearch * Add missing @throws in parser test for the step output 
+Allow configuring number formatters. Refs #7193 
+Adding fix when wgDefaultDateFormat is unrecognized The 'date' parser assumed all wikis use wgDefaultDateFormat that is too small to allow adding others 
+Updated branching model for default Workflow Template caused by style guide for new posts, props Joen for starter patch, fixes a regression introduced in e2d21f2 
+MAGETWO-46487: Change Resource model, introduce metadata configuration easier by making the request was not effective 
+BAP-6990: Lock headers on Recent Topics" shows avatars by default is normal. When reapplying your commits before I hard code white 
+add contribute guide Also: * Move location of the switch to its own viewtype git-svn-id: http://code.elgg.org/elgg/trunk@8467 36083f99-b078-4883-b0ff-0f9b5a30f544 
+mediawiki.ui: Rename .mw-ui-vform-div → .mw-ui-vform-field" 
+added doctrine 2.4 changelog. Backport fix to libodbc++ 
+allowing client crendentials to be notified whenever translation is bad. 
+email reminders finalized (not tested) 
+added robots.txt 
+Merge pull request #15120 from owncloud/ldap-occ-fix-warnings fix PHP Warning. 
+Fixed issues with old default captcha choosen during wizard. 
+Merge pull request #13941 from owncloud/fix-folder-upload-on-firefox Show message when discarding a draft. 
+Look: Modif esth�tiques mineures 
+Fix incorrect class name 
+Merge pull request #691 from mharis/master Output support added for the new class to td when no banner is visible * Check final step which suddenly gives you a 20px bottom margin; perfect for AJAX framework with the more descriprive label 'move to...' for mailbox origin 
+Merge pull request #8350 from piwik/8243_kartograph Update to Bootstrap 3.1.1 
+syntax error (missing ' on version number in the search box for wc endpoints 
+tests no longer returning duplicate error code for all thumb.php requests" 
+Documentation (docblock) fixes. 
+Автоматическое создание дополнительных полей, например, при активации плагина 
+merge multisite admin - bool There was a char 
+Two fixes, thanks to SpenserJ! 
+MAGETWO-33497: Cover /app/code/Magento/Indexer/Controller/* with unit tests that ensure hook_update_N is properly exported/serialized to XML if $wgHtml5 and the descriptions more readable 
+Merge remote-tracking branch 'origin/master' 
+Merge pull request #881 from narfbg/develop-core-codeigniter Improve index.php & reported.php 
+Fix test 
+Small typo in one of Ax's issues: > = there are no longer necessary. Simplify architecture. 
+qhoxie: basic setup first. 
+Avoid whitespace because of new DOMXPath()). If this issue 
+Fix Default Accept Header - Styled desktop breakpoint SW-8695 - Used collections of managed packages. When composer saves a wasted decrement of translation tab 
+// Stock : translations 
+Some test has been patrolled, there's now the non-UTF-8 one 
+Fixed issue #09063: Empty string is in upper left hand corner of thickbox when one was introduced in 1.21 or 1.22, but as I wanted to reuse event instance in order clause in edd_count_payments function Fix an error even via clever uri hacking. Reviewers: epriestley Reviewed By: epriestley Subscribers: epriestley, Korvin Maniphest Tasks: T8938 Differential Revision: https://secure.phabricator.com/D7091 
+Crypsisb3: Update html (part2) 
+Fix error in page title. Also display get exported (or at all when locale is always a '1' The value of the lexer to keep different versions of dependencies through annotations in comments, mostly brake->break * Fix regression breaking dummy emails. 	modified: classes/SignaturesQueueDevel.inc 
+fix wechatext login error handling when passing verbosity level Logger:ERROR_MSGS to just using the black one that worked) used "locahost".  So am I missing? Fixes T3308 Test Plan: Hit previously-fataling URI, got a handle back to normal. 
+No selected file sets required=TRUE cannot be saved. git-svn-id: file:///Users/Shitiz/Downloads/lssvn/source/phpsurveyor@2451 b72ed6b6-b9f8-46b5-92b4-906544132732 
+Fix typo 
+create a new interface names now use 'language=xx' option 
+Fix in odt library 
+Small optimizations 
+Save the tradition and point report charts converted to strings. 
+admin panel dashboard 
+BAP-1797: Batch bundle logs with api" 
+Fix Shares edition in order to streamline and add a limit of 8192, we need to test harness 5k connlimit on my.cnf  Update jquery.minicolors.js v.2.2.3 (https://github.com/claviska/jquery-minicolors)  * Fix mistakes in docblocks 
+Guzzle 5 
+Preference Panel Interaction w/ logo fix & extra closing curly bracket 
+Merge remote branch 'origin/master' 
+- Patch #11218 by David_Rothstein, Jody Lynn: CSS coding style. 
+Fix plugin manager 
+proper description for developer skin 
+фикс багов в шаблоне 
+Fixed bug_update to no longer public 
+Merge pull request #5568 from maximebiloe/dev/fix/navigation Rename tabs in the file check 
+Use new static methods using dockblock. 
+Translation update done using Pootle. 
+- Patch #9497 by gordon: new feature: added auto-complete functionality on FieldSet::addFieldsToTab() git-svn-id: svn://svn.silverstripe.com/silverstripe/open/modules/sapphire/trunk@114818 467b73ca-7a2a-4603-9d3b-597d59a354a9 
+Merge branch 'wip-mdl-36882' of git://github.com/rajeshtaneja/moodle 
+Merge branch 'master' of git://rcs.pfsense.org/pfsense/Eugene-igmpproxy into review/master 
+New file for full screen CodeMirror #9870 
+Update twigbridge.php 
+Merge "Add support for transitions 
+Merge pull request #950 from tolusonaike/develop Fixed "delete_where" example in `test/README.rst` 
+Fixed column alignment 
+Merge pull request #198 from AKeeman/patch-1 Correcting modifier separator 
+Issue #2370593 by daffie, Sharique, areke: Make the update-from-TER link more clear (and make it scale way better than before 
+MDL-37286 improve coding style for the name rather than commit hashes to identify the install profile, rather than to Special:Preferences without a bailout address issue. 
+Expand the legal_file events to be consistent with other variables. 
+BAP-5697: After upgrade to 2.5.5 
+Fix a bug with promotion rule 
+Codestyle 
+Merge remote-tracking branch 'origin/master' Conflicts: 	framework/base/Model.php 
+Merge pull request #4477 from laboro/fix/BAP-498_cs_on_travis BAP-498: Failed builds - fix 
+BAP-9463: Provide compatibility with php 5.3 Trying to write to the new table class. #580 
+fix a couple of problems with table aliases in criteria ordering 
+Fix unit test engines. Summary: This text was not fixed to add new user we delete the cart based on the renamed file is loaded first. * Merge duplicate HTML ID yet - only events with end date/time before start radvd. Ticket #5812 
+Translated using Weblate (Korean) Currently translated at 71.3% (1962 of 2740) 
+#645796 by arianek, Shai, jhodgdon, and lisarex: Update Contact module when author linked to via error_log...duh...should have been static. 
+Merge branch 'master' into release/1.8 
+Clarify which date value on pgsql 
+Fix: Param must be different from default. (As config_api stores complex objects as ElggWire class. 
+render widgets with no `ArrayAccess` instances. 
+CC-3094 : Rebroadcast editing problems - blank value for enhanced RC 
+bug #1934401 [core] Cannot disable Kunena menu bar - store error code * Controller.php - set css minifiction disabled by default so it works in Postgres 
+#147657 follow up by pwolanin, scor: Fixed taxonomy_update_7002() fails when using model's order.   Attempted prepared statement caching to results table. This was necessary because server runs doxygen 1.7.6.1, this patch is a host key. Summary: There are many hard-coded dependencies on the backoffice template. 
+Fix a warning if there is an internal method _getCleanProperties(). [TASK] Extbase (Persistence): Language Oberlay now works with bootstrap Fixes #6985 
+Merge pull request #18 from stloyd/feature/composer [WIP] Fix Travis errors 
+(bug 30264) MediaWiki installer uses require, de facto standard "callback" for the new code coverage On my linux I got it all in one line etc ..) we only support IPv6 from LAN subnet to be an array cast in startsWith && endsWith, test cases for additional code to use "composer require", fixes #211 
+- Patch #337783 by Dave Reid: fixed a bug with generating repository URIs Summary: Ref T7303. Currently, our handling to the user to get names without config. This lets you overlay data from database), this causes that a long history of entities - small fix in his name 
+// Fix bug #1 
+Add option to enable/disable maintenance mode - Standard Install Routine 
+Merging from MOODLE_19_STABLE 
+Check for constant when loading app php script which selectively rebuilds or reorganizes indexes for shipping packages 
+selecting column 
+adding unit tests. Reviewers: btrahan, epriestley Reviewed By: chad Subscribers: epriestley Maniphest Tasks: T2361 Differential Revision: https://secure.phabricator.com/D5292 
+Localized User>Workspaces (thanks to the higher dialog. (Example case is probably more of the method) Change-Id: I9070491fd9c1ee3bc77d88d1f50cbefb106a3ed9 Resolves: #37620 Releases: 6.0 Reviewed-on: http://review.typo3.org/11305 Reviewed-by: Christian Kuhn 
+minor #888 Updated year range in LICENSE 
+Launch UNIONFS script if $wgCommandLineMode is disabled. - We used to delete the 'rewrite_rules' option. Instead, the user interface. A dotted border is not defined 
+Merge pull request #10385 from justinshreve/template-functions-notice-10381 [2.5] Prevent shortcode errors when contacts group is not true 
+->getCurrentPageResults() fetchs the results and header. It also means that running composer again 
+upgrade config 
+install - Fix articleDetailId for variant image in image_downsize 
+do not have a confirm box PHPBB3-11166 
+update math documentation with syntax errors Dev Todo: More styling updates from stable 
+Fixed typo for "purged extension" [ticket/12656] Fix typo in loggable repo#revert() method 
+update changelog 
+Merge pull request #2889 from GPCsolutions/commonobjectreview [Qual] Reviewed commonobject 
+Merge "Add "unsaved changes" warning dialog that would prevent people from triggering Jump Start activation and... better "reset to defaults" + added internal Dumper::encodeString() 
+MDL-47153 tool_monitor: added total items exist before installation 
+- Patch #922062 by solotandem: Fix SimpleTest copying/deletion. 
+Localisation updates for core messages from translatewiki.net (2009-09-27 21:18 UTC) 
+Merge branch 'develop' of github.corp.ebay.com:magento2/magento2ce into MAGETWO-42700-DEVELOP 
+Rather than being worth having by default. 
+Fix: Bad param 
+resourceloader: Remove redundant code for Promotion, CouponInterface now implements all documented methods. 
+API: (bug 16594) Use strict comparisons [HttpKernel] removed unused use statement, fixes #381 * Fixed Leveldb DriverClear notice  * BAP-10854: Fixed set ommission git-svn-id: https://code.elgg.org/elgg/trunk@774 36083f99-b078-4883-b0ff-0f9b5a30f544 
+Menu Manager # [#23443] Fix approve authorization in KunenaForumCategory::authorise() git-svn-id: file:///Users/oratzes/svn/kunena@4282 daf2aa89-cb5b-0410-b8ee-fe93ebc9b27d 
+Translated using Weblate. 
+CRM-4007: Update PHP - is_readable check added * Functional tests: * that polls can be used for the page properties which, when clicked, and some more changes to inline 
+Fix #1957 
+Added functionality for streaming responses Bug fix: yes Feature addition: no Backwards compatibility break: no Symfony2 tests pass: yes Fixes the following adaption: * Change default grid view 
+Translation update done using Pootle. 
+Merge pull request #448 from IainKay/Issue-447 Issue 447 
+Add language 
+Fix: disable core bug 
+MAGETWO-46472: Prepare pull request #682 from nickdunn/integration Two minor fixes Signed-off-by: Baki Goxhaj <banago@gmail.com> 
+Merge pull request #89 from sleepless/master Added optional check for 'Special:Contributions/newbies'" 
+Removed duplication of styles and scripts are now centered and the best definition we would be able to use node_access when the sidebar are off-center. 
+Updated to only show "Attending: ..." with I got this wrong, but Symfony should use a database. Closes #6715 
+Use filtered list if they don't break on malformed responses. 
+Merge branch '1.1/develop' of github.com:fuel/core into develop 
+Merge pull request #310 from klimnad/patch-1 Update include/client/knowledgebase.inc.php look speak about this spaghetti code in forum_view that is relative to the right section 
+git-svn-id: http://joomlacode.org/svn/joomla/development/trunk@6126 6f6e1ebd-4c2b-0410-823f-f34bde69bce9 
+woocommerce_stock_amount rather than yoursite.come. 
+Translation update done using Pootle. 
+non-critical improvements 
+Fix rule manager and driver. 
+Add more mw.loader tests would run the test into two commits to RCS files with non-ascii name in yml files, and maniphest Summary: Adds full ROYGBIVP color spectrum, adds basic openid connect flows 
+Typo. 
+Add a callback is not defined 
+[2.3] When updating the name is 'Ipblocklist', not 'IPBlockList' (throwing warnings when called back with a filter  * Add User::getRegistration() accessor 
+Release script commit. 
+Merge pull request #72 from simnandez/develop Trad: Add missing dep for new release. 
+fixed some css tweaking. 
+Fix Phortune application name from windows * Changes in German git-svn-id: http://joomlacode.org/svn/joomla/development/trunk@4265 6f6e1ebd-4c2b-0410-823f-f34bde69bce9 
+Update libraries/joomla/database/database/mysqli.php 
+first attempt at gateway upgrade code. Ticket #2495 
+Issue #2471136 by eiriksm, superspring: PDOException when creating a folder inside core widgets functionality, as it is absolutely no newlines between wpcom and refactor 
+remove *Exception 
+HTTP_POST_VARS present some problems with bulk actions Signed-off-by: Madhura Jayaratne <madhura.cj@gmail.com> 
+Prepare dependencies for conventions Dependencies need to select colors. Fix issues from jenkins build1341 
+Simplify bookmarks test using this function is called. PHP 5 < 5.5 
+[#4430] Return 404 in search result template - therefore some code for listing available aliases 
+Boom! New way to increment the version to 20091014 
+moving tinymce plugin's configuration to mimic Facebook Ref: https://github.com/facebook/facebook-php-sdk/blob/master/src/base_facebook.php#L987 
+Removed on https://github.com/sebastianbergmann/php-code-coverage/commit/88d167dc08bb7602a84e21294662af0fe3e8002c 
+added missing license information to forum.module. - Fixed node_form() so it checks the passed path was used once 
+Merge branch 'master' into 2.0 Conflicts: 	tests/Sabre/CalDAV/CalendarQueryValidatorTest.php 	tests/composer.vobject3.json 
+fixed playlist delete issue SW-8783 - Fix PSCSX-491 
+Do not remove keys from 1.7 
+Add attributes do_action 
+修正url 
+Added .travis.yml file is saved 
+Remove exec_raw.php since its already in DOM 
+Fix typo {Ceated => Created} 
+Cleanup RefreshLinksPartitionTest Change-Id: I9c8e66b7370f8ea8d9b4f8843718b29e992b1180 
+#207868 by cwgordon7, boombatower, catch, et all: killed in _node hook, as well as Resources for survey without description nor welcome message and throw an error if post_max_size has been deprecated and considered the limited set of combined scripts didn't proceed next accounts if your network defined in RFC2396. Will passthru any of its length > 16kb 
+#994870 by sun: Code clean-up git-svn-id: https://svn.typo3.org/TYPO3v4/Core/trunk@9958 709f56b5-9817-0410-a4d7-c38de5d9e867 
+Add page_latest to the menu system aware of circular reference when show columns for the refactored commands and cleaning composer.json 
+Goodbye Configurations... Welcome Outlines (fixes #411) 
+[TwigExtension] added a and img for better translations from Crowdin 
+PIMCORE-2599 - Pimcore Logger: if using SQLFilter 
+Added getter to attachment object optional when using strict RFC 3986 compliance 
+Merge branch 'MAGETWO-26762' into MAGETWO-34990 
+Issue #2513094 by hchonov, dawehner: JQuery ajax 
+Merge pull request #903 from purwandi/database Fix error message 
+Merge pull request #413 from adamgsoc2013/UT_transform add test for recurring buttons in View are now always arrays 
+Translation update done using Pootle. 
+D�but ajout bon de livraison 
+docs/guide-pt-BR/README.md - update grid system 
+converted some deletes 
+fixed copy/paste error ... phew, got away with CAST(). Ideally, the values were stored in the list of elements in UnknownElement, add implicit target to parsing and API tokens. This matches than the default string to CSS for menus tree 
+Merging separate magic __call method for implemented method `exists` 
+// BO login 
+Cron tidy-ups 
+Merge branch 'master' into qe2_wip Conflicts: 	lib/questionlib.php 	question/type/calculated/lang/en/qtype_calculated.php 	question/type/questiontype.php 
+Simplyfing Primary Action styling on README 
+Defensive coding in dialogs Test case: EmailComponent $to accepts array values are set when deleting a block of extended answers to CC. When I set a timeout (should fix #736) 
+Update classes/Mail.php lang.php inclusion path of primary key 
+fixed typos (thanks Rajesh) * move math preferences into individual steps (from r101661) git-svn-id: svn://svn.silverstripe.com/silverstripe/open/modules/sapphire/trunk@112015 467b73ca-7a2a-4603-9d3b-597d59a354a9 
+Trad: Quelques traductions de plus de lisibilit� 
+Refactor edd_verify_download_link() to be unique in Ponder so it doesn't return `WP_Error`, so its better for stats. Major overhaul on file not in separate PHP process for multisite. (#2252) * Issue[2250]: Added http and https added per-section update control + js tests + a seo prefix in one from multiple different sources. This will make optional parameters 
+Changing check for invalid Expression in exportParameters (JhonnyL) This PR address the issue. Test Plan: - Used a non-capturing regular expression in the existing bulk edit JS files for a context, this wasn't done using Pootle. 
+Translation update done using Pootle. 
+Store config re-encrypt encrypted values on PropelQueryFilter::addDefaultFilter 
+Fixed issue #9138: Sending multiple invitations, reminders and invitees data fetch 
+improved exception when uploading image with GD 
+Merge branch 'hotfix/fix-compat-php54' 
+adding getURL test function. Change-Id: I84c532358ee32fec959039c62798e4de0702f14a 
+Translation update done using Pootle. 
+Provision index.php This would do numereous database queries. To prevent unexpected side effects between those uncomfortably close buttons. 
+Added Indonesian message translation 
+Whoops, paca70! You accidentally jumped a month and day 
+MDL-15666 adding data marshaling. Fixes ticket #916. 
+Log error code for quick-reply 
+Merge branch 'master' of https://github.com/InfyOmLabs/laravel-generator 
+Dev Fixed some mistakes in the core components (similar to what clients are accepted. This is instead named something other than a dozen issues with Whoops assets. 
+MAGETWO-41308: Cover changes with a new page at http://beta.drop.org/ with theme eldy 
+Update structure-controllers.md 
+[BUGFIX] Fix loading of files admin page - get_record_groups() result is returned even after successful login, see #25073. Built from https://develop.svn.wordpress.org/trunk@25630 git-svn-id: http://core.svn.wordpress.org/trunk@25547 1a063a9b-81f0-0310-95a4-ce76da25c4cd 
+[#28992] Code cleanup and additions. fixes #24616. git-svn-id: http://core.svn.wordpress.org/trunk@24490 1a063a9b-81f0-0310-95a4-ce76da25c4cd 
+Fixed #3058: Only created 32768 tokens can be found - fixed selenium. increased time out 
+Correctly check the filename Fixes errors when a user manipulating their cookies were unset git-svn-id: file:///Users/Shitiz/Downloads/lssvn/source/limesurvey@8856 b72ed6b6-b9f8-46b5-92b4-906544132732 
+Add move() method to merge RLQ inline scripts 
+* Special:Imagelist displays titles with falsy title text of import tokens page Add only the first path. Change to OpenLayers.js to include an element may be made available to JavaScript inline settings. All themes are now called from both testing of bad params 
+Tidy up "firewall_shaper_queues.php" XHTML 
+Removed ViewAction::afterRun() 
+Formal is now aware of remote namespace names updated 
+Translation update done using Pootle. 
+Added benchmark application. 
+Update version-supported label 
+More tweaks 
+Translation update done using Pootle. 
+Fix "Warning: curl_setopt(): cannot represent a solid first step. Thanks to Georg Ringer) git-svn-id: https://svn.typo3.org/TYPO3v4/Core/trunk@8172 709f56b5-9817-0410-a4d7-c38de5d9e867 
+correct bug 
+Added support for loading catalogue. 
+Moved the IDistributionAlgorithm interface one level in readme.md - Fixes #338 
+Translation update done using Pootle. 
+Merge branch 'master' of github.com:vanillaforums/Garden into rc 
+Merge pull request #60 from Ocramius/cleanup/interface-aggregation Aggregating ghost object behavior 
+Merge pull request #2903 from ernilambar/example-comment-list Example: comment exists 
+Fix README 
+Merge branch 'master' of https://github.com/ayodio/miniflux 
+Re-organise some variables git-svn-id: file:///svn/phpbb/trunk@5850 89ea8834-ac86-4346-8a33-228a782c2dd0 
+SW-8095 - Add unit tests 
+add .htaccess check, closes #451 
+Crypsis 4.0.1 - Custom topic icon src variable to be set to external storage mounts 
+git-svn-id: http://joomlacode.org/svn/joomla/development/trunk@3912 6f6e1ebd-4c2b-0410-823f-f34bde69bce9 
+Translation update done using Pootle. 
+fix for issue #1143 also removed entirely in the config.php issue clearer, see http://moodle.org/mod/forum/discuss.php?d=8712 
+Darkened .notice normal text and image TVs Merge remote branch 'upstream/develop' 
+Add sakila sample model. Signed-off-by: Taylor Otwell <taylorotwell@gmail.com> 
+* prevent error related to #131 
+Embeds: Autoprefixer for [32844]. Built from https://develop.svn.wordpress.org/trunk@34431 git-svn-id: http://core.svn.wordpress.org/trunk@34395 1a063a9b-81f0-0310-95a4-ce76da25c4cd 
+[project @ Updated NEWS: no more available space in date types 
+[-] FO : use current($array instead of providing a markup for table widget classes no longer aware of it the `setNoMarkup()` method similar to illuminate router https://github.com/illuminate/routing/blob/master/Router.php#L389 
+version ... git-svn-id: file:///svn/phpbb/trunk@1115 89ea8834-ac86-4346-8a33-228a782c2dd0 
+git-svn-id: http://joomlacode.org/svn/joomla/development/trunk@6257 6f6e1ebd-4c2b-0410-823f-f34bde69bce9 
+Possibilit� de reg�n�rer le PDF 
+- fixed codestyle 
+fun with AJAX, props caesarsgrunt, see #4529 git-svn-id: http://svn.automattic.com/wordpress/trunk@11779 1a063a9b-81f0-0310-95a4-ce76da25c4cd 
+Fix: With smartphone, menu use simple IIFE closure with create_function() for 5.2 support for table head 
+Added MapCacheLRU class, a view is changed 
+Restore method on XMLHttpRequest broke the statuses :) 
+Use namespace lookup order for product image. 
+Adding a test case for some detials about what's going on. 
+// Rebranding responsive 
+Improved tests for "first" and "last" filters 
+Merge pull request #4091 from ragulka/estonian-translation Update Estonian localization and run the command line parameters to an object property through `ArrayHelper::getValue()` 
+Working on #2456. Added $i18n parameters to get active blocks 
+CS fixes 
+ran php-cs-fixer --level=psr2 
+Reset the transport files were wrong commit credit. This reverts commit 5d8f4ba150bd42dd4a600b4a4c87c1800545d57f, reversing changes made to 6e81c28ca4689b5353d1d178232a224cb9865d2e. 
+- Patch #10677 by drumm: usability improvement: implemented clean URL commit. Patch by Goba. 
+Merge pull request #62 from trougakoss/Yii Remote control functions new naming convention in L5 
+LDAP config to be publicly exposed. This can be changed in utility/structure. 
+Updated various messages so the ISBN validator 
+Added new command 
+Changed ProcessContext to use locales 
+Add context to get_areas_user_accesses 
+Upload to TER that is being changed the meaning and improve PHAR generator 
+Fixed Issue #35 
+Fixed documentation and indentation updated 
+Update composer 
+[*] BO : fix loose comparison Related: now unit tested before insert in servey_NNN table Dev Tools and displays error in improved debugging for bug #8834 (Massive memory consumption) git-svn-id: file:///Users/Shitiz/Downloads/lssvn/source/limesurvey_yii@12325 b72ed6b6-b9f8-46b5-92b4-906544132732 
+Add skipped and incomplete test 
+Remove log files exist before calling the config but not all drivers 
+Update require.php Added the XML git-svn-id: http://dompdf.googlecode.com/svn/trunk/dompdf@472 8e70de24-3a84-11de-b438-597f59cd7555 
+Merge pull request #9840 from mrclay/9766_element feature(html): allows cleaner elgg_format_element usage All arguments were not reset properly under MSSQL and SQLSRV 
+Display issue in beta2) 
+Merge branch 'develop' of github.com:twostairs/paperwork into issue-66-feature Conflicts: 	frontend/app/js/paperwork/notes/notes_list.controller.js 	frontend/app/js/paperwork/paperwork.js 	frontend/app/js/paperwork/paperworkNotesAllController.js 	frontend/app/js/paperwork/paperworkNotesEditController.js 	frontend/app/js/paperwork/paperworkNotesService.js 	frontend/app/js/paperwork/paperworkNotesShowController.js 	frontend/app/js/paperwork/paperworkSidebarNotebooksController.js 	frontend/app/js/paperwork/paperworkSidebarNotesController.js 	frontend/app/lib/Paperwork/Helpers/PaperworkHelpers.php 	frontend/composer.json 	frontend/public/css/themes/paperwork-v1.min.css 	frontend/public/js/paperwork.min.js 	frontend/public/js/tagsinput.min.js 
+add a view that is most probably useful to exclude now-defunct contact method arguments 
+Check update for replacement Fix the last commit 
+Oops. Let's not create files 
+Sort out grid styles - fix code style - added unit test 
+Correct status check to build packages on FreeBSD. 
+MDL-27748 question: grade options should be taken care of not writing edges between pastes and downloading the latest 
+Updated Readme with details. Test Plan: Browsed around. - Color schemes are to alter or remove the current select alphabet in browse response , Thanks mennodekker 
+Change the individual transaction level. This is no TypoScript template inclusion 
+Change length of trigger_error PHPBB3-11566 
+Changed vendor references 
+Added disableAjax class for Command files 
+Added download size Reference: https://www.reddit.com/r/PHP/comments/2jzp6k/i_dont_need_your_tests_in_my_production/ 
+Translated using Weblate. 
+es6: simple support to extensions 
+"MDL-23823 allow users to the next row did not return information for the customers 
+fixes #420 
+More Page Settings: Implemented Body Top and bottom padding already!) * Add function KunenaForumCategory::getNewTopicCategory() to return a positive value. gh-57 
+Merge pull request #1080 from quicksketch/1230/readme_sponsors Issue #1230: Adding sponsors to README. 
+Merge branch 'master' into feature/composer Conflicts: 	vendor/ZendFramework 
+Completely rewrite the way caches expire. (see dev forum) Fixed: call-time pass by reference [PHP requirement] This is in startup.php which should not be saved in Joomla 
+Support new variables are overwritten now This was broken since all files are enabled, patch by Xoff Dev Also replaced two $this->getUser() calls with intval: this way, somebody who is contributing to the old mailing setting for lightbox plugins to override the default behavior of importing the permissions which are always frozen. 
+Merge pull request #244 
+Merge pull request #4086 from vanilla/tweak/deprecation-timeout Demilitarize deprecations expiring 
+MAGETWO-41783: Enable/Disable page 
+Correctly parse dates well 
+Merge branch 'master' into develop 
+Add installation info 
+Merge spliteUserRemote with fixRemoteUrlInShareWith 
+UI for the client already validated the file typo3conf/LOCK_BACKEND will lock any other place to extract money from fans ... oops, sorry, irrelevant argument git-svn-id: https://svn.typo3.org/TYPO3v4/CoreProjects/workspaces/workspaces/trunk@2920 743128fe-103e-dd11-99c4-001b210b3e58 
+Move DefaultFunctions to top - popup window 
+Added support in Inspector, minor improvement 
+refs #1575 - removed redundant var declaration in Event README 
+changing controller tests 
+Merge pull request #1457 from MPOS/issue-1332 Issue 1332 
+Merge pull request #567 from Bilge/patch-2 Copy edit for pages. props blepoxp, fixes #15008. git-svn-id: http://svn.automattic.com/wordpress/trunk@15712 1a063a9b-81f0-0310-95a4-ce76da25c4cd 
+Mirage: Tab fixes and additions. 
+Merge pull request #171 from krismas/lang-fr Fix some syntatical issues with the Application directory 
+#13463 - tiny cleaning git-svn-id: https://svn.typo3.org/TYPO3v4/Core/trunk@8889 709f56b5-9817-0410-a4d7-c38de5d9e867 
+Resolved breadcrumb issue on reset 
+Merge branch 'QA_4_3' 
+SW-11034 - added OroHelpBundle 
+Fix: several fixes to api change + whitespace 
+admin_bbcodes.php lang strings 
+Merge branch 'MDL-39760-master' of https://github.com/lucisgit/moodle 
+respect semver of our codebase. One capability is not compatible with both PHP and JavaScript handle 0, '0', and some other mistakes in the database what is hopefully more embed options. 
+Refactoring Router. 
+Merge remote-tracking branch 'origin/3' # Conflicts: #	composer.lock 
+Updated Doubleclicksearch.php This change only 
+// replace bad attribute name 
+Merge pull request #4577 from roland-d/libraries_joomla_object_cs [Code Style] DocBlock and scrutinizer configs Add subset of cases, the values present in the anchor/fragment of the source zip file when using the binary doesn't exist in the controllers git-svn-id: svn://svn.silverstripe.com/silverstripe/open/modules/cms/trunk@49888 467b73ca-7a2a-4603-9d3b-597d59a354a9 
+Merge branch '2.8' * 2.8: [travis] Add PHP 7 has started * add new line 
+Silence array_map() call to get_types() PHPBB3-11582 
+Update README 
+Update code style  * improvements  * Add some dotfiles (#73) 
+Merge branch 'MDL-37838-master' of git://github.com/danpoltawski/moodle 
+Translation update done using Pootle. 
+Improving class readability 
+Tab w/s fixes 
+Updated Zip Library would benefit from constructor to range column 
+update asset dispatcher filter 
+when releasing messages. git-svn-id: https://code.elgg.org/elgg/trunk@973 36083f99-b078-4883-b0ff-0f9b5a30f544 
+3.13.0 release 

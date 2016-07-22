@@ -1,0 +1,1004 @@
+ObjectiveC
+Most probable sentence: Merge pull request #1 from jeffreyjackson/patch-1 Update README.md 
+
+Likely sentences:
+Merge pull request #63 from vguerci/fix-ios5-presentingViewController [iOS5] presentingViewController fix 
+Added header and footer backgrounds. Cleaning the styles. 
+Fix sectionImage ghosts with crossFadeLabelsOnDrag set to `NO` assuming that all managedObjectContext access is probably for the umbrella header. 
+chore(package): update eslint-plugin-react to version 1.2.2 
+Temporally save 
+Adding logging and allows BOOL values (YES/NO) 
+Fix localization error 
+Merge pull request #116 from watsonbox/fix-readme-token-creation-example Rename createTokenFromCard to createTokenWithCard in README.md 
+update 
+MacPort: ccVertex2F is defined before we start assigning UTIs to be shared 
+Reimplemented NotificationsViewController as a mode in OUIInspectorTextWell. - Better handle changes to Swift. 
+Updated formatting 
+Take care EOF in several plots and bar plots. Fixed issue 824 Performace improvement in auto-completion logic, for resetting the image from layer contents. 
+Bug fix #119: marker.visible = false 
+Update CONTRIBUTING.md 
+Update README.md 
+WPWebViewController: Asserting against IBOutlet ivars 
+Merge branch 'master' into reactiveviewmodel 
+Upgrade to React Native 0.3.11 updates. Major breaking changes to handle non-existing file 
+Merge pull request #232 from ParsePlatform/nlutsenko.authProviders Added private hideRatingAlert method * Added XCTestLog_* functions in AFHTTPClient 
+Implement 'SDWebImageDownloaderAllowInvalidSSLCertificates' option. 
+fix formatting errors 
+Adjusted docs to top when resetting and cell updating 
+fixes 
+Updates Notification Styles Cleanup. Part II 
+删除冗余代码提高可读性 
+Finished tests. 
+merge avg methods nu NSNUmber + moved old to fast interface 
+readme.md 
+updated changelog Former-commit-id: c4fb0fd3469bb3d4a5fecae2877c1d348896e82a 
+changed a flag so it's simpler to implement. 
+Added resources bundle, make sure the user interface below this wrapped text becoming clipped 
+Update Cocoapods Badges Had to re-do the schemes, I think. 
+Changed ReadMe 
+Moving Documentation 
+Updated credits file 
+Don't blindly ping-pong back and forward delete to DocDelOp for existing WordPress.com users. Removed comment about thumb rotation issue in CPTXYPlotSpace. Fixed issue #1: Collapsed and Exposed layout classes have been maintained. 
+Bug fix: the snippet list in file explorer folder updates 
+Shared Scheme 
+Added ability to manually find sound files via upload 
+Merge pull request #1986 from ollieatkinson/hotfix-old-use-of-weak-self Remove a wrongly translated paragraph about pod try OMG, have you tried to seek twice in certain circumstances: when using cocoapods (tested on iPad) when a story manually). This only affected dateline when very far south (i.e., low x & y) from the mainAccount instead of (maxBandwidthPerSecond). Otherwise value like 16 button was too long text strings are the following tasks: 1. Assigning the RACDelegateProxy to be working now. 
+Using new MYBlockUtils from MYUtilities. 
+Renaming all the changes from @fousa with some comments. 
+Generating strings from UIActivityItemSource. 
+Updated Crash reporter configuration New features: - showing track info. 
+Added support for callbacks by using UIImage imageOrientation value rather than committing 
+Fix no_compact_unwind being set on classic WebView as the current app version to v2.1.2-beta2 
+Merge branch 'master' of https://github.com/mattt/SkyLab 
+Updated podspec 
+WPWebViewController: Adds dismiss button on submissions. 
+Add References Badge to Readme 
+Merge pull request #993 from couchbase/feature/storage_type_constants Add constant for the fixed size within the for X.Y. add transaction block helper method to new prefs 
+Changes 
+wording 
+Allow hs.layout.apply() to accept any value) 
+add a vertical margin of error and open report URL from path is provided, initWithNotification:transformerBlock:, that allows people get built since it's no longer valid. From _readData on, no copies are made, not when it changes screen for imports. 
+Moved the story progress indicator is stopped 
+[Issue #32] fix bringAppToFront 
+Nukes dead code from the insanely long url - Retrieve X(A) and X(B) rely on WordPressComApi. Refactors out the web view and at least you can overlay them and all pods - again 
+Also reset gradient mask bounds to prevent NSURLConnection from proactively sending the language link controller 
+Add delegate for the fix 
+add more tests. 
+Simplifies XCTAsserts to enumerator.m fixes for edit post transition. 
+More refactors 
+Released 0.5. Fixed a warning from latest TexturePacker SpriteSheets Using PVR+zlib 
+Fix for crash when opening new windows 
+Update NUI.podspec 
+Re-organizes entire Xcode project. 
+Merge pull request #281 from brion/win8-rtl Win8: RTL layout works with CCBPublishingTarget instances. 
+updated doxygen strings: @since v0.9.0 -> @since v0.99.0 Former-commit-id: 2e0693bcae5e12e5a5cf273af489eaa446be2e34 
+Polishing 1.5.0 README and move frameworks to the contentView. Can't reproduce the issue, but we should probably use NSPathControl instead). 
+Fixes crash when you are using here. 
+add protocols 
+Merge branch '31layer' into shared-links 
+Merge pull request #5597 from wordpress-mobile/issue/5245_app_delegate_remove_of_oauth_code Remove Single Sign On code. 
+Fix for #274. 
+• some progress on another thread, -copy your database manager and into another location. 
+ADD: better support subclasses 
+Makes the iPad uses an inline static function. 
+updated README 
+[project @ add PSMTabBarControl framework] Original author: martin@bzero.se Date: 2007-12-29 19:20:45+00:00 
+Update README.md 
+If the new feature + Ten Dot 
+Fix warnings in tests 
+use project target 
+Fix comment typo. 
+update 
+Update README for added navigation arrows 
+Merge commit 'cad9164a464d993be5c797db9af54a32dbcc2397' into stable 
+Added the QuickComic build path. 
+url manager 
+Fix permissions on LaunchAgents directory (yet again) to "leading" and "following" 
+Merge remote-tracking branch 'cocoaLumb/master' 
+Fixed missing documentation for kJSONModelMissingKeys. 
+Removed two helpers from allWindows(), and switch input source by pressing the Explore tab 
+Patched issue #263 - proposed patch in issue 1078. Add spaces back for the night 
+Documentation update 
+Made it more similar to : https://github.com/icanzilb/JSONModel/issues/8 + cocoa coding style. Set version code for monitoring reachability. Google has IPv4 and IPv6 
+Update section ids 
+Properly cast property assignments 
+Merge branch 'master' of github.com:AFNetworking/AFNetworking 
+Remove DFMutableImageResponse, DFImageResponse now has a value in the original feed as read, hoping the redis store of children when the current page and post screen while flipping the device. It takes a real fix is to predict whether batches are possible, and the caret and dollar anchors match at all 
+Merge branch 'v3.1.x-fixes' 
+PathToFBXcodeTestBinaries > PathToFBXcodetoolBinaries 
+[r156822] Require iOS 5.1, that UIGestureRecognizer queues its actions asynchronously. This means after every single time from the log command in visual mode, highlight to play a slideshow if you don't even ask delegate. change default avatar size 
+Tweak i18n survey script. git-svn-id: svn+voltron://voltron/data/svn/MarcoPolo/trunk@669 a27563e6-5939-db11-9576-004854876331 
+Adding some categories implementations, removed an unused variable and blank message when activated. Allows for easy styling. 
+Fix similar pages 
+Reading the documentation root: update all examples to run the query construction loop, enormously reducing memory usage of LumberJack had the long name 'English.lproj' format * the Nu.framework framework * the bounds changed. This is the ice-cream-sandwich 
+Removed function to OmniFoundation as OFHTTPHeaderDictionary - Ported to new prefs 
+Use CP 1.0b with podfile back to `AFImageWithDataAtScale`, which handles both cases 1) no bundle is set. 
+Update changelog Updates necessitated by change core Group API (https://github.com/Tightdb/tightdb/pull/515) 
+Merge pull request #292 from buffalo/patch-1 Fixing alignment of version number to 693. 
+Renaming shadowBlur to shadowRadius Minor documentation update. 
+Merge pull request #24 from dermaaarkus/storyboard_custom_view removed public readonly 
+Changed to dot for voice 
+Adding Chrome Web Store. 
+Don't instrument framework 
+Changed to parse out the build 2. Easier on the next page of All Stories activity. (#479) Use same list of items in the userInfo. -download:didFailWithError: used to use 1.1 API 
+Set NSScrollViewShouldScrollUnderTitlebar instead of installedApps 
+Fix imports. 
+Fixes 253967 SUDSAVerifier now inherits from FBControlCoreError Summary: Avoid the NSUndefinedKeyException attack topic has moved to last state. 
+implementing feedback from PR comments 
+remove superfluous init method too DDLogMessage which takes you straight to Settings->General->Location Services. This will hopefully address a number of captures 
+Storing as DVTSourceTextView instead of cycling through them all. This includes configuration of allowsEmptySection 
+Merge pull request #3487 from wordpress-mobile/issues/3121-fixes-empty-sites-section Notification Settings: Adds extra padding to the original suspendNotifications value after handling 'myapp' url scheme with the IS_IPAD macro. Removes CDeviceSupport. 
+pass TRAVIS env var through fastlane xcargs apparently shell environment 
+add favicon to html mode. 
+Change 'Close Tabs to spaces in controls box that remembers if the buttons and segmented control style automatic -> textured square 
+bugfix: #2 
+Read icon! Upped the version to 2.0.2 
+making SocialBadge class 
+Merge branch 'develop' of github.com:Inferis/ViewDeck into develop 
+Completes the changes feed From the tool, which outputs the same accesses using [NSDictionary objectForKey:], but this can make getter/setter sync/async respectively to prevent crashes, exceptions instead; far more graceful height checking and warning about expecting to return black or white by default, to keep the selected segment, so the suggested filename and the MIME type method Implementation is Wrong 
+Sound now plays when app select a no-gallery image in README.md 
+Add test to kill/relaunch background helper if new rom was requested. 
+Added Manage button shift 
+changing tags to the end of application tests are also given as explanation of Reachability. 
+Update podspec 
+Added iOS build script. Updated for ARC support from xctool along with content type is not valid and it is recommended to use nil instead of CDMultiFileGenerator. Added CDTextClassDumpVisitor, which will be stored 
+Merge pull request #243 from harryworld/master Update Mixpanel initWithToken API call 
+Make sure view menu option 
+Merge pull request #62 from github/jspahrsummers-patch-1 Define a vision for the gloss effect to the view hierarchy 
+Fixes issue #18. 
+Added symbolic links used to define server as inline comments. 
+GRMustacheTemplateRepository documentation 
+Added ejecta.load() function; close #223 
+[Test] Fix assertions not being released sometimes (bug from last commit 
+spelling errors, licence headers 
+Merge pull request #24 from square/federman/minimum_requirements_readme Add minimum version of cocos2d framework. renamed PhysicsChipmunk to Chipmunk_Accel. It includes significantly more memory leaks. Added in Mixpanel 
+Small UI Improvements 
+Merge pull request #57 from mdiep/image-links Allow images inside PFQueryCollectionViewController. 
+Skipping cache purge and log CDATA save in different bundle identifiers, or another hockey kit server installation, since checks are done to make sure that after closing the tableDocument 
+Merge pull request #47 from cojoj/xcode-6-gm Added Xcode 8.0 support (more info https://github.com/alcatraz/Alcatraz/issues/475) 
+Remove [group updateSectionPositions]; 
+Revving pod version and remote address on domesticcat.com.au Signed-off-by: Patrick Richards <pat@domesticcat.com.au> 
+1.0.0 
+Add a new method name tweak 
+added missing STHTTPRequest+STTwitter category to simple imports so swift interoperability works better if the controllerAction was not way to add namespaces 
+Fix for tilde in file transfer whitelisting. The user can add/change a field of save mask option to Advanced prefs. git-svn-id: svn+voltron://voltron/data/svn/MarcoPolo/trunk@857 a27563e6-5939-db11-9576-004854876331 
+link the DTCoreText pod. 
+Added a basic implementation of -[RACSerialDisposable disposable]. 
+Updated method calls This stays consistent with the previous commit. This change set contains an extension. 
+Merge branch 'master' into coxy-graphs 
+Merge pull request #296 from libgit2/xctool Use xctool for xcpretty 
+split up into parts such that the baseline identifiers. 
+[TTCatalog] Remove unecessary additions imports. 
+Use malloc and unneeded cpp-example 
+add version number in French : "Show feeds icons in SVG css attributes. The SVGGroupElements that are necessarily safe to assume a dismissed controller is nil-ed because then files would become inaccessible as soon as the parent folder has been generated on launch 
+Prevent canAccessKeychain from logging stack. 
+Fixed issue 506. 
+Fix avartar icon won't change but the target of the UITableView returned nil in the project settings rather as a URL 
+Merge pull request #47 from kishikawakatsumi/tests Add tests around 
+Added a test for TextMate bundle. With it, images can download protocols through the Folder object 
+Call reloadData in awakeFromNib:). Default numberOfPages is now a separate pull 
+Temporally save 
+Merge pull request 
+Add a test case 
+Minimum iOS version to 1.0, simplify fastfile" 
+Merge pull request #1671 from tomatrow/patch-1 Fixed inconsistency in example The deprecated saveWithBlock: method should do that. 
+Merge update 
+updated Readme and pod update examples) 
+Bump version to 0.78 
+updated readme 
+[Issue #2249] Documenting fact that POST statuses/filter 
+Update README.md 
+Use AudioBufferList instead of under the MIT license 
+Improved wording in read me 
+discard custom capitalization during autocompletion if user defaults if libgit2 errors on the socialsub. 
+Starting on hydra.packages module; part of issue #93 Close #93 
+Merge pull request #70 from kyleve/master Remove ONLY_ACTIVE_ARCH=YES in Debug. 
+Taking a different precompiled header, if any. Also, stop using Objective-C modules 
+unbreak s command + arrows as the valid architectures 
+Fix CDSymbol description 
+Add if statement 
+working encryption on watchOS 
+Wiimote code cleanup. 
+Refactored ORKSurveyAnswerCellDelegate method name 
+Fix typo in comment it's -> its 
+修复一个当discoveryPeripheral block未设置时会导致discoveryPeripheralFilter不起作用的bug 
+pop to original AFNetworking/AFNetworking.git now that the pointers away. 
+Fixed example project to Xcode project. 
+Fix word counter relies on it. There's likely more things Also adding delegate feature for the CoconutKit-resources project 
+Updated Podspec 
+Tweaking README 
+Perform the GeneralPreferences.strings and GeneralPreferences.nib rebuild for release [ci skip] 
+Merge pull request #45 from pinterest/addProgressType add PINRemoteImageResultTypeProgress 
+Echo to test radial gradient opacity fix (https://github.com/SVGKit/SVGKit/issues/272). Fixed bug: opening subscription home page button. 
+show action menu has a fairly slow implementation of generic ListOfPrevDocs, with minor 2.1.2 
+Subprocess start 
+A bunch of modernization of the sample.sh script 
+Merge pull request #7 from buddydvd/connection-plugin-fix-for-ios-3 Make connection behavior in Bridge Edit view (tapping slightly off of loginFields not textfield. 
+Improving Travis-CI build with armv6 and add some code 
+Merge pull request #476 from xlexi/master" This reverts commit 5aaccd7184502b06ce7bc6a26915423a141f818a. Caused trouble with DOM conversion. Signed-off-by: Jonathan 'Wolf' Rentzsch <jwr.git@redshed.net> 
+Documentation update 
+Updated the Romanian Translation Updated 
+testing commit, not sure how to display gridMenu non-centered 
+[FIX] Spectacle would attempt to use RLMTransactionManager Updated testRowDescription to use a shared queue for media upload failure due to null should delete the brief. Increased the tap gesture on iOS 
+Removing share funnel from WebVC Because the completion was called twice when opening menu 
+Updates for Xcode 7.1 beta DVTPlugInCompatibilityUUID 
+Adding more explicit as to always be told it is I really think we should load the bridgesupport code with filters 
+Update README.md 
+adding in ipad for transitioning b/w feed list on ongoing media progress. 
+support Xcode 6.4 (6E14) 
+Updating version to 5.9. 
+Move sync title to navigation bar position 
+Merge pull request #1 from marcuswestin/master Pull latest changes from CocoaLumberjack project 
+Make relative line counts take folds into private extension and fails if the view where it looks like the UIAlertView doesn't show the query textView in Story view and divide the image. Plus adds alert demo to use the default (minimum) size of a persistent replication's document. Instead, store the buddy cell 
+Build fix Added missing comma 
+Fix Swift Sample not building for a more-complex implementation.) 
+Merge pull request #70 from github/change-state-io-types Change `SQRLShipItState` read/write interface to include new mailing list. 
+Mark +[RLMSchema sharedSchema] as nullable. 
+Fix close button Move to actual fallback to the umbrella header 
+#180 - Network Activity Indicator on iOS. Needs a huge number of queries not being copied resulting in 5 teams (bar, blubb, foo, men, women, children): bar, blubb,,,,foo # and updating supported RN version to 2.1.0 
+tmcache with cost 
+Updating Xcode projects to iOS 5 
+Merge pull request #317 from AgileBits/fix/cfstringref-casting-in-arc [FIXED] Fixed issue #241. 
+Enabled ARC and is the same color as well as support for NIGroupedCellBackground. 
+pod 1.1.4 will be displayed as a protocol mock which is a valid, signed license. If it reaches the supernode and attempts to duplicate the tear down work if your code to make sure OEGameView can prepare a fresh build doesn't seem to work around for blurblogs. 
+Added a plot with monotonic plot data. Fixed issue #1121 CCArray#insertObjectAtIndex checks correct bounds Former-commit-id: 9a2b825ffff643894c8cd3d04a994229f6bc4868 
+Merge pull request #95 from jparise/timer-runloop Schedule the timer was incorrectly calling start method twice, causing exceptions. Also added some minimal documentation 
+[Live Auctions] Fixes runtime exception crash. 
+Mirror RSpec behavior for scrolling to first release 
+added missing decoding of feeds to which they shouldn't. 
+Try to connect to orphaned servers that generate long opts + togglable long/short opts in map operations 
+Merge pull request #321 from KoboldKit/develop-steffen SK Texture Atlas generation finished 
+Pass on arguments from the catalog. 
+update docs 
+Simplify implementation 
+Updated to lastest cocos2d 
+Spacing between windows * The response from the lass mess. 
+Typo in german localization strings for time zone support to extJSON for Xcode 6.3. Added a fast way to change log to show any triggers. Thanks to Hofman for the following issues when project cwd changed 
+[Hockey] Switched to a table view 
+Targets are added 
+Added Copyright header 
+Renamed the image tint and selected today's date) 2) You can use different search paths, so this change allows us to preserve the root controller 
+Merge commit '4b284961a7a83262bf64' 
+Merge pull request #94 from facebook/optional-simdevice-timeout Make SimDevice Timeout Optional 
+[Issue #592][Issue #600] Changes the type of constructors from id to instancetype 
+Fix issue #8, rewrite of refreshing feeds, hiding the popUpView. The popUpView is done to improve these, but this seemed to be active at a lower or equal to the European Portuguese (pt-PT) localization 
+Update README.md 
+Correct license for core files, submodules and added a missing protocol conformance assertion 
+Create and Register a 'IndigoHIDRegistrationPort' Port 
+first commit 
+Merge pull request #64 from paulrehkugler/master CocoaPods 0.34 
+Merge pull request #2221 from ReactiveCocoa/swift2-upgrade-quick-and-nimble [Swift 2] Upgrade Quick 
+add picker and verified that the medium thumbnail URL is blatantly present in Xcode 6.4 UUID 
+Update README.md 
+FIxes #168 Warning in that it should have already been disabled dynamically. e.g.: Let's say we should). Of course, this is pretty fancy, too. 
+Add analog support and made clearer what it actually uses the placeholder and activity labels. 
+Fixes the ecaped HTML entities fix. 
+Merge pull request #760 from levi/patch-4 Call UIViewController's designated initializer `initWithFrame:textContainer:` fixing any initialization loop 
+Changed to not trigger saving) git-svn-id: https://openemu.svn.sourceforge.net/svnroot/openemu/branches/iosurface@791 a16923d9-94c8-4a39-ae78-11df2d60a2ba 
+Bump framework version. 
+update README.md 
+Remove the block isn't copy  
+Remove chatty log line, simple ignore it. 
+Fix build issues and reduce max-width. Added padding to be renamed hs.timer.secondsSinceEpoch) 
+Switching hashes on feed exception handling code. That was for testing purposes that I could 
+Correct notifications for all icons! - Reduced the pointSizeToWidthFactor to yield better information. 
+Switch the default speech rate is updated Former-commit-id: 456b1662e914f4c2e47a1212e44a3bfb296658f5 
+Made the check for invalidateIntrinsicContentSize to the UIView category. 
+Clean up the readme! 
+Move most ViTextView delegate methods 
+Update Cordova project for KSCrash and a crash in 10.3.9. 
+uncrustify 
+remove tag handlers after building string, fixes retain loop on the change to ensure no loops. Expose to app servers. Fixing auto bootstraps. Also splitting favicons onto its own doc 
+[Podspec] Add RLMDefines.h to provide ability for a given value. The downside is that during the exception changer dialog. Now correctly handle Arrays 
+Merge pull request #28 from allewun/keycode-plus-underscore Allow searching '+' and '_' characters 
+Merge branch 'develop' into feature/1885-site-picker-search 
+Adds restoration to MeViewController 
+Fix feedback in settings dialog 
+Merge pull request #429 from slackhq/typing-indicator-enhancement Typing Indicator enhancement 
+BSR : Re indent correctly in many files to gitignore. 
+Fixes Empty Sites Section 
+added alternate 
+More blurbs. 
+Update README.md 
+Remove old media code. 
+Merge pull request #170 from octokit/xcconfigs-bump Bump RAC to v2.1 
+• removed setting for pasting multiple images failing to load Quick Look preview There can only import modules from Vim itself and of NSUndefinedKeyException management. 
+Merge pull request #820 from yixiang/viw-at-last-char Fixed a typo in method name 
+Resizing bugfix. 
+Add a Bitdeli badge to deal with event sources which only creates zip files 
+add contents 
+Fixed some linking errors 
+Wires WPWebViewController's bearer token 
+Make framebuffer objects abstract. 
+fix #252 
+Fix properties being exposed depending on the docs. 
+Implemented basic controller to add cached strings. 
+Rename classes and empty entryTable 
+Fixing color on drag 
+Made TOC switch side dynamically based on use of the buttons, add paging, add an optional exercise to the credits 
+Further insulating river stories. 
+Killing dictionaryWithKeysAndObjects: as Objective-C literals and subscripting. *shrug* Signed-off-by: Zachary Waldowski <zwaldowski@gmail.com> 
+Release 3.4.2 
+Added attribution to FUIPopoverBackgroundViewController 
+Support Picker controls that don't end up w/in their bounds. - Added OFKeyPathWithClass() - Added snippets to CompletionTokens.plist and some IBOutlets are still non-functional 
+Lines one px smaller to fit the on detail screen now that there will only return a new tool "nubake" bakes Nu source files ( tokens.h and tokens.l) to the mysql.user table. If they are in fullscreen mode the library 
+Update Form.podspec 
+Fixed issue #14 (which created #15) - both bound to C-w c. 
+Updated error message. Was warn, but should have been useful to know why). • Made a much more optimistic, as it is able to push Action execution confirmation (currently via notification bubble (mavericks). 
+Use SQLite savepoints to support 0.37. 
+Merge pull request #1456 from skurfer/browseMode change the ifs to read the git hook by running 'rake' on the SDK Reviewers: gregschechte, clang, mmarucheck Reviewed By: clang CC: gregschechte, platform-diffs@lists Differential Revision: https://phabricator.fb.com/D538958 Task ID: 1037035 
+Merge branch 'fix/completion-block-not-animated' of https://github.com/wanderwaltz/TOMSMorphingLabel into 0.5 
+Merge pull request #28 from hossamghareeb/FixContactsPermissionCheck Fixing contacts permission status 
+#886 - fixed string predicates: begins_with, ends_with, contains, not equal property class 
+Fix link to License 
+Update README.md 
+Fixed crash when viewing post details are saved, ensure the cursor height. 
+volume preferences git-svn-id: https://openemu.svn.sourceforge.net/svnroot/openemu/OpenEmu@589 a16923d9-94c8-4a39-ae78-11df2d60a2ba 
+JS: iOS Project files. 
+Remove `ANIMATED_GIF_SUPPORT` check from XCode project files 
+added restart required notice 
+Touch up the Status panel 
+Correct the spelling of CocoaPods in README 
+`pod update` 
+Added FAQ item about multimethods to the current lane. We used to calculate hashes for certificate. 
+Set current rendering context 
+Fixed winning-revision rule for http auth fix from #701 
+Update README.md 
+Update README.md 
+Turn NSFormatter, NSValueTransformer, `capitalized`, `lowercase` and `uppercase` into "cross-platform filters" 
+Fixed the last char on column header to be more CocoaDocs.org friendly 
+Fix #104: Reset cursor on the Obama article, and formerly selected row visible when using the ruby wrapper to README 
+added ip address capture. Fixing IP address until we have reachability * Else fall through to PlanDetailViewController * Added setRankedString:. git-svn-id: https://blacktree-alchemy.googlecode.com/svn/branches/B5X@271 d44230c2-7321-0410-b0f2-3d6f2d243adf 
+Old school #import instead of playing remote movies 
+mw.addKeyboardShortcut now receives an NSString. This can be found for a barrier 
+Added Classy style (contributed by David Munch, issue #143) 
+Disconnect the wiimote on close to use MASPreferences 
+Fixes issues for 64-bit architecture, by using diacritic insensitive search tests 
+Fixing tolerance issues with examples Add appledocs for RLMRow 
+trivial but very visible typo ("intall" vs "install") in README.markdown 
+Update podspec to 0.3.6 
+Updating release notes for 1.2 
+Updated icons and row identifiers, created consts for section info to readme 
+Test failure error + license 
+add options for opening/closing animations 
+Merge branch 'master' of github.com:BradLarson/GPUImage Conflicts: 	framework/Source/GPUImageVideoCamera.h 
+Bump pod version and platform 
+[app] Support env and defaults for FBDeviceControlTests Summary: `FBSimulatorControl` includes logs as well... commit ALL THE THINGS i'll come back and forth. 
+GameWindow appearance updated, animated preferences window, large refactoring of bool 
+Merge branch 'develop' of github.com:wordpress-mobile/WordPress-iOS into issue/627 
+[collections] Fix typo. 
+[doc] cleanup, normalize, still needs to be formatted using a spring-mass system. This system automatically passes a 'NO' value for CFBundleShortVersionString in info.plist. Code not executed when the voice is playing, we can restore the last cached hunk of a few bugs, as well as 5-digit UPC/EAN extension codes" 
+Rename issue-11-3-Daisyyaya to issue-11-3-Daisyyaya.md 
+Added UIColor category 
+Use scrollRectToVisible instead of void from methods called without checking. 
+Merge remote-tracking branch 'upstream/master' 
+-f works as expected! 
+use tabs and add the method doc. called "Availability". The content of the ProjectSettings, which are drawn). - Extended OUITextLayout rendering to new xib names. Removes obsolete reblogging methods and eight new delegate methods were created by dropping the framework 
+[UPDATE] Readme 
+collection view height. Former-commit-id: 0950d46eda586ba82eee8013d67f91a9c451d6ac 
+Adding optimized find method Allow both string length instead) + fix for a button layer with initial tests for the heads up on dark backgrounds as well as makes it not RestKit’s business to log the longest Y-Axis label. - Cleaned up libffi usage to use UIWindow 
+Updated JSCocoa: Fixes bug with "phantom refresh", this patch instead retains the TCPClient 
+Merge pull request #29 from kishikawakatsumi/test_integrate Use same list of acknowledgements after the screen keeps getting locked before we try to lighten load on custom font. (I try to trigger a refresh in article on startup Test Plan: Try all builds - Thread history loading, thus using the authorization 'token' from the CDEPropertyChangeValue to include new icon in preferences window with radio buttons, as seen in UIAlertView and UIActionSheet 
+Merge pull request #9 from pimms/master Made the keyCode and modifierFlags properties read-only. A shortcut is pressed. I only wish that we have seen weird exceptions with logic that applies font attributes to metadata model 
+one panel up to 15 for media placeholders - Supports App Store Summary: Previously xcodebuild could be used if you want to leave this simple change seems to fix version for Cocoapods building 
+Merge pull request #38 from sleifer/master hide floating window when double clicked in search for saved stories to use sortedArrayUsingSelector. 
+Merge branch 'master' into organizer * master: Update README.md 
+Fix sizing of the cell style on iPad or big replications. 
+[Add] Option to disable inline content previews if we need DevTool* frameworks that support optional user defined setter/getter. Reported by Graham R. based on the CCAnimation.m file It creates an NSProgress object. The code is a _deleted property deletes it. * Pruning the list at bottom. 
+Make OETaskWrapper retain its arguments are provided, enumerate the current sync setup is not one monolithic function * patch from Hunter Ware <hunter@geophysical-assoc.com> 
+Removing doc set info.plist to static lib w/o DTFoundation 
+Added printViewHierarchy to the file Many thanks to Panic, Inc), recompressed for smaller than bounds unless user default handling for much of the UserManual to the follow button on right corner The button is now fully visible 
+Moving cronjob tasks over to ARC 
+Make the button iVar for some compiler warnings (unused function) 
+Improve implementation Make error message Other bug fixes 
+Update Readme 
+Fix beginRefreshing to match that of Xcode's documentation viewer, using the convenience category. 
+fix cell re-use and dequeuing 
+JS: Script. Added support for canRouteURL for a unique search; fixed logging macro 
+PBJVision: block audio until a proper response 
+CDLinkeditData -> CDLCLinkeditData 
+Add property for image squashing bug, problems caused by dragging item 
+Adding back dependency on the now replaced by other characters - like d but pops u in insert mode 
+Uncrustify 
+Docs for quark.setLabel(). 
+Update example project with iPhone 4 CDMA device strings urlConnection needs to be shown off as-is 
+small optimization to both demos 
+Refactor -autoconnect without private API notifies the delegate. 
+Update CTAssetsGridSelectedView.m Looking for new podspec version to 1.5. 
+nut: Implementing cursor component. Fixing file encodings 
+Merge pull request #1086 from ReactiveCocoa/debug-signal-names Guard signal names with each test. - Fix the no longer needed it anymore. 
+Add styles property to UILabel in LYRUIAvatarImageView: 
+Merge pull request #1784 from wordpress-mobile/issue/1783-localizepy-add-pod Hack in the case where changesProcessed didn't get exported to clients of FLAnimatedImage to override cache key and formatted it with model property * Improved drop shadow effect (with blur). 
+Templates Xcode4: Added Box2d v2.2.0 Former-commit-id: 5540bbeaef6437190e9b79fa309a1aa14db0113e 
+Merge branch 'master' into fetch 
+Changed target membership visibility Incorporating the crashing we've been able to share between NSURLConnection and NSURLSession, we’ll be less over-sharp 
+Fix spec begin/end macros 
+- Improves memory usage while supporting immediate re-display of the section headers and collation in friend picker. - Moved an NSDate object can be relaxed. Adding show image 
+Fix damn off-by-one error that may help others prevent crashes in some paragraph. 
+Update README.md 
+Focusing the URL of the views. Man, I really appreciate for your cmd add theme applier docs to reflect the changes. 
+Added default value for combined objects 
+Fix up bugs 
+Build with the new Vienna application icon 
+Stop Xcode 5 or lower cased resp. - added LICENSE file 
+Bug: getMyLocation() callbacks only fired once (Android) #201 
+Some minor cleanup 
+Merge branch 'master' into asi-http-request-hook Conflicts: 	Nocilla.xcodeproj/project.pbxproj 	Nocilla/LSNocilla.m 	NocillaTests/NocillaSpec.m 
+Deleted unused actionsRowNib, crashing on low memory when we mess with a random conversation outside of a local NSFileManager insead of the example project 
+Updates gitignore 
+Update README.md 
+Added 'avoidMeasurementModeForBuiltInMic' property 
+Improve accessibility of media on list click. 
+Merge pull request #244 from danthorpe/YAP-244_add_nullable_attribute_to_property_which_defaults_nil [YAP-244]: Adds nullable attribute to be downloaded from 
+Mixing Audio with Video is causing a KVO observer, but when it changes to font property 
+Update README.md 
+Merge branch 'master' into recommended 
+Fix sth. 
+Update VCRURLConnection to unit tests and rename OECollectionViewItemProtocol to OEGameCollectionViewItemProtocol 
+Boosting time limit to 100x100 
+Merge commit '9b0006405b393a3932579b4bb9de6e3dc6b05436' into parse_from_url Conflicts: 	Core/SVGElement.m 
+Merging latest changes in Core Data media objects. Prepping Pages for proper initialization (the better thing would be when it's available at runtime 
+- Correctly flush the WAL, and then check each for a view's frame/transform directly. 
+Fix usage of [UIScreen mainScreen] since it's an error while adding a new 
+release version on readme and setup instructions - added EJDrawable getTexture, which loads full HTML pages to more than one docs pulled together and get symbols lazy 
+Remove garbage from scheme into one big pre tag. Before we can get updated 
+Trying another means of preventing time-of-check time-of-use race conditions into account. 
+When a type to header of the static default badge color setting working for animations 
+Fix display bug when KMachService would fail with null pointer, as warned by the reader controller. Plus, there's no jump-to on the blog URL. 
+Fixed an axis title positioning math: -the title label with multiple GPU for ViennaBeta Commit f8f3bb7d52a2eeac03e902a4ee3e2c923458b6a9 was incomplete if the notification observers. 
+fixes 
+fies 
+1) Fix /remove parting channel two times. 
+Upgrade ReactNative version 
+Bug fixes and headers updated. 
+Remove UUID based line numbers. 
+Add notification for small fonts 
+Merge "Fix for back/forward action instead of being stopped when the command line address parameter. 
+Adding Hypersonic windows 10 client. 
+save the condition of the `Localizable.strings` file to proper place 
+Safe object retrieval. 
+Merge remote-tracking branch 'origin/swift-development' into signal-tests 
+Allow breakpoint if 5.0 suite test fails in order to implement NuEnumerable for NuCells, also by unstaged/cached status, s.t. for a given unique storage key. * CBLGeoJSONKey now understands rects. * CBLQueryRow uses less memory hungry. Changes as suggested by a string to correctly handle rotating images where being decoded 
+added GrowingTextView 
+update docs 
+make EXPMatchers+respondTo.h public 
+Expose animation stabilizationTime for override; Don't assume subscribed has tags - JSON makes it easier to diagnose errors. 
+require nu expression macros to pass NSString rather than the suggestion that GitX can't find all character rects within a constraints block Two new API 
+Misc: remove additional space after image is still used the `UIAElement` macro. 
+Add assertion to ensure the old LiteServ tool. 
+Fixed issue #47. 
+Removed call to super (and then some). 
+Merge pull request #22 from antiguab/bug_17_fix fixed rotation bug with mode-changes not displaying the auto-completion form being busted. This is almost invisible. 
+Fix cursor position when toggling fullscreen toolbelt 
+ignore oui.txt and usb-vendors.txt if they checked that while Cocoa documents its use Note : we use for loop 
+fixed issue #218 Former-commit-id: 7352fd49fd9b090d22e4a0578a03d695fa5f1002 
+updated documentation 
+GTOID nullability 
+Codesign libBeagle-ios.dylib. 
+Implemented master output volume in result from performSelector. The docs say not to need this any more 
+Maintenace message. First half of GZip stream implementation is likely the rest of the scatterPlot, it draws it with a failure because associated objects 
+Update CHANGELOG.md 
+Replaced polar bear image 
+Merge remote-tracking branch 'upstream/master' 
+Convert tab into a common implementation and unit test on iOS 7. 
+Cleaner code 
+Updates documentation 
+isChannelName now allows you to set background image • removed log 
+Add support to CPTNumericData. Added related testing infrastructure to support iOS 3.x. 
+Fixes the footer height in NSString+BFKit 
+fixed all crashes with runtime arguments for Core Animation to know the right directory for writability too 
+Fixed nib name 
+In fact, doing so will be transferred due to Core Data objects. closes #611, #612, #613, #618 * NSEntityDescription is now a CCSprite. This allows the find commands in the presence of %x00) sometime. 
+Merge pull request #419 from yakubbaev/master fixed violation string for ASIFormDataRequest parameters Added test option for smoothswitching count 
+Update Swift 1.2 
+REFACTORING: removed config item 
+WS 
+CB-8812 - protocol hander raises error on non-ARC code, but had a lot of love. 
+Added demo app. - Temp folder was added to the matcher with values 
+Shift+a on the git.git repository), while still trying initial connection view's table view for an NIAttributedLabel. 
+Merge pull request #85 from asheinfeld/asheinfeld/fix-readme-swift Update README.md Update README.md 
+Removing bad AUTOEXIT code; Doing extern fix 
+Adding port handling for sequelpro URL scheme for JVFloatLabeledTextFieldTests 
+Fixed acceptance of self-signed SSL certs 
+replace OgreKit with my iPod touch 6. 
+Bugfix when recording macro. 
+Added rgb and rgba color expressions to NSString as an empty response. Treat that as its not defined by embedded data URL 
+[Switchboard] Route /articles and /shows to top not working 
+Number of reader detail view, switching to and from JSON, and it's stunning. 
+Fix writing entries > 2G erroring with POSIX error EINVAL (fix #39) * Prefer `instancetype` to `id` (other code should be "isEqual:") 
+Small fixes to README (+ Static Analyzer false positives now" 
+Adding iPhone icons to Gridicons. 
+Fix bug where the forward direction is reset 
+Bump version number. 
+fix welcome view controllers for handling Gists HistoryView: Confirm paste to Gist if github.user is unset This patch fixes it. - Fix an occasional assertion failure when using a command you require an active state. 
+[IMPRVEMENT] Removed extra parenthesis commit c9195763295a6939cfc395d1a514500d5ff7d5be Author: TimWatson <tewatson89@gmail.com> Date: Mon Nov 18 11:00:02 2013 +0800 Turn on FMDB SQL statement string instead of separate util method removed LICENSE file for edits :) 
+Serve livereload.js when the app becomes active, but be sure replay finishes before sending via RKManagedObjectLoader 
+First commit 
+Add custom attrs for player log 
+Update Info.plist 
+Increase the dimming view has a displayName 
+Merge branch '2.0-development' into racobserve Conflicts: 	ReactiveCocoaFramework/ReactiveCocoa/NSObject+RACPropertySubscribing.h 
+Merge pull request #1 from Aevit/master fix infinite loop with -r on 10.6. Also clean up (fixes for @HenningJ's comments) 
+Merge pull request #101 from jacksonh/pullURLs Add the ability to override Appledoc's stylesheet and float colors. All tests are ran (they were snake up-cased) - Use self instead of NSUInteger to the DVTCompletingTextView class. Added a dismissTapAnywhere option 
+Implemented trackInfo method 
+Renamed old JSONHelpers to MagicalDataImport Added implementation and OS X framework 
+Add rackspace integration to app store 
+Update CHANGES.md 
+Changes icon loading timeout so initial importing works better without adding in a loop. Thus, going over the credentials prompt if it were the correct max_length in a zombie session being inserted or deleted backwards. JS can query the addressbook status (authorizationStatus) 
+Fixed some plot rendering issues that happen and the found location. This reimplements the the open list of adopters to README 
+Always mark a fold to close. 
+[networkimage] Add the <table> style support. 
+Merge remote-tracking branch 'origin/develop' into develop * commit 'd94fd70': Support vim's gJ and v_gJ This just confirms that the app for CommonCrypto routines; currently only a KeyBoardWillShow event is touched it switch panel 
+Merge branch 'master' of github.com:Cocoanetics/DTFoundation 
+Updated to stats pod to 2.13.6 
+Updated README Added info on new users. 
+Merge branch 'master' of git@github.com:phonegap/phonegap 
+新增 我的 更多模块 
+Fix RACExtensions for breaking anything, renamed project to build hs.keycodes with ARC on SBJsonParser, as well. 
+copy quincy xib file paragraph instructions for security config check 
+Merge pull request #1031 from wordpress-mobile/issue/1030-gravatar Don't limit gravatar loading during scrolling 
+Merge pull request #14 from dkhamsing/patch-2 Fix screenshots not saving on transactions 
+Use public.utf8-plain-text instead of an iPod-style Flash string in the project. 
+Fix #447 NAN in a future date would change but a title and message bar 
+Use the default build script. Changed format of photos with one key; simplify model to the original code to use the given name. - This is bad. Reviewed By: jacl CC: msdkexp@ Differential Revision: https://phabricator.fb.com/D515487 Task ID: 1011836 
+Use a custom timeout. Thanks to @locandy for this was a bug with Retina displays 
+Flat badges! except for the Aあ bit? Or should we hardcode the iOS app. * When a user has stopped/paused typing and revert when fails 
+Fixing sizing on iphone on TOC item selection This tries to restore it when the view controller from storyboard 
+Revert "Remove media cleanup code. 
+Fixing typo in conditional. 
+Jeff pointed out by calling it the upper corner (like iTunes,Xcode..) Included a new NSDate object. Thanks to darthAndrus on the kod node module 
+Update demo project 
+添加parseRun例子 
+TPCircularBuffer update to support class/keypath when loading HGPageScrollView with no pool in WPStatsTrackerWPCom. 
+Add documents and bundle names 
+Removed "All rights reserved." from source by pressing the Explore icon if the user knowledge. Signed-off-by: Stefan H. Paychere <stefan@pistache-soft.ch> 
+Merge pull request #23 from github/type-assertions Assert that font descriptors exist before cascading to them 
+update .travis, always update schema bug was cause in 8db7b1e. 
+1.0.4 
+No longer set the rotation views correct after making WPAccount isWPcom true" This reverts commit 459dda8d591d20ad7b424679f70cd4f919621bb2. 
+Updating release notes 
+Refactor to constants. 
+Handling case of errors, warnings and memory usage for sample rate, but then used in HTTP manager method signatures which don't indicate empty selections in project 
+Prevented possibility of a recursive loop at all after 5 views Adjusted app rating on iOS 8) 
+Fix crash on empty feeds. Marks them as unit tests for lot info. 
+Change logic slightly more documentation and added four different radii for them. 
+Updated project with the Dropbox directory lookup fixes and style icons 
+Groups WPRichTextView files 
+Adding .gitignore 
+Hacking on the same root 
+project setting to NO for Release config 
+Merge branch '2.2-onionkit' of github.com:chrisballinger/Off-the-Record-iOS into 3.0-push 
+Bump version number in `1PasswordExtension.podspec` 3x and PDF icons and got visible range controllers to take CBLRevision* not CBLSavedRevision* For couchbaselabs/couchbase-lite-api#47 
+Update podspec version to 5.9. 
+Fixes #166 
+add [NSArray -hasSuffix:] 
+Remove deprecated methods from interacting with other views. 
+Fixed Missing Content issue with an invalid token when a project is meant to solve http://www.cocoaforge.com/viewtopic.php?f=18&t=26440 
+get the tweak's type. 
+Merge pull request #239 from objccn/review/15-7-onevcat Review/15 7 onevcat 
+p_lastId - 错 
+Delete old README.md Former-commit-id: b40514c2dedb65f64f8536d1b7ca783f73e1265b 
+add weakify/strongify for article fetcher API to JS added in OS X in User-Agent (/thanks @tewha) 
+- use internal underscore notation for kw_example/kw_setExample: 
+Fixes an assignment to the games NSArrayController, and there’s no connection to the right thing but I was at the beginning - thus making the possible negative number when the macro key (<cmd-v>) and the toggle actor action. Includes changes to handle broken cases. 
+Make sure to return NSNumber ... Conflicts: 	RealmObjcDyn/RealmObjcDyn.xcodeproj/project.pbxproj 	doc/ref/RefDocExamples/RefDocExamples.xcodeproj/project.pbxproj 	doc/ref/examples/ex_objc_sharedgroup_intro.m 	src/realm/objc/RLMSmartContext.h 	src/realm/objc/RLMSmartContext.mm 	src/realm/objc/test/Makefile 
+Center the "checking for updates..." window when an animation is not visible if the last commit. 
+Updating README.md 
+update submodules 
+Code review feedback: use -sizeThatFits: instead of -fileSystemRepresentation 
+The plugin "GoogleMaps" is not available. 
+Clean up the page to canonical URL Signed-off-by: Jonathan 'Wolf' Rentzsch <jwr.git@redshed.net> 
+allow init and fix icon 
+Minor cleanup + Added back SimpleExample in README 
+Gives focus to the platform requirement. 
+Merge pull request #1047 from NickyWeber/feature/CCEffectInvert CCEffectInvert effect added to settings window 
+Fix missing two pixels of an iCloudDocument object. 
+User can add swift compatibility 
+test formatting 
+Update InAppSettingsKit.podspec.json 
+Fix typo 
+v5.3.0 (with missing texture marker at wrong end. 
+Support viewing previewed site should use the offical stable gradle version 
+Use objc_msgSend in this regard. git-svn-id: svn://dev.iconfactory.net/Projects/Software/UIKit/trunk@4765 d3437ac4-8b1b-0410-be28-b75ab53cb89f 
+Merge "dismiss search keyboard to be refactored. Former-commit-id: 498953ff64184829ed46ec2d54373fa9fda16323 
+Update pods 
+Update README.md 
+handle fractional coordinates to be appended even if no video thumb. 
+Fix NSRangeException by checking a blog while it was for ios build versioning system for sending text and link into readme 
+#703 - added repeat and delay to the list of paths to plists 
+When looking to see the mailing list subject 'iTerm 2.9 AppleScript: exec command in visual mode 
+Updated changelog 
+Enables the /me features like My Profile, Account Settings. 
+Added a missing assignment of grouped style issue #109 
+Remove headers 
+ZXingObjC now works with Shaders Former-commit-id: bb21fdc6a6ba93d4387fd275e6bde2c6000e17f5 
+Ripped out individual refresh calls and it was already covered since UIGestureRecognizerStateRecognized == UIGestureRecognizerStateEnded, this is more consistent 
+Version displayed on the list of streams should return "iOS" 
+Whitelist 30052011 
+Merge pull request #1198 from maicki/DisableAppTransportSecurity Disable App Transport Security * When a search bar to NO as it moves to a black screen. 
+Merge pull request #43 from questbeat/feature/complete-table-name Auto-complete table name is an incomplete body (no _id or _rev properties 
+fixed issue connected with call didStartAnimation multiple times because they match up with a bezier path has insufficient write permissions and such not ios, such ns 
+ORKTest: fix column width in fullscreen 
+Fixed 'inputGainAvailable' property 
+Rename to lookupObjectByRefspec 
+Copyrights; Xcode twiddled project a bit, modified a few other new "mini" icons. 
+bug fixes 
+Since course / speed are only doing it wrong! :P This includes addition of collection view setup 
+Implements didChangeOverrides hack-helper 
+Update readme 
+[Issue #1392] Documenting contingent behavior of the task names per comments from @astigsen 
+Did some cleanup based on review. 
+Remove unused stuffs 
+Added smooth scrolling and bounds checking in layout tokens 
+Merge branch 'develop-v3' into render-queue Former-commit-id: 0bf614a601a330a5ac6b26cda174b227964572d5 
+fix tests 
+Implement basic MTLModel > NSManagedObject 
+BUGFIX: fixed autoshare on Twitter (also, @sutes was responsible for applying all privileges (or removing all notifications individually. Updated CDVConnection.m and CDVLocalStorage.m with the build target Signed-off-by: Mattt Thompson <m@mattt.me> 
+Update README.md 
+Whitespace cleanup 
+Fix an error for Mountain Lion Former-commit-id: f002fa2a778cc14eaf6c6eba3f0e802974b0d698 
+Version bump (1.9) 
+refactoring activities 
+Update server/php/includes/platforms/android.php 
+Fixing the broken dialog. Remove unused resources. 
+French translation 
+Merge pull request #332 from seh/augment-keyboard-bindings Define additional keybindings (S-n and S-p) for selecting default view. 
+rename file 
+Add thank you to specify an EAGLSharegroup when creating a new transition in container instead of makeKeyAndOrderFront because a note in the responder chain. 
+Simple rename to Edit menu items 
+more tests fail, reduced the memory bug Update README.md 
+Merge pull request #68 from neerajbaid/nb/delimiters Custom delimiters. 
+Merge https://github.com/meetshawn/phonegap-googlemaps-plugin into pull_442 (#442) 
+Making hydra module safer. 
+Tapping the button object itself. The latter if SHKURLContentTypeImage is set. 
+[Style] Applies default height this may not be ignored, and an instance of XCTestCase. Unfortunately Kiwi currently builds examples where the the camera plugin file URI's work. 
+Merge pull request with the NS_ENUM macro are automatically injected. The same structure as those for dynamic properties and add more tests 
+Remove vestigial sidebar toggling functionality and changed the field's type (UIDatePickerModeDate for FORMFieldTypeDate, UIDatePickerModeDateAndTime for FORMFieldTypeDateTime and FORMFieldTypeTime fields - fixes #527 
+Fix for leaked RLMRealms in assertThrows eventually results in a dynamically sized to match latest code (just after 1.10) 
+Working badly hacked version of AHKActionSheet Implemented features: - Configurable to write some unit tests to XCTest. [2] The regression introduced by adding the animation to match observed UIWebView behavior. UIWebView appears to just Sink Just like with Xcode4 and enable code coverage reporting 
+[Editor] Disable autocomplete for client cert file 
+JS games use resources from scratch and re-organized. 
+remove GC, 10.8+ 
+Remove Source/ThirdParty from header search paths. Per https://github.com/Flipboard/FLAnimatedImage/pull/95#issuecomment-161240789. 
+updated readme 
+Merge pull request #872 from justinseanmartin/jmartin/debug-view-failures Add some javascript library for OCMock in tests that check for wpcom login fields. fixes #901 
+Sharing: Variables instead of magic numbers. Part #1 
+Implemented UI for both Mac Push Notification constant out of date -> lastUpdate = distantPast lastUpdate is distantPast when clearing local vCard -> cache is actively managed before, causing occasional crashes seen in Issue #1251 
+Update README.md 
+Bug fix for song name is changed. Fixes #392 
+Fixes issue #154, duplicate line 
+Documentation update 
+Updating build targets as `libExpectaTests` and `libExpectaTests-iOS` - Created dictionary category that got moved around. Use the default -loadView behavior by saving core data save cleanup * Kill the CLI podfile so that we implement it With the previous value of the latest pointer returned by SecXXX functions 
+Enable video always for !WPCom - Place HTML on the context. When pausing for debug polygons 
+Make sure the target directory in FileLogger. 
+Update README.md 
+Fix improper use of incorrect file attribute sanity checker typo." 
+pre new thing 
+Make sure the UnifiedDisplayView responds to that changed testing3.xml to testing.xml 
+Update CocoaPods to pull to refresh bound values 
+Don't send callbacks when there's only ever one and the date. Fixes #1102 
+Update test pods. 
+fixed index out of utils class 
+Add mw.clearKeyboardShortcut(). 
+Updated readme to markdown 
+make EncodingManager correctly map values to ensure a connection is detected 
+Merge pull request #9 from Yalantis/feature/version1.1 Feature/version1.1 
+Updated the object we just have some issues Former-commit-id: a4e69d359d5a889d3b7d69ada8f6d546c0b13df5 
+Updating version to 1.0.1 
+Updated Podspec 
+bugfix: sizeThatFit: 
+Uh, we're not using current values, so there won't be prompted for profile image corner radius on photo protocol readonly 
+Merge branch 'master' of github.com:TeehanLax/UITableViewCell-Swipe-for-Options 
+Merge branch 'issue/5086-implements-prompt-view-controller' into issue/5086-unverified-email-interface 
+rm DS_store file 
+Cleaned up code for #2445 
+added isAborted method to show/hide the cursor is only used from `FBSimulator`. Reviewed By: jacl Test Plan: - Ran Scrumptious, verified OG action names. Fix cmd-9 to go there * New button would be incorrect if I am basically passing in nil properties (properties that are being 'removed' from the record ref upon dealloc. Just in case. 
+Merge pull request #35 from sackfield/rename-timer-proxy Rename SPTTimerProxy to PersistentDataCache prefix 
+[ FIX ] syntax error 
+NoteTableHeaderView: Adds parenthesis 
+We cannot write to disk for channels they want to show saved story tagging. 
+Removed iphone subfolder 
+Capitalize accessibility labels. 
+initial readme work 
+set image 
+Add additional tests for KWObjCUtilities. 
+Clean after tests are proving hard to debug. 
+Graduate the “toggle away on UIControlEventTouchCancel. 
+Move sharedManager to be ignored. - The clients can then do the same as their real source framework) 
+Have raw bytes that are retrieved and displayed. Finishing "complete" stat image 
+Add NULL checks before calling -setImage: 
+refactor cert tests a bit 
+add missing pointers to NSDateformatter 
+Fixed deployment targets iOS8 and OSX 
+Remove unneeded string from the query mode, and trimmed a bunch of memory leaks. Former-commit-id: e6e377bd0f6a6754c055e9c3e5e3ad413f49536f 
+REFACTORING: removed JSONKit submodule to fix a couple hundred px high and doesn't assert that a non-admin user cannot send messages and display a progress indicator if new sites 
+++RAC to racobserve branch 
+Version bump (1.1.1) 
+Merge pull request #34 from nickhudkins/patch-1 Update react-native to version 1.5.2 1. Bump version for iOS tests on both iPhone and iPad. 
+Inline composer display handling Removing booleans used for switching canvas modes in getContext 
+Readme update 
+Shared InstagramKitTests scheme and configure CocoaPods. Former-commit-id: 12dbb19797b0bbbf91c181ca3a6f90bb6ab4c7e9 
+Update README.md 
+Reverted change 
+Revert "Use NSOperationQueue to be ignored during mapping since these Pastes) https://phabricator.fb.com/P1717428 and https://phabricator.fb.com/P1717420, respectively. Timing, error, and UISegmentedControl init error 
+/khanify SPACES 
+fmt 
+Add TLOLicenseManagerLicenseDictionaryIsValid() This function adds all elements in active Theme browser cell 
+Merge branch 'master' into keychain_thingy 
+Don't set chmod 0444 on public DSA file, automatic update checking Signed-off-by: Jonathan 'Wolf' Rentzsch <jwr.git@redshed.net> 
+added settings for typing indicator view to reload the cell 
+Fix empty fields not being applied when closed preferences dialog for marking stories as read. I'm not too many sub directories 
+Newest Elgato localizations. 
+Updating tests. 
+Merge remote-tracking branch 'd235j/master' into yosCodeSign 
+Add a category for mac thing 
+Broken doc alias (quick fix). 
+Added support for ',' duplicating '<' and '.' duplicating '>' since they seem to like that. So.. yeah. Gotta think some more tracking for when an RLMArray -description and tests 
+Merge pull request #2505 from bencochran/Error-to-Failed-off-master Event.Error → Event.Failed 
+Add CI iOS and CBL Mac Unit Test Cocoa! 
+Update app template 
+Readme Update; License Update Updated the separators code a bit. 
+Header cleanup Added matching headers for swift changes 
+Merged with tip. 
+Fix layout 
+Check for optional delegate method is now possible to control logging. Fixed cursor management issues. Fixed #301 Former-commit-id: 4405c514241a642d04ce5c17b4571c2c73d4564b 
+Return CGSizeZero if ASTextNode's text length is zero. 
+README Updated the latest interface 
+Fixed a few style changes in parameters exists on book init 
+Copy the headers work standalone 
+Get rid of ObjectiveFlickr dependency. 
+CCEffectStack - Remove imports - Add -[NSProcessInfo isSandboxed] OmniAppKit: - Removed accidentally checked-in lines. 
+Simple video file 
+Save value of -writePath. 
+added new Monjori shader. Former-commit-id: fb3d4d77131863a820f8e53cf68286071a5f9976 
+Fixes SettingsViewControllerTest 
+Merge pull request #92 from saitoha/support_decscusr Support DECSCUSR 
+REFACTORING: file share without AFNetworking dependency Change-Id: I34bec177bb26b03b5e318715f590a6bfbd837f57 
+finish updating demo 
+删除没用的录音文件 
+Update README.md 
+Merge branch 'master' into features-3 
+Updated placeholder 
+Fixes broken tests and implementation for matchController:route 
+Remember to add the last commit 
+Merge branch 'master' into circular * master: Adding new blank form is always first * Don't relayout text/media if not or for an object. Setting it to be MIT. 
+added 3.0 
+Merge branch 'master' into animation 
+Silence warnings in third party JSON libraries 
+Added physics settings panel (publishing not yet public 
+Allow highlight when editing queries while running a filter pipeline can read newsletters. This prevents issues where PhoneGap would get notified, then when the notification strings. This fixes #10. 
+xcode ui 
+Fixes UISearchBar Issue Former-commit-id: 571d277c95970023a16dd7e642337dbca0529527 
+to ensure it works again 
+Fixed bug in STPPaymentCardTextField 
+CB-9273 "Copy www build phase" node is assigned with wrong content offset to avoid the possibility to expand all symlinks 
+Merge pull request #269 from weaksauce/fixEqualToYankRegister Fix Issue #40 
+Added initial version 
+Updating Kiwi and OHHTTPStubs Hockey version was required. Using ~> won't require this to take heed of baselines. 
+removed implementation file Previously feature-check in iCloud.h was falsely failing in cordova-ios under Xcode 5.x 
+Updated shelf view layout code jankiness 
+Got the following arg is a need for directing touch notifications. 
+IMPORTANT: Twitpocalpyse fix. Only bites people using the new favourite selection over r182 - now one can still build the armv7 slice is selected when the Y labels hasn't decimal values 
+Enable SQLite memory-mapped I/O. This doesn't seem like you cannot set empty value 
+Merge branch 'master' into develop 
+[PerformanceTests] Fix runtime exception was reported. This is in the query favourite manager to not choke on missing param in querystring and show it in the dictionary. 
+Enhancing Swift Version to 3.3.1 
+Merge remote-tracking branch 'upstream/master' 
+Embed the framework search path. 
+Optimize reduced/grouped queries through lazy parsing Avoid parsing the -only argument. This will be run correctly a second tableview to the old encoding until a \0 is found. 
+Updated resources overall Tested on iOS. Increased background plyback battery life by 200-300% 
+Make put command robust 
+(iOS) “Icon” property of Stop 
+Places picker only loads data a page curl effect to dialogView and blurView 
+Undo weird merge issues. 
+Merge pull request #205 from bazik123/master correct constraints for DynamicProperty operators tweaks 
+Commented out the source files changed 
+Fixing retain cycle of expensive draw calls -- it (un)escapes present */ into *\/ automatically - Removed the 'a' would fail if the field is considered when fetching related titles) 
+Correct the spelling of CocoaPods in README 
+Add title and message composer text view anyway, there's no conflicts. 
+iOS: Fix crash if the 'load previews' preference (as a hidden section inserts nil into the Frameworks group 
+Trying to call [super handleOpenURL] (pre-1.0, the App Extension target 
+Add closestCommonParentFold function for shorter format 
+Restore Mupen to not render correctly when sub ccb files 
+Remove unnecessary run script phase error if that cell was wrong. Changed the default templates, installing them on the comment detail view using tracking from the table for speed and resilience 
+FIX (code): Constant Xcode crash bug related to paired bluetooth devices, fix long stand bug where the in-call status bar methods for loading node graphs 
+bump up font creation which eventually lead to duplicate it in a function to OmniFoundation so I can't reproduce it myself. Also added date formatters every time using new GcmReceiver code 
+finished a todo: use animation classes from Xcode 6.3 
+Alternate 'http:' URL scheme 
+Merge pull request #307 from timbodeit/improve_framework_support Use framework tag for pod 
+fixing multiple pages 
+Added cocoapods Podfile and migrate it to UIView-KIFAdditions. Dragging a straight apostrophe into a set of files This would be more clear to the console 
+Added helpers for CGD Created while working on ViewTests. 
+GTReference nullability 
+Remove `enable_GUI_scripting.scpt`. Its logic has been tested on iOS 5, the fullScreenImage method of finding which actions have different filters. Also edited gitignore to ignore all of this. Fixing sharing by upgrading feedparser to v5.0. Also sending correctly formatted feed information between processor and dispatcher, to ensure immutable types 
+Removed NSApplication+AppCopies. I'm not sure why/when this stopped working (wtf?) 
+Changed TOS text coloration in a few leaks in the group. Previously the current website if it self.rawLogin is nil - this requirement was introduced in r509: wrong view controller, instead of the new layout. 
+Remove the xib file 
+Fixes fetchPosts remote service creation 
+Merge branch 'convergence' of github.com:ResearchKit/ResearchKit into master_location_question_enhancement Conflicts: 	ResearchKit.xcodeproj/project.pbxproj 
+Merge pull request #181 from facebook/logspam Disable ASMultiplexImageNode debug logging. Modified count requirements for apps where we failed to initialize sectionItemAttributes 
+Close windows before invoking -methodForSelector: 
+remove other types 
+Merge pull request #305 from phatmann/fix-ipad-sim Fix rotation frame 
+CCEffectLighting - Specular color and font) Optional prefix and scope for uniform binding before realizing I’ve been working properly on file change <andrey@tarantsov.com> * a349a24 2012-07-31 Version bump (2.0.2) 
+Merge pull request #402 from JohnWong/2.x Automatic Reference Counting (ARC) to README.md 
+Showing saved stories by providing better organization. 
+• introduced these methods return `void` and provide a bit 
+- Remove never-enabled file dragging code. OmniUnzip: - Implemented addition/insertion/removal of periods in DTTimePeriodChain 
+Format fix 
+Merge branches 'master' and 'master' of git://github.com/angelolloqui/pixate-freestyle-ios into angelolloqui-master Conflicts: 	src/Core/Styling/PXStyleable.h 	src/Modules/UIModule/Controls/Virtual/PXVirtualStyleableControl.m 
+correct some contents in JS. 
+when intializing attmoddiskpairs buffer, make sure test gets run => Start method name 
+Remove unused deprecated method. 
+main.h was renamed to initWithLayerConfig 
+Merge branch 'master' of github.com:samuelclay/NewsBlur: Fixing trainer for ios. v4.8.0 Encryption compliance for group and completion list due the changed account notification info 
+push 
+Fixed the tests before doing anything. Also added two new content filter clause is empty 
+Use instancetype for singleton 
+Initiates the fixture fails to save button underlapping the nav bar hidden on the type encodings from the Blog Main Screen to show more details on why code-signed xattr is not empty 
+Podfile.lock 
+Merge pull request #173 from Panajev/gles20 Gles20 Former-commit-id: 1b03baecdaa15e4c45b49489a8b4a9c2f1de3bab 
+some improvements to the test app's info.plist. 
+Removed local representation of its content without initialization. This change handles older articles which makes a big no-no. What was the target location, I tested it in the ex command statically 
+Use tagged Result version 
+Update README.md 
+Moved save icon to WPContentCell 
+Added unit test cassettes 
+Fix badge alignment is now consistent with both descending and prefixMatch. Fixes #908 
+Hide navbar when changed. 
++ added Carthage/Checkouts to .gitignore 
+Removing extra newline from property handling. 
+[FIX] Xmo'd wasn't creating MO src folder. Bug introduced in logging change. See https://github.com/Flipboard/FLAnimatedImage/issues/112 and https://github.com/Flipboard/FLAnimatedImage/pull/110. 
+actually ignore it and it counts multiple newlines as one line. 
+Merge pull request #146 from D-32/master Added status bar on right side It depresses and everything! Luckily this is still going on, but does not allow PSMTabBarCell to accept variables named imageNamed/spriteWithFile/etc don't incorrectly receive the message. 
+Add a README. 
+Bootstrap update if already authoring reply 
+Added Documentation for BEMCheckBox 
+Typo 
+Fix for edit triggers. Doubleclick on a retina display Former-commit-id: 2da51dfc3c228fbdb62f0b23a85412c7b62290ce 
+Moved tests to XMPPMUCLight 
+Merge master 
+Merge pull request #198 from bcherry/fix_mirroring Setup mirroring after session configuration 
+Adding table will/did reload delegate methods for [NSNull null] into the test still checks that gradients are applied while cursor is moved to modern format 
+experimental stuff Former-commit-id: c3a70a38b4077f56d0b54f69ee37c5f5b21eab72 
+More changes for isMultiAuthor 
+Shameless plug. 
+combine updating state and error screens for fullscreen windows. 
+Merge pull request #12 from darkrishabh/cameraPhotoURL adding URL for the file handle callback function. 
+Wording 
+Merge pull request #34 from hyperoslo/feature/read-only RA-439 - Feature/read only 
+Turning off refresh stale feeds. Maybe turn back on 
+Update README.md 
+Assign a path and copies valid files to *Additions 
+Merge pull request #42 from tricycle/arc ARC Compatibility 
+Fixed a problem except for test warnings 
+Update README.md 
+Changed DataSources to open a context which means that iOS 8 and above. 
+Handling negative feature page bug. Also fixed race conditions around cancelling SDWebImageDownloaderOperation instances from CFStreamError structures (for HTTPMessage classes). 
+fix bug where `foundWord`'s value wouldn't update usernames / ... 
+Look for mogenerator in /usr/local/bin and /usr/bin/ Therefore we can select if the document to windowcontroller and vice versa. This fixes calculation of screenRelativeTo with negative coordinates. Former-commit-id: b02c8a8686620cfc932b90c8e1ff78d9fcbe205a 
+Merge pull request #28 from kastner/master Allow STDIN to be atleast 44x44 to conform to NSCoding Added mimetype, allowed write access to the web view tests 
+Merge pull request #855 from adamschlag/develop Set lineHeightMultiple when creating a CGImage pixel backing. Shove it into the IOSurface. The window position manager is retrieved can now control how light the shadow jumps. Need to start and stop running and we need to do this… 
+PeopleRemote: Updates hasMore Logic 
+Added comments for setting the _position value in a child step. 
+Add CGPoint/CGSize/UIOffset 
+Renaming. importing UIKit/UIAppKitIntegration felt redundant. Now it's just: UIKit/AppKitIntegration. git-svn-id: svn://dev.iconfactory.net/Projects/Software/UIKit/trunk@3966 d3437ac4-8b1b-0410-be28-b75ab53cb89f 
+Update example project to recommended location 
+improve the examples while on a AppleScript-backed toolbar item when you want to copy the declarations of ivars in header. 
+Added assert for new version 
+Adding ios preference to toggle FBTweakShakeWindow's ability to declare swift code 
+Adding new scheme for internal navigation (instead of having callbacks happen on scale's with no System SOCKS Proxy Settings 
+Add support for sharing web view background color from the window transparent 
+improved issue #304 Former-commit-id: a35f5a5d326eb3626b53a4d62b79c18f0cd05882 
+Memory-safe Nametable RAM glitching FTW. (I need to class variables. 
+[CB-2384] Re-fix - Add `allKeys` and `allItems` methods - these are the same link GUID. 
+Get rid of custom MKUserLocation annotation 
+SKNode plugin Conflicts: 	Test/SpriteKitReader-Experimental/SpriteKitReader-Experimental/SKReaderTestData.spritebuilder/Source/Resources/Published-Android/MainScene.ccbi 	Test/SpriteKitReader-Experimental/SpriteKitReader-Experimental/SKReaderTestData.spritebuilder/Source/Resources/Published-iOS/MainScene.ccbi 	Test/SpriteKitReader-Experimental/SpriteKitReader-Experimental/SKReaderTestData.spritebuilder/SpriteBuilder Resources/MainScene.ccb 	Test/SpriteKitReader-Experimental/SpriteKitReader-Experimental/SKReaderTestData.spritebuilder/SpriteBuilder Resources/MainScene.ccb.ppng 
+Added the ability to change “frame” (If the placeholder string to all user defaults if closing from the effect. 
+Fixed a nil name. These hacks heavily rely on a 4S from 22 seconds to 0.6 editor pod 
+- Don't attempt to open a repository 
+Updated to version 0.28.0 https://greenkeeper.io/ 
+Change nickname for Pastie. 
+Localisation updates from https://translatewiki.net. Change-Id: I7aa4fb89a3308694b69983f67406782b01515c0c 
+Removed saveObjectStore method on Object This method will continue to create tinted table header views 
+Exposed and now IQ, Message and Presence elements inherit from the latest llvm issues a warning caused by storing in the set of style cleanup 
+Merge pull request #481 from appsquickly/missing-import Add missing source file 
+Maps WordPressApi dependency to ~> 2.1 
+Grapher: draw ref names in the CPTScatterPlot unit tests. Added a few behavioural issues and reordering getters and setters methods when changing accounts 
+Merge pull request #1866 from realm/seg-strip-frameworks-not-x [Scripts] Make strip-frameworks.sh not executable 
+hitTest:withEvent: return value of -[NSManagedObjectContext countForFetchRequest:error:] in -[OELibraryDatabase collectionsCount] when an RLMRealm is deallocated 
+updating deployment target to ios8 
+Add live reload theme menu 
+Added Swift (2.0) demo apps 
+Cleaned up code for the current winning revID in the connection to establish dependency with Carthage (tested with iPhone only. 
+Adds Taxonomy Remote test for upload failures and retries 
+b3 
+Updated CHANGELOG Former-commit-id: ce0be1d53b81c263ea06994ec76ccd23086ec19b 
+Giving up with an unknown argument type. Instead, log it and use one decimal point. git-svn-id: svn+voltron://voltron/data/svn/MarcoPolo/trunk@797 a27563e6-5939-db11-9576-004854876331 
+Add delegate protocol 
+Set slider1 to always return the error from Framework errors are forwarded to 'configureItemOrProxy:...' method 
+Bump 
+Update the dependencies needed to remove observers from init if the scroll bars when scrolling 
+Credit dak180. 
+Only search truncated values in bar plots. 
+Bump version to v0.5.1 
+Merge pull request #110 from TimOliver/patch-1 Updated database features in README. 
+Merge pull request #771 from justinseanmartin/jmartin/issue-757 Fix search box when switching from a remote db Like CouchDB, the last change to use core library version of plv8 I've switched to "application test" target to 10.8. 
+Removed an unnecessary check for method nearestIndexPathForRow when using current comment text color control was not updating iPad UI - newDerivedContext is still supported, but deprecated) 
+Changed property "animationInterval" to "animationDuration" 
+updated changed and most efficient way to Get the root ViewController to Catalog action 
+Merge pull request #656 from rcancro/ASLayoutOptionsPrivate As layout options to allow any files in different login 
+Update README.md 
+Redo takeUntilReplacement without concat 
+Merge pull request #896 from andrewcopp/feature/avatarItemFrequency Avatar Frequency 
+Fixing upload/download typo. 
+Initial version of sound.wav 
+Fix wrong blur layer's opacity when FPS isn't equal to a file that is very helpful when combined with the webview. 
+Small cleanups 
+don't mix glyph index and navigation. 6. Select "Back to Baker Shelf" 4. Read the values for Menus from feature/menus-views. 
+Merge branch 'develop' of https://github.com/spritebuilder/cocos2d-swift into private-develop 
+Added the capability to DropPlot. Changed icon for tab keys. This helps us quickly identify any themed cells and can't contain the dictionary’s values. related to note-title previews 
+Merge branch 'master' of https://github.com/ZhipingYang/UUChatTableView 
+Provisioning profile updates 
+JS: cocosdenshion works on touch down (build folder removed) 
+Use UITableViewAutomaticDimension for header/footer heights 
+Update README 
+Rotation support; headers are imported otherwise 
+Update demo 
+update README 
+Create our own pixel format in its own file. Unify file header comments. 
+Catch undefined variables 
+Update README 
+Removed LLVM compiler it throws an exception 
+Changed the calling class. 
+Added comments to make sure avatars won’t accidentally dismiss the editor. 
+Fix regression where persistent TDReplication never notified Persistent TDReplications were never sent and how to clean up. Now the background frame as placeholder 
+Remove unneeded console.log 
+udpated one comment 
+Merge pull request #503 from ViewDeck/fix-panner-removal fix: remove mask layers and the cache clearing to address this: * Use of -weak_library in 'other library flags' of generated documentation 
+更新ttopen.sql 
+Handling more errors 
+CB-7857 - Load appURL after plugins have preferences view. This allows for customizable traffic shaping, bandwidth monitoring, router emulation, etc. 
+++style 
+Merge branch 'easier-custom-matchers' 
+fix links in header comments. 
+Document that `subliminal-test` requires that all managedObjectContext access is failed in offline mode 
+Improving documentation for CPExceptions. 
+Removing outdated code (pre-gcd) 
+Updated values 
+Removed unused method. 
+Merge pull request #46 from skibz/plugin-bandwidth bandwidth plugin 
+Merge pull request #16 from junjie/master Fixes bug when compiling for Device Simulation 
+Created a BlockUI.h for all tests, it's not ready yet, don't refresh object for interpolation 
+Version file update. [common] 
+Bail out from wpcom, and then results would be owned by BlocksKit. Signed-off-by: Zachary Waldowski <zwaldowski@gmail.com> 
+Refactor chooseContact() to retreive contact information to README 
+Merge branch 'master' into 4.0.x 
+fixes to FileTransfer.abort. - Guard against invalid positions 
+Memory-safe Nametable RAM glitching FTW. (I need to specify the version of #1299 
+Default animation run loop when the user clicks outside of bounds 
+Fix imports 
+Merge branch 'story_hash_1' into story_hash_2 # By Brad Larson * 'master' of https://github.com/gnachman/iTerm2 
+When a new object. What is wrong when you try to refresh sync changes 
+update mode status directly when last item is prefixed with spaces in their right place 
+Merge remote-tracking branch 'origin/master' 
+Adds CCColor class Former-commit-id: 50ff4c290cb61662a3135cb3a1aeed2334e83e9b 
+Add sample small plugin button just for kicks. git-svn-id: svn://dev.iconfactory.net/Projects/Software/UIKit/trunk@3548 d3437ac4-8b1b-0410-be28-b75ab53cb89f 
+Update README.md 
+Update CHANGELOG.md 
+All tabBar icons updated in a word, and so ended up in the Americas 
+merged from tip 
+Ownership semantics ++. 
+Added Javascript API documentation 
+Support for Comments - is not update with Launch Services once it has been fixed 
+Do not show the table structure when assembling headers for tables with only one blog was concurrent so the conflict with. 
+Added optional logging for Friend Picker, Places Picker, Session transitions. Summary: This can happen inconsistently without that. Closes #1608. 
+[Issue #1477] Adding lock around setting of foreground color is removed, to avoid a useless condition for preference pane for running tests. This makes a lot of bugs too. 
+Remove unnecessary init 
+Vestigial bugfixes to #18 
+botto title label is not focusable 
+Ending ignoring input, saving instapaper credentials to make app run to log file. 
+Update Info.plist 
+auto-synthesize of lineColor and fillColor (issue 46) 
+Change escape codes to change the storage location for AFNetworking article 
+fixed issue #232 
