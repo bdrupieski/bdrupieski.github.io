@@ -79,38 +79,38 @@ We can then define a sub-class that contains a method for each sub-parameter in 
 public class ListEnrollmentsSelectBuilder : 
 	SelectBuilder<ListEnrollmentsSelectBuilder>
 {
-    public virtual ListEnrollmentsSelectBuilder Data()
+    public ListEnrollmentsSelectBuilder Data()
     {
         SelectItems.Add("data");
         return this;
     }
 
-    public virtual ListEnrollmentsSelectBuilder AllHistory()
+    public ListEnrollmentsSelectBuilder AllHistory()
     {
         SelectItems.Add("history(all)");
         return this;
     }
 
-    public virtual ListEnrollmentsSelectBuilder HistoryOn(DateTime date)
+    public ListEnrollmentsSelectBuilder HistoryOn(DateTime date)
     {
         SelectItems.Add($"history(on,{date.SelectFormat()})");
         return this;
     }
 
-    public virtual ListEnrollmentsSelectBuilder HistoryInRange(DateTime from, 
+    public ListEnrollmentsSelectBuilder HistoryInRange(DateTime from, 
 	DateTime to)
     {
         SelectItems.Add($"history(range,{from.SelectFormat()}{to.SelectFormat()})");
         return this;
     }
 
-    public virtual ListEnrollmentsSelectBuilder Domain()
+    public ListEnrollmentsSelectBuilder Domain()
     {
         SelectItems.Add("domain");
         return this;
     }
 
-    public virtual ListEnrollmentsSelectBuilder Course(
+    public ListEnrollmentsSelectBuilder Course(
 	Action<CourseSelectBuilder> action)
     {
         SelectItems.Add("course");
@@ -118,7 +118,7 @@ public class ListEnrollmentsSelectBuilder :
         return this;
     }
 
-    public virtual ListEnrollmentsSelectBuilder User(
+    public ListEnrollmentsSelectBuilder User(
 	Action<UserSelectBuilder> action)
     {
         SelectItems.Add("user");
@@ -126,7 +126,7 @@ public class ListEnrollmentsSelectBuilder :
         return this;
     }
 
-    public virtual ListEnrollmentsSelectBuilder Metrics(
+    public ListEnrollmentsSelectBuilder Metrics(
 	Action<MetricsSelectBuilder> action)
     {
         SelectItems.Add("metrics");
