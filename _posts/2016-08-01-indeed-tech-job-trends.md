@@ -39,7 +39,7 @@ However the total number of jobs by keyword changed over the year:
 | machine learning | 3,019      | 34.7%    |
 | python           | 1,876      | 5.8%     |
 | scala            | 833        | 25.4%    |
-| Total		       | -541       | -0.3%    |
+| Grand Total      | -541       | -0.3%    |
 
 Across all cities these keywords have some variation between them. However, what about the jobs for specific cities?
 
