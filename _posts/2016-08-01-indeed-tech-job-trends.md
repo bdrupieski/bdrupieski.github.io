@@ -174,3 +174,59 @@ However we really can't trust this data. Any patterns and conclusions we think w
 - The counts I recorded are for job _postings_ and not _jobs_. I used a job posting as a proxy for a job every time I used the word job in this post. A single job can be posted multiple times and by multiple recruiters. Many jobs are also not posted to sites like indeed.com at all.
 
 I am now quite sick of making charts and formatting tables in markdown. I'm very tired of thinking about where tech jobs are. The most important job is the one you have. If you'd like to play around with this data [here is the file I used](/assets/indeedtechjobtrends/results.csv) to prepare this post. The code used to generate that file is [here](https://github.com/bdrupieski/IndeedKeywordTrends).
+
+### 8/4/2016 edit:
+
+After sharing this data with a few others I realized that my chart above using Java as a proxy of the health of the job market as a whole is pretty flawed and I can do a bit better with the data that I have. I used Java as a proxy for the market as a whole not only because of its popularity and magnitude of job postings but since most of my other keywords were combinations (e.g. "C#", "C# mvc", "C# mvc angular") that would result in a significant amount of overlap and bias the total results towards those keywords. However I should've probably also plotted C#, Java, C++, and Python together since there probably isn't much overlap between those keywords and it would result in less bias towards a single language.
+
+Well, I still can. Here are the job postings within 25 miles of the top 15 cities for C#, Java, C++, and Python:
+
+![Count of C#, Java, C++, and Python jobs within 25 miles for the top 15 cities](/assets/indeedtechjobtrends/4_langs_top_15_cities_25_miles.png){: .center-this }
+
+| City              | Jobs Start of Year | Jobs End of Year | Change | Percent Change |
+|-------------------|--------------------|------------------|--------|----------------|
+| Atlanta, GA       | 4,382              | 4,235            | -147   | -3.4%          |
+| Austin, TX        | 3,176              | 2,942            | -234   | -7.4%          |
+| Baltimore, MD     | 4,579              | 4,781            | 202    | 4.4%           |
+| Boston, MA        | 8,372              | 8,283            | -89    | -1.1%          |
+| Chicago, IL       | 5,200              | 6,251            | 1,051  | 20.2%          |
+| Columbia, MD      | 6,204              | 6,496            | 292    | 4.7%           |
+| Dallas, TX        | 4,171              | 4,139            | -32    | -0.8%          |
+| Denver, CO        | 2,851              | 2,794            | -57    | -2.0%          |
+| Los Angeles, CA   | 4,981              | 4,456            | -525   | -10.5%         |
+| New York, NY      | 16,449             | 12,166           | -4,283 | -26.0%         |
+| Philadelphia, PA  | 3,284              | 3,259            | -25    | -0.8%          |
+| San Francisco, CA | 11,531             | 10,216           | -1,315 | -11.4%         |
+| San Jose, CA      | 14,408             | 13,518           | -890   | -6.2%          |
+| Seattle, WA       | 7,117              | 8,581            | 1,464  | 20.6%          |
+| Washington, DC    | 13,660             | 14,699           | 1,039  | 7.6%           |
+| Grand Total       | 110,365            | 106,816          | -3,549 | -3.2%          |
+
+And here's within 50 miles:
+
+![Count of C#, Java, C++, and Python jobs within 25 miles for the top 15 cities](/assets/indeedtechjobtrends/4_langs_top_15_cities_50_miles.png){: .center-this }
+
+| City              | Jobs Start of Year | Jobs End of Year | Change | Percent Change |
+|-------------------|--------------------|------------------|--------|----------------|
+| Atlanta, GA       | 4,736              | 4,556            | -180   | -3.8%          |
+| Baltimore, MD     | 15,592             | 16,427           | 835    | 5.4%           |
+| Boston, MA        | 9,419              | 9,038            | -381   | -4.0%          |
+| Chicago, IL       | 5,998              | 6,987            | 989    | 16.5%          |
+| Columbia, MD      | 16,572             | 17,568           | 996    | 6.0%           |
+| Dallas, TX        | 4,794              | 4,659            | -135   | -2.8%          |
+| Los Angeles, CA   | 7,453              | 6,801            | -652   | -8.7%          |
+| New York, NY      | 19,539             | 15,642           | -3,897 | -19.9%         |
+| Philadelphia, PA  | 4,571              | 4,418            | -153   | -3.3%          |
+| Providence, RI    | 8,550              | 8,214            | -336   | -3.9%          |
+| Riverside, CA     | 4,421              | 4,348            | -73    | -1.7%          |
+| San Francisco, CA | 24,965             | 22,850           | -2,115 | -8.5%          |
+| San Jose, CA      | 24,854             | 22,750           | -2,104 | -8.5%          |
+| Seattle, WA       | 7,257              | 8,752            | 1,495  | 20.6%          |
+| Washington, DC    | 16,529             | 17,548           | 1,019  | 6.2%           |
+| Grand Total       | 175,250            | 170,558          | -4,692 | -2.7%          |
+
+Cities very close to each other will tend to share the same number of jobs at 50 miles. For example San Francisco and San Jose are similar because they're so close. The same holds for Baltimore, Columbia, and Washington, D.C. D.C. was the winner for total number of jobs within 25 miles but Silicon Valley takes the lead within 50, however from this data it looks like Silicon Valley is shrinking while D.C. is growing. If the trend holds it won't be long before D.C. overtakes Silicon Valley even within 50 miles.
+
+#### Future work
+
+If I continue to do this I think I should include more keywords to get a broader view of how things are doing. For example, include other big languages like PHP, JavaScript, Ruby, Objective-C, and Swift. It might be neat to play off Android vs. iOS too.
