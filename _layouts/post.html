@@ -7,6 +7,24 @@ layout: default
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
   </header>
+  
+  <script src="assets/global/anchor.min.js"></script>
+  <script src="assets/global/jquery-3.1.0.min.js"></script>
+  <script>
+	  $(function() {
+		// if a p only has an img inside of it, urlify the alt text of the img and set that as the p's id so anchors can use it
+		$("p > img").map(function(idx, el) { 
+			var $el = $(el);
+			var idText = anchors.urlify($el.attr("alt")); 
+			$el.parent().attr("id", idText); 
+		})
+		anchors.options.visible = 'always'; 
+		anchors.add('.post-content > h1, h2, h3, h4, h5, h6');
+		anchors.options.icon = '❡';
+		anchors.options.visible = 'hover';
+		anchors.add('.post-content > p');	
+	  });
+  </script>
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
