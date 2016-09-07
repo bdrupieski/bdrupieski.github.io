@@ -13,11 +13,11 @@ layout: default
   <script>
 	  $(function() {
 		// if a p only has an img inside of it, urlify the alt text of the img and set that as the p's id so anchors can use it
-		$("p > img").map(function(idx, el) { 
+		$("p > img").each(function(idx, el) { 
 			var $el = $(el);
 			var idText = anchors.urlify($el.attr("alt")); 
 			$el.parent().attr("id", idText); 
-		})
+		});
 		anchors.options.visible = 'always'; 
 		anchors.add('.post-content > h1, h2, h3, h4, h5, h6');
 		anchors.options.icon = '❡';
