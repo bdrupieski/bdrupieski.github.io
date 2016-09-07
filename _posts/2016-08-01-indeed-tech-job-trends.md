@@ -204,7 +204,7 @@ Well, I still can. Here are the job postings within 25 miles of the top 15 citie
 
 And here's within 50 miles:
 
-![Count of C#, Java, C++, and Python jobs within 25 miles for the top 15 cities](/assets/indeedtechjobtrends/4_langs_top_15_cities_50_miles.png){: .center-this }
+![Count of C#, Java, C++, and Python jobs within 50 miles for the top 15 cities](/assets/indeedtechjobtrends/4_langs_top_15_cities_50_miles.png){: .center-this }
 
 | City              | Jobs Start of Year | Jobs End of Year | Change | Percent Change |
 |-------------------|--------------------|------------------|--------|----------------|
