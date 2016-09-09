@@ -13,7 +13,7 @@ layout: default
   <script>
 	  $(function() {
 		// if a p only has an img inside of it, urlify the alt text of the img and set that as the p's id so anchors can use it
-		$("p > img").each(function(idx, el) { 
+		$(".post-content > p > img").each(function(idx, el) { 
 			var $el = $(el);
 			var idText = anchors.urlify($el.attr("alt")); 
 			$el.parent().attr("id", idText); 
