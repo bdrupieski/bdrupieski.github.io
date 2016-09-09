@@ -40,6 +40,7 @@ However the total number of jobs by keyword changed over the year:
 | python           | 1,876      | 5.8%     |
 | scala            | 833        | 25.4%    |
 | Grand Total      | -541       | -0.3%    |
+{: alt="All jobs by keyword within 25 miles of all cities" }
 
 Across all cities these keywords have some variation between them. However, what about the jobs for specific cities?
 
@@ -66,6 +67,7 @@ From the chart we can see New York has lost a lot of postings over the past year
 | Seattle, WA       | 2,083      | 24.8%    |
 | Washington, DC    | 1,821      | 11.7%    |
 | Grand Total       | 1,370      | 1.3%     |
+{: alt="All jobs within 25 miles for the top 10 cities" }
 
 New York dropped quite a bit. San Francisco to some degree too. Seattle and Chicago had a great year and Washington, D.C. had modest growth.
 
@@ -86,6 +88,7 @@ I'm a little shocked New York dropped so much. Is the tech job market collapsing
 | Seattle, WA       | 464        | 18.8%    | 
 | Washington, DC    | 259        | 3.9%     | 
 | Grand Total       | -2,387     | -6.1%    | 
+{: alt="Java jobs within 25 miles of the top 10 cities" }
 
 The drops in New York and San Francisco are even more pronounced. Let's look at each of these a little more closely.
 
@@ -105,6 +108,7 @@ Instead of charts I'll just show the data.
 | python           | -544       | -13.3%   | 
 | scala            | -28        | -4.6%    | 
 | Grand Total      | -4,217     | -21.8%   | 
+{: alt="New York by keyword (25 miles)" }
 
 Big losses in C#, C++, Java, and Python. If you know machine learning and angular you're still OK.
 
@@ -122,6 +126,7 @@ Big losses in C#, C++, Java, and Python. If you know machine learning and angula
 | python           | -188       | -5.0%    |
 | scala            | 75         | 12.3%    |
 | Grand Total      | -1,040     | -7.4%    |
+{: alt="San Francisco by keyword (25 miles)" }
 
 Similar story as New York, but not as bad.
 
@@ -139,6 +144,7 @@ Similar story as New York, but not as bad.
 | python           | 413        | 36.5%    |  
 | scala            | 79         | 86.8%    |  
 | Grand Total      | 1,939      | 30.6%    |  
+{: alt="Chicago by keyword (25 miles)" }
 
 ### Seattle by keyword (25 miles)
 
@@ -154,6 +160,7 @@ Similar story as New York, but not as bad.
 | python           | 531        | 40.2%    |    
 | scala            | 89         | 61.8%    |    
 | Grand Total      | 2,083      | 24.8%    |    
+{: alt="Seattle by keyword (25 miles)" } 
 
 ### Conclusions?
 
@@ -201,6 +208,7 @@ Well, I still can. Here are the job postings within 25 miles of the top 15 citie
 | Seattle, WA       | 7,117              | 8,581            | 1,464  | 20.6%          |
 | Washington, DC    | 13,660             | 14,699           | 1,039  | 7.6%           |
 | Grand Total       | 110,365            | 106,816          | -3,549 | -3.2%          |
+{: alt="Count of C#, Java, C++, and Python jobs within 25 miles for the top 15 cities" } 
 
 And here's within 50 miles:
 
@@ -224,6 +232,7 @@ And here's within 50 miles:
 | Seattle, WA       | 7,257              | 8,752            | 1,495  | 20.6%          |
 | Washington, DC    | 16,529             | 17,548           | 1,019  | 6.2%           |
 | Grand Total       | 175,250            | 170,558          | -4,692 | -2.7%          |
+{: alt="Count of C#, Java, C++, and Python jobs within 50 miles for the top 15 cities" } 
 
 Cities very close to each other will tend to share the same number of jobs at 50 miles. For example San Francisco and San Jose are similar because they're so close. The same holds for Baltimore, Columbia, and Washington, D.C. D.C. was the winner for total number of jobs within 25 miles but Silicon Valley takes the lead within 50, however from this data it looks like Silicon Valley is shrinking while D.C. is growing. If the trend holds it won't be long before D.C. overtakes Silicon Valley even within 50 miles.
 
