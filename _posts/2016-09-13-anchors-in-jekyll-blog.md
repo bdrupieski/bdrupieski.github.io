@@ -136,3 +136,5 @@ This is the fully integrated script:
 	  });
   </script>
 ```
+
+Check out my full `\_layouts\post.html` [here in my GitHub repository for this blog](https://github.com/bdrupieski/bdrupieski.github.io/blob/master/_layouts/post.html).
