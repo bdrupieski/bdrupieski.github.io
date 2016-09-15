@@ -4,6 +4,8 @@ title:  "Finding Anagrams on Twitter"
 date:   2015-11-25
 permalink: finding-anagrams-on-twitter
 excerpt: Finding Anagrams on Twitter
+comments: true
+disqus_identifier: 20151125
 ---
 
 A while ago I stumbled across [anagramatron](https://twitter.com/anagramatron), a Twitter bot that finds anagrams from a sample of the Twitter firehose and retweets them. I read in the description of the project that anagrams are manually curated.

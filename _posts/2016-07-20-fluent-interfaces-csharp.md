@@ -4,6 +4,8 @@ title:  "Configurable polymorphic fluent interfaces in C#"
 date:   2016-07-20
 permalink: fluent-interfaces-csharp
 excerpt: Building configurable polymorphic fluent interfaces in C#
+comments: true
+disqus_identifier: 20160720
 ---
 
 I recently needed to write a C# wrapper for a quirky REST API. One of the quirks is that most methods take a parameter called "select" that is a comma-separated list of additional sub-parameters representing data you want to retrieve with the call. 

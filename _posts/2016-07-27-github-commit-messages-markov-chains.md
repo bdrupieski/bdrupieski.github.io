@@ -4,6 +4,8 @@ title:  "Generating commit messages using GitHub and Markov Chains"
 date:   2016-07-27
 permalink: github-commit-messages-markov-chains
 excerpt: Generating commit messages using GitHub and Markov Chains
+comments: true
+disqus_identifier: 20160727
 ---
 
 A few years ago I saw someone had shaped letters out of git commits to form their name on their GitHub profile contribution graph. I thought this was a really cool idea and so I set to do the same thing for myself to see how easy or hard it would be. There are many other projects that do the same thing but I wanted to do it myself. I ended up writing a very small C# app to do it using lib2git. Chances are at any point you can probably see my name written in commits somewhere on my GitHub profile contribution graph.

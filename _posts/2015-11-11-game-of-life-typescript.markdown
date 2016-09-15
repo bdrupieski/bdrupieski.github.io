@@ -4,6 +4,8 @@ title:  "Conway's Game of Life in TypeScript"
 date:   2015-11-11
 permalink: game-of-life-typescript
 excerpt: Implementing the Game of Life using the HTML5 Canvas API and obelisk.js
+comments: true
+disqus_identifier: 20151111
 ---
 
 For developer interviews at my current company we give candidates a programming test. We sit them down with a laptop and during the interview have them code up a solution to a very simple exercise involving some basic object-oriented concepts. A lot of people can't do it. This often makes us think we need to change our test or maybe have people complete it at home, then when they come in they can talk through their implementation with us.

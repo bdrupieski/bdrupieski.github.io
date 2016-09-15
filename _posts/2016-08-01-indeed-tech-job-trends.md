@@ -4,6 +4,8 @@ title:  "Indeed.com tech job trends from 7/2015 to 7/2016"
 date:   2016-08-01
 permalink: indeed-tech-job-trends
 excerpt: Indeed.com tech job trends from 7/2015 to 7/2016
+comments: true
+disqus_identifier: 20160801
 ---
 
 A few years ago out of curiosity I started recording counts of the number of jobs on indeed.com every week for specific tech keywords in specific metropolitan areas. The original motivation for doing this was to spot software development job trends relevant to my interests to try to gauge the relative popularity or popularity trends of specific technologies for cities across the U.S.
