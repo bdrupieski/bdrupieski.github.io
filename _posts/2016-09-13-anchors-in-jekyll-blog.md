@@ -12,7 +12,7 @@ In this post you can learn how to add clickable links to every header and paragr
 
 # Like this! ➠
 
-I recently wanted to link someone to a specific section of a blog post I had written. However, at the time I had no anchor elements to link to that specific section (which would act <a href='#'>like this underlined text</a> but maybe looks like a button or an icon). To fix this I could've manually added an anchor to link to the section I wanted, uploaded that one change, and used my single and very manually generated link to refer to that specific section of the blog post. However this could mean many manually generated links in the future which isn't a very clean solution. Is there some way I could automatically generate anchor elements to link to every header and paragraph in *all* of my blog posts? 
+I recently wanted to link someone to a specific section of a blog post I had written. However, at the time I had no anchor elements to link to that specific section (which would act <a href='#'>like this underlined text</a> but maybe looks like a button or an icon). To fix this I could've manually added an anchor to link to the section I wanted, uploaded that one change, and used my single and very manually generated link to refer to that specific section of the blog post. However, this could mean many manually generated links in the future which isn't a very clean solution. Is there some way I could automatically generate anchor elements to link to every header and paragraph in *all* of my blog posts? 
 
 This blog is currently a [Jekyll](https://jekyllrb.com/) site. Each post is written in [markdown](https://en.wikipedia.org/wiki/Markdown) and then converted to a static HTML page by Jekyll. Hooking into the markdown to HTML conversion process probably isn't practical, but generating links programmatically for every paragraph or header element using JavaScript is probably easy.
 
@@ -81,7 +81,7 @@ Here's an example of it in action:
 
 #### Tables
 
-I also wanted to generate anchors for tables. There's no standard meta-data for tables like there is with the alt property for images to extract and use for the id text. However I can still define the alt property myself if I want a customized id text to make the links look nicer other than an incremented number for the index of the table on the page. This snippet will pick up this alt property and set the table's id with it:
+I also wanted to generate anchors for tables. There's no standard meta-data for tables like there is with the alt property for images to extract and use for the id text. However, I can still define the alt property myself if I want a customized id text to make the links look nicer other than an incremented number for the index of the table on the page. This snippet will pick up this alt property and set the table's id with it:
 
 ```js
 // if a table has the "alt" property, use it to set the table's 
