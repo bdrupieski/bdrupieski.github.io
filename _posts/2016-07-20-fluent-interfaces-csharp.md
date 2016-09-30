@@ -174,11 +174,11 @@ This is relatively straightforward with a clear one-to-one mapping between eleme
 
 # Configurable polymorphic fluent interface
 
-Unfortunately the API I'm wrapping accepts different sub-parameters in the select parameter based on the call. If I wanted to use the above design, I would need to copy it and customize it for every single call I'm wrapping. Although this would be relatively simple since these methods are not complex, this presents an excessive surface area for maintenance and bugs. I'd like to be able to declare a builder type and control what components are available based on the declaration alone, without needing to provide any duplicate implementation. In other words, if multiple wrapped calls can accept the "data" sub-parameter in their select parameter, I'd like to write `SelectItems.Add("data"); return this;` only once for maximum reuse and so that I can use the types polymorphically.
+Unfortunately, the API I'm wrapping accepts different sub-parameters in the select parameter based on the call. If I wanted to use the above design, I would need to copy it and customize it for every single call I'm wrapping. Although this would be relatively simple since these methods are not complex, this presents an excessive surface area for maintenance and bugs. I'd like to be able to declare a builder type and control what components are available based on the declaration alone, without needing to provide any duplicate implementation. In other words, if multiple wrapped calls can accept the "data" sub-parameter in their select parameter, I'd like to write `SelectItems.Add("data"); return this;` only once for maximum reuse and so that I can use the types polymorphically.
 
-One way to achieve this might be to define a single huge builder class that defines all sub-parameters possible in the API I'm wrapping, and then inherit from that class to hide the sub-parameters that are not available for that API call. Unfortunately this is not possible because it is not possible to change access modifiers of base class methods from a sub-class. It is also not possible to hide them in this way with the C# `new` keyword on the method declaration.
+One way to achieve this might be to define a single huge builder class that defines all sub-parameters possible in the API I'm wrapping, and then inherit from that class to hide the sub-parameters that are not available for that API call. Unfortunately, this is not possible because it is not possible to change access modifiers of base class methods from a sub-class. It is also not possible to hide them in this way with the C# `new` keyword on the method declaration.
 
-However the same sentiment can be achieved using extension methods. Instead of defining a type that defines all of the possible parameters, an extension method can be defined for each parameter. If each extension method is defined as an extension off of an interface for that specific parameter, then it should be possible to simulate a type containing only the fluent interface signature I want by defining types that implement each interface corresponding to the parameters available for that call. In other words, my `ListEnrollmentsSelectBuilder` now has no implementation of its own. All of its implementation is defined either in extension methods or its base class, meeting my desire to only implement those methods once:
+However, the same sentiment can be achieved using extension methods. Instead of defining a type that defines all of the possible parameters, an extension method can be defined for each parameter. If each extension method is defined as an extension off of an interface for that specific parameter, then it should be possible to simulate a type containing only the fluent interface signature I want by defining types that implement each interface corresponding to the parameters available for that call. In other words, my `ListEnrollmentsSelectBuilder` now has no implementation of its own. All of its implementation is defined either in extension methods or its base class, meeting my desire to only implement those methods once:
 
 {% highlight csharp %}
 public class ListEnrollmentsSelectBuilder : SelectBuilder<ListEnrollmentsSelectBuilder>,
@@ -246,7 +246,7 @@ public class SelectBuilder<T> : SelectBuilder
 }
 {% endhighlight %}
 
-However in order to define extension methods on an interface per parameter, an empty marker interface must be defined for each parameter:
+However, in order to define extension methods on an interface per parameter, an empty marker interface must be defined for each parameter:
 
 {% highlight csharp %}
 public interface IWithData { }
@@ -382,7 +382,7 @@ With the first approach we can build a fluent interface easily, but cannot easil
 
 With the second approach we can solve the above problem by constructing a type that implements many individual interfaces, with extension methods only on the applicable interfaces. We can configure the fluent interface through type declaration alone by specifying in the type definition which interfaces that type implements.
 
-And what in the world do you call it? I have no idea. When trying to research how to accomplish this, my gut reaction was to call it a _polymorphic fluent interface_. However this isn't really the same as type polymorphism. I want to be able to _configure_ the type, which I suppose is in the same area as type polymorphism in my mind map. I'll go with configurable polymorphic fluent interface. If you have a better idea let me know.
+And what in the world do you call it? I have no idea. When trying to research how to accomplish this, my gut reaction was to call it a _polymorphic fluent interface_. However, this isn't really the same as type polymorphism. I want to be able to _configure_ the type, which I suppose is in the same area as type polymorphism in my mind map. I'll go with configurable polymorphic fluent interface. If you have a better idea let me know.
 
 # Code
 
