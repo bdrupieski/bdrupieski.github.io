@@ -16,19 +16,19 @@ I ran it somewhat sporadically since once I wrote the program to automate this t
 
 Now that July 2016 has ended a little over a year has passed so I thought I might take a look at it. I don't really care about applying rigorous statistical analysis to this data -- I really just want to plot it and see if anything obvious pops out.
 
-Adding all the jobs within a 25 mile radius for all cities and keywords searched results in a disappointing -0.3% loss for the past year, starting and ending with 174,251 and 173,710 jobs respectively. I would have thought there'd be at the very least a modest net gain for tech jobs for a whole year, however this may just be because of the specific keywords I chose -- they could be doing far worse than the rest of the market.
+Adding all the jobs within a 25-mile radius for all cities and keywords searched results in a disappointing -0.3% loss for the past year, starting and ending with 174,251 and 173,710 jobs respectively. I would have thought there'd be at the very least a modest net gain for tech jobs for a whole year, however this may just be because of the specific keywords I chose -- they could be doing far worse than the rest of the market.
 
 ![Sum of all jobs within 25 miles of all cities by date showing a pretty flat line](/assets/indeedtechjobtrends/all_jobs.png){: .center-this }
 
 This isn't accurate since some of the keywords overlap, resulting in counting the same job multiple times. Some of the cities I searched overlap within 25 miles of each other too. For example, many jobs between Washington D.C. and Baltimore would be counted twice here.
 
-Despite the above caveats it's interesting that there's a dip at the new year (175,822 on 1/4/2016) and a peak at the beginning of March (198,214 on 3/7/2016). I wonder if this is possibly because hiring slows around the holidays and then picks up the slack in the first quarter of the new year. However this may be noise, or variations due to employers posting on indeed at some times of the year and not others, or perhaps a cull of spam/duplicate postings around Christmas and a surge of them around the end of February, followed by another cull.
+Despite the above caveats it's interesting that there's a dip at the new year (175,822 on 1/4/2016) and a peak at the beginning of March (198,214 on 3/7/2016). I wonder if this is possibly because hiring slows around the holidays and then picks up the slack in the first quarter of the new year. However, this may be noise, variations due to employers posting on indeed at some times of the year and not others, or perhaps a cull of spam/duplicate postings around Christmas and a surge of them around the end of February followed by another cull.
 
 When breaking apart the above chart by keyword it seems the general trend of a dip at the end of the year and a peak by March holds.
 
 ![All jobs by keyword within 25 miles of all cities](/assets/indeedtechjobtrends/all_jobs_by_keyword.png){: .center-this }
 
-However the total number of jobs by keyword changed over the year:
+However, the total number of jobs by keyword changed over the year:
 
 | Keyword          | Postings ± | % change |
 |------------------|------------|----------|
@@ -166,19 +166,19 @@ Similar story as New York, but not as bad.
 
 ### Conclusions?
 
-If we could trust this data, what kind of conclusions could be tenatively draw?
+If we could trust this data, what kind of conclusions could we tentatively draw?
 
 - Tech job postings are pretty flat across the country as a whole.
 - Job postings trend down at the end of the year and spike in the first quarter.
 - New York and San Francisco might be going through a contraction.
 - The Chicago and Seattle tech job markets are growing.
-- Within a 25 mile radius Washington D.C. has more jobs for these keywords than San Jose, New York, or San Francisco. Weird.
+- Within a 25-mile radius Washington D.C. has more jobs for these keywords than San Jose, New York, or San Francisco. Weird.
 
-However we really can't trust this data. Any patterns and conclusions we think we might be able to draw could be completely spurious. It's fun to look at but to review, here are some problems with this data and why we shouldn't actually draw any conclusions from it at all:
+However, we really can't trust this data. Any patterns and conclusions we think we might be able to draw could be completely spurious. It's fun to look at but to review, here are some problems with this data and why we shouldn't actually draw any conclusions from it at all:
 
 - Jobs are counted multiple times. They're counted multiple times because of:
   - Similarity between keywords. For example, the same job could appear for "java", "scala", and "machine learning" if the posting contained all of those keywords.
-  - The geographical regions for some of the cities overlap. For example, even within a 25 mile radius some jobs will show up for all of Washington D.C., Baltimore, MD, and Columbia, MD.
+  - The geographical regions for some of the cities overlap. For example, even within a 25-mile radius some jobs will show up for all of Washington D.C., Baltimore, MD, and Columbia, MD.
 - This data is only from indeed.com. It may only represent changes in the postings for this particular site. For example, any change in any keyword for any city may simply be due to how companies and recruiters in that particular part of the industry were using recruiting tools at that particular time. It's possible that recruiters in New York as a whole tended to migrate away from indeed.com over the past year and relied more on other methods.
 - The counts I recorded are for job _postings_ and not _jobs_. I used a job posting as a proxy for a job every time I used the word job in this post. A single job can be posted multiple times and by multiple recruiters. Many jobs are also not posted to sites like indeed.com at all.
 
@@ -186,7 +186,7 @@ I am now quite sick of making charts and formatting tables in markdown. I'm very
 
 ### 8/4/2016 edit:
 
-After sharing this data with a few others I realized that my chart above using Java as a proxy of the health of the job market as a whole is pretty flawed and I can do a bit better with the data that I have. I used Java as a proxy for the market as a whole not only because of its popularity and magnitude of job postings but since most of my other keywords were combinations (e.g. "C#", "C# mvc", "C# mvc angular") that would result in a significant amount of overlap and bias the total results towards those keywords. However I should've probably also plotted C#, Java, C++, and Python together since there probably isn't much overlap between those keywords and it would result in less bias towards a single language.
+After sharing this data with a few others I realized that my chart above using Java as a proxy of the health of the job market as a whole is pretty flawed and I can do a bit better with the data that I have. I used Java as a proxy for the market as a whole not only because of its popularity and magnitude of job postings but since most of my other keywords were combinations (e.g. "C#", "C# mvc", "C# mvc angular") that would result in a significant amount of overlap and bias the total results towards those keywords. However, I should've probably also plotted C#, Java, C++, and Python together since there probably isn't much overlap between those keywords and it would result in less bias towards a single language.
 
 Well, I still can. Here are the job postings within 25 miles of the top 15 cities for C#, Java, C++, and Python:
 
@@ -236,7 +236,7 @@ And here's within 50 miles:
 | Grand Total       | 175,250            | 170,558          | -4,692 | -2.7%          |
 {: alt="Count of C#, Java, C++, and Python jobs within 50 miles for the top 15 cities" } 
 
-Cities very close to each other will tend to share the same number of jobs at 50 miles. For example San Francisco and San Jose are similar because they're so close. The same holds for Baltimore, Columbia, and Washington, D.C. D.C. was the winner for total number of jobs within 25 miles but Silicon Valley takes the lead within 50, however from this data it looks like Silicon Valley is shrinking while D.C. is growing. If the trend holds it won't be long before D.C. overtakes Silicon Valley even within 50 miles.
+Cities very close to each other will tend to share the same number of jobs at 50 miles. For example, San Francisco and San Jose are similar because they're so close. The same holds for Baltimore, Columbia, and Washington, D.C. D.C. was the winner for total number of jobs within 25 miles but Silicon Valley takes the lead within 50, however from this data it looks like Silicon Valley is shrinking while D.C. is growing. If the trend holds it won't be long before D.C. overtakes Silicon Valley even within 50 miles.
 
 #### Future work
 
