@@ -39,7 +39,7 @@ If tweets meet the above filters, I save the original tweet text, its lowercase 
 
 By storing the sorted text finding matches is very easy. For each incoming tweet from the stream, I can find if it matches any saved tweet by sorting the incoming tweet's alphanumeric text and querying all saved tweets' sorted alphanumeric text. If there are any matches, those tweets are anagrams. For example, "his one tomato" and "not a smoothie" when sorted are both "aehimnooostt". When I receive "his one tomato", I sort the text to get "aehimnooostt", and then query all my saved tweets for this sorted text to find the previously saved tweet "not a smoothie" that also has this sorted text.
 
-When sampling English tweets I receive about 15 to 20 a second depending on the time of day. After filtering, I end up storing about 2 tweets a second. After collecting tweets and matches for a few days, I saved 665,320 tweets and 81,913 matches. I didn't record the total number if incoming tweets, but if I captured 2 tweets for an average of 17.5 per second, then I received an estimated 5,821,550 total tweets. The H2 database is currently 260MB.
+When sampling English tweets I receive about 15 to 20 a second depending on the time of day. After filtering, I end up storing about 2 tweets a second. After collecting tweets and matches for a few days, I saved 665,320 tweets and 81,913 matches. I didn't record the total number of incoming tweets, but if I captured 2 tweets for an average of 17.5 per second, then I received an estimated 5,821,550 total tweets. The H2 database is currently 260MB.
 
 Many of the matched tweets are complete duplicates except for small changes in capitalization, punctuation, or extra non-alphanumeric characters such as emoji or emoticons that don't affect a tweet's eligibility to be an anagram. I can find these by searching for matches where the alphanumeric text for each tweet is exactly the same. For example:
 
@@ -82,7 +82,7 @@ I calculated the edit distance of the alphanumeric, or stripped, text for each m
 | 20            | If all the world's a stage, I want to operate the trap door. ― Paul Beatty | Paul Beatty~ If all the worlds a stage I want to operate the trap door. |
 | 20            | One last time // ariana grande 🎶                                          | Ariana Grande // One Last Time                                          |
 
-Disappointly, these are pretty similar -- the words are just rearranged. The edit distance *is* high, but only because it takes many edits to rearrange the words.
+Disappointingly, these are pretty similar -- the words are just rearranged. The edit distance *is* high, but only because it takes many edits to rearrange the words.
 
 Just taking the raw distance also introduces a bias towards long tweets. I need to normalize it against the length of the stripped alphanumeric text to try to eliminate this. Changing it to a ratio definitely ranks shorter tweets higher, but they're mostly still just the same words swapped around; here are some of the most highly ranked matches using the ratio of edit distance to the length of the string:
 
@@ -217,7 +217,7 @@ I should probably also exclude tweets with numbers. There don't seem to be any i
 
 I also need a better way of handling multiple matches for the same tweet. Currently, when querying for a matching tweet, I only match to the first one I find if it exists. For example, I might get "not a smoothie" and "hot as emotion" one day and pair them as a match. The next day I might receive "shoe at motion" which is a pretty interesting anagram to both of the previous two tweets. Currently, I would pair "shoe at motion" with the first tweet I find, which could be "not a smoothie". It wouldn't be paired with "hot as emotion", even though that would qualify as a match too -- and an interesting one at that. In other words, I currently don't handle very well the possibility for an interesting 3-way anagram. 
 
-If I create pairs for all interesting matches, I could possibly run into an explosion of matches for a given sorted alphanumeric string. For example, if I received five anagrammatic tweets it could result in up to 10 combinations of interesting matches. However since I'm using a relational database I can easily group by the anagram group's sorted alphanumeric text to detect these matches if I wanted to perform some action on them collectively. The probability of finding more than one interesting anagram match for a given sorted alphanumeric string in a reasonable timeframe seems low however.
+If I create pairs for all interesting matches, I could possibly run into an explosion of matches for a given sorted alphanumeric string. For example, if I received five anagrammatic tweets it could result in up to 10 combinations of interesting matches. However, since I'm using a relational database I can easily group by the anagram group's sorted alphanumeric text to detect these matches if I wanted to perform some action on them collectively. The probability of finding more than one interesting anagram match for a given sorted alphanumeric string in a reasonable timeframe seems low however.
 
 #### Change Database
 
