@@ -5,7 +5,7 @@ date:   2016-09-13
 permalink: generate-anchors-in-jekyll-blog-post
 excerpt: Generate anchors to link to every heading and paragraph in a Jekyll blog post
 comments: true
-disqus_identifier: 20160903
+disqus_identifier: 20160913
 ---
 
 In this post you can learn how to add clickable links to every header and paragraph in a Jekyll blog post!
