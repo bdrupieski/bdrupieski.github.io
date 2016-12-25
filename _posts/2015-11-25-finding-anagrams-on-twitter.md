@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Finding Anagrams on Twitter"
+title:  "Finding anagrams on Twitter"
 date:   2015-11-25
 permalink: finding-anagrams-on-twitter
 excerpt: Finding Anagrams on Twitter

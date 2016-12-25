@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "RavenDB - The Good, the Bad, and the Ugly"
+title:  "RavenDB - The good, the bad, and the ugly"
 date:   2015-11-18
 permalink: ravendb-the-good-the-bad-the-ugly
 excerpt: My summary of using RavenDB
