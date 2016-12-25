@@ -2,6 +2,8 @@
 <html>
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 
+  <script src="assets/global/jquery-3.1.0.min.js"></script>
+  
   {% include head.html %}
   
   <body>
@@ -19,5 +21,13 @@
 	{% include log_name_in_console.html %}
 
   </body>
+  
+  <script>
+    $('[data-format-number]').each(function(idx, el) { 
+        var $el = $(el); 
+        var numWords = Number($el.text()); 
+        $el.text(numWords.toLocaleString()); 
+    }); 
+  </script>
 
 </html>

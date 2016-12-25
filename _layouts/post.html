@@ -6,21 +6,14 @@ layout: default
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta">
-        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>.
-        <span data-format-number>{{ page.content | number_of_words }}</span> words.
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time> &#8212;
+        <span data-format-number>{{ page.content | number_of_words }}</span> words
         {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}
     </p>
   </header>
   
   <script src="assets/global/anchor.min.js"></script>
-  <script src="assets/global/jquery-3.1.0.min.js"></script>
   <script>
-  
-    $('[data-format-number]').each(function(idx, el) {
-        var $el = $(el);
-        var numWords = Number($el.text());
-        $el.text(numWords.toLocaleString());
-    });
       
     $(function() {
     
