@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Building Anagramatweest, a Twitter anagrammatist to retweet anagrams"
+title:  "Building Anagramatweest, a Twitter bot that finds and retweets anagrams"
 date:   2016-12-30
 permalink: building-twitter-bot-to-retweet-anagrams
 excerpt: Building a Twitter bot to retweet anagrams
