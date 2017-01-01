@@ -8,6 +8,12 @@ comments: true
 disqus_identifier: 20161230
 ---
 
+In this post, I share a small Node.js app I wrote to retweet anagrams to [@anagrammatweest](https://twitter.com/anagrammatweest). Each pair of tweets is an anagram. 
+
+They're also [posted to Tumblr](http://anagrammatweest.tumblr.com/).
+
+# Background
+
 A little over a year ago, I wrote a small app in Scala to find anagrams in the Twitter firehose. That code is [here](https://github.com/bdrupieski/FindTwitterAnagrams), and I wrote a blog post about the process of finding a way to score anagram matches [here](http://blog.briandrupieski.com/finding-anagrams-on-twitter). This was inspired by an existing twitter bot, [anagramatron](https://twitter.com/anagramatron), that finds and retweets anagrams. I did this because I thought finding a good metric for scoring how interesting an anagram is (in other words, how likely you'd want to retweet it or share it with others) is an interesting problem, so I wanted to try it myself.
 
 I had been running this app searching the firehose for anagrams on my personal computer for a few months and started to build a sizable database of tweets and anagrams. Some of my high-scoring anagrams were pretty funny, witty, poetic, or interesting, and that made me want to try to build my own bot like anagramatron so I could retweet the anagrams I was finding.
