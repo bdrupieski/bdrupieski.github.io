@@ -12,6 +12,8 @@ In this post, I share a small Node.js app I wrote to retweet anagrams to [@anagr
 
 They're also [posted to Tumblr](http://anagrammatweest.tumblr.com/).
 
+Note: I edited this post on 8/5/2017 to update screenshots to reflect cosmetic changes to the app since I first wrote this post. They're immaterial except when noted explicitly.
+
 # Background
 
 A little over a year ago, I wrote a small app in Scala to find anagrams in the Twitter firehose. That code is [here](https://github.com/bdrupieski/FindTwitterAnagrams), and I wrote a blog post about the process of finding a way to score anagram matches [here](http://blog.briandrupieski.com/finding-anagrams-on-twitter). This was inspired by an existing twitter bot, [anagramatron](https://twitter.com/anagramatron), that finds and retweets anagrams. I did this because I thought finding a good metric for scoring how interesting an anagram is (in other words, how likely you'd want to retweet it or share it with others) is an interesting problem, so I wanted to try it myself.
@@ -34,17 +36,25 @@ After trying out some Node.js and Express tutorials I realized it was so easy to
 
 One of the downsides to building this is that since I'm the only one currently using it I can't really show it off on the internet, other than through a post like this and screenshots.
 
-I review the anagrams using an infinite list with buttons for actions to take for that anagram. The red X rejects, and I can either immediately approve each anagram or enqueue it to be retweeted and posted to Tumblr later. The arrows indicate in which order the tweets should be posted.
+I review the anagrams in a table sorted by a combination of score and time, with buttons for actions to take for that anagram. The red X rejects, and I can either immediately approve each anagram or enqueue it to be retweeted and posted to Tumblr later. The arrows indicate in which order the tweets should be posted.
 
 ![anagram list](/assets/buildingtwitterbottofindanagrams/anagram_list.png){: .center-this }
 
 There are similar lists to unretweet and unreject matches that have been previously approved or rejected.
 
-I use the `node-schedule` module to retweet anagrams on a schedule to space them out so that my retweets don't overwhelm my followers' feeds.
+I use the `node-schedule` module to retweet anagrams on a schedule to space them out so that my retweets don't overwhelm followers' feeds. Here's what that queue looks like, where I can also see if a queued match contains a tweet that I've already retweeted:
+
+![anagram list](/assets/buildingtwitterbottofindanagrams/match_queue.png){: .center-this }
+
+You can't retweet a tweet twice, so if a match contains a tweet I've already retweeted, then I can't retweet that match again; I can only post it to tumblr. If I retweeted the other match long enough ago, I'll often unretweet it so that the queued match can be successfully retweeted.
+
+In the above screenshot, I've enqueued two matches that both have the tweet "I love you, Ed Sheeran.". That one tweet matched with two other tweets, "Leon (video): Yeah, sure." and "LEON (video): Yeah, sure.". Match 185906 contains "I love you, Ed Sheeran." or "LEON (video): Yeah, sure.". I know it contains "LEON (video): Yeah, sure." since the previously queued match isn't marked in the same way, which has "I love you, Ed Sheeran.". Once 195586 is retweeted, both of the tweets in 195585 will have been retweeted, so it doesn't make sense to unretweet the tweets in 185906.
 
 The breakdown of the interesting factor score can be viewed in a modal pop-up by clicking on the score in the list:
 
 ![score pop-up](/assets/buildingtwitterbottofindanagrams/score_pop_up.png){: .center-this }
+
+In the above screenshot the date of the match's creation is 8/5/2017 even though this post is dated 12/30/2016. I updated some of the screenshots on 8/5/2017 to reflect changes I made shortly after 12/30/2016. However, this screenshot in particular reveals changes I've made to the scoring system after 12/30/2016. I describe the scoring system a little later in this post as of 12/30/2016, but since it would require extensive editing to update that section I've left that alone. If I write a new blog post on this topic I'll describe the changes there. It's already weird enough editing an old post months later, but it was bugging me that some of the screenshots I had in here no longer reflect what the UI looks like.
 
 For fun I also have a page to show all the current N-way anagrams, where there are more than two tweets that form an anagram. This tends to happen quite a bit with variants on common phrases like "good morning" or "happy new year". For example, I have six tweets for the stripped sorted text "aabdhiimrsttyyyyyyy":
 
