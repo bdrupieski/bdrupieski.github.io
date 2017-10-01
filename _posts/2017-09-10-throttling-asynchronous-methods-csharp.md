@@ -73,6 +73,10 @@ It generates N partitions where N is the maximum number of asynchronous methods 
 
 This is better than using `Parallel.ForEach`, but unless each `Task` takes the same amount of time to complete, then the given `degreeOfParallelism` value won't always represent the degree of throttling. Going back to our example, imagine we have 10 partitions each with 1,000 URIs. Let's say processing the URIs in the first nine partitions is very fast. Maybe the server returns a response quickly for those URIs, and the response size is small so we download it and process it quickly. Suppose the last partition processes very slowly, maybe because of slow response times and large responses. Specifically, let's say the first nine partitions take 50,000 ms each and processing the last partition takes 100,000 ms. For the first 50,000 ms, we'll be chewing through all partitions, processing 10 URIs at any given time. However, once the first 9 partitions finish at 50,000 ms, we'll spend the next 50,000 ms processing URIs one at a time in the last partition, making the given `degreeOfParallelism` of 10 effectively 1 for half of the execution time! This is inefficient if we can support the full `degreeOfParallelism` at all times.
 
+Here's a diagram to visualize the first 9 partitions completing quickly, the 10th partition taking a long time, and how this affects the degree of parallelism:
+
+![totals and percentages by score](/assets/csharpthrottlingasynchronousmethods/uneven_partitions_concurrency.png){: .center-this }
+
 After poking around online I've since found this approach is described in [one of Stephen Toub's blog posts](https://blogs.msdn.microsoft.com/pfxteam/2012/03/05/implementing-a-simple-foreachasync-part-2/).
 
 ## SemaphoreSlim
