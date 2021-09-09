@@ -8,7 +8,7 @@ excerpt: Copy DataGrip output and paste it into Slack
 
 Have you ever wanted to copy output from DataGrip... 
 
-![DataGrip output table](/assets/copydatagripoutput/datagrip_ouput.png){: .center-this }
+![DataGrip output table](/assets/copydatagripoutput/datagrip_output.png){: .center-this }
 
 ...and paste it as a fixed-width table, like this?
 
