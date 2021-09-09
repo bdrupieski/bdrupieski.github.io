@@ -31,8 +31,8 @@ Put `anchor.min.js` and `jquery-3.1.0.min.js` in `\assets\global` in your Jekyll
 Below the header element in `\_layouts\post.html` reference the two files you just added:
 
 ```html
-<script src="assets/global/anchor.min.js"></script>
-<script src="assets/global/jquery-3.1.0.min.js"></script>
+<script src="/assets/global/anchor.min.js"></script>
+<script src="/assets/global/jquery-3.1.0.min.js"></script>
 ```
 
 Now below that, specify a script section and add the following snippet:
