@@ -10,7 +10,7 @@ disqus_identifier: 20160801
 
 A few years ago out of curiosity I started recording counts of the number of jobs on indeed.com every week for specific tech keywords in specific metropolitan areas. The original motivation for doing this was to spot software development job trends relevant to my interests to try to gauge the relative popularity or popularity trends of specific technologies for cities across the U.S.
 
-After a few weeks of manually recording these numbers in a spreadsheet I realized I could write a program to do this a lot faster and for more keywords and more cities. I wrote a small C# program to loop over a few keywords and a whole bunch of cities. [Here](/assets/indeedtechjobtrends/cities.txt) are the cities and [here](/assets/indeedtechjobtrends/keywords.txt) are the keywords I used. I ran searches for both 25 and 50 mile distances within the selected city.
+After a few weeks of manually recording these numbers in a spreadsheet I realized I could write a program to do this a lot faster and for more keywords and more cities. I wrote a small C# program to loop over a few keywords and a whole bunch of cities. [Here](/assets/2016-08-01-indeed-tech-job-trends/cities.txt) are the cities and [here](/assets/2016-08-01-indeed-tech-job-trends/keywords.txt) are the keywords I used. I ran searches for both 25 and 50 mile distances within the selected city.
 
 I ran it somewhat sporadically since once I wrote the program to automate this task I, of course, lost interest in the data or the prospect of eventually doing anything with it. When cleaning up some files I accidentally deleted a few months of recorded data (oops), however in July 2015 I set up a scheduled task to run it consistently every week so that given time I might have enough accumulated data to eventually play with it.
 
@@ -18,7 +18,7 @@ Now that July 2016 has ended a little over a year has passed so I thought I migh
 
 Adding all the jobs within a 25-mile radius for all cities and keywords searched results in a disappointing -0.3% loss for the past year, starting and ending with 174,251 and 173,710 jobs respectively. I would have thought there'd be at the very least a modest net gain for tech jobs for a whole year, however this may just be because of the specific keywords I chose -- they could be doing far worse than the rest of the market.
 
-![Sum of all jobs within 25 miles of all cities by date showing a pretty flat line](/assets/indeedtechjobtrends/all_jobs.png){: .center-this }
+![Sum of all jobs within 25 miles of all cities by date showing a pretty flat line](/assets/2016-08-01-indeed-tech-job-trends/all_jobs.png){: .center-this }
 
 This isn't accurate since some of the keywords overlap, resulting in counting the same job multiple times. Some of the cities I searched overlap within 25 miles of each other too. For example, many jobs between Washington D.C. and Baltimore would be counted twice here.
 
@@ -26,7 +26,7 @@ Despite the above caveats it's interesting that there's a dip at the new year (1
 
 When breaking apart the above chart by keyword it seems the general trend of a dip at the end of the year and a peak by March holds.
 
-![All jobs by keyword within 25 miles of all cities](/assets/indeedtechjobtrends/all_jobs_by_keyword.png){: .center-this }
+![All jobs by keyword within 25 miles of all cities](/assets/2016-08-01-indeed-tech-job-trends/all_jobs_by_keyword.png){: .center-this }
 
 However, the total number of jobs by keyword changed over the year:
 
@@ -48,11 +48,11 @@ Across all cities these keywords have some variation between them. However, what
 
 I initially started this with simply way, way too many cities. My thinking at the time was that maybe some specific keyword was _really_ popular in some smaller city. This doesn't happen. The top 10-15 or so cities dominate for every keyword I searched for. To give you an idea of the distribution visually here's a chart of all jobs within 25 miles by city. Each line represents the number of jobs for each city I searched throughout the year. I excluded the legend because it's just simply too many cities.
 
-![All jobs by each city](/assets/indeedtechjobtrends/all_jobs_by_city.png){: .center-this }
+![All jobs by each city](/assets/2016-08-01-indeed-tech-job-trends/all_jobs_by_city.png){: .center-this }
 
 This becomes a little more readable when limited to only the top 10 cities.
 
-![All jobs within 25 miles for the top 10 cities](/assets/indeedtechjobtrends/top_10_cities_total_jobs.png){: .center-this }
+![All jobs within 25 miles for the top 10 cities](/assets/2016-08-01-indeed-tech-job-trends/top_10_cities_total_jobs.png){: .center-this }
 
 From the chart we can see New York has lost a lot of postings over the past year. San Francisco seems to have dropped too. Here are the numbers:
 
@@ -75,7 +75,7 @@ New York dropped quite a bit. San Francisco to some degree too. Seattle and Chic
 
 I'm a little shocked New York dropped so much. Is the tech job market collapsing there? As I mentioned earlier there are problems with this data, like the overlap between the keywords I'm using. To try to eliminate this, let's look at each city only looking at the number of Java job postings.
 
-![Java jobs within 25 miles of the top 10 cities](/assets/indeedtechjobtrends/java_jobs_top_10_cities.png){: .center-this }
+![Java jobs within 25 miles of the top 10 cities](/assets/2016-08-01-indeed-tech-job-trends/java_jobs_top_10_cities.png){: .center-this }
 
 | City              | Postings ± | % change |
 |-------------------|------------|----------|
@@ -182,7 +182,7 @@ However, we really can't trust this data. Any patterns and conclusions we think 
 - This data is only from indeed.com. It may only represent changes in the postings for this particular site. For example, any change in any keyword for any city may simply be due to how companies and recruiters in that particular part of the industry were using recruiting tools at that particular time. It's possible that recruiters in New York as a whole tended to migrate away from indeed.com over the past year and relied more on other methods.
 - The counts I recorded are for job _postings_ and not _jobs_. I used a job posting as a proxy for a job every time I used the word job in this post. A single job can be posted multiple times and by multiple recruiters. Many jobs are also not posted to sites like indeed.com at all.
 
-I am now quite sick of making charts and formatting tables in markdown. I'm very tired of thinking about where tech jobs are. The most important job is the one you have. If you'd like to play around with this data [here is the file I used](/assets/indeedtechjobtrends/results.csv) to prepare this post. The code used to generate that file is [here](https://github.com/bdrupieski/IndeedKeywordTrends).
+I am now quite sick of making charts and formatting tables in markdown. I'm very tired of thinking about where tech jobs are. The most important job is the one you have. If you'd like to play around with this data [here is the file I used](/assets/2016-08-01-indeed-tech-job-trends/results.csv) to prepare this post. The code used to generate that file is [here](https://github.com/bdrupieski/IndeedKeywordTrends).
 
 ### 8/4/2016 edit:
 
@@ -190,7 +190,7 @@ After sharing this data with a few others I realized that my chart above using J
 
 Well, I still can. Here are the job postings within 25 miles of the top 15 cities for C#, Java, C++, and Python:
 
-![Count of C#, Java, C++, and Python jobs within 25 miles for the top 15 cities](/assets/indeedtechjobtrends/4_langs_top_15_cities_25_miles.png){: .center-this }
+![Count of C#, Java, C++, and Python jobs within 25 miles for the top 15 cities](/assets/2016-08-01-indeed-tech-job-trends/4_langs_top_15_cities_25_miles.png){: .center-this }
 
 | City              | Jobs Start of Year | Jobs End of Year | Change | Percent Change |
 |-------------------|--------------------|------------------|--------|----------------|
@@ -214,7 +214,7 @@ Well, I still can. Here are the job postings within 25 miles of the top 15 citie
 
 And here's within 50 miles:
 
-![Count of C#, Java, C++, and Python jobs within 50 miles for the top 15 cities](/assets/indeedtechjobtrends/4_langs_top_15_cities_50_miles.png){: .center-this }
+![Count of C#, Java, C++, and Python jobs within 50 miles for the top 15 cities](/assets/2016-08-01-indeed-tech-job-trends/4_langs_top_15_cities_50_miles.png){: .center-this }
 
 | City              | Jobs Start of Year | Jobs End of Year | Change | Percent Change |
 |-------------------|--------------------|------------------|--------|----------------|

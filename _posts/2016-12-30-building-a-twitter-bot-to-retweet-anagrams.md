@@ -38,13 +38,13 @@ One of the downsides to building this is that since I'm the only one currently u
 
 I review the anagrams in a table sorted by a combination of score and time, with buttons for actions to take for that anagram. The red X rejects, and I can either immediately approve each anagram or enqueue it to be retweeted and posted to Tumblr later. The arrows indicate in which order the tweets should be posted.
 
-![anagram list](/assets/buildingtwitterbottofindanagrams/anagram_list.png){: .center-this }
+![anagram list](/assets/2016-12-30-building-a-twitter-bot-to-retweet-anagrams/anagram_list.png){: .center-this }
 
 There are similar lists to unretweet and unreject matches that have been previously approved or rejected.
 
 I use the `node-schedule` module to retweet anagrams on a schedule to space them out so that my retweets don't overwhelm followers' feeds. Here's what that queue looks like, where I can also see if a queued match contains a tweet that I've already retweeted:
 
-![anagram list](/assets/buildingtwitterbottofindanagrams/match_queue.png){: .center-this }
+![anagram list](/assets/2016-12-30-building-a-twitter-bot-to-retweet-anagrams/match_queue.png){: .center-this }
 
 You can't retweet a tweet twice, so if a match contains a tweet I've already retweeted, then I can't retweet that match again; I can only post it to tumblr. If I retweeted the other match long enough ago, I'll often unretweet it so that the queued match can be successfully retweeted.
 
@@ -52,7 +52,7 @@ In the above screenshot, I've enqueued two matches that both have the tweet "I l
 
 The breakdown of the interesting factor score can be viewed in a modal pop-up by clicking on the score in the list:
 
-![score pop-up](/assets/buildingtwitterbottofindanagrams/score_pop_up.png){: .center-this }
+![score pop-up](/assets/2016-12-30-building-a-twitter-bot-to-retweet-anagrams/score_pop_up.png){: .center-this }
 
 In the above screenshot the date of the match's creation is 8/5/2017 even though this post is dated 12/30/2016. I updated some of the screenshots on 8/5/2017 to reflect changes I made shortly after 12/30/2016. However, this screenshot in particular reveals changes I've made to the scoring system after 12/30/2016. I describe the scoring system a little later in this post as of 12/30/2016, but since it would require extensive editing to update that section I've left that alone. If I write a new blog post on this topic I'll describe the changes there. It's already weird enough editing an old post months later, but it was bugging me that some of the screenshots I had in here no longer reflect what the UI looks like.
 
@@ -73,7 +73,7 @@ I also built out a pretty extensive statistics page to get insight into the anag
 
 The following chart shows the number of retweets and tumblr posts I've made in the past few days, and the average interesting factor of the retweets and tumblr posts for that day.
 
-![score pop-up](/assets/buildingtwitterbottofindanagrams/retweets_and_tumblr_posts_past_n_days.png){: .center-this }
+![score pop-up](/assets/2016-12-30-building-a-twitter-bot-to-retweet-anagrams/retweets_and_tumblr_posts_past_n_days.png){: .center-this }
 
 The number of retweets and tumblr posts can differ since some anagrams contain tweets that I've already retweeted as part of other anagrams. Since you can't retweet the same tweet twice, I skip retweeting that anagram and post it only to Tumblr.
 
@@ -81,39 +81,39 @@ All of these charts are built using nvd3.js.
 
 The following chart shows the percentage of unreviewed and retweeted anagrams for all anagram matches created on that day. I can see for the past two days I haven't been reviewing any tweets and have a backlog to get to. I approved or rejected everything before that for the month of December. The retweeted percentage can start to give you an idea of how few anagrams I approve.
 
-![retweeted and unreviewed percentages for day match is created](/assets/buildingtwitterbottofindanagrams/retweeted_and_unreviewed_for_day_match_created.png){: .center-this }
+![retweeted and unreviewed percentages for day match is created](/assets/2016-12-30-building-a-twitter-bot-to-retweet-anagrams/retweeted_and_unreviewed_for_day_match_created.png){: .center-this }
 
 The following chart shows the raw numbers for actions taken for each day. It's easier to look at as a stacked bar chart, but unfortunately the stacks are totals so the total height of the bar is meaningless and slightly misleading.
 
-![bar chart showing counts for date match created](/assets/buildingtwitterbottofindanagrams/bar_chart_counts_by_date_match_created.png){: .center-this }
+![bar chart showing counts for date match created](/assets/2016-12-30-building-a-twitter-bot-to-retweet-anagrams/bar_chart_counts_by_date_match_created.png){: .center-this }
 
 Failed attempted approvals are when I try to retweet an anagram, but one or both of the tweets no longer exists. This can happen if someone tweets, I see it in the firehose, but then before I have a chance to retweet it, the user deletes the tweet or takes their account private. This phenomenon led me to build a scheduled job that every minute makes calls to Twitter to check for the continued existence of tweets in my database. 
 
 The following chart shows just how often this happens:
 
-![chart showing percent approval failure](/assets/buildingtwitterbottofindanagrams/percent_approval_failure.png){: .center-this }
+![chart showing percent approval failure](/assets/2016-12-30-building-a-twitter-bot-to-retweet-anagrams/percent_approval_failure.png){: .center-this }
 
 The following charts shows the average interesting factor for actions taken for anagrams created on a given day:
 
-![chart showing average interesting factor by date match created](/assets/buildingtwitterbottofindanagrams/interesting_factor_by_date_match_created.png){: .center-this }
+![chart showing average interesting factor by date match created](/assets/2016-12-30-building-a-twitter-bot-to-retweet-anagrams/interesting_factor_by_date_match_created.png){: .center-this }
 
 The attempted approval drops on 12/29 since I only tried to approve one or two low scoring anagrams that day, leading to a skewed average. On average, the anagrams I attempt to approve score higher than all anagrams, and the rejected anagrams tend to score slightly below the average for all created anagrams.
 
 The following chart shows the percentage of anagrams for each interesting factor score that I have retweeted or have left to review. I still have quite a few legacy matches between 0.40 and 0.60 from before I increased my threshold to 0.60. They're likely all terrible. As the interesting factor increases, I tend to approve a greater percentage of the anagrams at that score bucket.
 
-![chart percent retweeted and unreviewed](/assets/buildingtwitterbottofindanagrams/percent_retweeted_and_unreviewed.png){: .center-this }
+![chart percent retweeted and unreviewed](/assets/2016-12-30-building-a-twitter-bot-to-retweet-anagrams/percent_retweeted_and_unreviewed.png){: .center-this }
 
 The following chart shows the raw numbers for the above chart. Auto-rejected anagrams are anagrams I attempted to approve but because one of them no longer exists or is visible, it's marked as rejected.
 
-![chart showing totals by interesting factor bucket](/assets/buildingtwitterbottofindanagrams/totals_by_interesting_factor_bucket.png){: .center-this }
+![chart showing totals by interesting factor bucket](/assets/2016-12-30-building-a-twitter-bot-to-retweet-anagrams/totals_by_interesting_factor_bucket.png){: .center-this }
 
 When grouping anagrams by the time of day they're created I can see I tend to find more anagrams late at night. One reason for this could be that people tend to tweet more at night, however this data can't really be trusted since I haven't been running the anagram finder consistently or for the full day on days I've been running it.
 
-![totals by time of day](/assets/buildingtwitterbottofindanagrams/totals_by_time_of_day.png){: .center-this }
+![totals by time of day](/assets/2016-12-30-building-a-twitter-bot-to-retweet-anagrams/totals_by_time_of_day.png){: .center-this }
 
 The following chart shows the average interesting factor for matches created at different times of day. This was fun to explore, but the conclusion is that the time of day doesn't seem to affect the scores of matches I approve or reject.
 
-![interesting factor by time of day](/assets/buildingtwitterbottofindanagrams/interesting_factor_by_time_of_day.png){: .center-this }
+![interesting factor by time of day](/assets/2016-12-30-building-a-twitter-bot-to-retweet-anagrams/interesting_factor_by_time_of_day.png){: .center-this }
 
 #### Nodemon 
 
@@ -157,7 +157,7 @@ The average longest common substring ratio also seems to be much higher than the
 
 There's more detail when looking at the averages for each interesting factor score bucket, where each bucket is the interesting factor truncated to the nearest hundredth (e.g. 0.83 where 0.83 <= interesting factor < 0.84).
 
-![average score surplus for approved matches by interesting factor bucket](/assets/buildingtwitterbottofindanagrams/average_score_surplus_for_approved_matches_by_interesting_factor_bucket.png){: .center-this }
+![average score surplus for approved matches by interesting factor bucket](/assets/2016-12-30-building-a-twitter-bot-to-retweet-anagrams/average_score_surplus_for_approved_matches_by_interesting_factor_bucket.png){: .center-this }
 
 For high scoring anagrams above 0.83 it looks like none of the three measures has an outsized contribution. Between 0.73 and 0.83 it looks like the longest common substring ratio and edit distance ratio tend to contribute more than the word count ratio, and below 0.73 the longest common substring ratio is much higher than the other two. However, this data is pretty noisy since as the scores decrease there are fewer and fewer approved anagrams relative to the number of rejected anagrams.
 
@@ -198,7 +198,7 @@ Each anagram I retweet is posted to Tumblr [here](http://anagrammatweest.tumblr.
 
 I haven't been running the anagram finder consistently since I started doing this in 11/2015, and I've tweaked the score threshold to limit the number of anagrams I create a few times. The following chart can give you an idea of how many anagrams I've found over time since I started searching for them:
 
-![chart showing created tweets since start](/assets/buildingtwitterbottofindanagrams/distribution_of_created_matches_since_start.png
+![chart showing created tweets since start](/assets/2016-12-30-building-a-twitter-bot-to-retweet-anagrams/distribution_of_created_matches_since_start.png
 ){: .center-this }
 
 I didn't bother running this over the summer and only picked up interest in it again in the fall.

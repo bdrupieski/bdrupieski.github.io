@@ -10,7 +10,7 @@ disqus_identifier: 20160727
 
 A few years ago I saw someone had shaped letters out of git commits to form their name on their GitHub profile contribution graph. I thought this was a really cool idea and so I set to do the same thing for myself to see how easy or hard it would be. There are many other projects that do the same thing but I wanted to do it myself. I ended up writing a very small C# app to do it using lib2git. Chances are at any point you can probably see my name written in commits somewhere on my GitHub profile contribution graph.
 
-![screenshot of portion of github contribution graph with the name 'brian' spelled out in commit messages](/assets/githubcommitmessages/github_graph.png){: .center-this }
+![screenshot of portion of github contribution graph with the name 'brian' spelled out in commit messages](/assets/2016-07-27-github-commit-messages-markov-chains/github_graph.png){: .center-this }
 
 However for a long time my fake commits had a very boring commit message: a single period. I thought, wouldn't it be cool to generate realistic commit messages, maybe from a markov chain generator seeded with real commit messages scraped from GitHub?
 
@@ -60,11 +60,11 @@ I generated 5,000 likely messages from the C# model and then sampled within thos
 
 Here are 1,000 likely messages generated from the model for each language:
 
-- [Python](/assets/githubcommitmessages/python.txt)
-- [JavaScript](/assets/githubcommitmessages/javascript.txt)
-- [Java](/assets/githubcommitmessages/java.txt)
-- [C#](/assets/githubcommitmessages/csharp.txt)
-- [Scala](/assets/githubcommitmessages/scala.txt)
-- [Ruby](/assets/githubcommitmessages/ruby.txt)
-- [ObjectiveC](/assets/githubcommitmessages/objectivec.txt)
-- [PHP](/assets/githubcommitmessages/php.txt)
+- [Python](/assets/2016-07-27-github-commit-messages-markov-chains/python.txt)
+- [JavaScript](/assets/2016-07-27-github-commit-messages-markov-chains/javascript.txt)
+- [Java](/assets/2016-07-27-github-commit-messages-markov-chains/java.txt)
+- [C#](/assets/2016-07-27-github-commit-messages-markov-chains/csharp.txt)
+- [Scala](/assets/2016-07-27-github-commit-messages-markov-chains/scala.txt)
+- [Ruby](/assets/2016-07-27-github-commit-messages-markov-chains/ruby.txt)
+- [ObjectiveC](/assets/2016-07-27-github-commit-messages-markov-chains/objectivec.txt)
+- [PHP](/assets/2016-07-27-github-commit-messages-markov-chains/php.txt)

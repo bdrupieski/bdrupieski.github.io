@@ -77,7 +77,7 @@ $(".post-content > p > img").each(function(idx, el) {
 
 Here's an example of it in action:
 
-![picture of purple mountains](/assets/anchorsinjekyllblogpost/purplemountains.jpg){: .center-this }
+![picture of purple mountains](/assets/2016-09-13-anchors-in-jekyll-blog/purplemountains.jpg){: .center-this }
 
 #### Tables
 

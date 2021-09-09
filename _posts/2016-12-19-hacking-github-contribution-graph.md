@@ -10,7 +10,7 @@ disqus_identifier: 20161219
 
 Jerry Seinfeld, the comedian, has said the way to become a better comic is to write better jokes. To write better jokes, he said, write jokes every day. One technique he used to pressure himself to write jokes every day was to put on the wall a calendar with the entire year on it. For each day that he wrote jokes, he would mark that day with a big red X.
 
-![calendar with red x on each day](/assets/hackingcontributiongraph/calendar.jpg){: .center-this }
+![calendar with red x on each day](/assets/2016-12-19-hacking-github-contribution-graph/calendar.jpg){: .center-this }
 
 >After a few days you'll have a chain. Just keep at it and the chain will grow longer every day. You'll like seeing that chain, especially when you get a few weeks under your belt. Your only job next is to not break the chain.
 >
@@ -20,7 +20,7 @@ Jerry Seinfeld, the comedian, has said the way to become a better comic is to wr
 
 Software developers can adopt this advice to become better developers by writing better code. Instead of writing jokes every day, they can write and commit code every day. GitHub's contribution graph provides a great way to link commit dates with a yearly calendar, showing a green square instead of a red X for every day there's at least one commit. 
 
-![GitHub contribution graph with lots of commits](/assets/hackingcontributiongraph/contributions_650.png){: .center-this }
+![GitHub contribution graph with lots of commits](/assets/2016-12-19-hacking-github-contribution-graph/contributions_650.png){: .center-this }
 
 Striving to commit every day to keep the chain going is a great way to build the habit of constant personal improvement and community contribution by learning and building every day. After all, your git commit history can't lie, right? If your GitHub contribution graph is full of green squares, doesn't it show to yourself and everyone else that you didn't break the chain?
 
@@ -41,7 +41,7 @@ This seems easily automatable. We should be able to misrepresent ourselves more 
 
 I tinkered with this idea and built a small Windows desktop app that given a path to a valid git repository will give you a list of the last 100 commits for each branch. For each commit, you can edit its commit and author date using the date picker next to each commit. When you push the rebase button at the top it will run an interactive rebase to change the commits to use your supplied dates.
 
-![screenshot of windows forms desktop application showing a list of commits with a date picker next to each one](/assets/hackingcontributiongraph/GitCommitDateFaker.png){: .center-this }
+![screenshot of windows forms desktop application showing a list of commits with a date picker next to each one](/assets/2016-12-19-hacking-github-contribution-graph/GitCommitDateFaker.png){: .center-this }
 
 The code for this project is [here](https://github.com/bdrupieski/GitCommitDateFaker).
 

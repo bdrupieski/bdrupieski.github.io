@@ -75,7 +75,7 @@ This is better than using `Parallel.ForEach`, but unless each `Task` takes the s
 
 Here's a diagram to visualize the first 9 partitions completing quickly, the 10th partition taking a long time, and how this affects the degree of parallelism:
 
-![totals and percentages by score](/assets/csharpthrottlingasynchronousmethods/uneven_partitions_concurrency.png){: .center-this }
+![totals and percentages by score](/assets/2017-09-10-throttling-asynchronous-methods-csharp/uneven_partitions_concurrency.png){: .center-this }
 
 After poking around online I've since found this approach is described in [one of Stephen Toub's blog posts](https://blogs.msdn.microsoft.com/pfxteam/2012/03/05/implementing-a-simple-foreachasync-part-2/).
 

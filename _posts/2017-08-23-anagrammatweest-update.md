@@ -18,7 +18,7 @@ For a while I thought that after reviewing enough anagrams, eventually I would b
 
 I went to a local Python meetup where I know there are regulars who are more experienced with machine learning than I am. I showed them my existing scoring methodology and they agreed that I had enough data to begin to tinker, but that I seriously needed to focus on engineering more features. They said this after I showed them a chart that basically looked like this:
 
-![percent retweeted and unreviewed by interesting factor bucket](/assets/anagrammatweestupdate/percent_retweeted_and_unreviewed.png){: .center-this }
+![percent retweeted and unreviewed by interesting factor bucket](/assets/2017-08-23-anagrammatweest-update/percent_retweeted_and_unreviewed.png){: .center-this }
 
 The <span style="color:#1F77B4">**blue**</span> line shows the percentage of how many tweets for a given score I've retweeted. For example, for all of the tweets that score 0.95, the chart shows I was retweeting a little more than 20% of them at the time that screenshot was taken. This is a problem. To have any hope of training a model using scoring metrics as features, I need to engineer more features so that I'm retweeting much more than 20% of my highest scoring matches.
 
@@ -29,7 +29,7 @@ This led to me adding two additional metrics to use in the combined averaged sco
 
 Here's what that chart looks like now:
 
-![totals and percentages by score](/assets/anagrammatweestupdate/totals_and_percentages_by_score.png){: .center-this }
+![totals and percentages by score](/assets/2017-08-23-anagrammatweest-update/totals_and_percentages_by_score.png){: .center-this }
 
 I also added in the totals as bars. Using the left Y-axis, you can see just how many total tweets I have for each score relative to the number I've retweeted. The <span style="color:#FF9D00">**orange**</span> line on this chart corresponds to the <span style="color:#1F77B4">**blue**</span> line on the previous chart. After adding these two metrics and reviewing more matches, I'm now mostly above 40% for high-scoring matches above 0.85 or so. 
 
@@ -37,31 +37,31 @@ However, the <span style="color:#FF9D00">**orange**</span> line above only repre
 
 It's annoying to find a good match, but then by the time I try to retweet it one of the two tweets has been deleted or is unavailable for whatever reason. I implemented a check that uses as much of my Twitter API rate limit as possible to check for the continued existence of tweets in my database. Every 15 minutes I check almost 900 tweets to see that they're still there, and I delete from my database any tweets that I can no longer access. I hope that this will drop my approval failure rate over time, as more and more dead tweets are cleaned out. You can see the approval failure rate over time in this chart:
 
-![percent approval failure by date match created](/assets/anagrammatweestupdate/percent_approval_failure_by_date_match_created.png){: .center-this }
+![percent approval failure by date match created](/assets/2017-08-23-anagrammatweest-update/percent_approval_failure_by_date_match_created.png){: .center-this }
 
 I added a 14-day moving average to smooth out the variability in the day to day number of approval failures. I hope the relative downward trend over the past few months continues.
 
 After adding metrics to my combined score I also increased my minimum _interesting factor_ threshold so that I would save fewer lower-scoring matches. You can see that change over time in this chart: 
 
-![counts of things that happened by date match created](/assets/anagrammatweestupdate/counts_of_things_that_happened_by_date_match_created.png){: .center-this }
+![counts of things that happened by date match created](/assets/2017-08-23-anagrammatweest-update/counts_of_things_that_happened_by_date_match_created.png){: .center-this }
 
 The <span style="color:#2CA02C">**green**</span> bars represent the total number of created matches for each day. The two highest bars on that chart are the Super Bowl. The days without bars are when I wasn't running the app listening for matches.
 
 Since my standards for matches have gone up, I'm creating fewer tweets each day even though I now have a significantly greater number of tweets in my database that I'm using to check for anagram matches. The change in my scoring criteria can be seen in this chart showing the average score for all created, approved, and rejected matches:
 
-![average interesting factor for action by date match created](/assets/anagrammatweestupdate/average_interesting_factor_for_action_by_date_match_created.png){: .center-this }
+![average interesting factor for action by date match created](/assets/2017-08-23-anagrammatweest-update/average_interesting_factor_for_action_by_date_match_created.png){: .center-this }
 
 The bumps in April of 2016 and June of 2017 are when I made major changes to the scoring thresholds.
 
 Overall, I'm looking at fewer matches and approving a higher fraction of matches that I create. However, I'm still retweeting a small fraction of the total number of matches I create:
 
-![retweeted and unreviewed relative to total matches](/assets/anagrammatweestupdate/retweeted_and_unreviewed_relative_to_total_matches.png){: .center-this }
+![retweeted and unreviewed relative to total matches](/assets/2017-08-23-anagrammatweest-update/retweeted_and_unreviewed_relative_to_total_matches.png){: .center-this }
 
 ## Scoring Metric Efficacy
 
 Surprisingly the total length metric worked out really well. It's by far my most valuable metric to use when comparing two tweets. It makes me wonder if I should just use it alone instead of combining together several metrics. This chart shows the relative predictive power of each metric for approved matches:
 
-![average score surplus for approved matches by score](/assets/anagrammatweestupdate/average_score_surplus_for_approved_matches_by_score.png){: .center-this }
+![average score surplus for approved matches by score](/assets/2017-08-23-anagrammatweest-update/average_score_surplus_for_approved_matches_by_score.png){: .center-this }
 
 Notice Total Length in <span style="color:#9349BA">**purple**</span> is the highest line for a good bit of that chart. For low-scoring matches, it tends to really matter that the tweets have English words in them. The chart is noisy below 0.60 and above 0.90 since there are so few approved matches with those scores.
 
@@ -77,7 +77,7 @@ Edit distance is surprisingly bad. I wonder if I should take it out. That's a li
 
 At one point I wondered if the time of day might affect the quality of the matches I find. I charted how many matches I create and how many of those I approve for each 15 minute interval of the day, and then charted against it the average approval and rejected scores for that interval:
 
-![totals and score by time of day match created](/assets/anagrammatweestupdate/totals_and_score_by_time_of_day_match_created.png){: .center-this }
+![totals and score by time of day match created](/assets/2017-08-23-anagrammatweest-update/totals_and_score_by_time_of_day_match_created.png){: .center-this }
 
 This chart was previously two separate charts shown in the previous post. I combined them into a single chart to make it easier to read.
 
@@ -89,7 +89,7 @@ As of the writing of this post I have 12,662,763 tweets in my database and 80,77
 
 A while ago I started keeping track of how many tweets I see relative to how many meet the filters to get saved to the database. This chart shows the disparity between the number of tweets I see relative to how many meet all the filters to get saved:
 
-![events per second](/assets/anagrammatweestupdate/events_per_second.png){: .center-this }
+![events per second](/assets/2017-08-23-anagrammatweest-update/events_per_second.png){: .center-this }
 
 I save about 0.25 tweets a second, or in other words I save one tweet about every four seconds. Depending on the time of day I find about 5-10 anagrams an hour. I receive from Twitter about 15 tweets a second. Multiplying that out to the number of tweets I have saved, I estimate that I've processed somewhere around 700-800 million total tweets so far.
 

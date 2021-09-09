@@ -197,7 +197,7 @@ After running this on my desktop computer for a few days I noticed the CPU and m
 
 I created a heap dump using jmap and then examined it with jvisualvm. Here's a list of the classes using the most memory sorted by size:
 
-![screenshot of jvisualvm showing memory usage for different types](/assets/findinganagramsontwitter/jvisualvm.png){: .center-this }
+![screenshot of jvisualvm showing memory usage for different types](/assets/2015-11-25-finding-anagrams-on-twitter/jvisualvm.png){: .center-this }
 
 Wow! Over 1GB for `char[]`, `byte[]`, and `String` alone! After browsing the contents of some of the instances for a bit I'm pretty sure most of this is from H2.
 
