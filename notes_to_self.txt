@@ -1,4 +1,6 @@
-ruby installed with asdf
+install ruby with asdf
 
 bundle install
-bundle exec jekyll serve
+
+// https://github.com/microsoft/WSL/issues/4739
+bundle exec jekyll serve --force_polling
