@@ -65,3 +65,10 @@ reading and writing out rows one at a time. In order to determine the
 amount of whitespace to insert I read all rows before writing them 
 out. However, since no one is likely to want this kind of output for 
 very many rows, this shouldn't be a problem.
+
+#### 2021-09-16 Update
+
+DataGrip has supported this out-of-the-box now for a while with the 'Pretty'
+data extractor, so there's no need for a custom data extractor anymore:
+
+![DataGrip pretty output option](/assets/2018-07-29-copy-datagrip-output-paste-into-slack/datagrip-built-in-pretty-data-extractor.png){: .center-this }
